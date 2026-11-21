@@ -15,3 +15,6 @@ Gemini と Claude で分担して進めます。
 - **main には直接 push しない**（最初のセットアップだけ例外）。
 - **Claude が PR を確認して直し、マージする**。
 - **私的利用のみ**: 画像は URL で参照し、リポジトリに画像を保存しない。
+
+## 除外した種
+- Abudefduf saxatilis（大西洋種）, Amphiprion bicinctus（紅海種）: GBIFの八重山の記録は誤同定とみられるため除外（2026-11-21）。
