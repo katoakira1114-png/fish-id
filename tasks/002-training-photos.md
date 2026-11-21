@@ -7,8 +7,14 @@
 2. GBIF の画像付き記録: https://api.gbif.org/v1/occurrence/search?scientificName=<学名>&mediaType=StillImage&limit=300 （ライセンスが CC のものだけ）
 3. FishBase の写真一覧（種ページの Pictures）
 
+## 釣果写真を優先（2026-11-21 決定）
+判定対象は主に釣った魚の写真。次の順で集め、列 `context` に「釣果」「水中」「不明」を入れる。
+- iNaturalist の注釈「Alive or Dead = Dead」（term_id=17, term_value_id=19）の記録を最優先。API に `&term_id=17&term_value_id=19` を付ける。
+- 次に、手に持った・甲板や地面に置かれた魚の写真（目で見て判断）。
+- 水中写真は残りの枠で集める。
+
 ## 出力
-`data/pomacentridae/photos/<学名>.csv` 列: url, source, license, author, observed_on, place, lat, lon, life_stage（幼魚/成魚/不明）
+`data/pomacentridae/photos/<学名>.csv` 列: url, source, license, author, observed_on, place, lat, lon, life_stage（幼魚/成魚/不明）, context（釣果/水中/不明）
 - 1種あたり最大200枚。八重山・沖縄・台湾・フィリピンの記録を優先して並べる。
 - 幼魚と成魚で見た目が違う種は life_stage をできるだけ埋める。分からなければ「不明」。
 - 魚が写っていないもの、標本写真、複数種が写るものは除く。
