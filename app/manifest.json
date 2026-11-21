@@ -1,0 +1,26 @@
+{
+  "name": "魚類同定アプリ — Fish ID",
+  "short_name": "魚類同定",
+  "description": "八重山・日本産魚類のオフライン対応フィールド同定PWA（タイル消去・形質検索・種詳細）",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "ja",
+  "theme_color": "#0b4f6c",
+  "background_color": "#f3f7fb",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%230b4f6c'/%3E%3Cpath d='M36 96c24-30 62-42 98-28 14 5 24 14 30 28-6 14-16 23-30 28-36 14-74 2-98-28z' fill='%2338bdf8'/%3E%3Cpath d='M42 96L18 72v48z' fill='%230ea5e9'/%3E%3Ccircle cx='128' cy='88' r='7' fill='%230f172a'/%3E%3Ccircle cx='130' cy='86' r='2.5' fill='%23ffffff'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%230b4f6c'/%3E%3Cpath d='M96 256c64-80 165-112 261-75 37 14 64 38 80 75-16 37-43 61-80 75-96 37-197 5-261-75z' fill='%2338bdf8'/%3E%3Cpath d='M112 256L48 192v128z' fill='%230ea5e9'/%3E%3Ccircle cx='340' cy='235' r='18' fill='%230f172a'/%3E%3Ccircle cx='345' cy='230' r='6' fill='%23ffffff'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

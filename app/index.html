@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0b4f6c" />
+  <title>魚類同定アプリ（試作 v0）</title>
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230b4f6c'/%3E%3Cpath d='M12 32c8-10 21-14 33-9 5 2 8 5 10 9-2 4-5 7-10 9-12 5-25 1-33-9z' fill='%2338bdf8'/%3E%3Ccircle cx='43' cy='29' r='2.5' fill='%230f172a'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand-row">
+        <div class="brand-title-wrap">
+          <h1 class="app-title">魚類同定アプリ</h1>
+          <span class="version-badge">v0 試作</span>
+        </div>
+        <div class="header-meta">
+          <label class="sr-only" for="family-select">科を選択</label>
+          <select id="family-select" class="family-select" aria-label="科を選択"></select>
+          <span id="offline-status" class="offline-pill" title="オフラインキャッシュ状態">準備中...</span>
+        </div>
+      </div>
+
+      <!-- 画面1: 画面上部・常時表示の写真ドック -->
+      <section class="photo-dock" aria-label="判定用写真ドック">
+        <div id="photo-preview-box" class="photo-preview-box empty">
+          <img id="target-photo-img" class="target-photo-img hidden" alt="撮影・選択した魚の写真" />
+          <div id="photo-empty-hint" class="photo-empty-hint">
+            <span class="hint-icon" aria-hidden="true">🐟</span>
+            <span>ここに撮影・選択した魚の写真が常時表示されます</span>
+          </div>
+        </div>
+        <div class="photo-actions">
+          <label class="btn btn-primary btn-compact" for="camera-input">
+            📷 カメラで撮影
+          </label>
+          <input id="camera-input" type="file" accept="image/*" capture="environment" class="sr-only" />
+
+          <label class="btn btn-secondary btn-compact" for="file-input">
+            🖼 写真を選ぶ
+          </label>
+          <input id="file-input" type="file" accept="image/*" class="sr-only" />
+
+          <button id="ai-candidate-btn" type="button" class="btn btn-ai btn-compact" title="今後の段階で端末内推論モデルを追加予定">
+            ✨ 写真から候補 <span class="badge-soon">準備中</span>
+          </button>
+
+          <button id="clear-photo-btn" type="button" class="btn btn-ghost btn-compact hidden">
+            写真クリア
+          </button>
+        </div>
+        <p id="ai-notice" class="ai-notice hidden" role="status"></p>
+      </section>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <!-- 画面3: 形質入力フィルタ（背鰭棘数・背鰭軟条数・臀鰭軟条数） -->
+    <section class="trait-panel" aria-label="形質による絞り込み">
+      <div class="trait-panel-head">
+        <div>
+          <h2 class="section-heading">形質で絞る（範囲比較・空欄は不明として残す）</h2>
+        </div>
+        <button id="clear-traits-btn" type="button" class="btn btn-text">形質クリア</button>
+      </div>
+
+      <div class="trait-inputs-grid">
+        <div class="trait-field">
+          <label for="input-dorsal-spines">背鰭棘数</label>
+          <div class="stepper-input">
+            <button type="button" class="step-btn" data-target="input-dorsal-spines" data-delta="-1" aria-label="背鰭棘数を1減らす">−</button>
+            <input id="input-dorsal-spines" type="number" min="1" max="30" inputmode="numeric" placeholder="例: 13" />
+            <button type="button" class="step-btn" data-target="input-dorsal-spines" data-delta="1" aria-label="背鰭棘数を1増やす">＋</button>
+          </div>
+        </div>
+
+        <div class="trait-field">
+          <label for="input-dorsal-soft">背鰭軟条数</label>
+          <div class="stepper-input">
+            <button type="button" class="step-btn" data-target="input-dorsal-soft" data-delta="-1" aria-label="背鰭軟条数を1減らす">−</button>
+            <input id="input-dorsal-soft" type="number" min="1" max="40" inputmode="numeric" placeholder="例: 12" />
+            <button type="button" class="step-btn" data-target="input-dorsal-soft" data-delta="1" aria-label="背鰭軟条数を1増やす">＋</button>
+          </div>
+        </div>
+
+        <div class="trait-field">
+          <label for="input-anal-soft">臀鰭軟条数</label>
+          <div class="stepper-input">
+            <button type="button" class="step-btn" data-target="input-anal-soft" data-delta="-1" aria-label="臀鰭軟条数を1減らす">−</button>
+            <input id="input-anal-soft" type="number" min="1" max="40" inputmode="numeric" placeholder="例: 12" />
+            <button type="button" class="step-btn" data-target="input-anal-soft" data-delta="1" aria-label="臀鰭軟条数を1増やす">＋</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="trait-status-bar" class="trait-status-bar">
+        <div id="trait-counts-pills" class="trait-counts-pills">
+          <span class="pill pill-neutral">数値を入力すると「一致 / 不明（残す） / 不一致」を判定します</span>
+        </div>
+        <label class="checkbox-inline">
+          <input id="hide-mismatch-toggle" type="checkbox" checked />
+          <span>不一致を隠す</span>
+        </label>
+      </div>
+    </section>
+
+    <!-- 画面2: ステータスバー・ナビゲーション・二段タイル -->
+    <section class="control-bar" aria-label="候補操作バー">
+      <div class="remaining-wrap">
+        <strong id="remaining-count" class="remaining-count">残り -- 種</strong>
+        <span id="dismissed-count" class="dismissed-info"></span>
+      </div>
+
+      <div class="view-controls">
+        <div class="segmented" role="tablist" aria-label="表示切替">
+          <button id="tab-genera" type="button" class="seg-btn active" role="tab" aria-selected="true">属タイル</button>
+          <button id="tab-all-species" type="button" class="seg-btn" role="tab" aria-selected="false">全種一覧</button>
+        </div>
+
+        <button id="undo-btn" type="button" class="btn btn-secondary btn-compact" disabled>
+          ↺ 戻す
+        </button>
+        <button id="reset-all-btn" type="button" class="btn btn-ghost btn-compact">
+          全リセット
+        </button>
+      </div>
+    </section>
+
+    <div id="genus-breadcrumb" class="breadcrumb-bar hidden">
+      <button id="back-to-genera-btn" type="button" class="btn btn-secondary btn-compact">
+        ← 属タイル一覧へ戻る
+      </button>
+      <div class="breadcrumb-title">
+        <strong id="selected-genus-title"></strong>
+        <span id="selected-genus-sub" class="breadcrumb-sub"></span>
+      </div>
+    </div>
+
+    <div id="tile-grid" class="tile-grid" aria-live="polite"></div>
+
+    <div id="empty-state" class="empty-state hidden">
+      <p>表示できる候補がありません。</p>
+      <button id="empty-reset-btn" type="button" class="btn btn-primary">候補をすべて戻す</button>
+    </div>
+  </main>
+
+  <!-- 種詳細モーダル -->
+  <div id="detail-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="detail-ja-name">
+    <div id="modal-backdrop" class="modal-backdrop"></div>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div>
+          <span id="detail-genus-badge" class="modal-genus-badge"></span>
+          <h2 id="detail-ja-name" class="modal-title"></h2>
+          <p id="detail-sci-name" class="modal-sci"></p>
+        </div>
+        <button id="modal-close-btn" type="button" class="modal-close" aria-label="詳細を閉じる">✕</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="detail-photo-section">
+          <div id="detail-main-photo-wrap" class="detail-main-photo-wrap">
+            <img id="detail-main-photo" class="detail-main-photo hidden" alt="" referrerpolicy="no-referrer" />
+            <div id="detail-no-photo" class="detail-no-photo hidden">
+              <span aria-hidden="true">🐟</span>
+              <span>CC0 / CC-BY / CC-BY-NC ライセンス写真未登録</span>
+            </div>
+          </div>
+          <div id="detail-photo-credit" class="photo-credit"></div>
+          <div id="detail-gallery" class="detail-gallery"></div>
+        </div>
+
+        <div class="detail-section">
+          <h3>体色・模様</h3>
+          <p id="detail-color-pattern" class="detail-text"></p>
+          <p id="detail-color-source" class="source-note"></p>
+        </div>
+
+        <div class="detail-section">
+          <h3>水中で見分ける要点</h3>
+          <ul id="detail-field-marks" class="detail-marks-list"></ul>
+          <p id="detail-marks-source" class="source-note"></p>
+        </div>
+
+        <div class="detail-section">
+          <h3>似た種</h3>
+          <div id="detail-similar-list" class="similar-chips"></div>
+          <p id="detail-similar-source" class="source-note"></p>
+        </div>
+
+        <div class="detail-section">
+          <h3>形質データ</h3>
+          <div id="detail-traits-grid" class="detail-traits-grid"></div>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button id="detail-dismiss-btn" type="button" class="btn btn-danger">
+          ✕ この種を候補から消す
+        </button>
+        <button id="detail-close-footer-btn" type="button" class="btn btn-secondary">
+          閉じる
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
