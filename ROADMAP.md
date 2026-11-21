@@ -5,7 +5,7 @@
 ## 回し方
 - 作業は GitHub Issue（ラベル `antigravity`）で Antigravity に渡す。1 Issue = 1 ブランチ = 1 PR。PR 本文に `Closes #番号` を書く。
 - Claude が定期的に PR を確認し、問題なければマージし、次の Issue を出す。
-- 受け入れ基準（全 PR 共通）: JSON/CSV の形式が既存と同じ、全値に出典、和名は標準和名リストと照合済み、画像はリポジトリに入れない、ライセンスは CC0/CC-BY/CC-BY-NC のみ。
+- 受け入れ基準（全 PR 共通）: JSON/CSV の形式が既存と同じ、全値に出典、和名は標準和名リストと照合済み、画像はリポジトリに入れない、科のデータを作ったら同じ PR で `python3 scripts/build_app_data.py <科>` を実行してアプリに載せ app/sw.js のキャッシュ名の番号を1つ上げる、ライセンスは CC0/CC-BY/CC-BY-NC のみ。
 
 ## 段階
 1. 種リスト: FishBase の country 表などから日本産＋近海の種リストを作る（区分: 日本産 / 近海のみ）。
