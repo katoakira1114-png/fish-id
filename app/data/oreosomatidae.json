@@ -2,9 +2,9 @@
   "family": "Oreosomatidae",
   "family_ja": "オオメマトウダイ科",
   "family_slug": "oreosomatidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 3,
+  "genera_count": 2,
   "genera": [
     {
       "genus": "Allocyttus",
@@ -13,7 +13,7 @@
       "examples_ja": [
         "オオメマトウダイ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Allocyttus folletti",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96981571/large.jpeg",
@@ -22,6 +22,24 @@
         "author": "Katie S",
         "observed_on": "2019-09-08",
         "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Oreosoma",
+      "ja_name": "Oreosoma属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Oreosoma atlanticum",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14126262/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "tukula",
+        "observed_on": "2018-03-12",
+        "place": "Australia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -116,7 +134,240 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 9140,
+      "scientific_name": "Allocyttus guineensis",
+      "genus": "Allocyttus",
+      "genus_ja": "オオメマトウダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Guinea oreo",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/754.3sl.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "Sra. Olga Ayza, Dr. Víctor Tuset",
+        "observed_on": "1900-01",
+        "place": "Banc saharià",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/754.3sl.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "Sra. Olga Ayza, Dr. Víctor Tuset",
+          "observed_on": "1900-01",
+          "place": "Banc saharià",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/754.1sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "Sra. Olga Ayza, Dr. Víctor Tuset",
+          "observed_on": "1900-01",
+          "place": "Banc saharià",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/754.2sl.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "Sra. Olga Ayza, Dr. Víctor Tuset",
+          "observed_on": "1900-01",
+          "place": "Banc saharià",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "4-6",
+          "min": 4,
+          "max": 6
+        },
+        "dorsal_soft_rays": {
+          "raw": "30-32",
+          "min": 30,
+          "max": 32
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "26-29",
+          "min": 26,
+          "max": 29
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "23.2",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10671,
+      "scientific_name": "Oreosoma atlanticum",
+      "genus": "Oreosoma",
+      "genus_ja": "Oreosoma属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Ox-eyed oreo",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14126262/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "tukula",
+        "observed_on": "2018-03-12",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14126262/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tukula",
+          "observed_on": "2018-03-12",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-19108105808101798.att.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Alan D. Connell",
+          "observed_on": "2010-08-18",
+          "place": "Tugela Deep",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.10_291.c410f145-536f-4a78-8e5d-a9414577f0fd.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "ORI",
+          "observed_on": "2010-08-18",
+          "place": "Tugela Deep",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=9549.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra; Elaine Heemstra",
+          "observed_on": "2007-10-02",
+          "place": "Off Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=4687.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Michael E. Anderson",
+          "observed_on": "1995-01-01",
+          "place": "Cape West Coast",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176252690/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1984-05-01",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "29-31",
+          "min": 29,
+          "max": 31
+        },
+        "anal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "28-31",
+          "min": 28,
+          "max": 31
+        },
+        "pectoral_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "85-100",
+          "min": 85,
+          "max": 100
+        },
+        "max_length": "21",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

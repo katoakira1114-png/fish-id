@@ -2,8 +2,8 @@
   "family": "Poeciliidae",
   "family_ja": "カダヤシ科",
   "family_slug": "poeciliidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 4,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 6,
   "genera_count": 3,
   "genera": [
     {
@@ -32,17 +32,18 @@
       "ja_name_official": false,
       "examples_ja": [
         "グッピー",
+        "ホタテモーリー",
         "コクチモーリー"
       ],
-      "species_count": 2,
-      "representative_species": "Poecilia reticulata",
+      "species_count": 4,
+      "representative_species": "Poecilia latipinna",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620796258/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609909267/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "donnymidas",
-        "observed_on": "2026-03-03",
-        "place": "Japan",
+        "license": "CC-BY",
+        "author": "謝鈞諭",
+        "observed_on": "2026-01-11",
+        "place": "Chinese Taipei",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -197,7 +198,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 3226,
+      "scientific_name": "Poecilia latipinna",
+      "genus": "Poecilia",
+      "genus_ja": "グッピーの仲間",
+      "ja_name": "ホタテモーリー",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Sailfin molly",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609909267/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "謝鈞諭",
+        "observed_on": "2026-01-11",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609909267/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "謝鈞諭",
+          "observed_on": "2026-01-11",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605282149/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Bridget Spencer",
+          "observed_on": "2026-01-03",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604646575/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Nick Tobler (Cowturtle)",
+          "observed_on": "2026-01-01",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605404953/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kary",
+          "observed_on": "2026-01-04",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604864414/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bcur155",
+          "observed_on": "2026-01-01",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604884705/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kary",
+          "observed_on": "2026-01-01",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "striking fins"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 3228,
@@ -327,7 +460,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4680,
@@ -457,7 +591,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4773,
+      "scientific_name": "Poecilia velifera",
+      "genus": "Poecilia",
+      "genus_ja": "グッピーの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sail-fin molly",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321797763/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC0",
+        "author": "葉子",
+        "observed_on": "2023-06-19",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321797763/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "葉子",
+          "observed_on": "2023-06-19",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/161831337/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sdyaung",
+          "observed_on": "2021-09-13",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49665221/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "葉子",
+          "observed_on": "2019-08-22",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606038706/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ekwerkwe",
+          "observed_on": "2026-01-06",
+          "place": "Mexico",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606726251/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ekwerkwe",
+          "observed_on": "2026-01-09",
+          "place": "Mexico",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606784963/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ekwerkwe",
+          "observed_on": "2026-01-09",
+          "place": "Mexico",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 3231,
@@ -587,7 +853,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

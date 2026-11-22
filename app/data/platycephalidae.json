@@ -2,9 +2,9 @@
   "family": "Platycephalidae",
   "family_ja": "コチ科",
   "family_slug": "platycephalidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 17,
-  "genera_count": 11,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 35,
+  "genera_count": 15,
   "genera": [
     {
       "genus": "Cociella",
@@ -34,7 +34,7 @@
       "examples_ja": [
         "エンマゴチ"
       ],
-      "species_count": 1,
+      "species_count": 3,
       "representative_species": "Cymbacephalus beauforti",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/703886143/large.jpg",
@@ -43,6 +43,44 @@
         "author": "naturalist34074",
         "observed_on": "2026-07-18",
         "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Elates",
+      "ja_name": "Elates属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Elates ransonnettii",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.24_117.93e58067-b37b-406c-ae18-afd136180488.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Michael Mendiola, Nicko Flores, Don Carpenter",
+        "observed_on": "2015-07-14",
+        "place": "Philippines, Panay Island, Iloilo Province, Iloilo City, Super fish market",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Grammoplites",
+      "ja_name": "ナップトゲゴチの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ナップトゲゴチ"
+      ],
+      "species_count": 2,
+      "representative_species": "Grammoplites scaber",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/coccro02sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2008-05-02",
+        "place": "Liuqiu, Taiwan",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -97,7 +135,7 @@
         "アネサゴチ",
         "セホシオニゴチ"
       ],
-      "species_count": 3,
+      "species_count": 4,
       "representative_species": "Onigocia bimaculata",
       "photo": {
         "url": "http://fm-digital-assets.fieldmuseum.org/652/536/108805_Onigocia_bimaculata_v_FZ.jpg",
@@ -111,21 +149,39 @@
       }
     },
     {
+      "genus": "Papilloculiceps",
+      "ja_name": "Papilloculiceps属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Papilloculiceps longiceps",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607131455/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "korkki",
+        "observed_on": "2026-01-02",
+        "place": "Egypt",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Platycephalus",
       "ja_name": "ミナミマゴチの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "ミナミマゴチ"
       ],
-      "species_count": 1,
-      "representative_species": "Platycephalus indicus",
+      "species_count": 4,
+      "representative_species": "Platycephalus cultellatus",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/97401eb5-1b55-46ad-b998-2a84d98bf341",
-        "source": "GBIF",
-        "license": "CC-BY",
-        "author": "The Trustees of the Natural History Museum, London",
-        "observed_on": "",
-        "place": "Inland Sea, Japan",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563538989/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "zgy",
+        "observed_on": "2025-09-07",
+        "place": "China",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -158,7 +214,7 @@
         "マツバゴチ",
         "ササノハゴチ"
       ],
-      "species_count": 2,
+      "species_count": 5,
       "representative_species": "Rogadius asper",
       "photo": {
         "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.D.732_4/format/large",
@@ -172,21 +228,41 @@
       }
     },
     {
+      "genus": "Sorsogona",
+      "ja_name": "ホホトゲゴチの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ホホトゲゴチ"
+      ],
+      "species_count": 1,
+      "representative_species": "Sorsogona tuberculata",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/sortub01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2012-07-13",
+        "place": "Kaohsiung, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Suggrundus",
       "ja_name": "メゴチの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "メゴチ"
       ],
-      "species_count": 1,
-      "representative_species": "Suggrundus meerdervoortii",
+      "species_count": 2,
+      "representative_species": "Suggrundus macracanthus",
       "photo": {
-        "url": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=16109871&type=jpeg",
-        "source": "GBIF",
-        "license": "CC-BY",
-        "author": "NHM",
-        "observed_on": "1883",
-        "place": "Nagasaki",
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/sugmac01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2012-08-14",
+        "place": "Kaohsiung, Taiwan",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -214,20 +290,21 @@
     },
     {
       "genus": "Thysanophrys",
-      "ja_name": "クロシマゴチの仲間",
+      "ja_name": "セレベスゴチの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "セレベスゴチ",
         "クロシマゴチ"
       ],
-      "species_count": 1,
-      "representative_species": "Thysanophrys chiltonae",
+      "species_count": 4,
+      "representative_species": "Thysanophrys celebica",
       "photo": {
-        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/ab/d6/abd6066e-9b90-4e38-b1af-c0525ade637e.JPG",
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=2825.jpg",
         "source": "GBIF",
-        "license": "CC0",
-        "author": "Williams, J.; Catania, David; Carpenter, K.; Eyre, J.; Love, W.; Dumale, D.",
-        "observed_on": "2015-04-11",
-        "place": "Verde Island, off northeast coast.",
+        "license": "CC-BY",
+        "author": "P.C. Heemstra",
+        "observed_on": "1988-01-04",
+        "place": "South end of Penghu Island",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -362,7 +439,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15197,
@@ -492,7 +570,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12826,
@@ -622,7 +701,573 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 12564,
+      "scientific_name": "Cymbacephalus bosschei",
+      "genus": "Cymbacephalus",
+      "genus_ja": "エンマゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Small-eyed flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277867964/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "djwitherall",
+        "observed_on": "2023-04-29",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277867964/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "djwitherall",
+          "observed_on": "2023-04-29",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=8f69ebfe-56b0-4f81-84f6-e14cd52454bc",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "<a href='https://bee.questagame.com/#/profile/46905?questagame_user_id=46905'> DJWitherall|questagame.com</a>",
+          "observed_on": "2023-04-29",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242629849/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "henrycarrick",
+          "observed_on": "2022-10-11",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28168569/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alexandra Hoschke",
+          "observed_on": "2018-11-16",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/61672eb4-8e2b-408e-a809-5797f571ee70",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1970-05-08",
+          "place": "Trobriand Island, Kiriwinna (Labai)  on North coast off Tower Point, north west part of Island (New Guinea); Bottom: Coral and patches of Sand",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "18-21",
+          "min": 18,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "51-55",
+          "min": 51,
+          "max": 55
+        },
+        "max_length": "45",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10776,
+      "scientific_name": "Cymbacephalus nematophthalmus",
+      "genus": "Cymbacephalus",
+      "genus_ja": "エンマゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Fringe-eyed flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61449475/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "craigjhowe",
+        "observed_on": "2019-11-03",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61449475/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "craigjhowe",
+          "observed_on": "2019-11-03",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/118b6977-ab40-4f01-83dd-251300bfba31",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Culion, Philippines Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608621986/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "willhdx",
+          "observed_on": "2026-01-17",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617756854/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ash",
+          "observed_on": "2026-02-21",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640659264/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "minnx",
+          "observed_on": "2026-04-18",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643274291/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "airgel",
+          "observed_on": "2026-04-20",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "51-55",
+          "min": 51,
+          "max": 55
+        },
+        "max_length": "58",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 6637,
+      "scientific_name": "Elates ransonnettii",
+      "genus": "Elates",
+      "genus_ja": "Elates属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dwarf flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.24_117.93e58067-b37b-406c-ae18-afd136180488.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Michael Mendiola, Nicko Flores, Don Carpenter",
+        "observed_on": "2015-07-14",
+        "place": "Philippines, Panay Island, Iloilo Province, Iloilo City, Super fish market",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.24_117.93e58067-b37b-406c-ae18-afd136180488.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Michael Mendiola, Nicko Flores, Don Carpenter",
+          "observed_on": "2015-07-14",
+          "place": "Philippines, Panay Island, Iloilo Province, Iloilo City, Super fish market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702753961/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "budak",
+          "observed_on": "2026-07-18",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=5b5134d9-0741-4986-a10f-43e8712a7d76",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Staples, David",
+          "observed_on": "1910-08-01",
+          "place": "18-23 km (11-14 miles) NW of Pine Peak",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/8e/41/8e416e14-dd04-4381-82a0-68c3850618bd.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1910-07-06",
+          "place": "EITHER: Pine Peak, S. 58 deg. E., 13 mi.; Cape Gloucester, S. 13 deg. E. 5.5 mi. or C.Gloucester, S. 62 deg. W., 7 mi.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c609bf31-5e40-438b-9f2e-92c49ab3debe",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "Pine Peak Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "19-22",
+          "min": 19,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "83-107",
+          "min": 83,
+          "max": 107
+        },
+        "max_length": "19",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15208,
+      "scientific_name": "Grammoplites knappi",
+      "genus": "Grammoplites",
+      "genus_ja": "ナップトゲゴチの仲間",
+      "ja_name": "ナップトゲゴチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "20-22",
+          "min": 20,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "51-55",
+          "min": 51,
+          "max": 55
+        },
+        "max_length": "30",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10309,
+      "scientific_name": "Grammoplites scaber",
+      "genus": "Grammoplites",
+      "genus_ja": "ナップトゲゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Rough flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/coccro02sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2008-05-02",
+        "place": "Liuqiu, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/coccro02sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2008-05-02",
+          "place": "Liuqiu, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp63069858221745609561.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-02",
+          "place": "Kao Hsiung Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp63031585652261895864.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-02",
+          "place": "Kao Hsiung Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d8d443c4-4e54-4e9a-aeaf-caf7696b2ccb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Hong Kong, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552732572/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sagarika Gupta",
+          "observed_on": "2025-08-15",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438940997/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jigar Patel",
+          "observed_on": "2024-10-06",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "19-22",
+          "min": 19,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "51-55",
+          "min": 51,
+          "max": 55
+        },
+        "max_length": "30",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10335,
@@ -752,7 +1397,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65425,
@@ -832,7 +1478,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8469,
@@ -942,7 +1589,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 61099,
@@ -1072,7 +1720,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8133,
@@ -1132,7 +1781,129 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15212,
+      "scientific_name": "Onigocia pedimacula",
+      "genus": "Onigocia",
+      "genus_ja": "オニゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Broadband flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=4638b.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "P.C. Heemstra",
+        "observed_on": "1995-10-09",
+        "place": "Bolinao",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=4638b.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra",
+          "observed_on": "1995-10-09",
+          "place": "Bolinao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=77908ba1-406d-4c64-a359-38fd9f121b29",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Joycelyn Goh",
+          "observed_on": "2020-12-21",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=1367.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra",
+          "observed_on": "2001-10-20",
+          "place": "Eric's Pate",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=4842.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra",
+          "observed_on": "1997-08-13",
+          "place": "Sodwana Bay: 5- mile reef",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/8a4701d0-d751-47bc-85db-c4304c716916",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Maldives",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "19-23",
+          "min": 19,
+          "max": 23
+        },
+        "lateral_line_scales": {
+          "raw": "29-33",
+          "min": 29,
+          "max": 33
+        },
+        "max_length": "11",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8130,
@@ -1262,7 +2033,532 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7896,
+      "scientific_name": "Papilloculiceps longiceps",
+      "genus": "Papilloculiceps",
+      "genus_ja": "Papilloculiceps属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Tentacled flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607131455/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "korkki",
+        "observed_on": "2026-01-02",
+        "place": "Egypt",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607131455/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "korkki",
+          "observed_on": "2026-01-02",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608456076/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "alex meldrum",
+          "observed_on": "2026-01-16",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610167523/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Brenton Prigge",
+          "observed_on": "2026-01-22",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607880515/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvia Wolf",
+          "observed_on": "2026-01-08",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610709482/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "SachadeRuiter",
+          "observed_on": "2026-01-25",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631766036/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sandrinelecomte13",
+          "observed_on": "2026-02-03",
+          "place": "Tanzania, United Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "21-22",
+          "min": 21,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "52-56",
+          "min": 52,
+          "max": 56
+        },
+        "max_length": "70",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 52977,
+      "scientific_name": "Platycephalus cultellatus",
+      "genus": "Platycephalus",
+      "genus_ja": "ミナミマゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563538989/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "zgy",
+        "observed_on": "2025-09-07",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563538989/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "zgy",
+          "observed_on": "2025-09-07",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/32878903-0864-44c0-a369-8da9365c92b7",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Chefoo",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/cbc51f8b-f8a4-495f-958e-ab1c92a5e917",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/988a4e20-532e-4092-9a8b-adab972bf3d3",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Liao-ho, North  China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605580791/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Niran Anurakpongsathorn",
+          "observed_on": "2026-01-05",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77222537/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tse Chung Yi",
+          "observed_on": "2020-06-06",
+          "place": "Hong Kong",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10783,
+      "scientific_name": "Platycephalus endrachtensis",
+      "genus": "Platycephalus",
+      "genus_ja": "ミナミマゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bar-tailed flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615357736/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "chillifed",
+        "observed_on": "2026-02-11",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615357736/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "chillifed",
+          "observed_on": "2026-02-11",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632030705/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "nicholassmyth",
+          "observed_on": "2026-03-25",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686346096/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kevin Long",
+          "observed_on": "2026-06-25",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/690468945/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "gid",
+          "observed_on": "2026-06-28",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/696312504/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "wildscott",
+          "observed_on": "2026-07-12",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/696819432/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "biancasimpson",
+          "observed_on": "2026-07-12",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "45",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 49820,
+      "scientific_name": "Platycephalus fuscus",
+      "genus": "Platycephalus",
+      "genus_ja": "ミナミマゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dusky flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605397394/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Oscar",
+        "observed_on": "2026-01-04",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605397394/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Oscar",
+          "observed_on": "2026-01-04",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604711179/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Stefano Caraco",
+          "observed_on": "2026-01-02",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605001033/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jordan H",
+          "observed_on": "2026-01-03",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605000743/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jordan H",
+          "observed_on": "2026-01-03",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607860152/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jonathan M",
+          "observed_on": "2026-01-14",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607829775/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Roxanne Lazarus",
+          "observed_on": "2026-01-13",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "19-20",
+          "min": 19,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "95",
+          "min": 95,
+          "max": 95
+        },
+        "max_length": "120",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 950,
@@ -1392,7 +2688,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12997,
@@ -1472,7 +2769,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8305,
@@ -1602,7 +2900,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12982,
@@ -1712,7 +3011,583 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15225,
+      "scientific_name": "Rogadius pristiger",
+      "genus": "Rogadius",
+      "genus_ja": "マツバゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Thorny flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66855226/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "craigjhowe",
+        "observed_on": "2019-05-30",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66855226/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "craigjhowe",
+          "observed_on": "2019-05-30",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/118b6977-ab40-4f01-83dd-251300bfba31",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Dumaguete Philippines Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.25_239.d6eefc6e-d0a9-49a6-971d-ffd45d325c82.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Allan Connell",
+          "observed_on": "2014-05-30",
+          "place": "Park Rynie offshore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309766085/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "uwkwaj",
+          "observed_on": "2013-12-18",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223150/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2008-09-16",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=10014.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra; Elaine Heemstra",
+          "observed_on": "2007-10-12",
+          "place": "SW Indian Ocean 76",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "20-24",
+          "min": 20,
+          "max": 24
+        },
+        "lateral_line_scales": {
+          "raw": "49-55",
+          "min": 49,
+          "max": 55
+        },
+        "max_length": "50",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15226,
+      "scientific_name": "Rogadius serratus",
+      "genus": "Rogadius",
+      "genus_ja": "マツバゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Serrated flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443362594/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Nigel Marsh",
+        "observed_on": "2016-11-15",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443362594/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nigel Marsh",
+          "observed_on": "2016-11-15",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/931677/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2014-05-27",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/61672eb4-8e2b-408e-a809-5797f571ee70",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1970-05-25",
+          "place": "Madang Harbour, inside south tip of Pacowai Island (New Guinea), pile of braching coral 12' across surrounded by  sand",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "20-23",
+          "min": 20,
+          "max": 23
+        },
+        "lateral_line_scales": {
+          "raw": "51-54",
+          "min": 51,
+          "max": 54
+        },
+        "max_length": "24",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10253,
+      "scientific_name": "Rogadius welanderi",
+      "genus": "Rogadius",
+      "genus_ja": "マツバゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Welander's flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/905546/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Mark Rosenstein",
+        "observed_on": "2014-05-20",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/905546/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2014-05-20",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "22",
+          "min": 22,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10310,
+      "scientific_name": "Sorsogona tuberculata",
+      "genus": "Sorsogona",
+      "genus_ja": "ホホトゲゴチの仲間",
+      "ja_name": "ホホトゲゴチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Tuberculated flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/sortub01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2012-07-13",
+        "place": "Kaohsiung, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/sortub01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2012-07-13",
+          "place": "Kaohsiung, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ae5f4ca6-ba33-4c39-9c9d-8423eb3eb710",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Indiana Riley",
+          "observed_on": "2022-10-10",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=f76a1bce-2099-49d7-b2b7-21658fae3cd6",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Indiana Riley",
+          "observed_on": "2022-10-05",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=8bb7aa1b-ef1f-4311-a965-36b552a3608a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Chi Phan",
+          "observed_on": "2021-03-29",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=d1e65b14-a4f0-4ad6-9fbe-c4269bcb24b0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Chi Phan",
+          "observed_on": "2020-01-22",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=f8dd3aff-b6c1-4159-940c-a9340d638730",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Chi Phan",
+          "observed_on": "2020-02-28",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "19-22",
+          "min": 19,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "47-54",
+          "min": 47,
+          "max": 54
+        },
+        "max_length": "14",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10336,
+      "scientific_name": "Suggrundus macracanthus",
+      "genus": "Suggrundus",
+      "genus_ja": "メゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Large-spined flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/sugmac01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2012-08-14",
+        "place": "Kaohsiung, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/sugmac01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2012-08-14",
+          "place": "Kaohsiung, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.11_186.8f82c23e-63f9-4655-8214-e58a4d5cd494.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Local Fishermen, Jeffrey T. Williams, Kent Carpenter, Nicko Flores, P. Dicdiquin",
+          "observed_on": "2016-07-16",
+          "place": "Philippines, Luzon, La Union, Bauang public market. Vendors claim catch originated from South China Sea, vicinity of Pugo.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.23_285.77fb4c36-3d20-419e-9a5c-2f121e0af5bd.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Apollo Lizano, Aaron Macaspac",
+          "observed_on": "2013-06-11",
+          "place": "Philippines, Tacloban, Tacloban City Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=9995c956-e3a0-4607-b288-090705df20f1.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra; Elaine Heemstra",
+          "observed_on": "2007-11-03",
+          "place": "Off Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c31fec9f-dd39-4ef6-acc6-db84363c2f9f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1980-08-19",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d750e451-4562-4823-9896-0110a3329082",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "N-E Low Island, Great Barrier Reef",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "20-23",
+          "min": 20,
+          "max": 23
+        },
+        "lateral_line_scales": {
+          "raw": "50-55",
+          "min": 50,
+          "max": 55
+        },
+        "max_length": "26",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12993,
@@ -1842,7 +3717,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12901,
@@ -1972,7 +3848,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12903,
@@ -2102,13 +3979,206 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 53047,
+      "scientific_name": "Thysanophrys armata",
+      "genus": "Thysanophrys",
+      "genus_ja": "セレベスゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12.1",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15242,
+      "scientific_name": "Thysanophrys celebica",
+      "genus": "Thysanophrys",
+      "genus_ja": "セレベスゴチの仲間",
+      "ja_name": "セレベスゴチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Celebes flathead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=2825.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "P.C. Heemstra",
+        "observed_on": "1988-01-04",
+        "place": "South end of Penghu Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=2825.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra",
+          "observed_on": "1988-01-04",
+          "place": "South end of Penghu Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/667574627/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "minnx",
+          "observed_on": "2026-05-27",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/687174847/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "minnx",
+          "observed_on": "2026-06-27",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/701495817/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Aiden Chong",
+          "observed_on": "2026-07-20",
+          "place": "Hong Kong",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/701461251/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Josy Lai",
+          "observed_on": "2026-07-20",
+          "place": "Hong Kong",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748426637/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "minnx",
+          "observed_on": "2026-10-10",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "50-53",
+          "min": 50,
+          "max": 53
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12902,
       "scientific_name": "Thysanophrys chiltonae",
       "genus": "Thysanophrys",
-      "genus_ja": "クロシマゴチの仲間",
+      "genus_ja": "セレベスゴチの仲間",
       "ja_name": "クロシマゴチ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longsnout flathead",
@@ -2232,7 +4302,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 12994,
+      "scientific_name": "Thysanophrys longirostris",
+      "genus": "Thysanophrys",
+      "genus_ja": "セレベスゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_6909.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "",
+        "place": "",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_6909.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

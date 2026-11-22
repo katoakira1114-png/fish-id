@@ -2,26 +2,45 @@
   "family": "Haemulidae",
   "family_ja": "イサキ科",
   "family_slug": "haemulidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 19,
-  "genera_count": 4,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 30,
+  "genera_count": 5,
   "genera": [
+    {
+      "genus": "Brachydeuterus",
+      "ja_name": "Brachydeuterus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Brachydeuterus auritus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610319316/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "NGUECHE NGUEBOUI",
+        "observed_on": "2026-01-07",
+        "place": "Cameroon",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Diagramma",
       "ja_name": "コロダイの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "コロダイ"
+        "コロダイ",
+        "ヒレグロコロダイ"
       ],
-      "species_count": 1,
-      "representative_species": "Diagramma pictum",
+      "species_count": 2,
+      "representative_species": "Diagramma melanacrum",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671950781/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618355469/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Jodie",
-        "observed_on": "2026-05-31",
-        "place": "Japan",
+        "author": "barthazes",
+        "observed_on": "2026-02-23",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -55,7 +74,7 @@
         "ニジコショウダイ",
         "クロコショウダイ"
       ],
-      "species_count": 13,
+      "species_count": 16,
       "representative_species": "Plectorhinchus albovittatus",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/dbbf5c57-6066-47dd-ad00-1822a55e0ae4",
@@ -77,7 +96,7 @@
         "スジミゾイサキ",
         "マダラミゾイサキ"
       ],
-      "species_count": 4,
+      "species_count": 10,
       "representative_species": "Pomadasys argenteus",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/3ec4b278-8643-4d34-8dc2-e908d3ca9196",
@@ -92,6 +111,268 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 400,
+      "scientific_name": "Brachydeuterus auritus",
+      "genus": "Brachydeuterus",
+      "genus_ja": "Brachydeuterus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bigeye grunt",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610319316/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "NGUECHE NGUEBOUI",
+        "observed_on": "2026-01-07",
+        "place": "Cameroon",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610319316/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "NGUECHE NGUEBOUI",
+          "observed_on": "2026-01-07",
+          "place": "Cameroon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613393095/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "NGUECHE NGUEBOUI",
+          "observed_on": "2026-02-05",
+          "place": "Cameroon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477089230/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Luke Smith",
+          "observed_on": "2025-03-16",
+          "place": "Gambia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452211199/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mt1414",
+          "observed_on": "2024-11-21",
+          "place": "Côte d’Ivoire",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/205542222/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mcgowenm",
+          "observed_on": "2022-06-12",
+          "place": "Senegal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518107746/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Christopher Caine",
+          "observed_on": "2011-01-05",
+          "place": "Angola",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 60078,
+      "scientific_name": "Diagramma melanacrum",
+      "genus": "Diagramma",
+      "genus_ja": "コロダイの仲間",
+      "ja_name": "ヒレグロコロダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Blackfin slatey",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618355469/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "barthazes",
+        "observed_on": "2026-02-23",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618355469/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-02-23",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634647671/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-03-03",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642145728/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Ben Costamagna",
+          "observed_on": "2026-04-21",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/708296966/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jules Cadiou",
+          "observed_on": "2026-07-29",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513449765/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gomen See",
+          "observed_on": "2025-05-19",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519529186/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2025-06-09",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "22-24",
+          "min": 22,
+          "max": 24
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "55-57",
+          "min": 55,
+          "max": 57
+        },
+        "max_length": "45",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 4465,
       "scientific_name": "Diagramma pictum",
@@ -220,7 +501,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4584,
@@ -350,7 +632,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6362,
@@ -480,7 +763,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6364,
@@ -610,7 +894,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 56810,
@@ -740,7 +1025,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13033,
@@ -870,7 +1156,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6628,
@@ -960,7 +1247,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7625,
@@ -1090,7 +1378,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6366,
@@ -1220,7 +1509,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 50052,
@@ -1350,7 +1640,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6940,
@@ -1480,7 +1771,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 25808,
+      "scientific_name": "Plectorhinchus multivittatus",
+      "genus": "Plectorhinchus",
+      "genus_ja": "コショウダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Many-lined sweetlips",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640692213/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "David Hancock",
+        "observed_on": "2026-04-13",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640692213/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "David Hancock",
+          "observed_on": "2026-04-13",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671173328/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kingfish",
+          "observed_on": "2026-06-01",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727321839/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Henry Cooper",
+          "observed_on": "2026-09-02",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467734582/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "pgkaestner",
+          "observed_on": "2025-01-29",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469017929/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Glen Whisson",
+          "observed_on": "2025-02-07",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506724952/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Harry Rosenthal",
+          "observed_on": "2025-05-16",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "50",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6368,
@@ -1580,7 +2003,129 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8315,
+      "scientific_name": "Plectorhinchus pictus",
+      "genus": "Plectorhinchus",
+      "genus_ja": "コショウダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Trout sweetlips",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/plepic02sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2008-09-06",
+        "place": "Houbihu, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/plepic02sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2008-09-06",
+          "place": "Houbihu, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13558455/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Fadi Yaghmour",
+          "observed_on": "2017-10-20",
+          "place": "United Arab Emirates",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/plepic01sl.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "Dra. Zahra Sadighzadeh",
+          "observed_on": "1900-01",
+          "place": "Golf Pèrsic, Iran",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/5acc160a-1cd6-408b-9801-917d68debf05",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sudanese Red Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/994e4046-a4b7-4574-96bd-f9849485ffda",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": ".5 mile South Ibn Abbas Island, O T L",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "83",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6370,
@@ -1710,7 +2255,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8316,
+      "scientific_name": "Plectorhinchus polytaenia",
+      "genus": "Plectorhinchus",
+      "genus_ja": "コショウダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Ribboned sweetlips",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725611126/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Pierre Pericard",
+        "observed_on": "2026-03-28",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725611126/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Pierre Pericard",
+          "observed_on": "2026-03-28",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725611049/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Pierre Pericard",
+          "observed_on": "2026-03-28",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/697076852/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Xavier Rufray",
+          "observed_on": "2026-07-12",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/697091924/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "SLouisy",
+          "observed_on": "2026-07-12",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/697541240/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gonzalo Giribet",
+          "observed_on": "2026-07-12",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698923972/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Prat",
+          "observed_on": "2026-07-15",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "19-22",
+          "min": 19,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7-8",
+          "min": 7,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "50",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7706,
@@ -1840,7 +2517,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 25706,
@@ -1970,7 +2648,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 399,
@@ -2100,7 +2779,532 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4823,
+      "scientific_name": "Pomadasys argyreus",
+      "genus": "Pomadasys",
+      "genus_ja": "ホシミゾイサキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bluecheek silver grunt",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514084604/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Foo Chuan Wei",
+        "observed_on": "2025-05-30",
+        "place": "Brunei Darussalam",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514084604/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Foo Chuan Wei",
+          "observed_on": "2025-05-30",
+          "place": "Brunei Darussalam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/120149452/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Vikas Madhav Nagarajan",
+          "observed_on": "2021-04-11",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c31fec9f-dd39-4ef6-acc6-db84363c2f9f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1980-05-27",
+          "place": "South Coast of Sumatra & Java, Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f9c088ed-0ab6-409c-909c-6545b4e14aa0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Madras, Madras",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/37ef0f0c-6508-4def-9463-e2b67e1eba47",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/0f5748d3-e5e8-4f08-bd1d-f5ae5e31f556",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7-8",
+          "min": 7,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "44-50",
+          "min": 44,
+          "max": 50
+        },
+        "max_length": "40",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 60536,
+      "scientific_name": "Pomadasys auritus",
+      "genus": "Pomadasys",
+      "genus_ja": "ホシミゾイサキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longhead grunt",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612103173/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sharkdevotee",
+        "observed_on": "2026-01-31",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612103173/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-01-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612085191/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-01-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612085042/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-01-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612359371/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2026-02-01",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626276351/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Yifei",
+          "observed_on": "2026-02-01",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740456150/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ryan Lim",
+          "observed_on": "2026-08-02",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "43",
+          "min": 43,
+          "max": 43
+        },
+        "max_length": "52",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 5126,
+      "scientific_name": "Pomadasys commersonnii",
+      "genus": "Pomadasys",
+      "genus_ja": "ホシミゾイサキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Smallspotted grunter",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616873852/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "A. van Zyl",
+        "observed_on": "2026-01-15",
+        "place": "South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616873852/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "A. van Zyl",
+          "observed_on": "2026-01-15",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632251899/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cameronorban11",
+          "observed_on": "2026-01-23",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624530587/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Brown",
+          "observed_on": "2026-03-13",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630875023/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Andreas De Beer",
+          "observed_on": "2026-03-28",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/650285702/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aderman",
+          "observed_on": "2026-04-29",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/650284974/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aderman",
+          "observed_on": "2026-04-29",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "52-54",
+          "min": 52,
+          "max": 54
+        },
+        "max_length": "80",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 9909,
+      "scientific_name": "Pomadasys guoraca",
+      "genus": "Pomadasys",
+      "genus_ja": "ホシミゾイサキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://mediaphoto.mnhn.fr/media/1538388021886iO6s9gQ45w1RVMTl",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "L. RANDRIHASIPARA",
+        "observed_on": "1875",
+        "place": "madras",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1538388021886iO6s9gQ45w1RVMTl",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1875",
+          "place": "madras",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1538388020545h1SOUPqjXMarktiA",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1538388019205vwt5XatxxhvHkkV9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "",
+          "place": "mahe",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2bd58e55-81ba-480b-a6f6-17de7ddd4bad",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/37ef0f0c-6508-4def-9463-e2b67e1eba47",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/58808057-d7b1-4801-9c78-0f8eaf19bd4e",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Kurrachee",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "46",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6006,
@@ -2230,7 +3434,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4447,
@@ -2360,7 +3565,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 58242,
@@ -2490,7 +3696,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7708,
+      "scientific_name": "Pomadasys stridens",
+      "genus": "Pomadasys",
+      "genus_ja": "ホシミゾイサキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Striped piggy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621103725/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "julia17219",
+        "observed_on": "2026-03-04",
+        "place": "Türkiye",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621103725/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "julia17219",
+          "observed_on": "2026-03-04",
+          "place": "Türkiye",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/705292840/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "dybalki",
+          "observed_on": "2026-07-26",
+          "place": "Türkiye",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714610648/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Samson Bierig",
+          "observed_on": "2026-08-10",
+          "place": "Israel",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716082463/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "zt90789",
+          "observed_on": "2026-08-13",
+          "place": "Lebanon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516977356/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "leighcliftonfishing",
+          "observed_on": "2025-06-05",
+          "place": "Türkiye",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/533756390/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Samson Bierig",
+          "observed_on": "2025-07-07",
+          "place": "Israel",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "49-54",
+          "min": 49,
+          "max": 54
+        },
+        "max_length": "20",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 51125,
+      "scientific_name": "Pomadasys unimaculatus",
+      "genus": "Pomadasys",
+      "genus_ja": "ホシミゾイサキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Red patched grunter",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612103370/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sharkdevotee",
+        "observed_on": "2026-01-31",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612103370/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-01-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616900235/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Yifei",
+          "observed_on": "2026-01-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647843211/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "charlie33931",
+          "observed_on": "2026-02-01",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633655967/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2026-04-03",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712493291/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "donnymidas",
+          "observed_on": "2026-08-07",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/601019038/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-12-18",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "19",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

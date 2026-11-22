@@ -2,9 +2,9 @@
   "family": "Ammodytidae",
   "family_ja": "イカナゴ科",
   "family_slug": "ammodytidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 6,
-  "genera_count": 3,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 11,
+  "genera_count": 5,
   "genera": [
     {
       "genus": "Ammodytes",
@@ -14,7 +14,7 @@
         "オオイカナゴ",
         "キタイカナゴ"
       ],
-      "species_count": 3,
+      "species_count": 5,
       "representative_species": "Ammodytes hexapterus",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/be090de1-a1ee-4e08-9ece-37fa6fd4ef87",
@@ -46,7 +46,7 @@
       "examples_ja": [
         "タイワンイカナゴ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Bleekeria mitsukurii",
       "photo": {
         "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/blemit01sr.tif",
@@ -58,6 +58,35 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Hyperoplus",
+      "ja_name": "Hyperoplus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Hyperoplus lanceolatus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656724108/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Pavel Smirnov",
+        "observed_on": "2026-05-09",
+        "place": "Russian Federation",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Protammodytes",
+      "ja_name": "モトイカナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "モトイカナゴ"
+      ],
+      "species_count": 1,
+      "representative_species": "Protammodytes brachistos",
+      "photo": null
     }
   ],
   "species": [
@@ -119,7 +148,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 3822,
@@ -249,7 +279,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 37,
+      "scientific_name": "Ammodytes marinus",
+      "genus": "Ammodytes",
+      "genus_ja": "オオイカナゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lesser sand-eel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640144215/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "georghaefner",
+        "observed_on": "2026-04-16",
+        "place": "Netherlands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640144215/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "georghaefner",
+          "observed_on": "2026-04-16",
+          "place": "Netherlands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/506336415/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "amybioblitzer",
+          "observed_on": "2025-05-17",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480218071/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Stewen Dale",
+          "observed_on": "2019-07-09",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/12593857.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Arnold Wijker",
+          "observed_on": "2017-01-08",
+          "place": "Noordhollands Duinreservaat - Wimmenummerduinen",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.21_140.d9238b02-34bf-4fa4-a2a5-8dd0104c14e6.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Herrmann Neumann",
+          "observed_on": "2011-12-12",
+          "place": "unknown or invalid",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.17_192.eb3c89d0-13d6-4c6b-926d-0e6954cf9ca2.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Herrmann Neumann",
+          "observed_on": "2011-12-12",
+          "place": "unknown or invalid",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "56-63",
+          "min": 56,
+          "max": 63
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "29-33",
+          "min": 29,
+          "max": 33
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "25",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 487,
@@ -379,7 +541,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 38,
+      "scientific_name": "Ammodytes tobianus",
+      "genus": "Ammodytes",
+      "genus_ja": "オオイカナゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Small sandeel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628236545/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Lou Wagstaffe",
+        "observed_on": "2026-03-23",
+        "place": "Jersey",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/628236545/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Lou Wagstaffe",
+          "observed_on": "2026-03-23",
+          "place": "Jersey",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/655907775/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Imogen Bentley",
+          "observed_on": "2026-05-08",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660612913/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "milliemb",
+          "observed_on": "2026-05-16",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658625439/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sateinen",
+          "observed_on": "2026-05-08",
+          "place": "Finland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/753144518/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "tanager manager",
+          "observed_on": "2026-05-30",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/6/b39ef202-948b-4be6-8abd-a15a15dbe7cd_image.png",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Rune Aasbø Lystad",
+          "observed_on": "2026-06-06",
+          "place": "Randvik, Risør, Ag",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "49-58",
+          "min": 49,
+          "max": 58
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "24-32",
+          "min": 24,
+          "max": 32
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 66971,
@@ -439,7 +733,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 58287,
@@ -499,7 +794,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 9236,
@@ -629,7 +925,261 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10612,
+      "scientific_name": "Bleekeria viridianguilla",
+      "genus": "Bleekeria",
+      "genus_ja": "タイワンイカナゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Tropical Pacific sandlance",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14.6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1374,
+      "scientific_name": "Hyperoplus lanceolatus",
+      "genus": "Hyperoplus",
+      "genus_ja": "Hyperoplus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Great sandeel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656724108/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Pavel Smirnov",
+        "observed_on": "2026-05-09",
+        "place": "Russian Federation",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656724108/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Pavel Smirnov",
+          "observed_on": "2026-05-09",
+          "place": "Russian Federation",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/5fc3c48f-6e50-4068-ad07-588420273cf6.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Morten Tune Strandberg",
+          "observed_on": "2026-06-22",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/140205d5-289c-407c-98a8-f304ea592fba.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Morten Lykke Kjær",
+          "observed_on": "2026-06-08",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/01312c61-491a-4454-9393-cb67994538f0.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Kristian Bak Jensen",
+          "observed_on": "2026-06-16",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702824233/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bh90726",
+          "observed_on": "2026-07-22",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/0d53dc93-8deb-4ea1-b413-bd1e6b4fa33e.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Aksel Skibsted",
+          "observed_on": "2026-08-20",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 58280,
+      "scientific_name": "Protammodytes brachistos",
+      "genus": "Protammodytes",
+      "genus_ja": "モトイカナゴの仲間",
+      "ja_name": "モトイカナゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "36-37",
+          "min": 36,
+          "max": 37
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "92",
+          "min": 92,
+          "max": 92
+        },
+        "max_length": "8.6",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

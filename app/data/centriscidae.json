@@ -2,8 +2,8 @@
   "family": "Centriscidae",
   "family_ja": "ヘコアユ科",
   "family_slug": "centriscidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 3,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 5,
   "genera_count": 3,
   "genera": [
     {
@@ -13,15 +13,15 @@
       "examples_ja": [
         "ヘコアユ"
       ],
-      "species_count": 1,
-      "representative_species": "Aeoliscus strigatus",
+      "species_count": 2,
+      "representative_species": "Aeoliscus punctulatus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727744994/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612436971/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Potamogeton sp.TOKYO",
-        "observed_on": "2026-09-02",
-        "place": "Japan",
+        "author": "aspearton",
+        "observed_on": "2026-01-31",
+        "place": "South Africa",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -51,14 +51,14 @@
       "ja_name": "Macroramphosus属",
       "ja_name_official": false,
       "examples_ja": [],
-      "species_count": 1,
-      "representative_species": "Macroramphosus scolopax",
+      "species_count": 2,
+      "representative_species": "Macroramphosus gracilis",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712285123/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "Potamogeton sp.TOKYO",
-        "observed_on": "2026-01-27",
+        "url": "https://data.nhm.ac.uk/media/f8a72e10-d3ef-4d71-868c-cf60f7403db4",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
         "place": "Japan",
         "life_stage": "不明",
         "context": "不明"
@@ -66,6 +66,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 7986,
+      "scientific_name": "Aeoliscus punctulatus",
+      "genus": "Aeoliscus",
+      "genus_ja": "ヘコアユの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Speckled shrimpfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612436971/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "aspearton",
+        "observed_on": "2026-01-31",
+        "place": "South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612436971/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aspearton",
+          "observed_on": "2026-01-31",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/689663418/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kobus Lubbe",
+          "observed_on": "2026-05-27",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482166151/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kobus Lubbe",
+          "observed_on": "2025-03-22",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484177235/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aspearton",
+          "observed_on": "2025-04-07",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516242418/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "congonaturalist",
+          "observed_on": "2025-06-05",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557033636/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aspearton",
+          "observed_on": "2025-08-24",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 6503,
       "scientific_name": "Aeoliscus strigatus",
@@ -194,7 +325,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6510,
@@ -324,7 +456,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 3277,
+      "scientific_name": "Macroramphosus gracilis",
+      "genus": "Macroramphosus",
+      "genus_ja": "Macroramphosus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Slender snipefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/f8a72e10-d3ef-4d71-868c-cf60f7403db4",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/f8a72e10-d3ef-4d71-868c-cf60f7403db4",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514755586/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "李博恒",
+          "observed_on": "2022-01-13",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp63704439276655408233.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-04",
+          "place": "Dong Gang Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp68955419962145451303.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-04",
+          "place": "Dong Gang Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637525329/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jakovos Demetriou",
+          "observed_on": "2026-04-13",
+          "place": "Greece",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/490755602/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Slunky",
+          "observed_on": "2025-03-19",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "4-7",
+          "min": 4,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "pectoral_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 333,
@@ -454,7 +718,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

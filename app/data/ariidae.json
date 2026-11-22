@@ -2,9 +2,9 @@
   "family": "Ariidae",
   "family_ja": "ハマギギ科",
   "family_slug": "ariidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 3,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 16,
+  "genera_count": 5,
   "genera": [
     {
       "genus": "Arius",
@@ -13,15 +13,42 @@
       "examples_ja": [
         "ハマギギ"
       ],
-      "species_count": 1,
-      "representative_species": "Arius maculatus",
+      "species_count": 8,
+      "representative_species": "Arius arius",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656506627/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464683144/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "jianhc",
-        "observed_on": "2026-05-09",
+        "author": "洪清漳",
+        "observed_on": "2025-01-19",
         "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Cephalocassis",
+      "ja_name": "Cephalocassis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Cephalocassis manillensis",
+      "photo": null
+    },
+    {
+      "genus": "Hexanematichthys",
+      "ja_name": "Hexanematichthys属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Hexanematichthys sagor",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613593356/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Refer Iqbal",
+        "observed_on": "2026-01-07",
+        "place": "Indonesia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -33,7 +60,7 @@
       "examples_ja": [
         "オオサカハマギギ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Netuma bilineata",
       "photo": {
         "url": "https://collections.nmnh.si.edu/media/?i=11719620&h=2000",
@@ -45,9 +72,322 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Plicofollis",
+      "ja_name": "トウカイハマギギの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トウカイハマギギ"
+      ],
+      "species_count": 3,
+      "representative_species": "Plicofollis argyropleuron",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605518156/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Oscar",
+        "observed_on": "2026-01-05",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     }
   ],
   "species": [
+    {
+      "spec_code": 58254,
+      "scientific_name": "Arius arenarius",
+      "genus": "Arius",
+      "genus_ja": "ハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sand catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "29",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1285,
+      "scientific_name": "Arius arius",
+      "genus": "Arius",
+      "genus_ja": "ハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Threadfin sea catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464683144/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "洪清漳",
+        "observed_on": "2025-01-19",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464683144/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "洪清漳",
+          "observed_on": "2025-01-19",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/ea7d8ace-5aa5-4c92-9956-756341ba7330",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Formosa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/0a619bed-909e-489c-b2a7-65dda168ba7d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/bfc791ef-6134-4dbc-9c9a-e8945f79768b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Laguna de Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/de70b890-ec93-4f80-84b2-33ba929cf67e",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Yenting, Chekiang, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f72255b8-a824-414d-9ea7-b6d3fd23f160",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sharp Peak, Fukien Province",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "17-22",
+          "min": 17,
+          "max": 22
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 27633,
+      "scientific_name": "Arius dispar",
+      "genus": "Arius",
+      "genus_ja": "ハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Fleshysnout catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/01345b67-9347-4726-b4d2-872755a7125c",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Manila",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/01345b67-9347-4726-b4d2-872755a7125c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Manila",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d9749d84-c39a-4f9c-887a-26421ca07eb8",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Laguna de Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11560720&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "",
+          "place": "Manila",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "34",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 1280,
       "scientific_name": "Arius maculatus",
@@ -176,7 +516,644 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 27634,
+      "scientific_name": "Arius manillensis",
+      "genus": "Arius",
+      "genus_ja": "ハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11674808&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1908-06-12",
+        "place": "Manila Market, Luzon; Manila Bay",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11674808&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-06-12",
+          "place": "Manila Market, Luzon; Manila Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11674838&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-07-29",
+          "place": "Manila Market; China Sea, vicinity southern Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11674801&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-11-19",
+          "place": "Aparri Market, Luzon; Off Northern Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11674856&h=1877",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-11-19",
+          "place": "Aparri Market, Luzon; Off Northern Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11674819&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1907-12-17",
+          "place": "Santa Cruz; Mouth of the Santa Cruz River and Adjacent Shore of Laguna de Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d9749d84-c39a-4f9c-887a-26421ca07eb8",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Manila",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "29.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1295,
+      "scientific_name": "Arius subrostratus",
+      "genus": "Arius",
+      "genus_ja": "ハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shovelnose sea catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463032211/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "brock",
+        "observed_on": "2025-01-09",
+        "place": "India",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463032211/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "brock",
+          "observed_on": "2025-01-09",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91094618/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Navaneeth Sini George",
+          "observed_on": "2020-06-30",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a2c73857-868f-4ae6-aea5-a1e46ac24f27",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Malabar",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "39.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1296,
+      "scientific_name": "Arius sumatranus",
+      "genus": "Arius",
+      "genus_ja": "ハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Goat catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/a6190915-d592-4a76-8d24-0f57aa2291b7",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Sumatra, Sumatra",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/a6190915-d592-4a76-8d24-0f57aa2291b7",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sumatra, Sumatra",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "32",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1283,
+      "scientific_name": "Arius venosus",
+      "genus": "Arius",
+      "genus_ja": "ハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Veined catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11562219&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1909-11-04",
+        "place": "Sebatik Island; Sibuko Bay, Borneo, and vicinity",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11562219&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-11-04",
+          "place": "Sebatik Island; Sibuko Bay, Borneo, and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/de4d7911-1d23-4b45-9e44-65391121277a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627015427/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-03-21",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534924190/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2025-07-11",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589258994/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2025-11-08",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25027957/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "hydradon",
+          "observed_on": "2018-05-29",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 51585,
+      "scientific_name": "Cephalocassis manillensis",
+      "genus": "Cephalocassis",
+      "genus_ja": "Cephalocassis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1281,
+      "scientific_name": "Hexanematichthys sagor",
+      "genus": "Hexanematichthys",
+      "genus_ja": "Hexanematichthys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sagor catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613593356/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Refer Iqbal",
+        "observed_on": "2026-01-07",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613593356/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Refer Iqbal",
+          "observed_on": "2026-01-07",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616066223/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rui",
+          "observed_on": "2026-02-15",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625281917/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "wimroofthooft",
+          "observed_on": "2026-03-16",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631794620/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "antoine_vespe",
+          "observed_on": "2026-03-28",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634776473/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "telboon",
+          "observed_on": "2026-04-05",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657853653/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Niran Anurakpongsathorn",
+          "observed_on": "2026-05-11",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "45",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 11740,
@@ -306,7 +1283,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69232,
+      "scientific_name": "Netuma patriciae",
+      "genus": "Netuma",
+      "genus_ja": "オオサカハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Whipfin sea catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30.34",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10220,
@@ -436,7 +1475,361 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 11739,
+      "scientific_name": "Plicofollis argyropleuron",
+      "genus": "Plicofollis",
+      "genus_ja": "トウカイハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longsnouted catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605518156/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Oscar",
+        "observed_on": "2026-01-05",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605518156/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Oscar",
+          "observed_on": "2026-01-05",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605518332/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Oscar",
+          "observed_on": "2026-01-05",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612347574/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Oscar",
+          "observed_on": "2026-02-01",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/735198793/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Christopher Caine",
+          "observed_on": "2026-09-15",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488712029/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Oscar",
+          "observed_on": "2025-04-20",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573178889/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-09-27",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "14-21",
+          "min": 14,
+          "max": 21
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "50",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 23383,
+      "scientific_name": "Plicofollis nella",
+      "genus": "Plicofollis",
+      "genus_ja": "トウカイハマギギの仲間",
+      "ja_name": "トウカイハマギギ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Smooth-headed catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572671506/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "鵂鶹永滄",
+        "observed_on": "2025-09-27",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572671506/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "鵂鶹永滄",
+          "observed_on": "2025-09-27",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622731381/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "telboon",
+          "observed_on": "2026-03-07",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623928550/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-03-12",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683287964/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Edmund Tham",
+          "observed_on": "2026-06-21",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691947629/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rui",
+          "observed_on": "2026-07-05",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691947568/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rui",
+          "observed_on": "2026-07-05",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "47",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1286,
+      "scientific_name": "Plicofollis tonggol",
+      "genus": "Plicofollis",
+      "genus_ja": "トウカイハマギギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Roughback sea catfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624233287/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sharkdevotee",
+        "observed_on": "2026-03-13",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624233287/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-03-13",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/5d7e6d5f-c16f-452b-8955-838fd6f01de0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

@@ -2,10 +2,28 @@
   "family": "Sphyrnidae",
   "family_ja": "シュモクザメ科",
   "family_slug": "sphyrnidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 3,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 4,
+  "genera_count": 2,
   "genera": [
+    {
+      "genus": "Eusphyra",
+      "ja_name": "Eusphyra属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Eusphyra blochii",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606006265/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Kjell Hensen",
+        "observed_on": "2024-04-20",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Sphyrna",
       "ja_name": "アカシュモクザメの仲間",
@@ -30,6 +48,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 908,
+      "scientific_name": "Eusphyra blochii",
+      "genus": "Eusphyra",
+      "genus_ja": "Eusphyra属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Winghead shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606006265/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Kjell Hensen",
+        "observed_on": "2024-04-20",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606006265/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kjell Hensen",
+          "observed_on": "2024-04-20",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273810376/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sharking Around",
+          "observed_on": "2023-04-11",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/302626559/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Al Harry",
+          "observed_on": "2023-07-18",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507769203/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kelly Forbes",
+          "observed_on": "2023-08-07",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.7528_Eusphyra_blochii_ven/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "1899-05-01",
+          "place": "Java Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e113e920-406a-4ff4-8b56-830387759f9d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "186",
+        "body_shape": "elongated",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 912,
       "scientific_name": "Sphyrna lewini",
@@ -158,7 +307,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 914,
@@ -288,7 +438,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 917,
@@ -418,7 +569,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

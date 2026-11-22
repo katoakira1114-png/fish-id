@@ -2,8 +2,8 @@
   "family": "Emmelichthyidae",
   "family_ja": "ハチビキ科",
   "family_slug": "emmelichthyidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 4,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 5,
   "genera_count": 2,
   "genera": [
     {
@@ -13,7 +13,7 @@
       "examples_ja": [
         "ロウソクチビキ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Emmelichthys struhsakeri",
       "photo": {
         "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_199.a7894739-f6e2-480e-8254-f33211b23416.jpg?subunit=1024.jpg",
@@ -50,6 +50,67 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 70571,
+      "scientific_name": "Emmelichthys papillatus",
+      "genus": "Emmelichthys",
+      "genus_ja": "ロウソクチビキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Papillated redbait.",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "74",
+          "min": 74,
+          "max": 74
+        },
+        "max_length": "15.4",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 8213,
       "scientific_name": "Emmelichthys struhsakeri",
@@ -178,7 +239,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 50592,
@@ -238,7 +300,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7693,
@@ -368,7 +431,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13013,
@@ -468,7 +532,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

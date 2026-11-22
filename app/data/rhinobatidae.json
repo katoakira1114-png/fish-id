@@ -2,8 +2,8 @@
   "family": "Rhinobatidae",
   "family_ja": "サカタザメ科",
   "family_slug": "rhinobatidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 2,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 4,
   "genera_count": 1,
   "genera": [
     {
@@ -14,21 +14,112 @@
         "サカタザメ",
         "コモンサカタザメ"
       ],
-      "species_count": 2,
-      "representative_species": "Rhinobatos hynnicephalus",
+      "species_count": 4,
+      "representative_species": "Rhinobatos formosensis",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/d807ff0f-311d-410b-99ff-cabeb3dfaf7f",
+        "url": "https://data.nhm.ac.uk/media/e54d62cf-e59b-4f7a-a7e3-3d7a78e2f15e",
         "source": "GBIF",
         "license": "CC-BY",
         "author": "The Trustees of the Natural History Museum, London",
         "observed_on": "",
-        "place": "Inland Sea",
+        "place": "South Pacific Coast of Japan",
         "life_stage": "不明",
         "context": "不明"
       }
     }
   ],
   "species": [
+    {
+      "spec_code": 15396,
+      "scientific_name": "Rhinobatos formosensis",
+      "genus": "Rhinobatos",
+      "genus_ja": "サカタザメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Taiwan guitarfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/e54d62cf-e59b-4f7a-a7e3-3d7a78e2f15e",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "South Pacific Coast of Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/e54d62cf-e59b-4f7a-a7e3-3d7a78e2f15e",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "South Pacific Coast of Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e251ac34-4fca-4cf6-9032-518e3bf445e9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Formosa",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "73",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 10135,
       "scientific_name": "Rhinobatos hynnicephalus",
@@ -157,7 +248,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7969,
@@ -287,7 +379,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 67531,
+      "scientific_name": "Rhinobatos whitei",
+      "genus": "Rhinobatos",
+      "genus_ja": "サカタザメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Philippine guitarfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "72",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

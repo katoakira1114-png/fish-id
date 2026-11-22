@@ -2,9 +2,9 @@
   "family": "Sparidae",
   "family_ja": "タイ科",
   "family_slug": "sparidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 15,
-  "genera_count": 7,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 23,
+  "genera_count": 13,
   "genera": [
     {
       "genus": "Acanthopagrus",
@@ -15,7 +15,7 @@
         "クロダイ",
         "ナンヨウチヌ"
       ],
-      "species_count": 6,
+      "species_count": 7,
       "representative_species": "Acanthopagrus australis",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605225632/large.jpg",
@@ -60,6 +60,24 @@
       }
     },
     {
+      "genus": "Boops",
+      "ja_name": "Boops属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Boops boops",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605692435/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Juan Rodríguez",
+        "observed_on": "2026-01-02",
+        "place": "Spain",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Dentex",
       "ja_name": "キダイの仲間",
       "ja_name_official": false,
@@ -81,6 +99,24 @@
       }
     },
     {
+      "genus": "Diplodus",
+      "ja_name": "Diplodus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Diplodus annularis",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606890057/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Frédéric ANDRE",
+        "observed_on": "2026-01-08",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Evynnis",
       "ja_name": "チダイの仲間",
       "ja_name_official": false,
@@ -88,7 +124,7 @@
         "チダイ",
         "ヒレコダイ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Evynnis cardinalis",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/665783285/large.jpg",
@@ -97,6 +133,24 @@
         "author": "張睿引",
         "observed_on": "2026-05-24",
         "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Pagellus",
+      "ja_name": "Pagellus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Pagellus erythrinus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610420027/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Sylvain Le Bris",
+        "observed_on": "2026-01-22",
+        "place": "France",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -122,6 +176,15 @@
       }
     },
     {
+      "genus": "Parargyrops",
+      "ja_name": "Parargyrops属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Parargyrops edita",
+      "photo": null
+    },
+    {
       "genus": "Rhabdosargus",
       "ja_name": "ヘダイの仲間",
       "ja_name_official": false,
@@ -137,6 +200,42 @@
         "author": "changchih-yi",
         "observed_on": "2025-04-19",
         "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Sparus",
+      "ja_name": "Sparus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Sparus aurata",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/706031086/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kunkissed",
+        "observed_on": "2026-03-29",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Spicara",
+      "ja_name": "Spicara属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Spicara smaris",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620063/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Frédéric ANDRE",
+        "observed_on": "2026-01-03",
+        "place": "France",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -271,7 +370,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63767,
@@ -391,7 +491,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6356,
@@ -521,7 +622,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65896,
@@ -651,7 +753,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6531,
@@ -781,7 +884,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6583,
@@ -901,7 +1005,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63153,
+      "scientific_name": "Acanthopagrus taiwanensis",
+      "genus": "Acanthopagrus",
+      "genus_ja": "キチヌの仲間",
+      "ja_name": "イワツキクロダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Taiwan picnic seabream",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172551589/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "tern911",
+        "observed_on": "2021-12-10",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172551589/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tern911",
+          "observed_on": "2021-12-10",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106898419/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tern911",
+          "observed_on": "2020-12-09",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18.4",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8105,
@@ -961,7 +1157,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8103,
@@ -1071,7 +1268,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 203,
+      "scientific_name": "Boops boops",
+      "genus": "Boops",
+      "genus_ja": "Boops属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bogue",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605692435/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Juan Rodríguez",
+        "observed_on": "2026-01-02",
+        "place": "Spain",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605692435/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Juan Rodríguez",
+          "observed_on": "2026-01-02",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604514883/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Elisa González",
+          "observed_on": "2026-01-01",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605692190/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Juan Rodríguez",
+          "observed_on": "2026-01-02",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605611277/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-04",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605692419/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Juan Rodríguez",
+          "observed_on": "2026-01-02",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609968698/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-21",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-16",
+          "min": 12,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 64598,
@@ -1131,7 +1460,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 67288,
@@ -1261,7 +1591,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1752,
+      "scientific_name": "Diplodus annularis",
+      "genus": "Diplodus",
+      "genus_ja": "Diplodus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Annular seabream",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606890057/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Frédéric ANDRE",
+        "observed_on": "2026-01-08",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606890057/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-08",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617523488/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "amphitrite_gr",
+          "observed_on": "2026-02-20",
+          "place": "Greece",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620156639/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mmissoum",
+          "observed_on": "2026-02-27",
+          "place": "Algeria",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622109868/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Selim Türeli",
+          "observed_on": "2026-03-07",
+          "place": "Türkiye",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621523994/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Sean Hartnett",
+          "observed_on": "2026-03-04",
+          "place": "Malta",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633030239/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Elena_Sherehora",
+          "observed_on": "2026-04-04",
+          "place": "Russian Federation",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8107,
@@ -1391,7 +1853,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 66476,
+      "scientific_name": "Evynnis mononematos",
+      "genus": "Evynnis",
+      "genus_ja": "チダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4710,
@@ -1521,7 +2045,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 893,
+      "scientific_name": "Pagellus erythrinus",
+      "genus": "Pagellus",
+      "genus_ja": "Pagellus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Common pandora",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610420027/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Sylvain Le Bris",
+        "observed_on": "2026-01-22",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610420027/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-22",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610222921/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "etienne-barz",
+          "observed_on": "2026-01-22",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608254682/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Ben Jobson",
+          "observed_on": "2026-01-15",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613862065/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-02-01",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614429451/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-02-08",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619326819/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "SLouisy",
+          "observed_on": "2026-02-25",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "60",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6426,
@@ -1651,7 +2307,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 445,
@@ -1781,7 +2438,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 55177,
+      "scientific_name": "Parargyrops edita",
+      "genus": "Parargyrops",
+      "genus_ja": "Parargyrops属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Crimson sea bream",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5368,
@@ -1911,7 +2630,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1164,
+      "scientific_name": "Sparus aurata",
+      "genus": "Sparus",
+      "genus_ja": "Sparus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Gilthead seabream",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/706031086/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kunkissed",
+        "observed_on": "2026-03-29",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/706031086/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kunkissed",
+          "observed_on": "2026-03-29",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669380152/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "philip1977",
+          "observed_on": "2026-05-30",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605611236/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-04",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609509770/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sagittaria2019",
+          "observed_on": "2026-01-20",
+          "place": "Italy",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610222543/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "etienne-barz",
+          "observed_on": "2026-01-22",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606429055/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Vítor Jorge",
+          "observed_on": "2026-01-08",
+          "place": "Portugal",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "70",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1766,
+      "scientific_name": "Spicara smaris",
+      "genus": "Spicara",
+      "genus_ja": "Spicara属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Picarel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620063/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Frédéric ANDRE",
+        "observed_on": "2026-01-03",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620063/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-03",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609969545/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-21",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620062/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-03",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658231821/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cescgv",
+          "observed_on": "2026-05-11",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682606443/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Max Carter",
+          "observed_on": "2026-06-13",
+          "place": "Italy",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682632209/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cescgv",
+          "observed_on": "2026-06-18",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "24.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "family": "Melamphaidae",
   "family_ja": "カブトウオ科",
   "family_slug": "melamphaidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 14,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 20,
   "genera_count": 4,
   "genera": [
     {
@@ -15,15 +15,15 @@
         "ホンカブトウオ",
         "トゲカブトウオ"
       ],
-      "species_count": 6,
-      "representative_species": "Melamphaes lugubris",
+      "species_count": 9,
+      "representative_species": "Melamphaes danae",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/341801509/large.jpeg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "Camille Ayrea",
-        "observed_on": "2023-07-20",
-        "place": "United States of America",
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P41119_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-04-02",
+        "place": "Celebes Sea",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -35,9 +35,9 @@
       "examples_ja": [
         "カブトウオ",
         "チシマカブトウオ",
-        "チヒロカブトウオ"
+        "オオメカブトウオ"
       ],
-      "species_count": 5,
+      "species_count": 7,
       "representative_species": "Poromitra cristiceps",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/961b60b6-63c3-4a44-a6ce-ce0882a70716",
@@ -78,21 +78,193 @@
       "examples_ja": [
         "ヨロイギンメ"
       ],
-      "species_count": 1,
-      "representative_species": "Scopelogadus mizolepis",
+      "species_count": 2,
+      "representative_species": "Scopelogadus bispinosus",
       "photo": {
-        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.14_176.2bbf3472-25ce-4716-ac42-780e9c8ca6ae.jpg?subunit=1024.jpg",
-        "source": "GBIF",
-        "license": "CC-BY",
-        "author": "DEEPEND Consortium (Deep Pelagic Nekton Dynamics of the Gulf of Mexico)",
-        "observed_on": "2016-05-02",
-        "place": "unknown or invalid",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358893308/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Clara Hemstreet",
+        "observed_on": "2024-03-14",
+        "place": "United States of America",
         "life_stage": "不明",
         "context": "不明"
       }
     }
   ],
   "species": [
+    {
+      "spec_code": 16854,
+      "scientific_name": "Melamphaes danae",
+      "genus": "Melamphaes",
+      "genus_ja": "マルカブトウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bigscale",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P41119_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-04-02",
+        "place": "Celebes Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P41119_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-04-02",
+          "place": "Celebes Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "2.3",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 9053,
+      "scientific_name": "Melamphaes leprus",
+      "genus": "Melamphaes",
+      "genus_ja": "マルカブトウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616434880/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "MARC MARTIN SOLA",
+        "observed_on": "2019-06-25",
+        "place": "Spain",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616434880/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "MARC MARTIN SOLA",
+          "observed_on": "2019-06-25",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P41172_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1930-03-02",
+          "place": "St. Helena - Equator",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "11.25",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 9054,
       "scientific_name": "Melamphaes longivelis",
@@ -151,7 +323,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16586,
@@ -281,7 +454,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 67441,
@@ -341,7 +515,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 17178,
@@ -471,7 +646,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 68862,
@@ -531,7 +707,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16855,
+      "scientific_name": "Melamphaes simus",
+      "genus": "Melamphaes",
+      "genus_ja": "マルカブトウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Ridgehead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P41204_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1930-03-19",
+        "place": "Freetown - Canary Is. - Gibraltar Strait",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P41204_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1930-03-19",
+          "place": "Freetown - Canary Is. - Gibraltar Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "2.9",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 17180,
@@ -661,7 +919,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15657,
+      "scientific_name": "Poromitra crassa",
+      "genus": "Poromitra",
+      "genus_ja": "カブトウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "11",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 65382,
@@ -751,7 +1071,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65377,
@@ -811,7 +1132,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 65547,
+      "scientific_name": "Poromitra macrophthalma",
+      "genus": "Poromitra",
+      "genus_ja": "カブトウオの仲間",
+      "ja_name": "オオメカブトウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.5",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 16858,
@@ -941,7 +1324,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15709,
@@ -1021,7 +1405,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59574,
@@ -1101,7 +1486,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16859,
@@ -1231,7 +1617,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16860,
@@ -1361,7 +1748,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 25275,
+      "scientific_name": "Scopelogadus bispinosus",
+      "genus": "Scopelogadus",
+      "genus_ja": "ヨロイギンメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Twospine bigscale",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358893308/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Clara Hemstreet",
+        "observed_on": "2024-03-14",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358893308/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Clara Hemstreet",
+          "observed_on": "2024-03-14",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424520424/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jkimmbo",
+          "observed_on": "2023-04-23",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=16432506&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Whitney, Jonathan, Mundy, Bruce, NOAA",
+          "observed_on": "2022-07-06",
+          "place": "~700 miles SSE of Hawaii Island, Hawaii, USA",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0209493.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1954-02-04",
+          "place": "Ca San Diego Trough.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.collections.yale.edu/iiif/2/ypm:b07030ba-6d21-4127-bdb4-909c882d25d7/full/full/0/default.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Adriana D. Rubinstein",
+          "observed_on": "1953-04-13",
+          "place": "YASA Sta. 73",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.collections.yale.edu/iiif/2/ypm:5f62e4c1-1e23-4015-9454-64d2d0fd421c/full/!1920,1920/0/default.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Gregory J. Watkins-Colwell",
+          "observed_on": "1926-06-03",
+          "place": "Off El Salvador. \"Pawnee\" 1926",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "11",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10284,
@@ -1491,7 +2010,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

@@ -2,10 +2,28 @@
   "family": "Oxudercidae",
   "family_ja": "オクスデルクス科",
   "family_slug": "oxudercidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 8,
-  "genera_count": 6,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 20,
+  "genera_count": 9,
   "genera": [
+    {
+      "genus": "Apocryptes",
+      "ja_name": "Apocryptes属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Apocryptes bato",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604449029/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Muhammad Shahed Raiyan",
+        "observed_on": "2025-12-31",
+        "place": "Bangladesh",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Apocryptodon",
       "ja_name": "タビラクチの仲間",
@@ -33,15 +51,15 @@
       "examples_ja": [
         "ムツゴロウ"
       ],
-      "species_count": 1,
-      "representative_species": "Boleophthalmus pectinirostris",
+      "species_count": 2,
+      "representative_species": "Boleophthalmus boddarti",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618063868/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605598553/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Martin",
-        "observed_on": "2026-02-21",
-        "place": "Japan",
+        "author": "Pandu Ilmi Prastyanto",
+        "observed_on": "2026-01-05",
+        "place": "Indonesia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -65,6 +83,42 @@
       }
     },
     {
+      "genus": "Parapocryptes",
+      "ja_name": "Parapocryptes属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Parapocryptes serperaster",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719778427/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "szlly404",
+        "observed_on": "2026-08-18",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Periophthalmodon",
+      "ja_name": "Periophthalmodon属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Periophthalmodon freycineti",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607320482/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "wild_felix",
+        "observed_on": "2026-01-12",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Periophthalmus",
       "ja_name": "トビハゼの仲間",
       "ja_name_official": false,
@@ -72,7 +126,7 @@
         "トビハゼ",
         "ミナミトビハゼ"
       ],
-      "species_count": 2,
+      "species_count": 8,
       "representative_species": "Periophthalmus argentilineatus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608553229/large.jpg",
@@ -112,14 +166,14 @@
       "examples_ja": [
         "トカゲハゼ"
       ],
-      "species_count": 1,
-      "representative_species": "Scartelaos histophorus",
+      "species_count": 2,
+      "representative_species": "Scartelaos gigas",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619444250/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265482619/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "tfbsaxman",
-        "observed_on": "2026-02-25",
+        "author": "cypraea",
+        "observed_on": "2023-04-06",
         "place": "Chinese Taipei",
         "life_stage": "不明",
         "context": "不明"
@@ -127,6 +181,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 13535,
+      "scientific_name": "Apocryptes bato",
+      "genus": "Apocryptes",
+      "genus_ja": "Apocryptes属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604449029/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Muhammad Shahed Raiyan",
+        "observed_on": "2025-12-31",
+        "place": "Bangladesh",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604449029/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Muhammad Shahed Raiyan",
+          "observed_on": "2025-12-31",
+          "place": "Bangladesh",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://media-service.nrm.se/images?dataset=fish&id=Full_size/NRMPI58057.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Fang, F",
+          "observed_on": "2008-03-17",
+          "place": "By the Salween River in Hpa-An Town",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/85749dda-0510-4436-9774-dd0363b675f3",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "2007-12-12",
+          "place": "Creek inside Kaptai Reserve adjacent to picnic spot (large steel frame bridge)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://media-service.nrm.se/images?dataset=fish&id=Full_size/NRMPI39840.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Fang, F",
+          "observed_on": "1997-03-15",
+          "place": "Bago, fish market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://media-service.nrm.se/images?dataset=fish&id=Full_size/NRMPI39865.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Fang, F",
+          "observed_on": "1997-03-15",
+          "place": "Bago, fish market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/5f9fc899-2707-4991-a995-d7e9a3f53f6d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1953-11-29",
+          "place": "near Nawdip Ghat",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 7328,
       "scientific_name": "Apocryptodon madurensis",
@@ -255,7 +440,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 55511,
@@ -385,7 +571,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4901,
+      "scientific_name": "Boleophthalmus boddarti",
+      "genus": "Boleophthalmus",
+      "genus_ja": "ムツゴロウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Boddart's goggle-eyed goby",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605598553/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Pandu Ilmi Prastyanto",
+        "observed_on": "2026-01-05",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605598553/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pandu Ilmi Prastyanto",
+          "observed_on": "2026-01-05",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605598541/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pandu Ilmi Prastyanto",
+          "observed_on": "2026-01-05",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605598525/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pandu Ilmi Prastyanto",
+          "observed_on": "2026-01-05",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609699321/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pandu Ilmi Prastyanto",
+          "observed_on": "2026-01-21",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609699208/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pandu Ilmi Prastyanto",
+          "observed_on": "2026-01-21",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609699243/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pandu Ilmi Prastyanto",
+          "observed_on": "2026-01-21",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 15864,
@@ -515,7 +833,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15823,
@@ -645,7 +964,401 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 25082,
+      "scientific_name": "Parapocryptes serperaster",
+      "genus": "Parapocryptes",
+      "genus_ja": "Parapocryptes属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719778427/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "szlly404",
+        "observed_on": "2026-08-18",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719778427/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "szlly404",
+          "observed_on": "2026-08-18",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/556357027/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "好记性",
+          "observed_on": "2025-08-12",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/ba/69/ba6946eb-30c4-4612-a1bf-e9be8da9f154.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Herre, Albert W.",
+          "observed_on": "1931-09-24",
+          "place": "Wholesale fish market at Guangzhou (Canton).",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=16109680&type=jpeg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "NHM",
+          "observed_on": "1880",
+          "place": "Swatow; Kina",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=16109682&type=jpeg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "NHM",
+          "observed_on": "1880",
+          "place": "Swatow; China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=16109827&type=jpeg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "NHM",
+          "observed_on": "1880",
+          "place": "Swatow; China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "25-28",
+          "min": 25,
+          "max": 28
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "25-29",
+          "min": 25,
+          "max": 29
+        },
+        "pectoral_rays": {
+          "raw": "19-23",
+          "min": 19,
+          "max": 23
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "23",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7479,
+      "scientific_name": "Periophthalmodon freycineti",
+      "genus": "Periophthalmodon",
+      "genus_ja": "Periophthalmodon属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Pug-headed mudskipper",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607320482/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "wild_felix",
+        "observed_on": "2026-01-12",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607320482/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "wild_felix",
+          "observed_on": "2026-01-12",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615909233/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alec Karcz",
+          "observed_on": "2026-02-11",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657958682/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rowan Thomas",
+          "observed_on": "2026-02-22",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625297708/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "theopiaff",
+          "observed_on": "2026-03-16",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632534021/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "toinette2025",
+          "observed_on": "2026-04-03",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634096405/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Eva Paulus",
+          "observed_on": "2026-04-06",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "25.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8414,
+      "scientific_name": "Periophthalmodon schlosseri",
+      "genus": "Periophthalmodon",
+      "genus_ja": "Periophthalmodon属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Giant mudskipper",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605077824/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Xin Lei (Rylie) Pan",
+        "observed_on": "2026-01-03",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605077824/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Xin Lei (Rylie) Pan",
+          "observed_on": "2026-01-03",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605072400/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Reenie Poon",
+          "observed_on": "2026-01-03",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605018303/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Xin Lei (Rylie) Pan",
+          "observed_on": "2026-01-03",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609452073/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "columnbidet",
+          "observed_on": "2026-01-19",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610641262/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "antoine_vespe",
+          "observed_on": "2026-01-25",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607118410/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Soh Kam Yung",
+          "observed_on": "2026-01-11",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "27",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7480,
@@ -775,7 +1488,663 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 12803,
+      "scientific_name": "Periophthalmus barbarus",
+      "genus": "Periophthalmus",
+      "genus_ja": "トビハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Atlantic mudskipper",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606114980/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "pedromaia",
+        "observed_on": "2026-01-01",
+        "place": "Gambia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606114980/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "pedromaia",
+          "observed_on": "2026-01-01",
+          "place": "Gambia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608117827/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "roswel bruwel",
+          "observed_on": "2026-01-10",
+          "place": "Gabon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607117448/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "riemi",
+          "observed_on": "2026-01-10",
+          "place": "Sao Tome and Principe",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613976474/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alessandro",
+          "observed_on": "2026-02-07",
+          "place": "Angola",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616460281/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "nevwright",
+          "observed_on": "2026-02-06",
+          "place": "Gambia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619807371/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Miloslav Mišík",
+          "observed_on": "2026-02-23",
+          "place": "Gambia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-15",
+          "min": 11,
+          "max": 15
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14.7",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking eyes"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7481,
+      "scientific_name": "Periophthalmus gracilis",
+      "genus": "Periophthalmus",
+      "genus_ja": "トビハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Graceful mudskipper",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/9163581c-3e6d-4dbb-a3af-4059d6e2e104",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/9163581c-3e6d-4dbb-a3af-4059d6e2e104",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607163382/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Erik Atwell",
+          "observed_on": "2026-01-11",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609681799/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Thorsten Hackbarth",
+          "observed_on": "2026-01-07",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610360364/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Axl P.",
+          "observed_on": "2026-01-24",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610655262/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tightontanago",
+          "observed_on": "2026-01-25",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613832555/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rui",
+          "observed_on": "2026-02-06",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7482,
+      "scientific_name": "Periophthalmus kalolo",
+      "genus": "Periophthalmus",
+      "genus_ja": "トビハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Common mudskipper",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623231011/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Mikkel Rødvig",
+        "observed_on": "2026-02-16",
+        "place": "South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623231011/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mikkel Rødvig",
+          "observed_on": "2026-02-16",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644382728/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Francois Libert",
+          "observed_on": "2026-02-22",
+          "place": "Seychelles",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/423387121/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fachrynurmallojr",
+          "observed_on": "2024-08-21",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438953918/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Maël Dewynter",
+          "observed_on": "2024-10-05",
+          "place": "Mayotte",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/216211577/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Juan José Areso",
+          "observed_on": "2022-07-22",
+          "place": "Seychelles",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/287948753/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dawn Goebbels",
+          "observed_on": "2021-10-25",
+          "place": "Kenya",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-16",
+          "min": 8,
+          "max": 16
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14.1",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "striking eyes"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7484,
+      "scientific_name": "Periophthalmus malaccensis",
+      "genus": "Periophthalmus",
+      "genus_ja": "トビハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480765430/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "blackdogto",
+        "observed_on": "2024-03-31",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480765430/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "blackdogto",
+          "observed_on": "2024-03-31",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/84822904/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Albert Kang",
+          "observed_on": "2018-06-28",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5012896&h=1809",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1929-04",
+          "place": "Iloilo, Panay, Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5012908&h=1250",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1913-06-26",
+          "place": "Philippine Islands, Marivelas",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5012888&h=660",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1913-06-26",
+          "place": "Philippine Islands, Manilla Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13364373&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1913-06-26",
+          "place": "Philippine Islands, Manilla Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "9",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7485,
+      "scientific_name": "Periophthalmus minutus",
+      "genus": "Periophthalmus",
+      "genus_ja": "トビハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Minute mudskipper",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195581625/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Cemone Hedges",
+        "observed_on": "2022-05-07",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/195581625/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Cemone Hedges",
+          "observed_on": "2022-05-07",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/235689830/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pete Woodall",
+          "observed_on": "2022-09-10",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90751344/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jock Mackenzie",
+          "observed_on": "2020-08-19",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=f0c9763d-5832-449f-9b33-10f1472ceb21",
+          "source": "GBIF Individual sighting",
+          "license": "CC-BY",
+          "author": "Kenneth & Charmaine Foster-Thomas",
+          "observed_on": "2017-01-02",
+          "place": "Gympie Terrace at Lions Park, Gympie Terrace, Tewantin, Noosa Shire, Queensland, 4566, Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=1aab062b-39a7-489a-bb23-9d97dbc7be87",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Charmaine Chammy Thomas",
+          "observed_on": "2016-11-16",
+          "place": "23 Witta Cir, Noosa Heads QLD 4567, Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5837775/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "John Sear",
+          "observed_on": "2015-06-19",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.8",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 54509,
@@ -905,7 +2274,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7486,
+      "scientific_name": "Periophthalmus novemradiatus",
+      "genus": "Periophthalmus",
+      "genus_ja": "トビハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Pearse's mudskipper",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623220144/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "shantanu_ghosh",
+        "observed_on": "2026-03-07",
+        "place": "India",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623220144/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "shantanu_ghosh",
+          "observed_on": "2026-03-07",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500860614/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "กาญจนา คงบุญรักษ์",
+          "observed_on": "2025-05-06",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469866493/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tushar Agarwal",
+          "observed_on": "2024-07-17",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/464679663/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Elias Thomas",
+          "observed_on": "2024-10-22",
+          "place": "Bangladesh",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/346703816/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "David Phinehas",
+          "observed_on": "2023-03-18",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/318658054/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "James Bailey",
+          "observed_on": "2023-04-13",
+          "place": "Bangladesh",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "62-67",
+          "min": 62,
+          "max": 67
+        },
+        "max_length": "10",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8409,
@@ -1035,7 +2536,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 55510,
+      "scientific_name": "Scartelaos gigas",
+      "genus": "Scartelaos",
+      "genus_ja": "トカゲハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265482619/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "cypraea",
+        "observed_on": "2023-04-06",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265482619/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cypraea",
+          "observed_on": "2023-04-06",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/311438001/large.gif",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "彭啟賢",
+          "observed_on": "2023-08-14",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244471330/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "歐陽秀華",
+          "observed_on": "2022-11-22",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563113499/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "little_mud_fish",
+          "observed_on": "2025-08-17",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575951295/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kieun_kim",
+          "observed_on": "2025-09-21",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585173915/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "taiwan_habu",
+          "observed_on": "2024-10-03",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "17.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7487,
@@ -1165,7 +2798,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

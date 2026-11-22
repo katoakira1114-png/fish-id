@@ -2,9 +2,9 @@
   "family": "Halosauridae",
   "family_ja": "トカゲギス科",
   "family_slug": "halosauridae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 2,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 5,
+  "genera_count": 3,
   "genera": [
     {
       "genus": "Aldrovandia",
@@ -13,7 +13,7 @@
       "examples_ja": [
         "トカゲギス"
       ],
-      "species_count": 1,
+      "species_count": 3,
       "representative_species": "Aldrovandia affinis",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
@@ -45,6 +45,15 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Halosaurus",
+      "ja_name": "Halosaurus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Halosaurus ridgwayi",
+      "photo": null
     }
   ],
   "species": [
@@ -176,7 +185,220 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59483,
+      "scientific_name": "Aldrovandia mediorostris",
+      "genus": "Aldrovandia",
+      "genus_ja": "トカゲギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1875-01-16",
+        "place": "West of Tablas Island, Philippine Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1875-01-16",
+          "place": "West of Tablas Island, Philippine Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "43",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 9012,
+      "scientific_name": "Aldrovandia phalacra",
+      "genus": "Aldrovandia",
+      "genus_ja": "トカゲギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Hawaiian halosaurid fish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://live.staticflickr.com/65535/54086954537_a7f71e79f9_b.jpg",
+        "source": "GBIF Evaluación ambiental de las Colinas y Lomas Submarinas de la Cuenca Pacífico Norte",
+        "license": "CC-BY-NC",
+        "author": "Cristina María Cedeño Posso|Paul Sanacore|Jimmie Peterson",
+        "observed_on": "2022-04-01",
+        "place": "Cordillera Malpelo, monte Boyacá, monte submarino 13mo-op",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://live.staticflickr.com/65535/54086954537_a7f71e79f9_b.jpg",
+          "source": "GBIF Evaluación ambiental de las Colinas y Lomas Submarinas de la Cuenca Pacífico Norte",
+          "license": "CC-BY-NC",
+          "author": "Cristina María Cedeño Posso|Paul Sanacore|Jimmie Peterson",
+          "observed_on": "2022-04-01",
+          "place": "Cordillera Malpelo, monte Boyacá, monte submarino 13mo-op",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001233/1233090.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2014-09-28",
+          "place": "U.S. Atlantic Continental Margin | Gosnold Seamount",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001210/1210192.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2013-07-24",
+          "place": "U.S. Atlantic Continental Margin | Northeast Canyons | Gauntlet Minor Canyon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30088722/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gonzalo Mucientes Sandoval",
+          "observed_on": "2013-08-09",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001573/1573026.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2011-03-24",
+          "place": "Main Hawaiian Islands | Oahu | Waianae",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001572/1572933.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2011-03-25",
+          "place": "Main Hawaiian Islands | Oahu | Waianae",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "50",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6955,
@@ -306,7 +528,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59842,
+      "scientific_name": "Halosaurus ridgwayi",
+      "genus": "Halosaurus",
+      "genus_ja": "Halosaurus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

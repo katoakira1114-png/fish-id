@@ -2,9 +2,9 @@
   "family": "Carcharhinidae",
   "family_ja": "メジロザメ科",
   "family_slug": "carcharhinidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 22,
-  "genera_count": 8,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 31,
+  "genera_count": 9,
   "genera": [
     {
       "genus": "Carcharhinus",
@@ -15,7 +15,7 @@
         "ツマジロ",
         "ハナザメ"
       ],
-      "species_count": 13,
+      "species_count": 21,
       "representative_species": "Carcharhinus albimarginatus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702611488/large.jpg",
@@ -42,6 +42,24 @@
         "author": "Dilshad Farahnaz Tasnima",
         "observed_on": "2023-01-09",
         "place": "Bangladesh",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Lamiopsis",
+      "ja_name": "Lamiopsis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Lamiopsis temminckii",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760715232/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Laksh",
+        "observed_on": "2026-11-07",
+        "place": "India",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -297,7 +315,462 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 859,
+      "scientific_name": "Carcharhinus altimus",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bignose shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/221020181/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Dilshad Farahnaz Tasnima",
+        "observed_on": "2022-08-08",
+        "place": "Bangladesh",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/221020181/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dilshad Farahnaz Tasnima",
+          "observed_on": "2022-08-08",
+          "place": "Bangladesh",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51013194/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1981-07-25",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1674485850357cR368BlhyMDLjxHe",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "D. Partarrieu",
+          "observed_on": "",
+          "place": "Senegal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=267.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "300",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 860,
+      "scientific_name": "Carcharhinus amblyrhynchoides",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Graceful shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723582148/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Baron Parsaulian",
+        "observed_on": "2025-09-17",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/723582148/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Baron Parsaulian",
+          "observed_on": "2025-09-17",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459954799/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Navaneeth Sini George",
+          "observed_on": "2024-12-21",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/283505234/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Martin Whiting",
+          "observed_on": "2023-05-17",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342559939/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Michael Verdirame",
+          "observed_on": "2023-11-18",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d2191cd8-af03-4ae1-9ea1-4e97ba08ba5a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Kurrachee",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/427432ca-bf10-44f3-b1a5-80d7d942eeba",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "182",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 861,
+      "scientific_name": "Carcharhinus amblyrhynchos",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "オグロメジロザメ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Blacktail reef shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/674332415/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Max S",
+        "observed_on": "2026-05-15",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/674332415/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Max S",
+          "observed_on": "2026-05-15",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/694713916/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "BDBishop",
+          "observed_on": "2026-06-29",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698791827/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "BDBishop",
+          "observed_on": "2026-07-01",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/758915793/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "Chris Spain",
+          "observed_on": "2025-05-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/758523324/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "Chris Spain",
+          "observed_on": "2025-05-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519057207/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2025-06-07",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "255",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 863,
+      "scientific_name": "Carcharhinus borneensis",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Borneo shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.7666_Carcharhinus_borneensis_ven/format/large",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Naturalis Biodiversity Center",
+        "observed_on": "1895-01-01",
+        "place": "Pontianak",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.7666_Carcharhinus_borneensis_ven/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "1895-01-01",
+          "place": "Pontianak",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "70",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 864,
@@ -427,7 +900,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 865,
@@ -557,7 +1031,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 867,
@@ -687,7 +1162,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 868,
@@ -817,7 +1293,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 870,
@@ -947,7 +1424,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 871,
+      "scientific_name": "Carcharhinus hemiodon",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Pondicherry shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://medialib.naturalis.nl/file/id/ZMA.PISC.109135_9/format/large",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Naturalis Biodiversity Center",
+        "observed_on": "1899-08-12",
+        "place": "Waigeoe, N.W. Coast Wunoh Bay",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://medialib.naturalis.nl/file/id/ZMA.PISC.109135_9/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "1899-08-12",
+          "place": "Waigeoe, N.W. Coast Wunoh Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_7836.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "2009-11-25",
+          "place": "Pondicherry",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/ZMA.PISC.109154_9/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "1899-08-09",
+          "place": "Z. Borneo, eiland Damar (anchorage north of Salomakiee (=Damar) island.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.34102_Carcharhinus_hemiodon_ven/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "1895-06-07",
+          "place": "W coast",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1622728182517v3qJyV1MFuHC7IF3",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "",
+          "place": "bahia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1470063595956xAljUMn0Sa0ZFSax",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. Randrihasipara",
+          "observed_on": "",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "200",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 873,
+      "scientific_name": "Carcharhinus leucas",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "オオメジロザメ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Bull shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685070563/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kkoshiromoto",
+        "observed_on": "2026-06-22",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/685070563/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kkoshiromoto",
+          "observed_on": "2026-06-22",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610437976/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bmwcyclist",
+          "observed_on": "2026-01-24",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608007750/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jamie Parmenter",
+          "observed_on": "2026-01-13",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608261094/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Daniel Townend",
+          "observed_on": "2026-01-15",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609838158/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aswanso05",
+          "observed_on": "2026-01-17",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607962058/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "suntheren",
+          "observed_on": "2026-01-10",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "360",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 874,
@@ -1077,7 +1817,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 875,
@@ -1207,7 +1948,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 876,
@@ -1337,7 +2079,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 877,
@@ -1467,7 +2210,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 878,
@@ -1597,7 +2341,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 880,
@@ -1727,7 +2472,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 882,
+      "scientific_name": "Carcharhinus sealei",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blackspot shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10919409&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1909-08-16",
+        "place": "Cebu Market",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10919409&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-08-16",
+          "place": "Cebu Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32908462/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "hydradon",
+          "observed_on": "2019-03-16",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=7a1bcbd3-8184-48d1-8c3e-f76ee1548bc8.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "M. Mwale",
+          "observed_on": "2014-09-22",
+          "place": "Richards Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=10052.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra; Elaine Heemstra",
+          "observed_on": "2007-10-23",
+          "place": "Off Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/ddf7c8c3-a52d-4e20-89c1-ef460824b75f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Moluccas",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.7376_b_Carcharhinus_sealei_ven/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "100",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 884,
@@ -1857,7 +2734,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 67456,
+      "scientific_name": "Carcharhinus tjutjot",
+      "genus": "Carcharhinus",
+      "genus_ja": "ヨゴレの仲間",
+      "ja_name": "スミツキザメ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570068665/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "naturalistnkc",
+        "observed_on": "2025-09-21",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/570068665/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "naturalistnkc",
+          "observed_on": "2025-09-21",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635520179/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Henrik Bjerresø",
+          "observed_on": "2026-04-09",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/50d96b7e-040b-4d5e-8ccc-7de43428573f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/427432ca-bf10-44f3-b1a5-80d7d942eeba",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "93.7",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 887,
@@ -1987,7 +2976,129 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 892,
+      "scientific_name": "Lamiopsis temminckii",
+      "genus": "Lamiopsis",
+      "genus_ja": "Lamiopsis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Broadfin shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760715232/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Laksh",
+        "observed_on": "2026-11-07",
+        "place": "India",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760715232/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Laksh",
+          "observed_on": "2026-11-07",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d449cf4d-cbb7-4982-9a70-e7e1077e098d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "No Data, No Data",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10919406&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "",
+          "place": "(Uncertain)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.4292_Lamniopsis_temmincki_ven/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.4293_Lamiopsis_tephrodes_ve/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "160",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 894,
@@ -2117,7 +3228,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 896,
@@ -2247,7 +3359,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 898,
@@ -2377,7 +3490,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 899,
@@ -2507,7 +3621,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 902,
@@ -2637,7 +3752,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 906,
@@ -2767,7 +3883,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 67046,
@@ -2897,7 +4014,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 907,
@@ -3027,7 +4145,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

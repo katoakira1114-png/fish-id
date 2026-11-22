@@ -2,9 +2,9 @@
   "family": "Dinematichthyidae",
   "family_ja": "アカネイタチウオ科",
   "family_slug": "dinematichthyidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 7,
-  "genera_count": 3,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 20,
+  "genera_count": 7,
   "genera": [
     {
       "genus": "Alionematichthys",
@@ -15,7 +15,7 @@
         "ハダカリュウキュウイタチウオ",
         "シノハラリュウキュウイタチウオ"
       ],
-      "species_count": 3,
+      "species_count": 7,
       "representative_species": "Alionematichthys piger",
       "photo": {
         "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=02779.jpg",
@@ -29,6 +29,15 @@
       }
     },
     {
+      "genus": "Brotulinella",
+      "ja_name": "Brotulinella属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Brotulinella taiwanensis",
+      "photo": null
+    },
+    {
       "genus": "Diancistrus",
       "ja_name": "トゲイタチウオの仲間",
       "ja_name_official": false,
@@ -37,7 +46,7 @@
         "サンゴイタチウオ",
         "ランドールイタチウオ"
       ],
-      "species_count": 3,
+      "species_count": 7,
       "representative_species": "Diancistrus fuscus",
       "photo": {
         "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_259.7dcbd86b-5e4b-4d2f-9e5f-2060bcd65c48.jpg?subunit=1024.jpg",
@@ -69,9 +78,158 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Paradiancistrus",
+      "ja_name": "Paradiancistrus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Paradiancistrus cuyoensis",
+      "photo": null
+    },
+    {
+      "genus": "Porocephalichthys",
+      "ja_name": "Porocephalichthys属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Porocephalichthys dasyrhynchus",
+      "photo": null
+    },
+    {
+      "genus": "Ungusurculus",
+      "ja_name": "Ungusurculus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Ungusurculus philippinensis",
+      "photo": null
     }
   ],
   "species": [
+    {
+      "spec_code": 64958,
+      "scientific_name": "Alionematichthys crassiceps",
+      "genus": "Alionematichthys",
+      "genus_ja": "リュウキュウイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bighead viviparous brotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "72-81",
+          "min": 72,
+          "max": 81
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "57-64",
+          "min": 57,
+          "max": 64
+        },
+        "pectoral_rays": {
+          "raw": "20-23",
+          "min": 20,
+          "max": 23
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.3",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 56405,
+      "scientific_name": "Alionematichthys minyomma",
+      "genus": "Alionematichthys",
+      "genus_ja": "リュウキュウイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "71-79",
+          "min": 71,
+          "max": 79
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "55-61",
+          "min": 55,
+          "max": 61
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.79",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 64965,
       "scientific_name": "Alionematichthys piger",
@@ -200,7 +358,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 64960,
+      "scientific_name": "Alionematichthys plicatosurculus",
+      "genus": "Alionematichthys",
+      "genus_ja": "リュウキュウイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Folded viviparous brotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/81d40550-f047-4762-8930-33492f80c29c",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Neu Lauenburg, Bismarck Archipelago",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/81d40550-f047-4762-8930-33492f80c29c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Neu Lauenburg, Bismarck Archipelago",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "76-84",
+          "min": 76,
+          "max": 84
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "60-67",
+          "min": 60,
+          "max": 67
+        },
+        "pectoral_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.9",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 27338,
@@ -330,7 +570,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 64962,
@@ -390,7 +631,130 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 64963,
+      "scientific_name": "Alionematichthys suluensis",
+      "genus": "Alionematichthys",
+      "genus_ja": "リュウキュウイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sulu viviparous brotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "72-82",
+          "min": 72,
+          "max": 82
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "56-64",
+          "min": 56,
+          "max": 64
+        },
+        "pectoral_rays": {
+          "raw": "19-22",
+          "min": 19,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.9",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63192,
+      "scientific_name": "Brotulinella taiwanensis",
+      "genus": "Brotulinella",
+      "genus_ja": "Brotulinella属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Taiwan coralbrotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "68-78",
+          "min": 68,
+          "max": 78
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "52-63",
+          "min": 52,
+          "max": 63
+        },
+        "pectoral_rays": {
+          "raw": "17-21",
+          "min": 17,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23243,
@@ -450,7 +814,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23244,
@@ -530,7 +895,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63201,
@@ -590,7 +956,252 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63206,
+      "scientific_name": "Diancistrus karinae",
+      "genus": "Diancistrus",
+      "genus_ja": "トゲイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Karin's coralbrotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "78-83",
+          "min": 78,
+          "max": 83
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "61-68",
+          "min": 61,
+          "max": 68
+        },
+        "pectoral_rays": {
+          "raw": "18-21",
+          "min": 18,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63219,
+      "scientific_name": "Diancistrus machidai",
+      "genus": "Diancistrus",
+      "genus_ja": "トゲイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Machida's coralbrotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "66-77",
+          "min": 66,
+          "max": 77
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "50-64",
+          "min": 50,
+          "max": 64
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63226,
+      "scientific_name": "Diancistrus springeri",
+      "genus": "Diancistrus",
+      "genus_ja": "トゲイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Springer's coralbrotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "78-84",
+          "min": 78,
+          "max": 84
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "67-71",
+          "min": 67,
+          "max": 71
+        },
+        "pectoral_rays": {
+          "raw": "16-19",
+          "min": 16,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63230,
+      "scientific_name": "Diancistrus vietnamensis",
+      "genus": "Diancistrus",
+      "genus_ja": "トゲイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Vietnam coralbrotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "69-80",
+          "min": 69,
+          "max": 80
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "58-64",
+          "min": 58,
+          "max": 64
+        },
+        "pectoral_rays": {
+          "raw": "17-20",
+          "min": 17,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7300,
@@ -720,7 +1331,252 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63233,
+      "scientific_name": "Paradiancistrus cuyoensis",
+      "genus": "Paradiancistrus",
+      "genus_ja": "Paradiancistrus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Cuyo coralbrotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "76-81",
+          "min": 76,
+          "max": 81
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "62-65",
+          "min": 62,
+          "max": 65
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 24963,
+      "scientific_name": "Porocephalichthys dasyrhynchus",
+      "genus": "Porocephalichthys",
+      "genus_ja": "Porocephalichthys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shaggy cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "88-90",
+          "min": 88,
+          "max": 90
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "68-69",
+          "min": 68,
+          "max": 69
+        },
+        "pectoral_rays": {
+          "raw": "24",
+          "min": 24,
+          "max": 24
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.6",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 64490,
+      "scientific_name": "Ungusurculus philippinensis",
+      "genus": "Ungusurculus",
+      "genus_ja": "Ungusurculus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Philippines viviparous brotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "78-87",
+          "min": 78,
+          "max": 87
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "54-66",
+          "min": 54,
+          "max": 66
+        },
+        "pectoral_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.8",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 64493,
+      "scientific_name": "Ungusurculus williamsi",
+      "genus": "Ungusurculus",
+      "genus_ja": "Ungusurculus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Williams' viviparous brotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "79-85",
+          "min": 79,
+          "max": 85
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "59-63",
+          "min": 59,
+          "max": 63
+        },
+        "pectoral_rays": {
+          "raw": "19-22",
+          "min": 19,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

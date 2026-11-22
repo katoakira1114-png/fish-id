@@ -2,8 +2,8 @@
   "family": "Opistognathidae",
   "family_ja": "アゴアマダイ科",
   "family_slug": "opistognathidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 11,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 20,
   "genera_count": 2,
   "genera": [
     {
@@ -15,7 +15,7 @@
         "ニジアマダイ",
         "アゴアマダイ"
       ],
-      "species_count": 9,
+      "species_count": 15,
       "representative_species": "Opistognathus castelnaui",
       "photo": {
         "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/opicas01sr.tif",
@@ -34,9 +34,10 @@
       "ja_name_official": false,
       "examples_ja": [
         "カエルアマダイ",
+        "ヒメアゴアマダイ",
         "キビレカエルアマダイ"
       ],
-      "species_count": 2,
+      "species_count": 5,
       "representative_species": "Stalix histrio",
       "photo": {
         "url": "http://www.godac.jp/coral/img/956/20110428_3.jpg",
@@ -51,6 +52,67 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 70315,
+      "scientific_name": "Opistognathus albomaculatus",
+      "genus": "Opistognathus",
+      "genus_ja": "ワニアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Whitespotted jawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.73",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 10356,
       "scientific_name": "Opistognathus castelnaui",
@@ -159,7 +221,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 70353,
+      "scientific_name": "Opistognathus challenger",
+      "genus": "Opistognathus",
+      "genus_ja": "ワニアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "19-20",
+          "min": 19,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.64",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 50817,
@@ -219,7 +343,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59041,
+      "scientific_name": "Opistognathus dendriticus",
+      "genus": "Opistognathus",
+      "genus_ja": "ワニアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dendtric jawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625282726/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "barthazes",
+        "observed_on": "2026-03-11",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625282726/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-03-11",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/327197146/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Nicola Crockford",
+          "observed_on": "2023-10-05",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65915530/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Kai Squires",
+          "observed_on": "2014-01-21",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c26d9758-00a8-4bc5-9277-fca5a49c20fe",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Culion, Philippines Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/dc/29/dc2920a8-eb53-4299-969b-32816e21b41c.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "McGregor, Richard C.",
+          "observed_on": "",
+          "place": "Cuyo.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/217861232/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "desertnaturalist",
+          "observed_on": "2022-07-24",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23508,
@@ -299,7 +555,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59033,
+      "scientific_name": "Opistognathus hongkongiensis",
+      "genus": "Opistognathus",
+      "genus_ja": "ワニアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://cdn.floridamuseum.ufl.edu/Fish/38ca04f8-0b2a-4da1-a4e1-b98e93cdb22d",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Florida Museum of Natural History Ichthyology",
+        "observed_on": "2011-10-17",
+        "place": "Pingtung, Hsiao-liu-Chiou Island, SW Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/38ca04f8-0b2a-4da1-a4e1-b98e93cdb22d",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "2011-10-17",
+          "place": "Pingtung, Hsiao-liu-Chiou Island, SW Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/04a0b8cc-f040-4b61-8553-b8b22de58fff",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "From Ca. 20 miles South of Hong Kong (via Aberdeen Fish Market), China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14.18",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23507,
@@ -379,7 +727,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23506,
@@ -459,7 +808,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 50819,
@@ -519,7 +869,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 70318,
@@ -579,7 +930,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 65634,
+      "scientific_name": "Opistognathus randalli",
+      "genus": "Opistognathus",
+      "genus_ja": "ワニアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Gold-specs jawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640694438/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "babarg",
+        "observed_on": "2026-01-08",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640694438/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "babarg",
+          "observed_on": "2026-01-08",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651739972/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Francois Libert",
+          "observed_on": "2026-04-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649878780/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andy",
+          "observed_on": "2026-04-28",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467319003/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Josy Lai",
+          "observed_on": "2025-01-31",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594961931/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Francois Libert",
+          "observed_on": "2025-01-20",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467670994/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Francois Libert",
+          "observed_on": "2025-01-16",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.43",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59030,
+      "scientific_name": "Opistognathus solorensis",
+      "genus": "Opistognathus",
+      "genus_ja": "ワニアマダイの仲間",
+      "ja_name": "ホシカゲアゴアマダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Solor jawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/dd/05/dd05f1cb-aed8-4b9c-b12e-052f6870e438.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Williams, Jeff T.; Carpenter, Kent; Lane, Mark",
+        "observed_on": "2016-04-02",
+        "place": "Zambanguita, Mojon dive site",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/dd/05/dd05f1cb-aed8-4b9c-b12e-052f6870e438.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Williams, Jeff T.; Carpenter, Kent; Lane, Mark",
+          "observed_on": "2016-04-02",
+          "place": "Zambanguita, Mojon dive site",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/e5/c2/e5c2abf9-0bfe-42e6-bff3-de61ec453a10.JPG",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Williams, J.; Catania, David; Pitassy, D.; Dumale, D.",
+          "observed_on": "2015-04-30",
+          "place": "Puerto Galera, off point between White Beach and Bayanan Beach.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/c8/3b/c83b27b3-b6b3-4056-9332-9b7d416278bd.JPG",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Carpenter, K.; Williams, J.; Lizano, A.; Ackiss, A.; Love, W.",
+          "observed_on": "2014-04-27",
+          "place": "Maricaban Island, south shore on coral rubble at Devil's Point dive site.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=4636.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra",
+          "observed_on": "1995-01-10",
+          "place": "Philippines - Bolinao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=03024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra",
+          "observed_on": "1988-01-27",
+          "place": "West coast, off Wanlitong",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256399957/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tsu Soo Tan",
+          "observed_on": "2023-02-15",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.8",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 70317,
@@ -639,7 +1253,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65635,
@@ -769,7 +1384,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23505,
@@ -879,7 +1495,130 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59034,
+      "scientific_name": "Stalix immaculata",
+      "genus": "Stalix",
+      "genus_ja": "カエルアマダイの仲間",
+      "ja_name": "ヒメアゴアマダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59029,
+      "scientific_name": "Stalix sheni",
+      "genus": "Stalix",
+      "genus_ja": "カエルアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 59064,
@@ -939,7 +1678,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59031,
+      "scientific_name": "Stalix versluysi",
+      "genus": "Stalix",
+      "genus_ja": "カエルアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Versluys' jawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "23-24",
+          "min": 23,
+          "max": 24
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.8",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

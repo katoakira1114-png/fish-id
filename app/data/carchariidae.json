@@ -2,8 +2,8 @@
   "family": "Carchariidae",
   "family_ja": "シロワニ科",
   "family_slug": "carchariidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 1,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 2,
   "genera_count": 1,
   "genera": [
     {
@@ -13,7 +13,7 @@
       "examples_ja": [
         "シロワニ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Carcharias taurus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619223242/large.jpg",
@@ -156,7 +156,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 748,
+      "scientific_name": "Carcharias tricuspidatus",
+      "genus": "Carcharias",
+      "genus_ja": "シロワニの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Indian sand tiger",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://dagi.gbif.ch/datasets/set_033dEfsHwjYMa3QTw6rmAs/image_uploads/images/img_034mfXYNdcbj77XsdTuO07/image.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Weber-Lutz, Julius (Jules), Prof. Dr., Technikum Winterthur",
+        "observed_on": "1915-09-28",
+        "place": "Freienstein (1.5 km Radius um Burgruine)",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://dagi.gbif.ch/datasets/set_033dEfsHwjYMa3QTw6rmAs/image_uploads/images/img_034mfXYNdcbj77XsdTuO07/image.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Weber-Lutz, Julius (Jules), Prof. Dr., Technikum Winterthur",
+          "observed_on": "1915-09-28",
+          "place": "Freienstein (1.5 km Radius um Burgruine)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://files.geocollections.info/medium/eb/e8/ebe8557d-e977-4ee6-aa74-00b23620a467.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Wahl|Wahl",
+          "observed_on": "",
+          "place": "Ahnatal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://files.geocollections.info/medium/54/43/5443d921-7c1a-4831-a85e-ce5aba506ee0.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Wahl|Wahl",
+          "observed_on": "",
+          "place": "Weinheim",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://files.geocollections.info/medium/3b/1d/3b1d978f-0dce-4f84-90b9-f58b4889f3bd.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Wahl|Wahl",
+          "observed_on": "",
+          "place": "Weinheim",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://files.geocollections.info/medium/45/2c/452cfe48-d751-4a94-9174-36788c559c46.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Wahl|Wahl",
+          "observed_on": "",
+          "place": "Ahnatal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://files.geocollections.info/medium/9e/02/9e0243fb-6b40-4172-acc9-a74667b993d8.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "",
+          "observed_on": "",
+          "place": "Budapest",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "370",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

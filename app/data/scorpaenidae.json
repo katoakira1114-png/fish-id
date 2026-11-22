@@ -2,18 +2,19 @@
   "family": "Scorpaenidae",
   "family_ja": "フサカサゴ科",
   "family_slug": "scorpaenidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 68,
-  "genera_count": 20,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 91,
+  "genera_count": 22,
   "genera": [
     {
       "genus": "Brachypterois",
       "ja_name": "ノコギリカサゴの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "ノコギリカサゴ"
+        "ノコギリカサゴ",
+        "ヨコバノコギリカサゴ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Brachypterois serrulata",
       "photo": {
         "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/braser01sr.tif",
@@ -141,6 +142,28 @@
       }
     },
     {
+      "genus": "Neomerinthe",
+      "ja_name": "ヤブサメカサゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヤブサメカサゴ",
+        "マツバラカサゴ",
+        "オボロマツバラカサゴ"
+      ],
+      "species_count": 6,
+      "representative_species": "Neomerinthe amplisquamiceps",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11029046&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1909-03-13",
+        "place": "Tubig Point, North 49 degrees East, 5 miles; Between Samar and Masbate",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Parapterois",
       "ja_name": "セトミノカサゴの仲間",
       "ja_name_official": false,
@@ -169,7 +192,7 @@
         "トゲイッテンフサカサゴ",
         "チブルネッタイフサカサゴ"
       ],
-      "species_count": 4,
+      "species_count": 6,
       "representative_species": "Parascorpaena aurita",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342200895/large.jpg",
@@ -183,13 +206,33 @@
       }
     },
     {
+      "genus": "Phenacoscorpius",
+      "ja_name": "キサンゴカサゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "キサンゴカサゴ"
+      ],
+      "species_count": 1,
+      "representative_species": "Phenacoscorpius megalops",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172548717/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Ken Graham",
+        "observed_on": "1978-11-06",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Pontinus",
       "ja_name": "ヒオドシの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "ヒオドシ"
       ],
-      "species_count": 1,
+      "species_count": 3,
       "representative_species": "Pontinus macrocephalus",
       "photo": {
         "url": "http://mediaphoto.mnhn.fr/media/1539778863062wePrK9UyISpXv0s0",
@@ -210,7 +253,7 @@
         "ツノカサゴ",
         "シノノメツノカサゴ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Pteroidichthys amboinensis",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626306999/large.jpg",
@@ -232,7 +275,7 @@
         "キミオコゼ",
         "ハナミノカサゴ"
       ],
-      "species_count": 6,
+      "species_count": 8,
       "representative_species": "Pterois antennata",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613768678/large.jpg",
@@ -276,7 +319,7 @@
         "フサカサゴ",
         "コクチフサカサゴ"
       ],
-      "species_count": 6,
+      "species_count": 9,
       "representative_species": "Scorpaena izensis",
       "photo": {
         "url": "https://collections.nmnh.si.edu/media/?i=11029059&h=2000",
@@ -298,7 +341,7 @@
         "グアムカサゴ",
         "フリソデカサゴ"
       ],
-      "species_count": 10,
+      "species_count": 11,
       "representative_species": "Scorpaenodes albaiensis",
       "photo": {
         "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/39/e8/39e8574c-8a47-4389-8899-486b88570b2c.JPG",
@@ -317,10 +360,10 @@
       "ja_name_official": false,
       "examples_ja": [
         "オニカサゴ",
-        "ニライカサゴ",
-        "サツマカサゴ"
+        "イヌカサゴ",
+        "ニライカサゴ"
       ],
-      "species_count": 12,
+      "species_count": 14,
       "representative_species": "Scorpaenopsis cirrosa",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724903698/large.jpg",
@@ -342,7 +385,7 @@
         "プチフサカサゴ",
         "カスリフサカサゴ"
       ],
-      "species_count": 7,
+      "species_count": 9,
       "representative_species": "Sebastapistes cyanostigma",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255824908/large.jpg",
@@ -516,7 +559,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 67875,
+      "scientific_name": "Brachypterois serrulifer",
+      "genus": "Brachypterois",
+      "genus_ja": "ノコギリカサゴの仲間",
+      "ja_name": "ヨコバノコギリカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Sawmaxilla scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7873,
@@ -646,7 +751,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12899,
@@ -776,7 +882,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8241,
@@ -836,7 +943,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5827,
@@ -966,7 +1074,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4912,
@@ -1096,7 +1205,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69528,
@@ -1156,7 +1266,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5828,
@@ -1286,7 +1397,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10384,
@@ -1416,7 +1528,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59207,
@@ -1476,7 +1589,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23875,
@@ -1556,7 +1670,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7780,
@@ -1686,7 +1801,574 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 11662,
+      "scientific_name": "Neomerinthe amplisquamiceps",
+      "genus": "Neomerinthe",
+      "genus_ja": "ヤブサメカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Orange scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11029046&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1909-03-13",
+        "place": "Tubig Point, North 49 degrees East, 5 miles; Between Samar and Masbate",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029046&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-03-13",
+          "place": "Tubig Point, North 49 degrees East, 5 miles; Between Samar and Masbate",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029045&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-06-08",
+          "place": "Verde Island Passage and Batangas Bay, Matocot Point, South 22 degrees East, 7 miles; Verde Island Passage and Batangas Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029043&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-06-08",
+          "place": "Verde Island Passage and Batangas Bay, Matocot Point, South 22 degrees East, 7 miles; Verde Island Passage and Batangas Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 67257,
+      "scientific_name": "Neomerinthe erostris",
+      "genus": "Neomerinthe",
+      "genus_ja": "ヤブサメカサゴの仲間",
+      "ja_name": "ヤブサメカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Round scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/7e/18/7e1889d1-dde8-4e5f-943d-a83ce8c41e7c.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Chen, L.-C.",
+        "observed_on": "1978-07-15",
+        "place": "Landed at Chung-chou by small trawler operated off Kachsiung.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/7e/18/7e1889d1-dde8-4e5f-943d-a83ce8c41e7c.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Chen, L.-C.",
+          "observed_on": "1978-07-15",
+          "place": "Landed at Chung-chou by small trawler operated off Kachsiung.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/6b/f4/6bf4d502-0510-4851-8df4-c6bca2ebc9b6.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "crew of DA-BFAR",
+          "observed_on": "2011-06-01",
+          "place": "Between Luzon I. and Mindoro I.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029063&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-07-30",
+          "place": "Cabugan Grande Island (North), North 87 degrees West, 4.5 miles; Between Samar and Leyte, vicinity of Surigao Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539763043031TiSkzdJTwpsCJaS5",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "2004-11-03",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539763042490d4YvFrOaMDJzXbRS",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "1987-05-21",
+          "place": "$$$$",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539763038759oOJTogtaviV9D0V1",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "1982-08-22",
+          "place": "saline",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "11.6",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 68344,
+      "scientific_name": "Neomerinthe kaufmani",
+      "genus": "Neomerinthe",
+      "genus_ja": "ヤブサメカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.9",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10636,
+      "scientific_name": "Neomerinthe megalepis",
+      "genus": "Neomerinthe",
+      "genus_ja": "ヤブサメカサゴの仲間",
+      "ja_name": "オボロマツバラカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://mediaphoto.mnhn.fr/media/1539763041932k9BeP4ayvz8WzYA1",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Motomura H.",
+        "observed_on": "1986-10-09",
+        "place": "$$$",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539763041932k9BeP4ayvz8WzYA1",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "1986-10-09",
+          "place": "$$$",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539763044077WwiN8zkIqaU1FCqD",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "1985-01-24",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539763035247cFyQ5dzEOzQUOZMZ",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "9.4",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59577,
+      "scientific_name": "Neomerinthe pallidimacula",
+      "genus": "Neomerinthe",
+      "genus_ja": "ヤブサメカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11029041&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1908-05-14",
+        "place": "Uanivan Island (North), South 68 degrees East, 3 miles; Pujada Bay and vicinity",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029041&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-05-14",
+          "place": "Uanivan Island (North), South 68 degrees East, 3 miles; Pujada Bay and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10635,
+      "scientific_name": "Neomerinthe procurva",
+      "genus": "Neomerinthe",
+      "genus_ja": "ヤブサメカサゴの仲間",
+      "ja_name": "マツバラカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Curvedspine scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/2e/5b/2e5b8094-92f4-4bc5-b278-3adbe683a650.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Chen, L.-C.",
+        "observed_on": "1977-02-12",
+        "place": "Off Ta-chi.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/2e/5b/2e5b8094-92f4-4bc5-b278-3adbe683a650.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Chen, L.-C.",
+          "observed_on": "1977-02-12",
+          "place": "Off Ta-chi.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/neopro01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "1900-01",
+          "place": "Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.1",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7917,
@@ -1816,7 +2498,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 27438,
@@ -1946,7 +2629,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 27440,
+      "scientific_name": "Parascorpaena bandanensis",
+      "genus": "Parascorpaena",
+      "genus_ja": "ネッタイフサカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Banda scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/61672eb4-8e2b-408e-a809-5797f571ee70",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1970-06-17",
+        "place": "Trobriand Island, Kiriwinna (New Guinea); Bottom: Coral,  sand in  gutter between coral",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/61672eb4-8e2b-408e-a809-5797f571ee70",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1970-06-17",
+          "place": "Trobriand Island, Kiriwinna (New Guinea); Bottom: Coral,  sand in  gutter between coral",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=1781.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1973-01-01",
+          "place": "Mozambique - Ibo",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 52303,
@@ -2046,7 +2821,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5809,
@@ -2176,7 +2952,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5810,
@@ -2306,7 +3083,220 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8296,
+      "scientific_name": "Parascorpaena picta",
+      "genus": "Parascorpaena",
+      "genus_ja": "ネッタイフサカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Northern scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/parpic01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2009-05-09",
+        "place": "Haikou, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/parpic01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-05-09",
+          "place": "Haikou, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/31/73/3173f581-842b-48c2-9e7a-668da47bbd7c.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Williams, Jeff T.; Carpenter, Kent; Dumale, Don; Catania, David; Lane, Mark; Mendoza, William (dive guide)",
+          "observed_on": "2016-04-17",
+          "place": "Ligpo (dive site)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/688445276/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Lawrence Hylton",
+          "observed_on": "2026-06-27",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/706053699/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "dexasone",
+          "observed_on": "2026-07-27",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542584216/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-07-26",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/601955911/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Lumin Ong",
+          "observed_on": "2025-11-09",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "17.9",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 46985,
+      "scientific_name": "Phenacoscorpius megalops",
+      "genus": "Phenacoscorpius",
+      "genus_ja": "キサンゴカサゴの仲間",
+      "ja_name": "キサンゴカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Noline scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172548717/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Ken Graham",
+        "observed_on": "1978-11-06",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172548717/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1978-11-06",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.5",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8280,
@@ -2416,7 +3406,291 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56754,
+      "scientific_name": "Pontinus rhodochrous",
+      "genus": "Pontinus",
+      "genus_ja": "ヒオドシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://mediaphoto.mnhn.fr/media/15397788625267PqqNuSYFTWwjkSt",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Motomura H.",
+        "observed_on": "",
+        "place": "ki(i.)",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/15397788625267PqqNuSYFTWwjkSt",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "",
+          "place": "ki(i.)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001790/1790507.png",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2024-09-22",
+          "place": "American Samoa | Northeast Bank",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/15397788635508hkmurpNJyntyQhp",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "1994-10-11",
+          "place": "Vanuatu",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539778865537X93vNh0IL3i0KhZK",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "1985-09-18",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1539778865105NFoxOPculU11cbmj",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Motomura H.",
+          "observed_on": "1985-09-17",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f921da5b-482d-4216-a130-cbefd5d58de2",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1874-09-26",
+          "place": "West of Kai Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 55334,
+      "scientific_name": "Pontinus tentacularis",
+      "genus": "Pontinus",
+      "genus_ja": "ヒオドシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/ponten01sl.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2009-02-15",
+        "place": "Nanfang'ao, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/ponten01sl.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-02-15",
+          "place": "Nanfang'ao, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029047&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-08-09",
+          "place": "Point Tagolo Lighthouse, South 71 degrees West, 8.7 miles; Northern Mindanao and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 67914,
+      "scientific_name": "Pteroidichthys acutus",
+      "genus": "Pteroidichthys",
+      "genus_ja": "ツノカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longsnout weedy scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.08",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23889,
@@ -2546,7 +3820,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63315,
@@ -2606,7 +3881,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4914,
@@ -2736,7 +4012,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13132,
@@ -2866,7 +4143,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7797,
+      "scientific_name": "Pterois miles",
+      "genus": "Pterois",
+      "genus_ja": "ミノカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Devil firefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604543677/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "davidbeo",
+        "observed_on": "2026-01-01",
+        "place": "Kenya",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604543677/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "davidbeo",
+          "observed_on": "2026-01-01",
+          "place": "Kenya",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608135512/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marleen Schouten",
+          "observed_on": "2026-01-06",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606386279/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Boris",
+          "observed_on": "2026-01-08",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608666282/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marleen Schouten",
+          "observed_on": "2026-01-08",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608134300/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marleen Schouten",
+          "observed_on": "2026-01-06",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607879654/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvia Wolf",
+          "observed_on": "2026-01-08",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "43",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10288,
+      "scientific_name": "Pterois mombasae",
+      "genus": "Pterois",
+      "genus_ja": "ミノカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Frillfin turkeyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632324804/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sandrinelecomte13",
+        "observed_on": "2026-02-05",
+        "place": "Tanzania, United Republic of",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632324804/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sandrinelecomte13",
+          "observed_on": "2026-02-05",
+          "place": "Tanzania, United Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624895805/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Steve Widdicombe",
+          "observed_on": "2026-03-15",
+          "place": "United Arab Emirates",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472080191/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "loraxoftheseas",
+          "observed_on": "2025-02-23",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546793709/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bathi999natureaddicter",
+          "observed_on": "2025-06-12",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585169446/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bathi999natureaddicter",
+          "observed_on": "2025-10-08",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583996092/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "João Lole",
+          "observed_on": "2025-10-24",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 68172,
@@ -2946,7 +4486,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4913,
@@ -3076,7 +4617,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6404,
@@ -3206,7 +4748,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5195,
@@ -3336,7 +4879,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23883,
@@ -3416,7 +4960,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 25845,
@@ -3546,7 +5091,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5823,
@@ -3676,7 +5222,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23884,
@@ -3756,7 +5303,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63854,
@@ -3816,7 +5364,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23879,
@@ -3876,7 +5425,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59204,
+      "scientific_name": "Scorpaena hemilepidota",
+      "genus": "Scorpaena",
+      "genus_ja": "イズカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12553,
@@ -3956,7 +5567,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23877,
@@ -4086,7 +5698,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12554,
@@ -4206,7 +5819,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23876,
@@ -4336,7 +5950,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 64000,
+      "scientific_name": "Scorpaena pepo",
+      "genus": "Scorpaena",
+      "genus_ja": "イズカサゴの仲間",
+      "ja_name": "カボチャフサカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Pumpkin scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "24.51",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1758,
+      "scientific_name": "Scorpaena porcus",
+      "genus": "Scorpaena",
+      "genus_ja": "イズカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Black scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620025/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Frédéric ANDRE",
+        "observed_on": "2026-01-03",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620025/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-03",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605606672/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Héctor Ibáñez Cantero",
+          "observed_on": "2026-01-04",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605178468/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cescgv",
+          "observed_on": "2026-01-02",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620037/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-03",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604503292/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Hugo Roignant-Touber",
+          "observed_on": "2026-01-01",
+          "place": "Italy",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605620020/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-03",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "4-6",
+          "min": 4,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7313,
@@ -4466,7 +6273,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59562,
@@ -4596,7 +6404,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5819,
@@ -4726,7 +6535,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5815,
@@ -4856,7 +6666,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5816,
@@ -4986,7 +6797,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5817,
@@ -5116,7 +6928,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4915,
@@ -5246,7 +7059,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60274,
@@ -5336,7 +7150,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7314,
@@ -5456,7 +7271,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 11692,
+      "scientific_name": "Scorpaenodes smithi",
+      "genus": "Scorpaenodes",
+      "genus_ja": "イソカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Little scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/6939c136-2092-429c-ac79-25f712f1db7e",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1923-05-01",
+        "place": "West of Malaya, 80 miles south of Penang. Entangled in coelanterates, found on cable. Cable ship \"Patrol\" May 1923.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/6939c136-2092-429c-ac79-25f712f1db7e",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1923-05-01",
+          "place": "West of Malaya, 80 miles south of Penang. Entangled in coelanterates, found on cable. Cable ship \"Patrol\" May 1923.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a566f38d-0cac-4e26-99a2-fc00b197d711",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Strait of Malacca",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d409d9d5-1ace-40ec-9abe-7820c27f495b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Madras PN II cable, 88 N/M, from PN.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d750e451-4562-4823-9896-0110a3329082",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sakul Bank, Arafura Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "16-19",
+          "min": 16,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.7",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5818,
@@ -5586,7 +7513,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12080,
@@ -5716,7 +7644,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59205,
@@ -5776,7 +7705,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4921,
@@ -5906,7 +7836,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7918,
@@ -6036,7 +7967,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5820,
@@ -6166,7 +8098,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12555,
@@ -6296,7 +8229,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59497,
+      "scientific_name": "Scorpaenopsis obtusa",
+      "genus": "Scorpaenopsis",
+      "genus_ja": "オニカサゴの仲間",
+      "ja_name": "シラユキカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Shortsnout scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256773867/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "uwkwaj",
+        "observed_on": "2019-04-30",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256773867/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "uwkwaj",
+          "observed_on": "2019-04-30",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256773879/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "uwkwaj",
+          "observed_on": "2019-05-05",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112707420/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Franca Wermuth",
+          "observed_on": "2016-03-23",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5017301&h=1525",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1908-02-24",
+          "place": "Sulu Archipelago, Tawi Tawi Group, Observation Island, N. 70 degrees W., 6.40 miles.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651243661/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Eva Paulus",
+          "observed_on": "2026-05-01",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574597046/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "FarangBuddha",
+          "observed_on": "2025-10-01",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "20-21",
+          "min": 20,
+          "max": 21
+        },
+        "max_length": "10",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 59498,
@@ -6356,7 +8421,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5822,
@@ -6416,7 +8482,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 56815,
@@ -6546,7 +8613,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59500,
@@ -6676,7 +8744,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59506,
+      "scientific_name": "Scorpaenopsis ramaraoi",
+      "genus": "Scorpaenopsis",
+      "genus_ja": "オニカサゴの仲間",
+      "ja_name": "イヌカサゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Rama Rao's scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/3a/40/3a4021cf-cd6e-4b50-bbaa-eed1ee285848.JPG",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Williams, J.; Carpenter, K.; Catania, David; Dumale, D.; Eyre, J.",
+        "observed_on": "2015-04-16",
+        "place": "Puerto Galera,  just a little north of \"Boulders\" dive site.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/3a/40/3a4021cf-cd6e-4b50-bbaa-eed1ee285848.JPG",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Williams, J.; Carpenter, K.; Catania, David; Dumale, D.; Eyre, J.",
+          "observed_on": "2015-04-16",
+          "place": "Puerto Galera,  just a little north of \"Boulders\" dive site.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/07/32/073250c8-4497-4e52-be87-ec78b7996c70.JPG",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Ackiss, A.; Biesack, E.; Catania, David",
+          "observed_on": "2014-05-10",
+          "place": "Calatagan; Batangas; Caritunan Reef",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615721206/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "telboon",
+          "observed_on": "2026-02-14",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653438483/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Niran Anurakpongsathorn",
+          "observed_on": "2026-05-04",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576286871/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Misho Rusev",
+          "observed_on": "2025-09-16",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603767268/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Niran Anurakpongsathorn",
+          "observed_on": "2025-12-29",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "22-24",
+          "min": 22,
+          "max": 24
+        },
+        "max_length": "20.8",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7919,
@@ -6806,7 +9006,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59507,
@@ -6936,7 +9137,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5811,
@@ -7066,7 +9268,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5821,
@@ -7196,7 +9399,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5812,
@@ -7326,7 +9530,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5813,
@@ -7456,7 +9661,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 52966,
+      "scientific_name": "Sebastapistes nuchalis",
+      "genus": "Sebastapistes",
+      "genus_ja": "ニラミカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=1304.tif",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Richard Winterbottom",
+        "observed_on": "1976-07-28",
+        "place": "Reef 6.5km N of Island Rock",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=1304.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Richard Winterbottom",
+          "observed_on": "1976-07-28",
+          "place": "Reef 6.5km N of Island Rock",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f921da5b-482d-4216-a130-cbefd5d58de2",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c8470e57-7c02-4a90-8bce-c4170573be63",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Rarotonga, Cook's Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/127aa1fb-6130-4a32-b8a1-bdac05ca21e1",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Ponape, East Caroline Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/22848f9a-7964-4d26-9134-193a26b0710f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Gilbert & Ellice Islands, S.W. outer reef, Betio, Tarawa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/cf116f37-8a20-434f-a374-4eb1d9e6b16c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Seychelles",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.16",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 69303,
@@ -7516,7 +9853,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5814,
@@ -7646,7 +9984,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 64891,
+      "scientific_name": "Sebastapistes taeniophrys",
+      "genus": "Sebastapistes",
+      "genus_ja": "ニラミカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Eyebrow scorpionfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "2.5",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 16869,
@@ -7776,7 +10176,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5824,
@@ -7906,7 +10307,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23874,
@@ -8006,7 +10408,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59569,
@@ -8066,7 +10469,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

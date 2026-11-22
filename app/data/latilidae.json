@@ -2,8 +2,8 @@
   "family": "Latilidae",
   "family_ja": "アマダイ科",
   "family_slug": "latilidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 4,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 8,
   "genera_count": 1,
   "genera": [
     {
@@ -15,7 +15,7 @@
         "シロアマダイ",
         "アカアマダイ"
       ],
-      "species_count": 4,
+      "species_count": 8,
       "representative_species": "Branchiostegus albus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595811454/large.jpg",
@@ -158,7 +158,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4594,
@@ -288,7 +289,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4595,
@@ -408,7 +410,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15370,
+      "scientific_name": "Branchiostegus ilocanus",
+      "genus": "Branchiostegus",
+      "genus_ja": "キアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "27",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4593,
@@ -538,7 +602,251 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 66509,
+      "scientific_name": "Branchiostegus saitoi",
+      "genus": "Branchiostegus",
+      "genus_ja": "キアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "18",
+          "min": 18,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "32.9",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7649,
+      "scientific_name": "Branchiostegus sawakinensis",
+      "genus": "Branchiostegus",
+      "genus_ja": "キアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Freckled tilefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=9730.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "P.C. Heemstra; Elaine Heemstra",
+        "observed_on": "2007-10-08",
+        "place": "Off Mozambique",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=9730.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra; Elaine Heemstra",
+          "observed_on": "2007-10-08",
+          "place": "Off Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2a4aa321-5d8b-41ea-ad8c-78c07fb303d2",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Port Suakin, Red Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/99ba4e9c-be2a-4637-aeeb-a4303758045c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Natal Coast, South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/425d69a1-6785-48cd-a82c-c0196da842ed",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Suakin,  Red Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=25a50bd7-cdf4-4c76-b8f9-0a6d200b82f7",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Bernard Yau",
+          "observed_on": "",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "60",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15375,
+      "scientific_name": "Branchiostegus vittatus",
+      "genus": "Branchiostegus",
+      "genus_ja": "キアマダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "24",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

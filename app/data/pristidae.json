@@ -2,9 +2,9 @@
   "family": "Pristidae",
   "family_ja": "ノコギリエイ科",
   "family_slug": "pristidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 4,
+  "genera_count": 2,
   "genera": [
     {
       "genus": "Anoxypristis",
@@ -22,6 +22,26 @@
         "author": "Adam Z. Andis",
         "observed_on": "",
         "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Pristis",
+      "ja_name": "オオノコギリエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オオノコギリエイ"
+      ],
+      "species_count": 3,
+      "representative_species": "Pristis microdon",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/16589336263256Pn0MTeonCZwNJcV",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "J. PFLIGER",
+        "observed_on": "1968-04-30",
+        "place": "Madagascar",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -156,7 +176,401 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 2546,
+      "scientific_name": "Pristis microdon",
+      "genus": "Pristis",
+      "genus_ja": "オオノコギリエイの仲間",
+      "ja_name": "オオノコギリエイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Largetooth sawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/16589336263256Pn0MTeonCZwNJcV",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "J. PFLIGER",
+        "observed_on": "1968-04-30",
+        "place": "Madagascar",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/16589336263256Pn0MTeonCZwNJcV",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "1968-04-30",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1490/339/8182_X226_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "",
+          "place": "Rio Tuyra, Marriganti",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1490/340/8183_X209_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "",
+          "place": "Rio Tuyra, Marriganti",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1490/341/8184_X225_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "",
+          "place": "Rio Tuyra, Marriganti",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1490/344/8186_X219_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "",
+          "place": "Rio Tuyra, Marriganti",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1490/345/8187_X218_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "",
+          "place": "Rio Tuyra, Marriganti",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "700",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 2057,
+      "scientific_name": "Pristis pectinata",
+      "genus": "Pristis",
+      "genus_ja": "オオノコギリエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Smalltooth sawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://iiif.coeli.cat/iiif/ICUB-NAT/HeritageObject/N885623/full/max/0/default.jpg",
+        "source": "GBIF Museu de Ciències Naturals de Barcelona: MCNB-Cord",
+        "license": "CC-BY",
+        "author": "©MCNB",
+        "observed_on": "",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://iiif.coeli.cat/iiif/ICUB-NAT/HeritageObject/N885623/full/max/0/default.jpg",
+          "source": "GBIF Museu de Ciències Naturals de Barcelona: MCNB-Cord",
+          "license": "CC-BY",
+          "author": "©MCNB",
+          "observed_on": "",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605910503/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marshall",
+          "observed_on": "2026-01-05",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621917059/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "George Hough",
+          "observed_on": "2026-03-06",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623231627/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "arolson",
+          "observed_on": "2026-03-10",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660646236/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "diego",
+          "observed_on": "2026-04-18",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658585477/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "shmavin",
+          "observed_on": "2026-04-26",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "760",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7956,
+      "scientific_name": "Pristis zijsron",
+      "genus": "Pristis",
+      "genus_ja": "オオノコギリエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longcomb sawfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656421887/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "littlebrownskink",
+        "observed_on": "2026-05-09",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656421887/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "littlebrownskink",
+          "observed_on": "2026-05-09",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500900794/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bridgetnolan",
+          "observed_on": "2025-04-30",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502197548/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bridgetnolan",
+          "observed_on": "2025-05-01",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/502197307/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bridgetnolan",
+          "observed_on": "2025-05-01",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/420631029/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Josh Magro",
+          "observed_on": "2024-08-17",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442173707/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "rg333",
+          "observed_on": "2024-10-06",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "730",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

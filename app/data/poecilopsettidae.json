@@ -2,32 +2,647 @@
   "family": "Poecilopsettidae",
   "family_ja": "カワラガレイ科",
   "family_slug": "poecilopsettidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 7,
+  "genera_count": 2,
   "genera": [
+    {
+      "genus": "Nematops",
+      "ja_name": "Nematops属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Nematops macrochirus",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10946286&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1908-04-05",
+        "place": "Cebu Market",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Poecilopsetta",
       "ja_name": "カワラガレイの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "カワラガレイ"
+        "カワラガレイ",
+        "ゴマフカワガレイ",
+        "ホオバカワラガレイ"
       ],
-      "species_count": 1,
-      "representative_species": "Poecilopsetta plinthus",
+      "species_count": 6,
+      "representative_species": "Poecilopsetta colorata",
       "photo": {
-        "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp66417127256030687711.att.JPG",
-        "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+        "url": "https://mediaphoto.mnhn.fr/media/1604329140002X1LSgcw55JBQnWso",
+        "source": "GBIF",
         "license": "CC-BY",
-        "author": "University of Kansas Biodiversity Institute",
-        "observed_on": "1997-07-17",
-        "place": "Tosa Bay",
+        "author": "P. Pruvost",
+        "observed_on": "1985-06-02",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
     }
   ],
   "species": [
+    {
+      "spec_code": 15176,
+      "scientific_name": "Nematops macrochirus",
+      "genus": "Nematops",
+      "genus_ja": "Nematops属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Narrow-body righteye flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10946286&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1908-04-05",
+        "place": "Cebu Market",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10946286&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-04-05",
+          "place": "Cebu Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1582712029729wI9HqKewqhRpxI7i",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "2001-10-02",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170854223/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1978-04-25",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f49fe3ca-d396-4da1-a216-b4041b77417c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Bali Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "65-68",
+          "min": 65,
+          "max": 68
+        },
+        "max_length": "15",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10581,
+      "scientific_name": "Poecilopsetta colorata",
+      "genus": "Poecilopsetta",
+      "genus_ja": "カワラガレイの仲間",
+      "ja_name": "ゴマフカワガレイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Coloured righteye flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1604329140002X1LSgcw55JBQnWso",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "P. Pruvost",
+        "observed_on": "1985-06-02",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604329140002X1LSgcw55JBQnWso",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1985-06-02",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10946310&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-07-16",
+          "place": "Malavatuan Island (North), South 71 degrees East, 10.75 miles; China Sea, vicinity southern Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258410861KQ0jBgvXaTArEima",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-06-30",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713257647226Cwq93R7Wwu8EZKV9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-06-27",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713257656663MExGVdlNFt2aAq69",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-06-29",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258158010PqfG1P3iBXU05TGq",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-10-23",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "56-61",
+          "min": 56,
+          "max": 61
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "46-50",
+          "min": 46,
+          "max": 50
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "90-95",
+          "min": 90,
+          "max": 95
+        },
+        "max_length": "17",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59208,
+      "scientific_name": "Poecilopsetta dorsialta",
+      "genus": "Poecilopsetta",
+      "genus_ja": "カワラガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/16043292985553hEwxUXEQPP07Luq",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "P. Pruvost",
+        "observed_on": "1985-06-06",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/16043292985553hEwxUXEQPP07Luq",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1985-06-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604329298129v6VykHMZfbwYju9U",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "2001-10-05",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "58-62",
+          "min": 58,
+          "max": 62
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "45-52",
+          "min": 45,
+          "max": 52
+        },
+        "pectoral_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "73-83",
+          "min": 73,
+          "max": 83
+        },
+        "max_length": "11.16",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 58868,
+      "scientific_name": "Poecilopsetta hawaiiensis",
+      "genus": "Poecilopsetta",
+      "genus_ja": "カワラガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1604393322629ueYuR4o8IBpvofUR",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "P. Pruvost",
+        "observed_on": "1968-03-27",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604393322629ueYuR4o8IBpvofUR",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1968-03-27",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604393323040y9lCvecB73EMf2Dm",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1968-04-28",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604393322265mUfpbRZLNzATZ0mN",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1967-11-14",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604393320710YAt14h8Y7UlxV0qI",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1967-11-11",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604393325722f1WvyUXmWbLbzjkJ",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1967-11-04",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10946313&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1902-03-27",
+          "place": "Honolulu Lighthouse, North 2 degrees, East 2.4'; South coast of Oahu Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8905,
+      "scientific_name": "Poecilopsetta natalensis",
+      "genus": "Poecilopsetta",
+      "genus_ja": "カワラガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "African righteye flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1713258291323wwZ8jNlScoSFHN9p",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "A. Dettai",
+        "observed_on": "2009-06-27",
+        "place": "Madagascar",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258291323wwZ8jNlScoSFHN9p",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-06-27",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-4458932374913000510.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Alan D. Connell; Knud Sorensen",
+          "observed_on": "2009-06-15",
+          "place": "Tugela Bank",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258184728SEtGQJ6Yod0P2oic",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-10",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258228477sDnW25EmXHEoWmf2",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-11",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258310643OhIB3O5VUXitA2xb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-12",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258308036hyfdcOF3BqDcwTM9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-06",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "60-62",
+          "min": 60,
+          "max": 62
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "51-54",
+          "min": 51,
+          "max": 54
+        },
+        "pectoral_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "70-82",
+          "min": 70,
+          "max": 82
+        },
+        "max_length": "15",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 15180,
       "scientific_name": "Poecilopsetta plinthus",
@@ -156,7 +771,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10582,
+      "scientific_name": "Poecilopsetta praelonga",
+      "genus": "Poecilopsetta",
+      "genus_ja": "カワラガレイの仲間",
+      "ja_name": "ホオバカワラガレイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Alcock's narrow-body righteye flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1604484651065owMiuM5WWYuOmCCK",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "P. Pruvost",
+        "observed_on": "1985-06-03",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604484651065owMiuM5WWYuOmCCK",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1985-06-03",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604484650643GkWcy80s4jGkEHR0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1985-06-01",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1741707687332DUxQorsRjzMLQMAn",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "2004-10-28",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1604484641445PeKJRro9RrzXTZf6",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P. Pruvost",
+          "observed_on": "1997-08-26",
+          "place": "$$$",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/978299a6-21b3-419e-bd62-00730b5ff4da",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1979-07-14",
+          "place": "Java/Bali, Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d80c4884-8127-4162-a554-6e3973e02093",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Andaman Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "70",
+          "min": 70,
+          "max": 70
+        },
+        "max_length": "17.5",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

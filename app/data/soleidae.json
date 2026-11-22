@@ -2,9 +2,9 @@
   "family": "Soleidae",
   "family_ja": "ササウシノシタ科",
   "family_slug": "soleidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 19,
-  "genera_count": 9,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 37,
+  "genera_count": 13,
   "genera": [
     {
       "genus": "Aesopia",
@@ -35,15 +35,15 @@
         "オトメウシノシタ",
         "トビササウシノシタ"
       ],
-      "species_count": 6,
-      "representative_species": "Aseraggodes kaianus",
+      "species_count": 12,
+      "representative_species": "Aseraggodes cyaneus",
       "photo": {
-        "url": "https://mediaphoto.mnhn.fr/media/1713257697908JNF9kkWmaEvsyIjb",
+        "url": "https://data.nhm.ac.uk/media/ce7d0aac-5901-4739-85ea-78420d37fe10",
         "source": "GBIF",
         "license": "CC-BY",
-        "author": "A. Dettai",
-        "observed_on": "2005-10-21",
-        "place": "New Caledonia",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Visagapatam coast",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -57,7 +57,7 @@
         "アマミウシノシタ",
         "ミナミシマウシノシタ"
       ],
-      "species_count": 3,
+      "species_count": 4,
       "representative_species": "Brachirus annularis",
       "photo": {
         "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/braann01sl.tif",
@@ -71,6 +71,24 @@
       }
     },
     {
+      "genus": "Dexillus",
+      "ja_name": "Dexillus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Dexillus muelleri",
+      "photo": {
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:f5fdd189-f431-4095-9406-e16ed0f3cf6f/full/full/0/default.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Adriana D. Rubinstein",
+        "observed_on": "1995-10-01",
+        "place": "Manila Fish Market",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Heteromycteris",
       "ja_name": "ササウシノシタの仲間",
       "ja_name_official": false,
@@ -78,15 +96,15 @@
         "ササウシノシタ",
         "モンツキウシノシタ"
       ],
-      "species_count": 2,
-      "representative_species": "Heteromycteris japonicus",
+      "species_count": 3,
+      "representative_species": "Heteromycteris hartzfeldii",
       "photo": {
-        "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp66896999406808689531.att.jpg",
-        "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
-        "license": "CC-BY",
-        "author": "University of Kansas Biodiversity Institute",
-        "observed_on": "1997-07-31",
-        "place": "Tosa Bay, Ohgata-cho (Kamikawaguchi and Irino fish markets)",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641795127/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "babarg",
+        "observed_on": "2026-01-10",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -112,21 +130,30 @@
       }
     },
     {
+      "genus": "Monochirus",
+      "ja_name": "Monochirus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Monochirus trichodactylus",
+      "photo": null
+    },
+    {
       "genus": "Pardachirus",
       "ja_name": "ミナミウシノシタの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "ミナミウシノシタ"
       ],
-      "species_count": 1,
-      "representative_species": "Pardachirus pavoninus",
+      "species_count": 3,
+      "representative_species": "Pardachirus marmoratus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642231000/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619605666/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "an2mc",
-        "observed_on": "2024-03-19",
-        "place": "Japan",
+        "author": "emajorova",
+        "observed_on": "2026-02-01",
+        "place": "Saudi Arabia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -141,6 +168,24 @@
       "species_count": 1,
       "representative_species": "Rhinosolea microlepidota",
       "photo": null
+    },
+    {
+      "genus": "Solea",
+      "ja_name": "Solea属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Solea ovata",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/d6af948f-0916-41cc-9ae7-139ee738deba",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     },
     {
       "genus": "Soleichthys",
@@ -163,6 +208,15 @@
       }
     },
     {
+      "genus": "Synaptura",
+      "ja_name": "Synaptura属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Synaptura megalepidoura",
+      "photo": null
+    },
+    {
       "genus": "Zebrias",
       "ja_name": "セトウシノシタの仲間",
       "ja_name_official": false,
@@ -170,15 +224,15 @@
         "セトウシノシタ",
         "シマウシノシタ"
       ],
-      "species_count": 3,
-      "representative_species": "Zebrias zebra",
+      "species_count": 6,
+      "representative_species": "Zebrias crossolepis",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/45012a69-c8e8-4b68-8557-f0e1ffa6f564",
-        "source": "GBIF",
-        "license": "CC-BY",
-        "author": "The Trustees of the Natural History Museum, London",
-        "observed_on": "",
-        "place": "Hakata",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636004805/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "An Lin",
+        "observed_on": "2026-04-08",
+        "place": "Chinese Taipei",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -313,7 +367,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 64596,
@@ -373,7 +428,251 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10584,
+      "scientific_name": "Aseraggodes cyaneus",
+      "genus": "Aseraggodes",
+      "genus_ja": "モヨウウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/ce7d0aac-5901-4739-85ea-78420d37fe10",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Visagapatam coast",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/ce7d0aac-5901-4739-85ea-78420d37fe10",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Visagapatam coast",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.3",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 24093,
+      "scientific_name": "Aseraggodes dubius",
+      "genus": "Aseraggodes",
+      "genus_ja": "モヨウウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://medialib.naturalis.nl/file/id/ZMA.PISC.109390_LAB_1/format/large",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Naturalis Biodiversity Center",
+        "observed_on": "1900-02-22",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://medialib.naturalis.nl/file/id/ZMA.PISC.109390_LAB_1/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "1900-02-22",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 24088,
+      "scientific_name": "Aseraggodes filiger",
+      "genus": "Aseraggodes",
+      "genus_ja": "モヨウウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/be3a519e-c68f-4561-8290-159220af66c9",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Siglap, S. Coast of Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/be3a519e-c68f-4561-8290-159220af66c9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Siglap, S. Coast of Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "110",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 24090,
@@ -483,7 +782,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63914,
+      "scientific_name": "Aseraggodes kimurai",
+      "genus": "Aseraggodes",
+      "genus_ja": "モヨウウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.17",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 24243,
@@ -593,7 +954,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63916,
+      "scientific_name": "Aseraggodes matsuurai",
+      "genus": "Aseraggodes",
+      "genus_ja": "モヨウウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lombok sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "66-70",
+          "min": 66,
+          "max": 70
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "49-52",
+          "min": 49,
+          "max": 52
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.51",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 64597,
@@ -673,7 +1096,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22541,
@@ -753,7 +1177,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63920,
+      "scientific_name": "Aseraggodes winterbottomi",
+      "genus": "Aseraggodes",
+      "genus_ja": "モヨウウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Negros sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "67-71",
+          "min": 67,
+          "max": 71
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "49-51",
+          "min": 49,
+          "max": 51
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.63",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8908,
@@ -883,7 +1369,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 11679,
@@ -983,7 +1470,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24461,
@@ -1113,7 +1601,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8312,
@@ -1243,7 +1732,371 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 25290,
+      "scientific_name": "Brachirus pan",
+      "genus": "Brachirus",
+      "genus_ja": "ワモンウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Pan sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/8a9894d6-d239-4124-866a-b4753b22ed65",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "India",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/8a9894d6-d239-4124-866a-b4753b22ed65",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/bbd7c81e-a60c-482a-b2d3-7c0ccbe6eaae",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Calcutta",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/0329a031-4086-4a71-9051-33d5c205634f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "11.1",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 6617,
+      "scientific_name": "Dexillus muelleri",
+      "genus": "Dexillus",
+      "genus_ja": "Dexillus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Tufted sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.collections.yale.edu/iiif/2/ypm:f5fdd189-f431-4095-9406-e16ed0f3cf6f/full/full/0/default.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Adriana D. Rubinstein",
+        "observed_on": "1995-10-01",
+        "place": "Manila Fish Market",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.collections.yale.edu/iiif/2/ypm:f5fdd189-f431-4095-9406-e16ed0f3cf6f/full/full/0/default.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Adriana D. Rubinstein",
+          "observed_on": "1995-10-01",
+          "place": "Manila Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c1f0827b-1dd2-4850-9258-36c57fb9489c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "AMS - Ichthyology",
+          "observed_on": "1962",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ea4fcfe3-3d7d-4d14-bf6b-c67012bc45f9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "AMS - Ichthyology",
+          "observed_on": "1961",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=dea8c8bb-77e1-44c2-9742-946d9f1bf0cb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "AMS - Ichthyology",
+          "observed_on": "1935-09",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=7c98f2ac-c70e-4887-b5cc-71176b3aab75",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "AMS - Ichthyology",
+          "observed_on": "1923",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f7a96ecc-a0a6-452e-86f3-e1356d7d0ee6",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1874-09-12",
+          "place": "South of New Guinea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 24053,
+      "scientific_name": "Heteromycteris hartzfeldii",
+      "genus": "Heteromycteris",
+      "genus_ja": "ササウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Hook-nosed sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641795127/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "babarg",
+        "observed_on": "2026-01-10",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641795127/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "babarg",
+          "observed_on": "2026-01-10",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714333200/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "babarg",
+          "observed_on": "2026-04-18",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520591504/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andy",
+          "observed_on": "2025-06-12",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585934220/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andy",
+          "observed_on": "2025-10-27",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/406766062/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Klaschka",
+          "observed_on": "2024-07-12",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448777618/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andy",
+          "observed_on": "2024-11-07",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "88-101",
+          "min": 88,
+          "max": 101
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "61-65",
+          "min": 61,
+          "max": 65
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8971,
@@ -1363,7 +2216,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24242,
@@ -1423,7 +2277,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8323,
@@ -1553,7 +2408,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56091,
+      "scientific_name": "Monochirus trichodactylus",
+      "genus": "Monochirus",
+      "genus_ja": "Monochirus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8917,
+      "scientific_name": "Pardachirus marmoratus",
+      "genus": "Pardachirus",
+      "genus_ja": "ミナミウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Finless sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619605666/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "emajorova",
+        "observed_on": "2026-02-01",
+        "place": "Saudi Arabia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619605666/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "emajorova",
+          "observed_on": "2026-02-01",
+          "place": "Saudi Arabia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623160561/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mwanaisha_musa",
+          "observed_on": "2026-02-28",
+          "place": "Kenya",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616726612/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Jan Ebr & Ivana Ebrová",
+          "observed_on": "2026-02-02",
+          "place": "Saudi Arabia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616956620/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Jan Ebr & Ivana Ebrová",
+          "observed_on": "2026-02-03",
+          "place": "Saudi Arabia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621981947/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "emajorova",
+          "observed_on": "2026-02-03",
+          "place": "Saudi Arabia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617797819/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "emajorova",
+          "observed_on": "2026-02-01",
+          "place": "Saudi Arabia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "63-74",
+          "min": 63,
+          "max": 74
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "48-55",
+          "min": 48,
+          "max": 55
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "83-102",
+          "min": 83,
+          "max": 102
+        },
+        "max_length": "26",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8271,
@@ -1683,7 +2731,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 11827,
+      "scientific_name": "Pardachirus poropterus",
+      "genus": "Pardachirus",
+      "genus_ja": "ミナミウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Estuary sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/a4acb200-87e2-4647-8cf7-2d3342203dac",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1956-01-01",
+        "place": "Sigapore Area",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/a4acb200-87e2-4647-8cf7-2d3342203dac",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1956-01-01",
+          "place": "Sigapore Area",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/1364a10e-5e2c-4813-9833-5f746a0bfa8d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "East Indian Archipelago",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a3d04d3f-b69c-4c23-85c0-e4b7ec3beaef",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Beo, Karakelong Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/69fead22-4589-4e9a-8410-ca5301d4c69d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "No Data, No Data",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "62-72",
+          "min": 62,
+          "max": 72
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "45-49",
+          "min": 45,
+          "max": 49
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 24245,
@@ -1743,7 +2903,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 14391,
+      "scientific_name": "Solea ovata",
+      "genus": "Solea",
+      "genus_ja": "Solea属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Ovate sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/d6af948f-0916-41cc-9ae7-139ee738deba",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/d6af948f-0916-41cc-9ae7-139ee738deba",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321524672/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "洪清漳",
+          "observed_on": "2023-06-07",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/4b7ae484-9f4e-4d4b-85c2-1fc42fb32683",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Zamboanga",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/fcfe331b-46e7-4555-8d9d-76d337c0a7d2",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Zamboanga",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543938915/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "王琰",
+          "observed_on": "2025-07-28",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543933655/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "王琰",
+          "observed_on": "2025-07-28",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 525,
+      "scientific_name": "Solea solea",
+      "genus": "Solea",
+      "genus_ja": "Solea属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Common sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607534988/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Frédéric ANDRE",
+        "observed_on": "2026-01-11",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607534988/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-11",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/144054889.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Youp van den Heuvel",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/144046247.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Lesley Bezemer",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632551918/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "FVL_MULTISPECIES",
+          "observed_on": "2026-04-03",
+          "place": "Belgium",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/5/13acb841-e0f2-4a69-9f50-01b4e945866c_image.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Arild Omberg",
+          "observed_on": "2026-05-12",
+          "place": "Ytre Sandnesfjorden, Risør, Ag",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666751194/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "inaturalist2023",
+          "observed_on": "2026-05-25",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "69-97",
+          "min": 69,
+          "max": 97
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "53-80",
+          "min": 53,
+          "max": 80
+        },
+        "pectoral_rays": {
+          "raw": "6-10",
+          "min": 6,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "70",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "flatfish"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22544,
@@ -1873,7 +3296,150 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 17368,
+      "scientific_name": "Synaptura megalepidoura",
+      "genus": "Synaptura",
+      "genus_ja": "Synaptura属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "24.3",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 56092,
+      "scientific_name": "Zebrias crossolepis",
+      "genus": "Zebrias",
+      "genus_ja": "セトウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636004805/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "An Lin",
+        "observed_on": "2026-04-08",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636004805/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "An Lin",
+          "observed_on": "2026-04-08",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14.3",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8987,
@@ -1933,7 +3499,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8704,
+      "scientific_name": "Zebrias lucapensis",
+      "genus": "Zebrias",
+      "genus_ja": "セトウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "71-72",
+          "min": 71,
+          "max": 72
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "56",
+          "min": 56,
+          "max": 56
+        },
+        "pectoral_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "63-68",
+          "min": 63,
+          "max": 68
+        },
+        "max_length": "8.4",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "other (see diagnosis)",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "more than one spot",
+        "bars": "present",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8194,
+      "scientific_name": "Zebrias quagga",
+      "genus": "Zebrias",
+      "genus_ja": "セトウシノシタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Fringefin zebra sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621328990/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "An Lin",
+        "observed_on": "2024-11-16",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621328990/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "An Lin",
+          "observed_on": "2024-11-16",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574958357/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Ashwit Shetty",
+          "observed_on": "2025-09-30",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452098374/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "syifaaulia",
+          "observed_on": "2024-11-22",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349817034/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Erza Aulia Rachman",
+          "observed_on": "2023-11-11",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/7ac32858-0653-4169-b2ba-ffe12dda24b8",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1956-01-01",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1554797149507WlM7SHdcokIR2A0b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "",
+          "place": "bombay",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8999,
@@ -2063,7 +3822,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24244,
@@ -2193,7 +3953,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "family": "Mullidae",
   "family_ja": "ヒメジ科",
   "family_slug": "mullidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 29,
-  "genera_count": 3,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 41,
+  "genera_count": 4,
   "genera": [
     {
       "genus": "Mulloidichthys",
@@ -29,6 +29,24 @@
       }
     },
     {
+      "genus": "Mullus",
+      "ja_name": "Mullus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Mullus surmuletus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605322795/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "alcedo77",
+        "observed_on": "2026-01-04",
+        "place": "Portugal",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Parupeneus",
       "ja_name": "オジサンの仲間",
       "ja_name_official": false,
@@ -37,7 +55,7 @@
         "ウミヒゴイ",
         "インドヒメジ"
       ],
-      "species_count": 14,
+      "species_count": 19,
       "representative_species": "Parupeneus barberinoides",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488689982/large.jpg",
@@ -59,15 +77,15 @@
         "ヨコヒメジ",
         "ヨメヒメジ"
       ],
-      "species_count": 12,
-      "representative_species": "Upeneus elongatus",
+      "species_count": 17,
+      "representative_species": "Upeneus asymmetricus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19691959/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "Mark Rosenstein",
-        "observed_on": "2018-05-23",
-        "place": "Philippines",
+        "url": "https://collections.nmnh.si.edu/media/?i=11006120&h=1068",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-03-24",
+        "place": "Pandanan Island; Between Cebu and Bohol",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -202,7 +220,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5985,
@@ -332,7 +351,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5984,
@@ -462,7 +482,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 25966,
+      "scientific_name": "Mullus ponticus",
+      "genus": "Mullus",
+      "genus_ja": "Mullus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blunt-snouted mullet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "21.9",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1327,
+      "scientific_name": "Mullus surmuletus",
+      "genus": "Mullus",
+      "genus_ja": "Mullus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Surmullet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605322795/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "alcedo77",
+        "observed_on": "2026-01-04",
+        "place": "Portugal",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605322795/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "alcedo77",
+          "observed_on": "2026-01-04",
+          "place": "Portugal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605619755/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-03",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605612143/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-04",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610417841/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-22",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610222171/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "etienne-barz",
+          "observed_on": "2026-01-22",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610413054/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-22",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5986,
@@ -592,7 +805,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5987,
@@ -722,7 +936,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60419,
@@ -852,7 +1067,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10470,
@@ -982,7 +1198,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5989,
@@ -1112,7 +1329,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60947,
@@ -1242,7 +1460,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5990,
@@ -1372,7 +1591,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10994,
+      "scientific_name": "Parupeneus forsskali",
+      "genus": "Parupeneus",
+      "genus_ja": "オジサンの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Red Sea goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605372377/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Simon",
+        "observed_on": "2026-01-02",
+        "place": "Egypt",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605372377/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Simon",
+          "observed_on": "2026-01-02",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605742483/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Boris",
+          "observed_on": "2026-01-05",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605877717/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Boris",
+          "observed_on": "2026-01-06",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608272546/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvia Wolf",
+          "observed_on": "2026-01-12",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608452578/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "alex meldrum",
+          "observed_on": "2026-01-16",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608905221/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marleen Schouten",
+          "observed_on": "2026-01-09",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5991,
@@ -1502,7 +1853,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5992,
@@ -1632,7 +1984,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60849,
@@ -1762,7 +2115,250 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 52931,
+      "scientific_name": "Parupeneus jansenii",
+      "genus": "Parupeneus",
+      "genus_ja": "オジサンの仲間",
+      "ja_name": "ロケットヒメジ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Jansen's goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11006077&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes, D. Hubbs",
+        "observed_on": "",
+        "place": "Bulan, Sorsogon; Luzon, Philippine Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006077&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, D. Hubbs",
+          "observed_on": "",
+          "place": "Bulan, Sorsogon; Luzon, Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260507079/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fish_farmer",
+          "observed_on": "2016-03-05",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=3975a189-6757-4260-8b79-3a89b88899a5",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Staples, David",
+          "observed_on": "",
+          "place": "East Indian Archipelago",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.5748/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "",
+          "place": "Manado",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "27-28",
+          "min": 27,
+          "max": 28
+        },
+        "max_length": "25",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7878,
+      "scientific_name": "Parupeneus macronemus",
+      "genus": "Parupeneus",
+      "genus_ja": "オジサンの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Long-barbel goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606821692/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Katie",
+        "observed_on": "2026-01-02",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606821692/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Katie",
+          "observed_on": "2026-01-02",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607210338/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvia Wolf",
+          "observed_on": "2026-01-10",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608666446/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marleen Schouten",
+          "observed_on": "2026-01-08",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608665256/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marleen Schouten",
+          "observed_on": "2026-01-08",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606123197/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Boris",
+          "observed_on": "2026-01-07",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606107889/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Boris",
+          "observed_on": "2026-01-07",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "27-28",
+          "min": 27,
+          "max": 28
+        },
+        "max_length": "40",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "one spot only",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5993,
@@ -1892,7 +2488,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5994,
@@ -2022,7 +2619,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 12604,
+      "scientific_name": "Parupeneus porphyreus",
+      "genus": "Parupeneus",
+      "genus_ja": "オジサンの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686787109/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Erica Blankenbehler",
+        "observed_on": "2026-06-26",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686787109/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Erica Blankenbehler",
+          "observed_on": "2026-06-26",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/724360199/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "calvao",
+          "observed_on": "2026-06-30",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/700529461/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cbird808",
+          "observed_on": "2026-07-13",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718912843/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jacob Stagg",
+          "observed_on": "2026-08-13",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656997819/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "halibuthead",
+          "observed_on": "2025-01-02",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/468929360/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "David Rolla",
+          "observed_on": "2025-02-08",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "27-28",
+          "min": 27,
+          "max": 28
+        },
+        "max_length": "51",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 6373,
+      "scientific_name": "Parupeneus rubescens",
+      "genus": "Parupeneus",
+      "genus_ja": "オジサンの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Rosy goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612234309/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Elton du Plooy",
+        "observed_on": "2026-01-31",
+        "place": "South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612234309/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Elton du Plooy",
+          "observed_on": "2026-01-31",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615193007/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Di Boonman",
+          "observed_on": "2026-02-11",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659726874/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Zander Labuschagne",
+          "observed_on": "2026-02-22",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625691860/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Harry_Cooper",
+          "observed_on": "2026-03-16",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640657685/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Guido Zsilavecz",
+          "observed_on": "2026-04-18",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/650288474/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Glenda",
+          "observed_on": "2026-04-25",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "27-29",
+          "min": 27,
+          "max": 29
+        },
+        "max_length": "43",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6626,
@@ -2152,7 +3012,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5988,
@@ -2282,7 +3143,190 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10815,
+      "scientific_name": "Upeneus asymmetricus",
+      "genus": "Upeneus",
+      "genus_ja": "ヒメジの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Asymmetrical goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11006120&h=1068",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-03-24",
+        "place": "Pandanan Island; Between Cebu and Bohol",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006120&h=1068",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-03-24",
+          "place": "Pandanan Island; Between Cebu and Bohol",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006122&h=1462",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-03-24",
+          "place": "Pandanan Island; Between Cebu and Bohol",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5013723&h=667",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-03-24",
+          "place": "Pandanan Island; Between Cebu and Bohol",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006123&h=1272",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-04-15",
+          "place": "Off Western Samar; Catbalogan (beach above Aguada Point)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/fd84e42a-e7f0-48a9-92b8-864dc9777724",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1963-08-21",
+          "place": "Antelias, Rep. Lebanon",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 70600,
+      "scientific_name": "Upeneus aurorae",
+      "genus": "Upeneus",
+      "genus_ja": "ヒメジの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Aurora goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "30",
+          "min": 30,
+          "max": 30
+        },
+        "max_length": "11.3",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 69407,
@@ -2362,7 +3406,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69278,
@@ -2492,7 +3537,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 66338,
@@ -2552,7 +3598,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7879,
@@ -2682,7 +3729,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10546,
+      "scientific_name": "Upeneus luzonius",
+      "genus": "Upeneus",
+      "genus_ja": "ヒメジの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dark-barred goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11006150&h=1063",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes, D. Hubbs",
+        "observed_on": "1929-04-02",
+        "place": "Garo [sic] River, Panay Island, Philippine Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006150&h=1063",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, D. Hubbs",
+          "observed_on": "1929-04-02",
+          "place": "Garo [sic] River, Panay Island, Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006148&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, D. Hubbs",
+          "observed_on": "1929-04-06",
+          "place": "Iloilo, Panay, Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006154&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1929-05-01",
+          "place": "Iloilo, Panay, Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006146&h=918",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, D. Hubbs",
+          "observed_on": "1929-05-07",
+          "place": "Iloilo, Panay, Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006233&h=1353",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, D. Hubbs",
+          "observed_on": "1909-03-24",
+          "place": "Pandanan Island; Between Cebu and Bohol",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11006149&h=1422",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, D. Hubbs",
+          "observed_on": "1908-04-15",
+          "place": "Off Western Samar; Catbalogan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4444,
@@ -2812,7 +3991,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 67528,
+      "scientific_name": "Upeneus nigromarginatus",
+      "genus": "Upeneus",
+      "genus_ja": "ヒメジの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Black-margined goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_218.63296abe-14fd-4888-8be1-bd9d9746a3ea.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, T. Nanola, Apollo Lizano, Toby Potenciana",
+        "observed_on": "2012-05-21",
+        "place": "Philippines, South Cotabato, purchased from General Santos Public Market. Vendor stated fish was caught in vicinity of Glan, Saragani, Mindanao.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_218.63296abe-14fd-4888-8be1-bd9d9746a3ea.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, T. Nanola, Apollo Lizano, Toby Potenciana",
+          "observed_on": "2012-05-21",
+          "place": "Philippines, South Cotabato, purchased from General Santos Public Market. Vendor stated fish was caught in vicinity of Glan, Saragani, Mindanao.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.24_184.02b8badb-8f29-4a64-8d58-82faf3476c4a.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter",
+          "observed_on": "2011-05-30",
+          "place": "Philippines, Negros Oriental, Dumaguete City, Dumaguete market",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "36-37",
+          "min": 36,
+          "max": 37
+        },
+        "max_length": "27",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10471,
@@ -2912,7 +4183,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 66655,
+      "scientific_name": "Upeneus stenopsis",
+      "genus": "Upeneus",
+      "genus_ja": "ヒメジの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Narrow-tail goatfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.1",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 13019,
@@ -3032,7 +4365,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4445,
@@ -3162,7 +4496,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6643,
@@ -3292,7 +4627,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5995,
@@ -3422,7 +4758,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5443,
@@ -3552,7 +4889,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4821,
@@ -3682,7 +5020,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

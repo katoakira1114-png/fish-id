@@ -2,9 +2,9 @@
   "family": "Bathymasteridae",
   "family_ja": "メダマウオ科",
   "family_slug": "bathymasteridae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 3,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 5,
+  "genera_count": 2,
   "genera": [
     {
       "genus": "Bathymaster",
@@ -15,21 +15,170 @@
         "マダラメダマウオ",
         "スミツキメダマウオ"
       ],
-      "species_count": 3,
-      "representative_species": "Bathymaster derjugini",
+      "species_count": 4,
+      "representative_species": "Bathymaster caeruleofasciatus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100097101/large.jpeg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656289510/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "krkzv",
-        "observed_on": "2020-07-26",
-        "place": "Russian Federation",
+        "author": "Paul Norwood",
+        "observed_on": "2026-05-05",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Ronquilus",
+      "ja_name": "Ronquilus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Ronquilus jordani",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610892414/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Shelby Connelly",
+        "observed_on": "2026-01-25",
+        "place": "Canada",
         "life_stage": "不明",
         "context": "不明"
       }
     }
   ],
   "species": [
+    {
+      "spec_code": 3690,
+      "scientific_name": "Bathymaster caeruleofasciatus",
+      "genus": "Bathymaster",
+      "genus_ja": "ソコメダマウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Alaskan ronquil",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656289510/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Paul Norwood",
+        "observed_on": "2026-05-05",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656289510/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-05-05",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686935427/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-06-23",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722218754/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Matt Wilson",
+          "observed_on": "2026-06-24",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/694739026/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-07-08",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702180159/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-07-20",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/704145788/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-07-23",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 23545,
       "scientific_name": "Bathymaster derjugini",
@@ -138,7 +287,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 3691,
@@ -218,7 +368,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 3692,
@@ -348,7 +499,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 3695,
+      "scientific_name": "Ronquilus jordani",
+      "genus": "Ronquilus",
+      "genus_ja": "Ronquilus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Northern ronquil",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610892414/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Shelby Connelly",
+        "observed_on": "2026-01-25",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610892414/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Shelby Connelly",
+          "observed_on": "2026-01-25",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612310823/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "coltonschiefele",
+          "observed_on": "2026-01-31",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612851352/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dan",
+          "observed_on": "2026-02-01",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616708474/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "imcote",
+          "observed_on": "2026-02-16",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616576909/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-02-16",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625463549/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "coltonschiefele",
+          "observed_on": "2026-03-15",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "41-48",
+          "min": 41,
+          "max": 48
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "31-34",
+          "min": 31,
+          "max": 34
+        },
+        "pectoral_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

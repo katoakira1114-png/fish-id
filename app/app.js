@@ -546,7 +546,7 @@ function renderSpeciesTiles(items, activeTraits) {
       <div class="tile-body">
         <div class="tile-title-row">
           <h3 class="tile-ja">${escapeHtml(sp.ja_name || "和名未設定")}</h3>
-          ${badgeHtml}
+          ${badgeHtml}${sp.region === "近海のみ" ? `<span class="region-badge">日本未記録</span>` : ""}
         </div>
         <p class="tile-sci">${escapeHtml(sp.scientific_name)}</p>
         <div class="tile-meta-row">
@@ -649,9 +649,9 @@ function openDetailModal(sci) {
 
   els["detail-genus-badge"].textContent = `${sp.genus_ja} (${sp.genus})`;
   els["detail-ja-name"].textContent = sp.ja_name || "和名未設定";
-  els["detail-sci-name"].textContent = sp.en_name
+  els["detail-sci-name"].textContent = (sp.en_name
     ? `${sp.scientific_name} — ${sp.en_name}`
-    : sp.scientific_name;
+    : sp.scientific_name) + (sp.region === "近海のみ" ? "（日本未記録・近海で記録あり）" : "");
 
   // Main photo & gallery
   const photos = sp.photos && sp.photos.length > 0 ? sp.photos : sp.photo ? [sp.photo] : [];

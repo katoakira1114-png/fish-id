@@ -2,9 +2,9 @@
   "family": "Clupeidae",
   "family_ja": "ニシン科",
   "family_slug": "clupeidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 4,
+  "genera_count": 2,
   "genera": [
     {
       "genus": "Clupea",
@@ -13,21 +13,231 @@
       "examples_ja": [
         "ニシン"
       ],
-      "species_count": 1,
-      "representative_species": "Clupea pallasii",
+      "species_count": 3,
+      "representative_species": "Clupea harengus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/670297861/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608074245/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Eric.L.Chen",
-        "observed_on": "2026-05-24",
-        "place": "China",
+        "author": "Maksymilian Wojtkiewicz",
+        "observed_on": "2026-01-12",
+        "place": "Poland",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Sprattus",
+      "ja_name": "Sprattus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Sprattus sprattus",
+      "photo": {
+        "url": "https://observation.org/photos/144054912.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Youp van den Heuvel",
+        "observed_on": "2026-02-14",
+        "place": "Borssele - Noordnol / koelwaterinlaat centrale",
         "life_stage": "不明",
         "context": "不明"
       }
     }
   ],
   "species": [
+    {
+      "spec_code": 24,
+      "scientific_name": "Clupea harengus",
+      "genus": "Clupea",
+      "genus_ja": "ニシンの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Atlantic herring",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608074245/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Maksymilian Wojtkiewicz",
+        "observed_on": "2026-01-12",
+        "place": "Poland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608074245/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Maksymilian Wojtkiewicz",
+          "observed_on": "2026-01-12",
+          "place": "Poland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/144028008.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Taric Schrader",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/144054871.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Youp van den Heuvel",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618502467/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-02-23",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619828569/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kitty Turner",
+          "observed_on": "2026-02-28",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/753371168/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jelle_wissink",
+          "observed_on": "2026-02-06",
+          "place": "Netherlands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-21",
+          "min": 13,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-23",
+          "min": 12,
+          "max": 23
+        },
+        "pectoral_rays": {
+          "raw": "14-21",
+          "min": 14,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "45",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 65875,
+      "scientific_name": "Clupea manulensis",
+      "genus": "Clupea",
+      "genus_ja": "ニシンの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 1520,
       "scientific_name": "Clupea pallasii",
@@ -156,7 +366,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1357,
+      "scientific_name": "Sprattus sprattus",
+      "genus": "Sprattus",
+      "genus_ja": "Sprattus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "European sprat",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://observation.org/photos/144054912.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Youp van den Heuvel",
+        "observed_on": "2026-02-14",
+        "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://observation.org/photos/144054912.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Youp van den Heuvel",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/144054861.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Youp van den Heuvel",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/04530bde-cd7e-467a-9589-ce795466c1e5.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Claus Lindskov Møller",
+          "observed_on": "2026-04-23",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/a1394e68-e378-4550-81a5-f39a47accec9.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Marit Pedersen",
+          "observed_on": "2026-04-10",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/7/06bfab95-fe72-4add-916c-49f2147b478d_image.jpeg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Ola Vestre",
+          "observed_on": "2026-07-13",
+          "place": "Oksval brygge, Nesodden, Ak",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/2b6c185d-87fd-4f3e-98e7-e1ff6d18e551.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Aksel Skibsted",
+          "observed_on": "2026-08-20",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-21",
+          "min": 13,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-23",
+          "min": 12,
+          "max": 23
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "16",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

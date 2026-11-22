@@ -2,8 +2,8 @@
   "family": "Draconettidae",
   "family_ja": "イナカヌメリ科",
   "family_slug": "draconettidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 4,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 5,
   "genera_count": 2,
   "genera": [
     {
@@ -14,8 +14,8 @@
         "オトヒメヌメリ",
         "ハナガサヌメリ"
       ],
-      "species_count": 3,
-      "representative_species": "Centrodraco nakaboi",
+      "species_count": 4,
+      "representative_species": "Centrodraco abstractum",
       "photo": null
     },
     {
@@ -40,6 +40,67 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 60548,
+      "scientific_name": "Centrodraco abstractum",
+      "genus": "Centrodraco",
+      "genus_ja": "オトヒメヌメリの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Abstract slope dragonet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "24-27",
+          "min": 24,
+          "max": 27
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "9.68",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 28085,
       "scientific_name": "Centrodraco nakaboi",
@@ -98,7 +159,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59303,
@@ -158,7 +220,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24194,
@@ -218,7 +281,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24195,
@@ -338,7 +402,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

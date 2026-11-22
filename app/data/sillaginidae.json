@@ -2,10 +2,48 @@
   "family": "Sillaginidae",
   "family_ja": "キス科",
   "family_slug": "sillaginidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 5,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 16,
+  "genera_count": 3,
   "genera": [
+    {
+      "genus": "Sillaginopodys",
+      "ja_name": "Sillaginopodys属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Sillaginopodys chondropus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/697386627/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Ashwin Srinivasan",
+        "observed_on": "2026-07-02",
+        "place": "India",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Sillaginops",
+      "ja_name": "アトクギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アトクギス"
+      ],
+      "species_count": 1,
+      "representative_species": "Sillaginops macrolepis",
+      "photo": {
+        "url": "https://cdn.floridamuseum.ufl.edu/Fish/1f0d4619-0219-4d74-b2b1-c63f810d84e3",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Florida Museum of Natural History Ichthyology",
+        "observed_on": "1971-07-29",
+        "place": "N coast, Pota; pool at mouth of creek with fine sand bottom at low tide",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Sillago",
       "ja_name": "ホシギスの仲間",
@@ -15,7 +53,7 @@
         "シロギス",
         "アオギス"
       ],
-      "species_count": 5,
+      "species_count": 14,
       "representative_species": "Sillago aeolus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608834654/large.jpg",
@@ -30,6 +68,238 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 8006,
+      "scientific_name": "Sillaginopodys chondropus",
+      "genus": "Sillaginopodys",
+      "genus_ja": "Sillaginopodys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Clubfoot sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/697386627/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Ashwin Srinivasan",
+        "observed_on": "2026-07-02",
+        "place": "India",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/697386627/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Ashwin Srinivasan",
+          "observed_on": "2026-07-02",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408463099/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "flowergirl_madras",
+          "observed_on": "2024-07-18",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519808545/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2023-05-04",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=1941.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Robin E. Stobbs",
+          "observed_on": "1976-07-18",
+          "place": "Sodwana Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_7413.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1950-03",
+          "place": "Durban",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d5073754-3cd9-4c09-acb3-d2c7fa2fa865",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Moluccas",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "20-21",
+          "min": 20,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "22-23",
+          "min": 22,
+          "max": 23
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "66-73",
+          "min": 66,
+          "max": 73
+        },
+        "max_length": "35",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8530,
+      "scientific_name": "Sillaginops macrolepis",
+      "genus": "Sillaginops",
+      "genus_ja": "アトクギスの仲間",
+      "ja_name": "アトクギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Large-scale sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://cdn.floridamuseum.ufl.edu/Fish/1f0d4619-0219-4d74-b2b1-c63f810d84e3",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Florida Museum of Natural History Ichthyology",
+        "observed_on": "1971-07-29",
+        "place": "N coast, Pota; pool at mouth of creek with fine sand bottom at low tide",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/1f0d4619-0219-4d74-b2b1-c63f810d84e3",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1971-07-29",
+          "place": "N coast, Pota; pool at mouth of creek with fine sand bottom at low tide",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1745415429742b00Moh6CbrCbogaw",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "1828",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/8ce4c456-1b8f-4893-832a-9141b264ed47",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "51-56",
+          "min": 51,
+          "max": 56
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 8491,
       "scientific_name": "Sillago aeolus",
@@ -158,7 +428,382 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8495,
+      "scientific_name": "Sillago argentifasciata",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Silver-banded sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "66",
+          "min": 66,
+          "max": 66
+        },
+        "max_length": "14.9",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8496,
+      "scientific_name": "Sillago asiatica",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Asian sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608626400/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sharkdevotee",
+        "observed_on": "2026-01-17",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608626400/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-01-17",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610395215/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-01-24",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608626266/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-01-17",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342695003/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2023-12-13",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519808372/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2023-12-14",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35644735/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "H.T.Cheng",
+          "observed_on": "2019-03-21",
+          "place": "Hong Kong",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "20-21",
+          "min": 20,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "21-23",
+          "min": 21,
+          "max": 23
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "67-70",
+          "min": 67,
+          "max": 70
+        },
+        "max_length": "15",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8504,
+      "scientific_name": "Sillago boutani",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Boutan's sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1745415430814l2NZZMPBsfDdhLNn",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Z.GABSI",
+        "observed_on": "",
+        "place": "$$$$",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1745415430814l2NZZMPBsfDdhLNn",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "",
+          "place": "$$$$",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "21",
+          "min": 21,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "21-22",
+          "min": 21,
+          "max": 22
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "76-80",
+          "min": 76,
+          "max": 80
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8518,
+      "scientific_name": "Sillago ingenuua",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bay sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539066238/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jiayuan Lin",
+        "observed_on": "2025-07-19",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539066238/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-07-19",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313074334/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2023-05-04",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519812641/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2023-12-14",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "66-70",
+          "min": 66,
+          "max": 70
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6576,
@@ -288,7 +933,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7925,
@@ -418,7 +1064,191 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8531,
+      "scientific_name": "Sillago megacephalus",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Large-headed sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "22",
+          "min": 22,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "23",
+          "min": 23,
+          "max": 23
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "70",
+          "min": 70,
+          "max": 70
+        },
+        "max_length": "15.8",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8532,
+      "scientific_name": "Sillago microps",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Small-eyed sillago",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "19",
+          "min": 19,
+          "max": 19
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "19",
+          "min": 19,
+          "max": 19
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "68-69",
+          "min": 68,
+          "max": 69
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 70388,
+      "scientific_name": "Sillago nigrofasciata",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "20-22",
+          "min": 20,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "20-22",
+          "min": 20,
+          "max": 22
+        },
+        "pectoral_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "67-75",
+          "min": 67,
+          "max": 75
+        },
+        "max_length": "16.3",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8534,
@@ -498,7 +1328,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 70545,
+      "scientific_name": "Sillago shaoi",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "20-22",
+          "min": 20,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "21-22",
+          "min": 21,
+          "max": 22
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "70-73",
+          "min": 70,
+          "max": 73
+        },
+        "max_length": "21.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4544,
@@ -628,7 +1520,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 65964,
+      "scientific_name": "Sillago sinica",
+      "genus": "Sillago",
+      "genus_ja": "ホシギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639037057/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "fhvc",
+        "observed_on": "2026-04-11",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639037057/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fhvc",
+          "observed_on": "2026-04-11",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15.737",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

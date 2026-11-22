@@ -2,9 +2,9 @@
   "family": "Synbranchidae",
   "family_ja": "タウナギ科",
   "family_slug": "synbranchidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 2,
+  "genera_count": 2,
   "genera": [
     {
       "genus": "Monopterus",
@@ -22,6 +22,24 @@
         "author": "nittan_lover りょう",
         "observed_on": "2026-05-10",
         "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Ophisternon",
+      "ja_name": "Ophisternon属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Ophisternon bengalense",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/bc/84/bc84a940-fac1-4ed8-8bba-644cd087bb08.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Nabong, Domingo",
+        "observed_on": "1930-04-16",
+        "place": "Rizal at  Malabon",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -156,7 +174,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 22496,
+      "scientific_name": "Ophisternon bengalense",
+      "genus": "Ophisternon",
+      "genus_ja": "Ophisternon属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bengal eel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/bc/84/bc84a940-fac1-4ed8-8bba-644cd087bb08.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Nabong, Domingo",
+        "observed_on": "1930-04-16",
+        "place": "Rizal at  Malabon",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/bc/84/bc84a940-fac1-4ed8-8bba-644cd087bb08.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Nabong, Domingo",
+          "observed_on": "1930-04-16",
+          "place": "Rizal at  Malabon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10969099&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, Smith, David G.",
+          "observed_on": "1927-11-27",
+          "place": "Philippine Islands, Occidental Negros, Victorias",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10969095&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, Smith, David G.",
+          "observed_on": "1908-03-17",
+          "place": "Manila Market; Manila Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10969105&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, Smith, David G.",
+          "observed_on": "1908-03-17",
+          "place": "Manila Market; Manila Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10969100&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, Smith, David G.",
+          "observed_on": "1908-06-12",
+          "place": "Manila Market, Luzon; Manila Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10969096&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes, Smith, David G.",
+          "observed_on": "1908-06-13",
+          "place": "Manila Market, Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "100",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

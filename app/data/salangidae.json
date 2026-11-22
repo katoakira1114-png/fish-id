@@ -2,9 +2,9 @@
   "family": "Salangidae",
   "family_ja": "シラウオ科",
   "family_slug": "salangidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 4,
-  "genera_count": 4,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 12,
+  "genera_count": 5,
   "genera": [
     {
       "genus": "Neosalangichthys",
@@ -24,15 +24,33 @@
       "examples_ja": [
         "アリアケヒメシラウオ"
       ],
-      "species_count": 1,
-      "representative_species": "Neosalanx reganius",
+      "species_count": 5,
+      "representative_species": "Neosalanx brevirostris",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604429313/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "r-fujii",
-        "observed_on": "2016-12-18",
-        "place": "Japan",
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/56/0f/560fa797-a053-4c2d-ba89-34d9692f92a5.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Bolin, Rolf L.",
+        "observed_on": "1958-08",
+        "place": "Purchased at Castle Peak Market.",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Protosalanx",
+      "ja_name": "Protosalanx属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Protosalanx hyalocranius",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/312abed6-58d5-42a7-9c33-bbdf86bfd9ee",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "China",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -64,7 +82,7 @@
       "examples_ja": [
         "アリアケシラウオ"
       ],
-      "species_count": 1,
+      "species_count": 4,
       "representative_species": "Salanx ariakensis",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/b50bab6e-8a37-4db0-9af2-a7dca401a13f",
@@ -137,7 +155,291 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 47138,
+      "scientific_name": "Neosalanx anderssoni",
+      "genus": "Neosalanx",
+      "genus_ja": "アリアケヒメシラウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "30",
+          "min": 30,
+          "max": 30
+        },
+        "pectoral_rays": {
+          "raw": "34",
+          "min": 34,
+          "max": 34
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.9",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 47136,
+      "scientific_name": "Neosalanx brevirostris",
+      "genus": "Neosalanx",
+      "genus_ja": "アリアケヒメシラウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/56/0f/560fa797-a053-4c2d-ba89-34d9692f92a5.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Bolin, Rolf L.",
+        "observed_on": "1958-08",
+        "place": "Purchased at Castle Peak Market.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/56/0f/560fa797-a053-4c2d-ba89-34d9692f92a5.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Bolin, Rolf L.",
+          "observed_on": "1958-08",
+          "place": "Purchased at Castle Peak Market.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1505227772593dMBYZYQ6GLoTxm83",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1922",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1505227774459dtNAGX0mhowofmyi",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1922",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1505227773885yATTQUq8VNt86hu8",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1922",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1505227773291WiLyKLQJZ9Axsswr",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1922",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/15052277716603ihYhTGfjJ3RG0QI",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1922",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "24-28",
+          "min": 24,
+          "max": 28
+        },
+        "pectoral_rays": {
+          "raw": "24-30",
+          "min": 24,
+          "max": 30
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 47135,
+      "scientific_name": "Neosalanx jordani",
+      "genus": "Neosalanx",
+      "genus_ja": "アリアケヒメシラウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702022401/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "신승엽",
+        "observed_on": "2026-06-11",
+        "place": "Korea, Republic of",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702022401/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "신승엽",
+          "observed_on": "2026-06-11",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/5e/20/5e2083ae-3c64-4f26-a0d5-cfee36f6be4d.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Hearne, Purchased By M.",
+          "observed_on": "1981-07-15",
+          "place": "Purchased from Chinese delicatessan on Irving St. inSan Francisco, California, USA",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "23-29",
+          "min": 23,
+          "max": 29
+        },
+        "pectoral_rays": {
+          "raw": "20-26",
+          "min": 20,
+          "max": 26
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.8",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10418,
@@ -227,7 +529,160 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 54884,
+      "scientific_name": "Neosalanx tangkahkeii",
+      "genus": "Neosalanx",
+      "genus_ja": "アリアケヒメシラウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Chinese icefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "25-27",
+          "min": 25,
+          "max": 27
+        },
+        "pectoral_rays": {
+          "raw": "24-28",
+          "min": 24,
+          "max": 28
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 12236,
+      "scientific_name": "Protosalanx hyalocranius",
+      "genus": "Protosalanx",
+      "genus_ja": "Protosalanx属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Clearhead icefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/312abed6-58d5-42a7-9c33-bbdf86bfd9ee",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/312abed6-58d5-42a7-9c33-bbdf86bfd9ee",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a8570425-1383-4820-80e0-de2718c10efa",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Kiangying, China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12238,
@@ -357,7 +812,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22672,
@@ -467,7 +923,311 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 12239,
+      "scientific_name": "Salanx chinensis",
+      "genus": "Salanx",
+      "genus_ja": "アリアケシラウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Chinese noodlefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552540587/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "好记性",
+        "observed_on": "2025-07-02",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/552540587/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "好记性",
+          "observed_on": "2025-07-02",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/b2873388-7a35-49da-b476-4bf15a02b443",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Kiu-Kiang",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "26-29",
+          "min": 26,
+          "max": 29
+        },
+        "pectoral_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16.1",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 12240,
+      "scientific_name": "Salanx cuvieri",
+      "genus": "Salanx",
+      "genus_ja": "アリアケシラウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Noodlefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/a3/bc/a3bcc789-ea91-44b1-b9d3-7b3e0ce9b32c.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Herre, Albert W.",
+        "observed_on": "1931-09-24",
+        "place": "Wholesale fish market at Guangzhou (Canton).",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/a3/bc/a3bcc789-ea91-44b1-b9d3-7b3e0ce9b32c.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Herre, Albert W.",
+          "observed_on": "1931-09-24",
+          "place": "Wholesale fish market at Guangzhou (Canton).",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a8570425-1383-4820-80e0-de2718c10efa",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Kiangying, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/bcda7936-4355-42f5-b0e6-9d16a8238adb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Nanking, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/68867ab4-003f-446b-b4f3-58bada0f0e70",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Wenchow, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/67e4acde-33d0-40cf-ab7e-f5acfcd22e05",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/cae57f37-af2b-48bb-8f04-b99769dce528",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "27-29",
+          "min": 27,
+          "max": 29
+        },
+        "pectoral_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15.3",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 47139,
+      "scientific_name": "Salanx prognathus",
+      "genus": "Salanx",
+      "genus_ja": "アリアケシラウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/de4d7911-1d23-4b45-9e44-65391121277a",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/de4d7911-1d23-4b45-9e44-65391121277a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "25-29",
+          "min": 25,
+          "max": 29
+        },
+        "pectoral_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.87",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

@@ -2,10 +2,30 @@
   "family": "Pseudochromidae",
   "family_ja": "メギス科",
   "family_slug": "pseudochromidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 15,
-  "genera_count": 7,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 36,
+  "genera_count": 11,
   "genera": [
+    {
+      "genus": "Amsichthys",
+      "ja_name": "オオメタナバタメギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オオメタナバタメギス"
+      ],
+      "species_count": 1,
+      "representative_species": "Amsichthys knighti",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/63/19/6319c17e-c17e-43cf-a67f-76c4977b63ae.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Williams, Jeff T.; Carpenter, Kent; Romena, Nov; Burke, Meg; Lane, Mark",
+        "observed_on": "2016-04-04",
+        "place": "Central Visayas Region, Siquijor I., San Juan, Paliton Wall",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Congrogadus",
       "ja_name": "センニンガジの仲間",
@@ -13,15 +33,15 @@
       "examples_ja": [
         "センニンガジ"
       ],
-      "species_count": 1,
-      "representative_species": "Congrogadus subducens",
+      "species_count": 2,
+      "representative_species": "Congrogadus hierichthys",
       "photo": {
-        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/55/55/5555c1cb-fc94-4957-acd5-c44522c49f20.jpg",
+        "url": "https://data.nhm.ac.uk/media/134d28f6-d02e-4267-b186-35a2abfc4ba1",
         "source": "GBIF",
-        "license": "CC0",
-        "author": "from Imperial Mus., Tokyo",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
         "observed_on": "",
-        "place": "Miyako-shima.",
+        "place": "Jolo, Sulu, Philippines Islands",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -53,7 +73,7 @@
       "examples_ja": [
         "メギス"
       ],
-      "species_count": 1,
+      "species_count": 3,
       "representative_species": "Labracinus cyclophthalmus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608834838/large.jpg",
@@ -73,8 +93,62 @@
       "examples_ja": [
         "オビキヌハダタナバタメギス"
       ],
+      "species_count": 2,
+      "representative_species": "Lubbockichthys multisquamatus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37697406/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Mark Rosenstein",
+        "observed_on": "2019-04-17",
+        "place": "Solomon Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Manonichthys",
+      "ja_name": "Manonichthys属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 3,
+      "representative_species": "Manonichthys alleni",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613391537/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Klaus Stiefel",
+        "observed_on": "2026-02-04",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Ogilbyina",
+      "ja_name": "Ogilbyina属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
-      "representative_species": "Lubbockichthys tanakai",
+      "representative_species": "Ogilbyina queenslandiae",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/701667927/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Jan Ebr & Ivana Ebrová",
+        "observed_on": "2026-06-22",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Pholidochromis",
+      "ja_name": "Pholidochromis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Pholidochromis cerasina",
       "photo": null
     },
     {
@@ -84,15 +158,15 @@
       "examples_ja": [
         "クレナイニセスズメ"
       ],
-      "species_count": 1,
-      "representative_species": "Pictichromis porphyrea",
+      "species_count": 2,
+      "representative_species": "Pictichromis diadema",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/687031216/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613391566/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "hirosho",
-        "observed_on": "2026-06-27",
-        "place": "Japan",
+        "author": "Klaus Stiefel",
+        "observed_on": "2026-02-02",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -106,14 +180,14 @@
         "セダカニセメギス",
         "コガネニセスズメ"
       ],
-      "species_count": 8,
-      "representative_species": "Pseudochromis cyanotaenia",
+      "species_count": 17,
+      "representative_species": "Pseudochromis bitaeniatus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355745394/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675614549/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Francois Libert",
-        "observed_on": "2017-06-01",
+        "author": "Nigel Marsh",
+        "observed_on": "2026-05-26",
         "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
@@ -127,7 +201,7 @@
         "タナバタメギス",
         "カメレオンタナバタメギス"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Pseudoplesiops annae",
       "photo": {
         "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/a9/c2/a9c25939-78fb-4fab-9b87-a1f5e5400793.jpg",
@@ -142,6 +216,218 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 14271,
+      "scientific_name": "Amsichthys knighti",
+      "genus": "Amsichthys",
+      "genus_ja": "オオメタナバタメギスの仲間",
+      "ja_name": "オオメタナバタメギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Bugeye dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/63/19/6319c17e-c17e-43cf-a67f-76c4977b63ae.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Williams, Jeff T.; Carpenter, Kent; Romena, Nov; Burke, Meg; Lane, Mark",
+        "observed_on": "2016-04-04",
+        "place": "Central Visayas Region, Siquijor I., San Juan, Paliton Wall",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/63/19/6319c17e-c17e-43cf-a67f-76c4977b63ae.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Williams, Jeff T.; Carpenter, Kent; Romena, Nov; Burke, Meg; Lane, Mark",
+          "observed_on": "2016-04-04",
+          "place": "Central Visayas Region, Siquijor I., San Juan, Paliton Wall",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029228&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-03-05",
+          "place": "Alimango Bay, Burias Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177289440/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "jeyre",
+          "observed_on": "2018-04-25",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=bcae459c-be67-4284-9df9-1bb77a919b9e",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Mark McGrouther",
+          "observed_on": "",
+          "place": "Timor-Leste",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "dorsal_soft_rays": {
+          "raw": "23-24",
+          "min": 23,
+          "max": 24
+        },
+        "anal_spines": {
+          "raw": "1-2",
+          "min": 1,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.5",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4418,
+      "scientific_name": "Congrogadus hierichthys",
+      "genus": "Congrogadus",
+      "genus_ja": "センニンガジの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sulu eelblenny",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/134d28f6-d02e-4267-b186-35a2abfc4ba1",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Jolo, Sulu, Philippines Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/134d28f6-d02e-4267-b186-35a2abfc4ba1",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Jolo, Sulu, Philippines Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13901408&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "",
+          "place": "Cuyo, Philippine Ids.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/42/e8/42e8d6c5-8a75-44d0-aecb-71a59c232f57.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "McGregor, Richard C.",
+          "observed_on": "",
+          "place": "Cuyo.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "dorsal_soft_rays": {
+          "raw": "58-62",
+          "min": 58,
+          "max": 62
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "49-51",
+          "min": 49,
+          "max": 51
+        },
+        "pectoral_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "26-43",
+          "min": 26,
+          "max": 43
+        },
+        "max_length": "16",
+        "body_shape": "eel-like",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 4419,
       "scientific_name": "Congrogadus subducens",
@@ -270,7 +556,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65044,
@@ -400,7 +687,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59000,
+      "scientific_name": "Labracinus atrofasciatus",
+      "genus": "Labracinus",
+      "genus_ja": "メギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blackbarred dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "dorsal_soft_rays": {
+          "raw": "25",
+          "min": 25,
+          "max": 25
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "20",
+          "min": 20,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16.7",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12662,
@@ -530,7 +879,220 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 14998,
+      "scientific_name": "Labracinus lineatus",
+      "genus": "Labracinus",
+      "genus_ja": "メギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lined dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713058695/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "dorisreef",
+        "observed_on": "2026-08-05",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713058695/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "dorisreef",
+          "observed_on": "2026-08-05",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/720501468/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Manuel Piana",
+          "observed_on": "2026-08-20",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737500288/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gordon Black",
+          "observed_on": "2026-09-20",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/757403482/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sarah Hodgson",
+          "observed_on": "2026-10-10",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528512219/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "taz01",
+          "observed_on": "2025-06-26",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607105477/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nicolò Palumbo",
+          "observed_on": "2025-09-21",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "25",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 12656,
+      "scientific_name": "Lubbockichthys multisquamatus",
+      "genus": "Lubbockichthys",
+      "genus_ja": "オビキヌハダタナバタメギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Fine-scaled dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37697406/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Mark Rosenstein",
+        "observed_on": "2019-04-17",
+        "place": "Solomon Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37697406/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2019-04-17",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "dorsal_soft_rays": {
+          "raw": "25-26",
+          "min": 25,
+          "max": 26
+        },
+        "anal_spines": {
+          "raw": "1-2",
+          "min": 1,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 61084,
@@ -590,7 +1152,574 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 65047,
+      "scientific_name": "Manonichthys alleni",
+      "genus": "Manonichthys",
+      "genus_ja": "Manonichthys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sabah dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613391537/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Klaus Stiefel",
+        "observed_on": "2026-02-04",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613391537/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Klaus Stiefel",
+          "observed_on": "2026-02-04",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425707590/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "terence zahner",
+          "observed_on": "2024-08-17",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/936204/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2014-05-28",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "28-29",
+          "min": 28,
+          "max": 29
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.06",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 66394,
+      "scientific_name": "Manonichthys scintilla",
+      "genus": "Manonichthys",
+      "genus_ja": "Manonichthys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sparkfin Dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "28",
+          "min": 28,
+          "max": 28
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.15",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 65048,
+      "scientific_name": "Manonichthys winterbottomi",
+      "genus": "Manonichthys",
+      "genus_ja": "Manonichthys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "False midnight dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/f9c191d3-9de6-46f7-85d6-b6553ec52a61",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1976-07-07",
+        "place": "South West Cebu Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/f9c191d3-9de6-46f7-85d6-b6553ec52a61",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1976-07-07",
+          "place": "South West Cebu Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "27-29",
+          "min": 27,
+          "max": 29
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15013,
+      "scientific_name": "Ogilbyina queenslandiae",
+      "genus": "Ogilbyina",
+      "genus_ja": "Ogilbyina属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Queensland dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/701667927/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Jan Ebr & Ivana Ebrová",
+        "observed_on": "2026-06-22",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/701667927/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Jan Ebr & Ivana Ebrová",
+          "observed_on": "2026-06-22",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/741002597/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Hiroya Kidoguchi",
+          "observed_on": "2026-09-21",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/747179973/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kenton Lawson",
+          "observed_on": "2026-09-15",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/376041674/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Josh Moloney",
+          "observed_on": "2024-04-24",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254547560/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "John Sear",
+          "observed_on": "2023-01-27",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668797610/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Bruce Deagle",
+          "observed_on": "2023-12-13",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "32-37",
+          "min": 32,
+          "max": 37
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "18-21",
+          "min": 18,
+          "max": 21
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 64805,
+      "scientific_name": "Pholidochromis cerasina",
+      "genus": "Pholidochromis",
+      "genus_ja": "Pholidochromis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Cherry dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "22",
+          "min": 22,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "19",
+          "min": 19,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.39",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 24439,
+      "scientific_name": "Pictichromis diadema",
+      "genus": "Pictichromis",
+      "genus_ja": "クレナイニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Diadem dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613391566/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Klaus Stiefel",
+        "observed_on": "2026-02-02",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613391566/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Klaus Stiefel",
+          "observed_on": "2026-02-02",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624446023/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-03-13",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639558828/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-03-12",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/661334409/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Francois Libert",
+          "observed_on": "2025-01-22",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/497975449/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kaeliswift",
+          "observed_on": "2025-04-16",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516993849/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2025-06-02",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "21-22",
+          "min": 21,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7461,
@@ -720,7 +1849,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 12654,
+      "scientific_name": "Pseudochromis bitaeniatus",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Double-striped dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675614549/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Nigel Marsh",
+        "observed_on": "2026-05-26",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675614549/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nigel Marsh",
+          "observed_on": "2026-05-26",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675139511/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nigel Marsh",
+          "observed_on": "2026-05-24",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698062613/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "BDBishop",
+          "observed_on": "2026-06-30",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519018864/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2025-06-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519062916/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2025-06-07",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384484358/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ella Pennington",
+          "observed_on": "2024-05-18",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "25-27",
+          "min": 25,
+          "max": 27
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59002,
+      "scientific_name": "Pseudochromis colei",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "False Bandit Dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "24",
+          "min": 24,
+          "max": 24
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "33-36",
+          "min": 33,
+          "max": 36
+        },
+        "max_length": "4.1",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 14279,
@@ -850,7 +2172,372 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 66428,
+      "scientific_name": "Pseudochromis eichleri",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Eichler’s Dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624442841/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "barthazes",
+        "observed_on": "2026-03-14",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624442841/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-03-14",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "24",
+          "min": 24,
+          "max": 24
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.83",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 46486,
+      "scientific_name": "Pseudochromis elongatus",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Elongate dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651701163/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Mark Rosenstein",
+        "observed_on": "2026-04-27",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651701163/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2026-04-27",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651909561/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2026-04-28",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651718057/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2026-04-27",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/652627070/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2026-04-29",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651958255/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2026-04-28",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/651903253/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2026-04-28",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "25-26",
+          "min": 25,
+          "max": 26
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59005,
+      "scientific_name": "Pseudochromis fowleri",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Philippines dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/75/26/75267e9c-672a-4220-a8f7-e4fcacb71b34.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Herre, Albert W.",
+        "observed_on": "1931-05-03",
+        "place": "Culion Island, reef in Culion Harbour. *",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/75/26/75267e9c-672a-4220-a8f7-e4fcacb71b34.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Herre, Albert W.",
+          "observed_on": "1931-05-03",
+          "place": "Culion Island, reef in Culion Harbour. *",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/65/78/6578673f-3bc3-47d1-93d0-82f3a9c34c50.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Herre, Albert W.",
+          "observed_on": "1931-06-22",
+          "place": "Tidepool near Dumaguete (Old Ayuquitan: 7.5 mi. N. of Dumaguete)",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "23-25",
+          "min": 23,
+          "max": 25
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.3",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 66393,
+      "scientific_name": "Pseudochromis fuligifinis",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Soot-tail Dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "25-26",
+          "min": 25,
+          "max": 26
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.23",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6627,
@@ -980,7 +2667,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59008,
@@ -1060,7 +2748,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7323,
@@ -1190,7 +2879,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 57898,
+      "scientific_name": "Pseudochromis moorei",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Jaguar dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617682654/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Ingo Rogalla",
+        "observed_on": "2026-02-21",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617682654/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ingo Rogalla",
+          "observed_on": "2026-02-21",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345805926/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andy",
+          "observed_on": "2024-01-11",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277067462/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "craigjhowe",
+          "observed_on": "2023-04-02",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46797954/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tony Strazzari",
+          "observed_on": "2019-05-25",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66850366/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "craigjhowe",
+          "observed_on": "2019-05-30",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66728097/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "craigjhowe",
+          "observed_on": "2019-05-30",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "25-26",
+          "min": 25,
+          "max": 26
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "18",
+          "min": 18,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 24444,
@@ -1320,7 +3141,190 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 57899,
+      "scientific_name": "Pseudochromis ransonneti",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Karimunjawa dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755984389/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "ylsu",
+        "observed_on": "2026-09-12",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755984389/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ylsu",
+          "observed_on": "2026-09-12",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/493856376/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ylsu",
+          "observed_on": "2025-04-27",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455460145/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2024-12-06",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/48059fcd-cec7-4fb0-92df-b5ac292a959f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1973-09-09",
+          "place": "Pulao Jong, Singapore, Among silt y rubble",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0207718.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1963-07-13",
+          "place": "Malaya Singapore 1 Mi W Of Jurong On Coral Reef.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "23-24",
+          "min": 23,
+          "max": 24
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69249,
+      "scientific_name": "Pseudochromis stellatus",
+      "genus": "Pseudochromis",
+      "genus_ja": "ホシニセスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Greenhead dottyback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "24-26",
+          "min": 24,
+          "max": 26
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.7",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 26785,
@@ -1380,7 +3384,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 14274,
@@ -1510,7 +3515,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69260,
@@ -1570,7 +3576,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 14273,
@@ -1680,7 +3687,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 14270,
@@ -1770,7 +3778,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7463,
+      "scientific_name": "Pseudoplesiops typus",
+      "genus": "Pseudoplesiops",
+      "genus_ja": "タナバタメギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Hidden basslet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11029248&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1909-04-01",
+        "place": "Rasa Island (southwest); Eastern Palawan and vicinity",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029248&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-04-01",
+          "place": "Rasa Island (southwest); Eastern Palawan and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp66919350151952154819.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Zinzi Somana",
+          "observed_on": "1909-06-01",
+          "place": "Biri Channel",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029245&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-06-08",
+          "place": "Batan Island, Caracaran Bay; East Coast of Luzon, San Bernardino Strait to San Miguel Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029249&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-06-03",
+          "place": "Batag Island (west, Near Leung Point), Port Palapag, Samar; East Coast of Luzon, San Bernardino Strait to San Miguel Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029250&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-03-25",
+          "place": "Romblon Harbor (Reef south of Agbatan Point); Vicinity of Romblon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029246&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-11-23",
+          "place": "Port Matalvi, Luzon; off Western Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "dorsal_soft_rays": {
+          "raw": "24-26",
+          "min": 24,
+          "max": 26
+        },
+        "anal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

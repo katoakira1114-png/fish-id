@@ -2,10 +2,28 @@
   "family": "Microdesmidae",
   "family_ja": "",
   "family_slug": "microdesmidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 29,
-  "genera_count": 6,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 38,
+  "genera_count": 7,
   "genera": [
+    {
+      "genus": "Aioliops",
+      "ja_name": "Aioliops属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Aioliops megastigma",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624472101/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "barthazes",
+        "observed_on": "2026-03-03",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Gunnellichthys",
       "ja_name": "オオメワラスボの仲間",
@@ -70,7 +88,7 @@
       "examples_ja": [
         "タンザクハゼ"
       ],
-      "species_count": 1,
+      "species_count": 3,
       "representative_species": "Oxymetopon compressus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/679555916/large.jpg",
@@ -92,7 +110,7 @@
         "ヨスジハゼ",
         "マイコハゼ"
       ],
-      "species_count": 11,
+      "species_count": 13,
       "representative_species": "Parioglossus dotui",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/699509234/large.jpg",
@@ -114,7 +132,7 @@
         "ゼブラハゼ",
         "クロユリハゼ"
       ],
-      "species_count": 7,
+      "species_count": 10,
       "representative_species": "Ptereleotris evides",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618419583/large.jpg",
@@ -129,6 +147,158 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 59224,
+      "scientific_name": "Aioliops brachypterus",
+      "genus": "Aioliops",
+      "genus_ja": "Aioliops属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shortfin minidartfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "4-7",
+          "min": 4,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "2.4",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59225,
+      "scientific_name": "Aioliops megastigma",
+      "genus": "Aioliops",
+      "genus_ja": "Aioliops属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bigspot minidartfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624472101/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "barthazes",
+        "observed_on": "2026-03-03",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624472101/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-03-03",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621418736/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-03-05",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 12677,
       "scientific_name": "Gunnellichthys curiosus",
@@ -257,7 +427,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12678,
@@ -387,7 +558,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7587,
@@ -517,7 +689,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13769,
@@ -647,7 +820,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 70523,
@@ -707,7 +881,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65259,
@@ -767,7 +942,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 70520,
@@ -827,7 +1003,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6616,
@@ -957,7 +1134,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 70089,
@@ -1087,7 +1265,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6629,
@@ -1217,7 +1396,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13046,
@@ -1337,7 +1517,160 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 13047,
+      "scientific_name": "Oxymetopon cyanoctenosum",
+      "genus": "Oxymetopon",
+      "genus_ja": "タンザクハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blue-barred ribbon goby",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/710155049/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Sue Churchill",
+        "observed_on": "2010-11-18",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/710155049/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sue Churchill",
+          "observed_on": "2010-11-18",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/710155048/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sue Churchill",
+          "observed_on": "2010-11-17",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "31",
+          "min": 31,
+          "max": 31
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "27",
+          "min": 27,
+          "max": 27
+        },
+        "pectoral_rays": {
+          "raw": "21",
+          "min": 21,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 60862,
+      "scientific_name": "Oxymetopon typus",
+      "genus": "Oxymetopon",
+      "genus_ja": "タンザクハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sailfin ribbon-goby",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "31",
+          "min": 31,
+          "max": 31
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "31",
+          "min": 31,
+          "max": 31
+        },
+        "pectoral_rays": {
+          "raw": "20-21",
+          "min": 20,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 65433,
@@ -1397,7 +1730,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23580,
@@ -1527,7 +1861,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 17480,
@@ -1657,7 +1992,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 27329,
@@ -1747,7 +2083,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 17481,
@@ -1827,7 +2164,109 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 17482,
+      "scientific_name": "Parioglossus nudus",
+      "genus": "Parioglossus",
+      "genus_ja": "サツキハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Naked hover goby",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712554601/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Thomas Menut",
+        "observed_on": "2026-07-10",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712554601/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Thomas Menut",
+          "observed_on": "2026-07-10",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14992834/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2018-03-24",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/01/ef/01ef478d-cb8f-4d6a-b18b-3ed39ce82433.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "H. DeWitt, Y. Sumang, Sengich, Exley",
+          "observed_on": "1957-11-29",
+          "place": "Ca. 130 yds. NE of the SW arm of Auluptagel I., along the reef which runs NE to the larger island in Risong Bay.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "dorsal_soft_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "2",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "superior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 17483,
@@ -1957,7 +2396,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 27610,
@@ -2087,7 +2527,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 17484,
@@ -2217,7 +2658,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15881,
@@ -2317,7 +2759,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65434,
@@ -2397,7 +2840,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59960,
+      "scientific_name": "Parioglossus sinensis",
+      "genus": "Parioglossus",
+      "genus_ja": "サツキハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22452,
@@ -2507,7 +3012,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4375,
@@ -2637,7 +3143,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4376,
@@ -2767,7 +3274,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4377,
@@ -2897,7 +3405,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4378,
@@ -3027,7 +3536,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63852,
+      "scientific_name": "Ptereleotris kallista",
+      "genus": "Ptereleotris",
+      "genus_ja": "ハナハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Beautiful Dartfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "27",
+          "min": 27,
+          "max": 27
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "25",
+          "min": 25,
+          "max": 25
+        },
+        "pectoral_rays": {
+          "raw": "23-24",
+          "min": 23,
+          "max": 24
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.95",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4381,
@@ -3157,7 +3728,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4382,
@@ -3287,7 +3859,240 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 66886,
+      "scientific_name": "Ptereleotris rubristigma",
+      "genus": "Ptereleotris",
+      "genus_ja": "ハナハゼの仲間",
+      "ja_name": "スミゾメハナハゼ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Redspot dartfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597929922/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Sylvain Le Bris",
+        "observed_on": "2025-07-02",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597929922/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2025-07-02",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/429256990/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Xavier Rufray",
+          "observed_on": "2024-09-10",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443588335/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Thomas Menut",
+          "observed_on": "2024-09-10",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329742724/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "craigjhowe",
+          "observed_on": "2023-09-10",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2345081/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2015-08-16",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2364234/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2015-08-17",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "25",
+          "min": 25,
+          "max": 25
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "23-24",
+          "min": 23,
+          "max": 24
+        },
+        "pectoral_rays": {
+          "raw": "21",
+          "min": 21,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4383,
+      "scientific_name": "Ptereleotris uroditaenia",
+      "genus": "Ptereleotris",
+      "genus_ja": "ハナハゼの仲間",
+      "ja_name": "スミレハナハゼ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Flagtail dartfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.13_253.aebdf645-a1ab-4eef-ba52-d8b9cbcbdc08.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Daniel Yanke",
+        "observed_on": "2006-02-01",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.13_253.aebdf645-a1ab-4eef-ba52-d8b9cbcbdc08.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Yanke",
+          "observed_on": "2006-02-01",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=47bd0550-b317-4b75-835a-2940938c4c82",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Doug Hoese",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=5700.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "John E. Randall",
+          "observed_on": "",
+          "place": "Lagoon reef, Madang, PNG",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "26",
+          "min": 26,
+          "max": 26
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "24",
+          "min": 24,
+          "max": 24
+        },
+        "pectoral_rays": {
+          "raw": "22",
+          "min": 22,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "superior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4384,
@@ -3417,7 +4222,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

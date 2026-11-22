@@ -2,8 +2,8 @@
   "family": "Synodontidae",
   "family_ja": "アカエソ科",
   "family_slug": "synodontidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 26,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 37,
   "genera_count": 4,
   "genera": [
     {
@@ -36,15 +36,15 @@
         "ワニエソ",
         "クロエソ"
       ],
-      "species_count": 9,
-      "representative_species": "Saurida elongata",
+      "species_count": 12,
+      "representative_species": "Saurida argentea",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/502fbb93-32d0-4294-b7a4-e23ea8eebec0",
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=e341b9b4-d871-433b-a97c-df8ba9e2807b",
         "source": "GBIF",
         "license": "CC-BY",
-        "author": "The Trustees of the Natural History Museum, London",
-        "observed_on": "",
-        "place": "Inland  Sea of  Japan",
+        "author": "James King",
+        "observed_on": "1993-10-24",
+        "place": "Australia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -58,7 +58,7 @@
         "スナエソ",
         "アカエソ"
       ],
-      "species_count": 14,
+      "species_count": 22,
       "representative_species": "Synodus binotatus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/706317507/large.jpg",
@@ -221,7 +221,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 260,
@@ -351,7 +352,109 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59118,
+      "scientific_name": "Saurida argentea",
+      "genus": "Saurida",
+      "genus_ja": "マエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shortfin saury",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=e341b9b4-d871-433b-a97c-df8ba9e2807b",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "James King",
+        "observed_on": "1993-10-24",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=e341b9b4-d871-433b-a97c-df8ba9e2807b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "James King",
+          "observed_on": "1993-10-24",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ded4b894-c6e2-47c8-b458-6b3dc2d0ca37",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "James King",
+          "observed_on": "1979-02-05",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=4b85b1c8-50a1-42f6-8345-c4d087a981ef",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Mark Allen",
+          "observed_on": "1881",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "29",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4764,
@@ -471,7 +574,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 24644,
+      "scientific_name": "Saurida filamentosa",
+      "genus": "Saurida",
+      "genus_ja": "マエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Threadfin saury",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp68658209899125583762.att.jpg",
+        "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+        "license": "CC-BY",
+        "author": "University of Kansas Biodiversity Institute",
+        "observed_on": "2014-11-30",
+        "place": "Ta Shi Fish Market",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp68658209899125583762.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp68608467947905061577.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp67452361130364572706.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp61577221105657527874.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp62089888212774863907.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp67280779565385185802.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4534,
@@ -601,7 +836,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63148,
@@ -661,7 +897,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60415,
@@ -721,7 +958,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4467,
+      "scientific_name": "Saurida micropectoralis",
+      "genus": "Saurida",
+      "genus_ja": "マエソの仲間",
+      "ja_name": "コソデエソ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Shortfin lizardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/6251e558-1264-42d2-8ee9-49602b47e1db",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Hong Kong, China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/6251e558-1264-42d2-8ee9-49602b47e1db",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Hong Kong, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/85b0fe2c-b658-4b89-aa25-6e161997450a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Hong Kong, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480738123/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-03-01",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480738797/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-03-01",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543267016/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2025-07-26",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/579273091/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "klearad",
+          "observed_on": "2025-10-09",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "38",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8119,
@@ -851,7 +1220,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6479,
@@ -981,7 +1351,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63146,
@@ -1071,7 +1442,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 1055,
@@ -1201,7 +1573,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10411,
@@ -1281,7 +1654,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7292,
@@ -1411,7 +1785,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 55101,
+      "scientific_name": "Synodus capricornis",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "メイカイアカエソ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Capricorn lizardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473578886/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Sarah Milicich",
+        "observed_on": "2024-10-28",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473578886/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sarah Milicich",
+          "observed_on": "2024-10-28",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/132993461/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "jeyre",
+          "observed_on": "2021-04-17",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_200.9de5cd62-9cdd-4d86-bcd6-2091e77c910f.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Erwan Delrieu-Trottin, Pierre Sasal",
+          "observed_on": "2013-04-21",
+          "place": "Austral Islands, Maria Atoll, outer reef slope at drop-off with dense live coral in channel with sand and rubble at bottom of channel.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11061832&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1922",
+          "place": "Honolulu, Hawaii",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "21",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12620,
@@ -1541,7 +2027,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12890,
@@ -1671,7 +2158,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 64927,
+      "scientific_name": "Synodus fasciapelvicus",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510864965/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "ylsu",
+        "observed_on": "2025-05-14",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510864965/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ylsu",
+          "observed_on": "2025-05-14",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442736944/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2024-10-17",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455106925/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Laurel Fulton",
+          "observed_on": "2024-10-31",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=9989.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra; Elaine Heemstra",
+          "observed_on": "2007-10-19",
+          "place": "South Western Indian Ocean, Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "58-60",
+          "min": 58,
+          "max": 60
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22956,
@@ -1731,7 +2330,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7941,
@@ -1861,7 +2461,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7942,
+      "scientific_name": "Synodus indicus",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Indian lizardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546793387/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kavinezhilanm",
+        "observed_on": "2025-08-03",
+        "place": "India",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546793387/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kavinezhilanm",
+          "observed_on": "2025-08-03",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399368441/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fynbosmex",
+          "observed_on": "2024-06-10",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/399368414/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fynbosmex",
+          "observed_on": "2024-06-13",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21822816/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gaurav Patil",
+          "observed_on": "2017-11-26",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-1374510871129467974.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Alan D. Connell",
+          "observed_on": "2010-06-20",
+          "place": "Park Rynie",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.11_114.2e8c9f09-00b6-49a5-b0c8-106b30bcecab.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Allan D. Connell",
+          "observed_on": "2010-06-20",
+          "place": "Park Rynie",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "52-58",
+          "min": 52,
+          "max": 58
+        },
+        "max_length": "33",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 2720,
+      "scientific_name": "Synodus intermedius",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sand diver",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605452077/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Keith Dickey",
+        "observed_on": "2026-01-04",
+        "place": "Virgin Islands (U.S.)",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605452077/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Keith Dickey",
+          "observed_on": "2026-01-04",
+          "place": "Virgin Islands (U.S.)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605049968/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Emmanuel Gerbeault",
+          "observed_on": "2026-01-03",
+          "place": "Martinique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605229746/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Taylor Justason",
+          "observed_on": "2026-01-03",
+          "place": "Curaçao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604644114/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sheldon Logan",
+          "observed_on": "2026-01-01",
+          "place": "Jamaica",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604644469/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sheldon Logan",
+          "observed_on": "2026-01-01",
+          "place": "Jamaica",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611034301/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "emilymarvel",
+          "observed_on": "2026-01-26",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "46",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7943,
@@ -1991,7 +2854,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7398,
@@ -2121,7 +2985,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 58374,
@@ -2221,7 +3086,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8299,
@@ -2331,7 +3197,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10707,
@@ -2461,7 +3328,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 64649,
@@ -2521,7 +3389,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69248,
+      "scientific_name": "Synodus pacificus",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "オメガエソ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Omega lizardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15.22",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10706,
@@ -2651,7 +3581,311 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 24640,
+      "scientific_name": "Synodus similis",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lavender lizardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/a7e118b2-5856-4f9a-86bb-5317184d89fb",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Nagasaki, Nagasaki",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/a7e118b2-5856-4f9a-86bb-5317184d89fb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Nagasaki, Nagasaki",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/be090de1-a1ee-4e08-9ece-37fa6fd4ef87",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Inland Sea, Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473040094/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Debra Baker",
+          "observed_on": "2025-02-26",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457363243/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "meryllarkin",
+          "observed_on": "2024-11-02",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456031490/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mnevilljackson",
+          "observed_on": "2024-12-02",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263401116/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mountains to Sea Conservation Trust",
+          "observed_on": "2023-03-27",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63420,
+      "scientific_name": "Synodus taiwanensis",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10328,
+      "scientific_name": "Synodus tectus",
+      "genus": "Synodus",
+      "genus_ja": "ドキエソの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Tectus lizardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/syntec01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2001-11-01",
+        "place": "Qieding, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/syntec01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2001-11-01",
+          "place": "Qieding, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11049206&h=1493",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-01-02",
+          "place": "China Sea off southern Luzon, Corregidor Light, N. 21 degrees E., 4.30 miles.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181060388/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1990-11-07",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f78e6b94-517f-4391-953a-d89988d7c12f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "South Lombok, Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.7",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7399,
@@ -2781,7 +4015,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5398,
@@ -2911,7 +4146,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69559,
@@ -3041,7 +4277,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

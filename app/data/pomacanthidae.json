@@ -2,9 +2,9 @@
   "family": "Pomacanthidae",
   "family_ja": "キンチャクダイ科",
   "family_slug": "pomacanthidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 33,
-  "genera_count": 7,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 42,
+  "genera_count": 8,
   "genera": [
     {
       "genus": "Apolemichthys",
@@ -32,10 +32,10 @@
       "ja_name_official": false,
       "examples_ja": [
         "ルリヤッコ",
-        "コガネヤッコ",
-        "アブラヤッコ"
+        "アヤメヤッコ",
+        "コガネヤッコ"
       ],
-      "species_count": 12,
+      "species_count": 14,
       "representative_species": "Centropyge bicolor",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/701820763/large.jpg",
@@ -57,15 +57,15 @@
         "キンチャクダイ",
         "クロキンチャクダイ"
       ],
-      "species_count": 6,
-      "representative_species": "Chaetodontoplus cephalareticulatus",
+      "species_count": 9,
+      "representative_species": "Chaetodontoplus caeruleopunctatus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395219282/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513917006/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "R Lai",
-        "observed_on": "2024-05-26",
-        "place": "Chinese Taipei",
+        "license": "CC-BY",
+        "author": "Pierre Pericard",
+        "observed_on": "2025-05-22",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -76,18 +76,36 @@
       "ja_name_official": false,
       "examples_ja": [
         "トサヤッコ",
-        "ヤイトヤッコ",
-        "タテジマヤッコ"
+        "フカミヤッコ",
+        "ヤイトヤッコ"
       ],
-      "species_count": 5,
-      "representative_species": "Genicanthus lamarck",
+      "species_count": 6,
+      "representative_species": "Genicanthus bellus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613835794/large.jpg",
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=627dc821-8c6b-468e-b8c3-57b129f9c115",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Yi-Kai Tea",
+        "observed_on": "2024-03-28",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Holacanthus",
+      "ja_name": "Holacanthus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Holacanthus bermudensis",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604783056/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "koechest",
-        "observed_on": "2026-02-05",
-        "place": "Japan",
+        "author": "jenarricale",
+        "observed_on": "2026-01-02",
+        "place": "United States of America",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -121,7 +139,7 @@
         "ワヌケヤッコ",
         "サザナミヤッコ"
       ],
-      "species_count": 7,
+      "species_count": 8,
       "representative_species": "Pomacanthus annularis",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675164123/large.jpg",
@@ -284,7 +302,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5454,
@@ -414,7 +433,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5458,
@@ -544,7 +564,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8773,
+      "scientific_name": "Centropyge colini",
+      "genus": "Centropyge",
+      "genus_ja": "ルリヤッコの仲間",
+      "ja_name": "アヤメヤッコ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Cocos-Keeling angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/sp/62/sp62567666600800076172.att.JPG",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Rocha, Luiz A.; Pinheiro, Hudson T.; Shepherd, B.",
+        "observed_on": "2015-04-15",
+        "place": "Verde Island, \"Blackfish Corner\" dive site.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/sp/62/sp62567666600800076172.att.JPG",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Rocha, Luiz A.; Pinheiro, Hudson T.; Shepherd, B.",
+          "observed_on": "2015-04-15",
+          "place": "Verde Island, \"Blackfish Corner\" dive site.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485313006/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mken0403",
+          "observed_on": "2025-04-06",
+          "place": "Palau",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/375002504/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Erik Schlögl",
+          "observed_on": "2024-04-22",
+          "place": "Palau",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416145567/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Damien Brouste",
+          "observed_on": "2024-07-28",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422019236/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Damien Brouste",
+          "observed_on": "2024-08-18",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422018896/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Damien Brouste",
+          "observed_on": "2024-08-18",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "9",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6667,
@@ -674,7 +826,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7813,
@@ -804,7 +957,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5457,
@@ -934,7 +1088,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5665,
@@ -1064,7 +1219,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10990,
@@ -1194,7 +1350,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7814,
+      "scientific_name": "Centropyge loriculus",
+      "genus": "Centropyge",
+      "genus_ja": "ルリヤッコの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Flame angel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606327768/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Nigel Marsh",
+        "observed_on": "2026-01-03",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606327768/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nigel Marsh",
+          "observed_on": "2026-01-03",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605814371/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Olie Turner III",
+          "observed_on": "2026-01-05",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615676399/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sarah Whyte",
+          "observed_on": "2026-02-10",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614620705/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Brianne Rogers",
+          "observed_on": "2026-02-09",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618010938/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pauline Fey",
+          "observed_on": "2026-02-07",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620032176/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pauline Fey",
+          "observed_on": "2026-02-07",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "present",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6647,
@@ -1324,7 +1612,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 11111,
@@ -1454,7 +1743,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6548,
@@ -1584,7 +1874,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 11189,
@@ -1714,7 +2005,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5447,
@@ -1844,7 +2136,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 11116,
+      "scientific_name": "Chaetodontoplus caeruleopunctatus",
+      "genus": "Chaetodontoplus",
+      "genus_ja": "チリメンヤッコの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bluespotted angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513917006/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Pierre Pericard",
+        "observed_on": "2025-05-22",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/513917006/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Pierre Pericard",
+          "observed_on": "2025-05-22",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19302086/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2018-05-17",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.17_125.4954fd08-1d68-4eb6-b304-9b8fa1632889.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Yanke",
+          "observed_on": "2006-03-14",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.11_122.e8629f90-02ae-4c9a-a2e6-d1306e612afa.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Yanke",
+          "observed_on": "2006-05-23",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/52ae304c-3d78-40d7-8116-e6a140b3004d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1975-01-01",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.23_169.19c7b6f5-e354-4171-a844-a1fe8ba5cbf4.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Yanke",
+          "observed_on": "",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "18",
+          "min": 18,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 67409,
@@ -1934,7 +2358,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 11119,
@@ -1994,7 +2419,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10823,
+      "scientific_name": "Chaetodontoplus duboulayi",
+      "genus": "Chaetodontoplus",
+      "genus_ja": "チリメンヤッコの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Scribbled angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609100835/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Adam Smith",
+        "observed_on": "2026-01-18",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609100835/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Adam Smith",
+          "observed_on": "2026-01-18",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609100834/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Adam Smith",
+          "observed_on": "2026-01-18",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610776685/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Luke Lythgoe",
+          "observed_on": "2026-01-24",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612121470/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Eva Paulus",
+          "observed_on": "2026-01-31",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622429280/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Luke Lythgoe",
+          "observed_on": "2026-01-31",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640593165/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "truli45",
+          "observed_on": "2026-04-19",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "22",
+          "min": 22,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "21",
+          "min": 21,
+          "max": 21
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "present",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10472,
@@ -2124,7 +2681,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5660,
@@ -2254,7 +2812,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60410,
@@ -2344,7 +2903,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10828,
+      "scientific_name": "Chaetodontoplus personifer",
+      "genus": "Chaetodontoplus",
+      "genus_ja": "チリメンヤッコの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blueface angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360533840/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "AmilaDG",
+        "observed_on": "2024-03-23",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360533840/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "AmilaDG",
+          "observed_on": "2024-03-23",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/451715559/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kristin Anderson",
+          "observed_on": "2024-11-13",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258937097/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Adam Smith",
+          "observed_on": "2023-03-04",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337609645/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Grace Keast",
+          "observed_on": "2023-11-24",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340857241/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kristin Anderson",
+          "observed_on": "2023-12-06",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/316703345/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ren",
+          "observed_on": "2021-06-12",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "35",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 11124,
@@ -2474,7 +3165,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 5667,
+      "scientific_name": "Genicanthus bellus",
+      "genus": "Genicanthus",
+      "genus_ja": "トサヤッコの仲間",
+      "ja_name": "フカミヤッコ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Ornate angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=627dc821-8c6b-468e-b8c3-57b129f9c115",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Yi-Kai Tea",
+        "observed_on": "2024-03-28",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=627dc821-8c6b-468e-b8c3-57b129f9c115",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Yi-Kai Tea",
+          "observed_on": "2024-03-28",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/79601438/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Karen Willshaw",
+          "observed_on": "2015-01-29",
+          "place": "Cocos (Keeling) Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105136309/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "uwkwaj",
+          "observed_on": "2013-07-01",
+          "place": "Marshall Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62078439/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Karen Willshaw",
+          "observed_on": "2012-02-22",
+          "place": "Cocos (Keeling) Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://photos.geome-db.org/75/Sample_Photo/MINV_BMOO_BMOO_17698_photo_2_1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Biocode MINV Team",
+          "observed_on": "2012-02-06",
+          "place": "north of Vaiare Pass, off Sofitel",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62049770/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Karen Willshaw",
+          "observed_on": "2011-09-04",
+          "place": "Cocos (Keeling) Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "dorsal_soft_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6612,
@@ -2604,7 +3427,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8710,
@@ -2734,7 +3558,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 11153,
@@ -2864,7 +3689,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60079,
@@ -2994,7 +3820,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8711,
@@ -3124,7 +3951,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 3608,
+      "scientific_name": "Holacanthus bermudensis",
+      "genus": "Holacanthus",
+      "genus_ja": "Holacanthus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604783056/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "jenarricale",
+        "observed_on": "2026-01-02",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604783056/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jenarricale",
+          "observed_on": "2026-01-02",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606753461/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Phil Colarusso",
+          "observed_on": "2026-01-09",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612042058/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Brendan Fogarty",
+          "observed_on": "2026-01-25",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612042024/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Brendan Fogarty",
+          "observed_on": "2026-01-25",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616373169/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jamesnr",
+          "observed_on": "2026-02-06",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616203841/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jon McIntyre",
+          "observed_on": "2026-02-15",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "45",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "present",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 3609,
+      "scientific_name": "Holacanthus ciliaris",
+      "genus": "Holacanthus",
+      "genus_ja": "Holacanthus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Queen angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605049707/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Emmanuel Gerbeault",
+        "observed_on": "2026-01-03",
+        "place": "Martinique",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605049707/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Emmanuel Gerbeault",
+          "observed_on": "2026-01-03",
+          "place": "Martinique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606814368/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ben Zerante",
+          "observed_on": "2026-01-02",
+          "place": "Belize",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610517382/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Hugo Roger",
+          "observed_on": "2026-01-24",
+          "place": "Guadeloupe",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610598011/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alycia Uyeoka",
+          "observed_on": "2026-01-23",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609721618/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "finneugenemorgan",
+          "observed_on": "2026-01-10",
+          "place": "Bonaire, Sint Eustatius and Saba",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606236571/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "adalden",
+          "observed_on": "2026-01-07",
+          "place": "Mexico",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "dorsal_soft_rays": {
+          "raw": "19-21",
+          "min": 19,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "20-21",
+          "min": 20,
+          "max": 21
+        },
+        "pectoral_rays": {
+          "raw": "19",
+          "min": 19,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "45-49",
+          "min": 45,
+          "max": 49
+        },
+        "max_length": "45",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5666,
@@ -3254,7 +4344,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7902,
@@ -3384,7 +4475,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1117,
+      "scientific_name": "Pomacanthus arcuatus",
+      "genus": "Pomacanthus",
+      "genus_ja": "アデヤッコの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Gray angelfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604855471/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Lily McLane",
+        "observed_on": "2026-01-02",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604855471/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Lily McLane",
+          "observed_on": "2026-01-02",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604928893/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dolordebarriga",
+          "observed_on": "2026-01-02",
+          "place": "Mexico",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606754840/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Louis Beney",
+          "observed_on": "2026-01-07",
+          "place": "Belize",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610055798/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alycia Uyeoka",
+          "observed_on": "2026-01-22",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606652267/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Emily Palahnuk",
+          "observed_on": "2026-01-01",
+          "place": "Belize",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610040772/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "J.A.",
+          "observed_on": "2026-01-22",
+          "place": "Puerto Rico",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "31-33",
+          "min": 31,
+          "max": 33
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "23-25",
+          "min": 23,
+          "max": 25
+        },
+        "pectoral_rays": {
+          "raw": "19-20",
+          "min": 19,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "60",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "present",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 6504,
@@ -3514,7 +4737,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7903,
@@ -3644,7 +4868,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5661,
@@ -3774,7 +4999,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5663,
@@ -3904,7 +5130,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6564,
@@ -4034,7 +5261,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5662,
@@ -4164,7 +5392,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6572,
@@ -4294,7 +5523,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

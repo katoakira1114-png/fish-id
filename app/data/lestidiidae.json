@@ -2,9 +2,9 @@
   "family": "Lestidiidae",
   "family_ja": "",
   "family_slug": "lestidiidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 9,
-  "genera_count": 3,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 13,
+  "genera_count": 4,
   "genera": [
     {
       "genus": "Lestidiops",
@@ -33,9 +33,10 @@
       "ja_name": "ナメハダカの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "ナメハダカ"
+        "ナメハダカ",
+        "トウヨウヒトスジナメハダカ"
       ],
-      "species_count": 2,
+      "species_count": 5,
       "representative_species": "Lestidium atlanticum",
       "photo": {
         "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/lesatl01sr.tif",
@@ -65,6 +66,24 @@
         "author": "University of Kansas Biodiversity Institute",
         "observed_on": "2014-12-04",
         "place": "Dong Gang Fish Market",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Macroparalepis",
+      "ja_name": "Macroparalepis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Macroparalepis brevis",
+      "photo": {
+        "url": "http://193.146.88.250/WEB/PECES/Macroparalepis%20brevis_402.JPG",
+        "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
+        "license": "CC-BY-NC",
+        "author": "IEO",
+        "observed_on": "2008-10-31",
+        "place": "Guinea-Bissau",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -129,7 +148,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12415,
@@ -259,7 +279,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23031,
@@ -339,7 +360,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10170,
@@ -449,7 +471,150 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69776,
+      "scientific_name": "Lestidium longilucifer",
+      "genus": "Lestidium",
+      "genus_ja": "ナメハダカの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Long light-organ barracudina",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=6b31de71-d255-4dcb-9b39-1c5d7d30d18c",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Ichthyology Australian Museum",
+        "observed_on": "1982-04-04",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=6b31de71-d255-4dcb-9b39-1c5d7d30d18c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Ichthyology Australian Museum",
+          "observed_on": "1982-04-04",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "28-30",
+          "min": 28,
+          "max": 30
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "126-146",
+          "min": 126,
+          "max": 146
+        },
+        "max_length": "29.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69793,
+      "scientific_name": "Lestidium orientale",
+      "genus": "Lestidium",
+      "genus_ja": "ナメハダカの仲間",
+      "ja_name": "トウヨウヒトスジナメハダカ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Oriental barracudina",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "26-30",
+          "min": 26,
+          "max": 30
+        },
+        "pectoral_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "56-60",
+          "min": 56,
+          "max": 60
+        },
+        "max_length": "16.7",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23027,
@@ -529,7 +694,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69778,
+      "scientific_name": "Lestidium rofeni",
+      "genus": "Lestidium",
+      "genus_ja": "ナメハダカの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Rofen’s barracudina",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "30-33",
+          "min": 30,
+          "max": 33
+        },
+        "pectoral_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "123-139",
+          "min": 123,
+          "max": 139
+        },
+        "max_length": "26.4",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10169,
@@ -659,7 +886,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24646,
@@ -789,7 +1017,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69794,
@@ -849,7 +1078,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69795,
@@ -959,7 +1189,109 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16564,
+      "scientific_name": "Macroparalepis brevis",
+      "genus": "Macroparalepis",
+      "genus_ja": "Macroparalepis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://193.146.88.250/WEB/PECES/Macroparalepis%20brevis_402.JPG",
+        "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
+        "license": "CC-BY-NC",
+        "author": "IEO",
+        "observed_on": "2008-10-31",
+        "place": "Guinea-Bissau",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://193.146.88.250/WEB/PECES/Macroparalepis%20brevis_402.JPG",
+          "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
+          "license": "CC-BY-NC",
+          "author": "IEO",
+          "observed_on": "2008-10-31",
+          "place": "Guinea-Bissau",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://193.146.88.250/WEB/PECES/macroparalepis%20brevis_540.JPG",
+          "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
+          "license": "CC-BY-NC",
+          "author": "IEO",
+          "observed_on": "2008-10-28",
+          "place": "Guinea-Bissau",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2318728_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1930-02-19",
+          "place": "Agulhas Bank - Cape Town - St. Helena",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

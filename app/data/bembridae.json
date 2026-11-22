@@ -2,9 +2,9 @@
   "family": "Bembridae",
   "family_ja": "アカゴチ科",
   "family_slug": "bembridae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 4,
-  "genera_count": 4,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 6,
+  "genera_count": 5,
   "genera": [
     {
       "genus": "Bambradon",
@@ -56,15 +56,42 @@
       }
     },
     {
+      "genus": "Brachybembras",
+      "ja_name": "Brachybembras属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Brachybembras aschemeieri",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=5009696&h=335",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1908-03-05",
+        "place": "Jolo Lighthouse, East, 24.75 miles; Vicinity of Jolo",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Parabembras",
       "ja_name": "ウバゴチの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "ウバゴチ"
       ],
-      "species_count": 1,
-      "representative_species": "Parabembras curta",
-      "photo": null
+      "species_count": 2,
+      "representative_species": "Parabembras multisquamata",
+      "photo": {
+        "url": "http://mediaphoto.mnhn.fr/media/1536748260033MZkvJg8VD5PkcL0G",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "L. RANDRIHASIPARA",
+        "observed_on": "1980-11-23",
+        "place": "lemery",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     }
   ],
   "species": [
@@ -126,7 +153,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10444,
@@ -256,7 +284,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10445,
@@ -386,7 +415,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 58829,
+      "scientific_name": "Brachybembras aschemeieri",
+      "genus": "Brachybembras",
+      "genus_ja": "Brachybembras属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=5009696&h=335",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1908-03-05",
+        "place": "Jolo Lighthouse, East, 24.75 miles; Vicinity of Jolo",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5009696&h=335",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1908-03-05",
+          "place": "Jolo Lighthouse, East, 24.75 miles; Vicinity of Jolo",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "21",
+          "min": 21,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "32",
+          "min": 32,
+          "max": 32
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12981,
@@ -446,7 +557,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69202,
+      "scientific_name": "Parabembras multisquamata",
+      "genus": "Parabembras",
+      "genus_ja": "ウバゴチの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://mediaphoto.mnhn.fr/media/1536748260033MZkvJg8VD5PkcL0G",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "L. RANDRIHASIPARA",
+        "observed_on": "1980-11-23",
+        "place": "lemery",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1536748260033MZkvJg8VD5PkcL0G",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1980-11-23",
+          "place": "lemery",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1521037048470EwfGwYiABnJyPbBO",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "2006-10-15",
+          "place": "Big Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1536748274301qcGxqOgHWEGZIriP",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "2005-09-06",
+          "place": "Vanuatu",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1521037049051r7PvzI7dST0GBruw",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "2005-09-06",
+          "place": "Vanuatu",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18.69",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

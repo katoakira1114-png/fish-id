@@ -2,10 +2,28 @@
   "family": "Moronidae",
   "family_ja": "",
   "family_slug": "moronidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 2,
+  "genera_count": 2,
   "genera": [
+    {
+      "genus": "Dicentrarchus",
+      "ja_name": "Dicentrarchus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Dicentrarchus labrax",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609218860/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Scott Clark",
+        "observed_on": "2026-01-19",
+        "place": "Italy",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Morone",
       "ja_name": "Morone属",
@@ -26,6 +44,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 63,
+      "scientific_name": "Dicentrarchus labrax",
+      "genus": "Dicentrarchus",
+      "genus_ja": "Dicentrarchus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "European seabass",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609218860/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Scott Clark",
+        "observed_on": "2026-01-19",
+        "place": "Italy",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609218860/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Scott Clark",
+          "observed_on": "2026-01-19",
+          "place": "Italy",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607175938/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Octávio Mateus",
+          "observed_on": "2026-01-10",
+          "place": "Portugal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609510032/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sagittaria2019",
+          "observed_on": "2026-01-20",
+          "place": "Italy",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607205822/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marsel Mersinaj",
+          "observed_on": "2026-01-11",
+          "place": "Albania",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611424001/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Marsel Mersinaj",
+          "observed_on": "2026-01-27",
+          "place": "Albania",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611449419/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "lucapassalacqua",
+          "observed_on": "2026-01-22",
+          "place": "Greece",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "62-80",
+          "min": 62,
+          "max": 80
+        },
+        "max_length": "103",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "one spot only",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 353,
       "scientific_name": "Morone saxatilis",
@@ -154,7 +303,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

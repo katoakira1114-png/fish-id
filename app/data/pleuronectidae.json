@@ -2,9 +2,9 @@
   "family": "Pleuronectidae",
   "family_ja": "カレイ科",
   "family_slug": "pleuronectidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 33,
-  "genera_count": 20,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 46,
+  "genera_count": 21,
   "genera": [
     {
       "genus": "Acanthopsetta",
@@ -33,7 +33,7 @@
       "examples_ja": [
         "アブラガレイ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Atheresthes evermanni",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249683317/large.jpg",
@@ -134,15 +134,15 @@
         "ヒレグロ",
         "ヤナギムシガレイ"
       ],
-      "species_count": 2,
-      "representative_species": "Glyptocephalus kitaharae",
+      "species_count": 4,
+      "representative_species": "Glyptocephalus cynoglossus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755399282/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626806150/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "idi222",
-        "observed_on": "2025-11-21",
-        "place": "Korea, Republic of",
+        "author": "Jean-François Rousseau",
+        "observed_on": "2026-03-20",
+        "place": "Canada",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -156,7 +156,7 @@
         "ウマガレイ",
         "ドロガレイ"
       ],
-      "species_count": 3,
+      "species_count": 4,
       "representative_species": "Hippoglossoides dubius",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/f8cf7dd3-6d1c-4fac-a646-d90ee5b814bb",
@@ -176,15 +176,15 @@
       "examples_ja": [
         "オヒョウ"
       ],
-      "species_count": 1,
-      "representative_species": "Hippoglossus stenolepis",
+      "species_count": 2,
+      "representative_species": "Hippoglossus hippoglossus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629049669/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "matthewwalls",
-        "observed_on": "2026-01-16",
-        "place": "Canada",
+        "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/3/6642faf8-ff0a-4522-8967-0834f83b3a15_image.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Magnus Tornes",
+        "observed_on": "2026-03-21",
+        "place": "Høgholmen, Smøla, Mr",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -215,9 +215,10 @@
       "ja_name": "コガネガレイの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "コガネガレイ"
+        "コガネガレイ",
+        "カラフトガレイ"
       ],
-      "species_count": 1,
+      "species_count": 3,
       "representative_species": "Limanda aspera",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/f8cf7dd3-6d1c-4fac-a646-d90ee5b814bb",
@@ -237,15 +238,15 @@
       "examples_ja": [
         "トウガレイ"
       ],
-      "species_count": 1,
-      "representative_species": "Liopsetta pinnifasciata",
+      "species_count": 2,
+      "representative_species": "Liopsetta glacialis",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/8a9ee529-b9a7-43d6-b3a5-787e65bb6595",
-        "source": "GBIF",
-        "license": "CC-BY",
-        "author": "The Trustees of the Natural History Museum, London",
-        "observed_on": "",
-        "place": "Imperator Bay",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698824721/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "brameyer",
+        "observed_on": "2026-07-15",
+        "place": "United States of America",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -258,7 +259,7 @@
         "ババガレイ",
         "シモフリガレイ"
       ],
-      "species_count": 2,
+      "species_count": 4,
       "representative_species": "Microstomus achne",
       "photo": {
         "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0204571.jpg",
@@ -293,6 +294,24 @@
       }
     },
     {
+      "genus": "Parophrys",
+      "ja_name": "Parophrys属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Parophrys vetulus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609640122/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Justin Chan",
+        "observed_on": "2026-01-20",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Platichthys",
       "ja_name": "イシガレイの仲間",
       "ja_name_official": false,
@@ -300,7 +319,7 @@
         "イシガレイ",
         "ヌマガレイ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Platichthys bicoloratus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615725076/large.jpg",
@@ -320,15 +339,15 @@
       "examples_ja": [
         "ツノガレイ"
       ],
-      "species_count": 1,
-      "representative_species": "Pleuronectes quadrituberculatus",
+      "species_count": 2,
+      "representative_species": "Pleuronectes platessa",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/730076079/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615753959/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Max",
-        "observed_on": "2026-09-06",
-        "place": "United States of America",
+        "author": "Chris",
+        "observed_on": "2026-02-14",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -517,7 +536,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 518,
@@ -647,7 +667,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 517,
+      "scientific_name": "Atheresthes stomias",
+      "genus": "Atheresthes",
+      "genus_ja": "アブラガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Arrow-tooth flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/688208801/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Alex Munday",
+        "observed_on": "2026-06-28",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/688208801/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alex Munday",
+          "observed_on": "2026-06-28",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/699796524/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "omahalostpunk",
+          "observed_on": "2026-07-17",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716364675/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mikemjgjap",
+          "observed_on": "2026-07-25",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/719880381/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "carterburtlake",
+          "observed_on": "2026-08-10",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716941130/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jcdrey",
+          "observed_on": "2026-08-14",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478514577/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "hewittdoesit",
+          "observed_on": "2025-03-21",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "92-109",
+          "min": 92,
+          "max": 109
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "72-90",
+          "min": 72,
+          "max": 90
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "84",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 52511,
@@ -777,7 +929,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8838,
@@ -907,7 +1060,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8841,
@@ -1017,7 +1171,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8842,
@@ -1147,7 +1302,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 26,
+      "scientific_name": "Glyptocephalus cynoglossus",
+      "genus": "Glyptocephalus",
+      "genus_ja": "ヒレグロの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Witch flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626806150/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jean-François Rousseau",
+        "observed_on": "2026-03-20",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626806150/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-03-20",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635673833/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-04-08",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664743331/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-05-22",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/668707814/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "maxwell",
+          "observed_on": "2026-05-28",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691962776/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-07-04",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/6/6384d4df-5d29-4f20-93fa-5a015728a73c_image.jpg",
+          "source": "GBIF Kartleggingsmidler Sabima",
+          "license": "CC-BY",
+          "author": "Jon Arne Wilhelmsen",
+          "observed_on": "2025-06-03",
+          "place": "Frakkfjord, Loppa, Fi",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "95-120",
+          "min": 95,
+          "max": 120
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "85-102",
+          "min": 85,
+          "max": 102
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "110-140",
+          "min": 110,
+          "max": 140
+        },
+        "max_length": "60",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "superior",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "flatfish"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8558,
@@ -1227,7 +1514,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8843,
@@ -1357,7 +1645,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4238,
+      "scientific_name": "Glyptocephalus zachirus",
+      "genus": "Glyptocephalus",
+      "genus_ja": "ヒレグロの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Rex sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608927029/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Karen L. Johnson",
+        "observed_on": "2026-01-17",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608927029/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Karen L. Johnson",
+          "observed_on": "2026-01-17",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613336770/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Karen L. Johnson",
+          "observed_on": "2026-02-04",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472318742/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "hewittdoesit",
+          "observed_on": "2025-02-21",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/535248603/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Braden J. Judson",
+          "observed_on": "2025-07-11",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350970039/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Karen L. Johnson",
+          "observed_on": "2024-02-10",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459150194/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "thirty_legs",
+          "observed_on": "2024-06-13",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "87-110",
+          "min": 87,
+          "max": 110
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "78-93",
+          "min": 78,
+          "max": 93
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "60",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8845,
@@ -1487,7 +1907,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 519,
@@ -1617,7 +2038,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4239,
+      "scientific_name": "Hippoglossoides platessoides",
+      "genus": "Hippoglossoides",
+      "genus_ja": "アカガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "American plaice",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617202245/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jean-François Rousseau",
+        "observed_on": "2026-02-19",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617202245/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-02-19",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626808233/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-03-20",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/661758692/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-05-17",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712924569/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bradhowelll",
+          "observed_on": "2026-07-26",
+          "place": "Greenland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/713735786/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-07-22",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/704078784/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "VikingPolaris_01",
+          "observed_on": "2026-07-23",
+          "place": "Greenland",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "82.6",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4240,
@@ -1747,7 +2300,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1371,
+      "scientific_name": "Hippoglossus hippoglossus",
+      "genus": "Hippoglossus",
+      "genus_ja": "オヒョウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Atlantic halibut",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/3/6642faf8-ff0a-4522-8967-0834f83b3a15_image.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Magnus Tornes",
+        "observed_on": "2026-03-21",
+        "place": "Høgholmen, Smøla, Mr",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/3/6642faf8-ff0a-4522-8967-0834f83b3a15_image.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Magnus Tornes",
+          "observed_on": "2026-03-21",
+          "place": "Høgholmen, Smøla, Mr",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/665640134/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Vsevolod Rudyi",
+          "observed_on": "2026-05-23",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/7/de1260e5-6c99-444b-8c60-e4f30fd0f278_image.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Roar Ottesen",
+          "observed_on": "2026-07-12",
+          "place": "Ranfjorden/utenfor Almlivika, Strekningen Båsmoen - Alteren, Rana, No",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/693270587/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-07-05",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/696366900/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "scaryportdenny",
+          "observed_on": "2026-07-12",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/706561203/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Esko Uski",
+          "observed_on": "2026-07-26",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "98-110",
+          "min": 98,
+          "max": 110
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "73-85",
+          "min": 73,
+          "max": 85
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "160",
+          "min": 160,
+          "max": 160
+        },
+        "max_length": "470",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 514,
@@ -1877,7 +2562,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24237,
@@ -2007,7 +2693,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8846,
@@ -2137,7 +2824,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 58882,
@@ -2267,7 +2955,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 520,
@@ -2397,7 +3086,401 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 695,
+      "scientific_name": "Limanda limanda",
+      "genus": "Limanda",
+      "genus_ja": "コガネガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Common dab",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605446444/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Steve Holding",
+        "observed_on": "2026-01-01",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605446444/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Steve Holding",
+          "observed_on": "2026-01-01",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610415173/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ruby Silverlock",
+          "observed_on": "2026-01-24",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608739711/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Luca Bier",
+          "observed_on": "2026-01-13",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/143517455.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Rick Geling",
+          "observed_on": "2026-01-25",
+          "place": "IJmuiden - Zuidpier",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613862267/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Lewis Dunmore",
+          "observed_on": "2026-02-07",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613892589/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Luca Bier",
+          "observed_on": "2026-02-07",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 50421,
+      "scientific_name": "Limanda sakhalinensis",
+      "genus": "Limanda",
+      "genus_ja": "コガネガレイの仲間",
+      "ja_name": "カラフトガレイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Sakhalin sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278600516/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sergeymakeev",
+        "observed_on": "2023-05-12",
+        "place": "Russian Federation",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278600516/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sergeymakeev",
+          "observed_on": "2023-05-12",
+          "place": "Russian Federation",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0307883.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1961-09-10",
+          "place": "Japan Okhotsk Sea.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0307808.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1961-09-20",
+          "place": "Japan Okhotsk Sea.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0307851.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1961-09-27",
+          "place": "Japan Okhotsk Sea.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0307753.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1961-09-27",
+          "place": "Japan Okhotsk Sea.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249761579/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sergeymakeev",
+          "observed_on": "2000-08-13",
+          "place": "Russian Federation",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "36",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4244,
+      "scientific_name": "Liopsetta glacialis",
+      "genus": "Liopsetta",
+      "genus_ja": "トウガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Arctic flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698824721/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "brameyer",
+        "observed_on": "2026-07-15",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698824721/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "brameyer",
+          "observed_on": "2026-07-15",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/702292317/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Amiel Hopkins",
+          "observed_on": "2026-07-15",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/709397845/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Cameron Eckert",
+          "observed_on": "2026-08-01",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716147665/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Cameron Eckert",
+          "observed_on": "2026-08-12",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539431702/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Cameron Eckert",
+          "observed_on": "2025-07-19",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656101744/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Николаев Павел",
+          "observed_on": "2025-07-05",
+          "place": "Russian Federation",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "50-62",
+          "min": 50,
+          "max": 62
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "35-44",
+          "min": 35,
+          "max": 44
+        },
+        "pectoral_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "44",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 13072,
@@ -2487,7 +3570,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8559,
@@ -2597,7 +3681,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4236,
@@ -2727,7 +3812,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1382,
+      "scientific_name": "Microstomus kitt",
+      "genus": "Microstomus",
+      "genus_ja": "ババガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lemon sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/654257926/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Maisie Henderson",
+        "observed_on": "2026-05-05",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/654257926/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Maisie Henderson",
+          "observed_on": "2026-05-05",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715017136/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Bradley Rasmussen",
+          "observed_on": "2026-08-11",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715017442/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Bradley Rasmussen",
+          "observed_on": "2026-08-11",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715016874/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Bradley Rasmussen",
+          "observed_on": "2026-08-11",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/739928747/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Iván Jesús Fernández Jiménez",
+          "observed_on": "2026-09-24",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2025/6/621d48af-6b46-4af4-a6a6-fad400aa6268_image.jpg",
+          "source": "GBIF Kartleggingsmidler Sabima",
+          "license": "CC-BY",
+          "author": "Jon Arne Wilhelmsen",
+          "observed_on": "2025-06-03",
+          "place": "Frakkfjord, Loppa, Fi",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "65",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4247,
+      "scientific_name": "Microstomus pacificus",
+      "genus": "Microstomus",
+      "genus_ja": "ババガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dover sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619202966/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Paul Norwood",
+        "observed_on": "2026-02-24",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619202966/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-02-24",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619439730/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Connor",
+          "observed_on": "2026-02-24",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/652630279/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bigshaun",
+          "observed_on": "2026-05-02",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/654498684/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "egarfield",
+          "observed_on": "2026-05-03",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/747768761/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "daxreid",
+          "observed_on": "2026-09-26",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/751606960/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dennis Hazerli",
+          "observed_on": "2026-10-14",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "90-116",
+          "min": 90,
+          "max": 116
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "80-96",
+          "min": 80,
+          "max": 96
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "76",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4243,
@@ -2847,7 +4195,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8882,
@@ -2907,7 +4256,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4248,
+      "scientific_name": "Parophrys vetulus",
+      "genus": "Parophrys",
+      "genus_ja": "Parophrys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "English sole",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609640122/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Justin Chan",
+        "observed_on": "2026-01-20",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609640122/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Justin Chan",
+          "observed_on": "2026-01-20",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609833450/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "shrom1234",
+          "observed_on": "2026-01-18",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613365051/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "riannodynsky",
+          "observed_on": "2026-01-31",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612082006/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Samuelle Simard-Provençal",
+          "observed_on": "2026-01-30",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616539793/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Steve Foss",
+          "observed_on": "2026-02-10",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620108368/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aksharac",
+          "observed_on": "2026-02-28",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "72-92",
+          "min": 72,
+          "max": 92
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "45-70",
+          "min": 45,
+          "max": 70
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "49",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8557,
@@ -3037,7 +4518,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1341,
+      "scientific_name": "Platichthys flesus",
+      "genus": "Platichthys",
+      "genus_ja": "イシガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "European flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606641112/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Nathaniel Bell",
+        "observed_on": "2026-01-09",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606641112/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nathaniel Bell",
+          "observed_on": "2026-01-09",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610699573/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rafał Gajewski",
+          "observed_on": "2026-01-25",
+          "place": "Poland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609672269/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Vsevolod Rudyi",
+          "observed_on": "2026-01-21",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/144054916.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Youp van den Heuvel",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616358079/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Luca Bier",
+          "observed_on": "2026-02-16",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/706f0259-27c8-4b37-8ed6-e56f52ab0f01.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Knud Neergaard Flensted",
+          "observed_on": "2026-02-22",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "53-62",
+          "min": 53,
+          "max": 62
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "37-46",
+          "min": 37,
+          "max": 46
+        },
+        "pectoral_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "80",
+          "min": 80,
+          "max": 80
+        },
+        "max_length": "60",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "superior",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "flatfish"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4249,
@@ -3167,7 +4780,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1342,
+      "scientific_name": "Pleuronectes platessa",
+      "genus": "Pleuronectes",
+      "genus_ja": "ツノガレイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "European plaice",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615753959/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Chris",
+        "observed_on": "2026-02-14",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615753959/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Chris",
+          "observed_on": "2026-02-14",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616655997/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Luca Bier",
+          "observed_on": "2026-02-17",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617555805/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "laurmaria",
+          "observed_on": "2026-02-10",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619857789/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "caitlinisabel",
+          "observed_on": "2026-02-28",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617192934/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Bernd De Bosscher",
+          "observed_on": "2026-02-18",
+          "place": "Belgium",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614222175/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "piper_butterfield",
+          "observed_on": "2026-02-08",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "65-79",
+          "min": 65,
+          "max": 79
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "48-59",
+          "min": 48,
+          "max": 59
+        },
+        "pectoral_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "88-115",
+          "min": 88,
+          "max": 115
+        },
+        "max_length": "100",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "superior",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "flatfish"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4250,
@@ -3297,7 +5042,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8551,
@@ -3427,7 +5173,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69706,
@@ -3507,7 +5254,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8556,
@@ -3637,7 +5385,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24239,
@@ -3767,7 +5516,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8885,
@@ -3887,7 +5637,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8170,
@@ -4017,7 +5768,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 516,
@@ -4147,7 +5899,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6609,
@@ -4237,7 +5990,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6607,
@@ -4367,7 +6121,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

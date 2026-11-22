@@ -2,9 +2,9 @@
   "family": "Gasterosteidae",
   "family_ja": "トゲウオ科",
   "family_slug": "gasterosteidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 4,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 7,
+  "genera_count": 3,
   "genera": [
     {
       "genus": "Gasterosteus",
@@ -34,15 +34,33 @@
       "examples_ja": [
         "トミヨ"
       ],
-      "species_count": 2,
-      "representative_species": "Pungitius pungitius",
+      "species_count": 4,
+      "representative_species": "Pungitius platygaster",
       "photo": {
-        "url": "https://arter.dk/media/13c1b826-7b59-4ed9-979c-9113b87a8c11.jpg",
-        "source": "GBIF",
-        "license": "CC-BY",
-        "author": "Claus Lindskov Møller",
-        "observed_on": "2026-01-28",
-        "place": "Denmark",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659663714/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Берик Пангереев",
+        "observed_on": "2026-04-12",
+        "place": "Kazakhstan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Spinachia",
+      "ja_name": "Spinachia属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Spinachia spinachia",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609947331/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jess Sennett-Seale",
+        "observed_on": "2026-01-19",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -177,7 +195,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 68420,
@@ -287,7 +306,220 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 22914,
+      "scientific_name": "Pungitius platygaster",
+      "genus": "Pungitius",
+      "genus_ja": "トミヨの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Southern ninespine stickleback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659663714/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Берик Пангереев",
+        "observed_on": "2026-04-12",
+        "place": "Kazakhstan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659663714/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Берик Пангереев",
+          "observed_on": "2026-04-12",
+          "place": "Kazakhstan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567341113/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "milvus19",
+          "observed_on": "2025-09-14",
+          "place": "Moldova, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572874225/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "milvus19",
+          "observed_on": "2025-09-26",
+          "place": "Ukraine",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/579212285/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "milvus19",
+          "observed_on": "2025-10-12",
+          "place": "Ukraine",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577999547/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "milvus19",
+          "observed_on": "2025-10-09",
+          "place": "Ukraine",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344258950/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Yurij Ivancea",
+          "observed_on": "2024-01-03",
+          "place": "Ukraine",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-11",
+          "min": 8,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 66020,
+      "scientific_name": "Pungitius polyakovi",
+      "genus": "Pungitius",
+      "genus_ja": "トミヨの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250785356/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sergeymakeev",
+        "observed_on": "2017-09-26",
+        "place": "Russian Federation",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250785356/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sergeymakeev",
+          "observed_on": "2017-09-26",
+          "place": "Russian Federation",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.05",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 3273,
@@ -417,7 +649,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24828,
@@ -547,7 +780,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1355,
+      "scientific_name": "Spinachia spinachia",
+      "genus": "Spinachia",
+      "genus_ja": "Spinachia属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sea stickleback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609947331/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jess Sennett-Seale",
+        "observed_on": "2026-01-19",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609947331/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jess Sennett-Seale",
+          "observed_on": "2026-01-19",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625447732/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Cathy Hollingdale",
+          "observed_on": "2026-01-01",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621271531/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ben Rumsby",
+          "observed_on": "2026-03-03",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://arter.dk/media/d7193e2a-a581-4265-a79b-fbf1d6ea1f2c.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Claus Lindskov Møller",
+          "observed_on": "2026-04-01",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635145363/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "goboblin",
+          "observed_on": "2026-04-08",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636021611/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "steve dixon",
+          "observed_on": "2026-04-10",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

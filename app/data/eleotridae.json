@@ -2,9 +2,9 @@
   "family": "Eleotridae",
   "family_ja": "カワアナゴ科",
   "family_slug": "eleotridae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 8,
-  "genera_count": 5,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 12,
+  "genera_count": 6,
   "genera": [
     {
       "genus": "Belobranchus",
@@ -51,9 +51,10 @@
       "ja_name": "クモガクレの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "クモガクレ"
+        "クモガクレ",
+        "キリガクレ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Calumia godeffroyi",
       "photo": {
         "url": "https://cdn.floridamuseum.ufl.edu/Fish/7fc1402a-1fe1-40ad-90c6-795bd77723c9",
@@ -75,7 +76,7 @@
         "カワアナゴ",
         "チチブモドキ"
       ],
-      "species_count": 4,
+      "species_count": 5,
       "representative_species": "Eleotris fusca",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617460145/large.jpg",
@@ -89,13 +90,22 @@
       }
     },
     {
+      "genus": "Giuris",
+      "ja_name": "Giuris属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Giuris margaritaceus",
+      "photo": null
+    },
+    {
       "genus": "Hypseleotris",
       "ja_name": "タナゴモドキの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "タナゴモドキ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Hypseleotris cyprinoides",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/a0c408e5-b2fa-4eeb-930b-5bb767893f16",
@@ -238,7 +248,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22508,
@@ -368,7 +379,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13765,
@@ -498,7 +510,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 27574,
+      "scientific_name": "Calumia profunda",
+      "genus": "Calumia",
+      "genus_ja": "クモガクレの仲間",
+      "ja_name": "キリガクレ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Deepreef coralgudgeon",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "2.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 11794,
@@ -558,7 +632,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 55199,
+      "scientific_name": "Eleotris fasciata",
+      "genus": "Eleotris",
+      "genus_ja": "オカメハゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8034,
@@ -688,7 +824,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10013,
@@ -818,7 +955,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15874,
@@ -948,7 +1086,130 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 61527,
+      "scientific_name": "Giuris margaritaceus",
+      "genus": "Giuris",
+      "genus_ja": "Giuris属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Snakehead gudgeon",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "30-32",
+          "min": 30,
+          "max": 32
+        },
+        "max_length": "29",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 55201,
+      "scientific_name": "Hypseleotris compressocephalus",
+      "genus": "Hypseleotris",
+      "genus_ja": "タナゴモドキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10016,
@@ -1078,7 +1339,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

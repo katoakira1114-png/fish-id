@@ -2,9 +2,9 @@
   "family": "Leiognathidae",
   "family_ja": "ヒイラギ科",
   "family_slug": "leiognathidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 14,
-  "genera_count": 7,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 33,
+  "genera_count": 10,
   "genera": [
     {
       "genus": "Aurigequula",
@@ -13,7 +13,7 @@
       "examples_ja": [
         "シマヒイラギ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Aurigequula fasciata",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90729941/large.jpeg",
@@ -27,6 +27,27 @@
       }
     },
     {
+      "genus": "Deveximentum",
+      "ja_name": "ホソウケグチヒイラギの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ホソウケグチヒイラギ",
+        "カドガワウケグチヒイラギ"
+      ],
+      "species_count": 4,
+      "representative_species": "Deveximentum indicium",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623762950/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "shunchuxia1729",
+        "observed_on": "2025-05-24",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Equulites",
       "ja_name": "ヒメヒイラギの仲間",
       "ja_name_official": false,
@@ -35,15 +56,15 @@
         "オキヒイラギ",
         "イトヒキヒイラギ"
       ],
-      "species_count": 6,
-      "representative_species": "Equulites leuciscus",
+      "species_count": 9,
+      "representative_species": "Equulites elongatus",
       "photo": {
-        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/equleu01sr.tif",
-        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
-        "license": "CC-BY-NC",
-        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
-        "observed_on": "2009-12-01",
-        "place": "Nanfang'ao, Taiwan",
+        "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048712_lg.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "bellfishes",
+        "observed_on": "2016-05-07",
+        "place": "Taiwan Strait",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -55,15 +76,15 @@
       "examples_ja": [
         "タイワンヒイラギ"
       ],
-      "species_count": 1,
-      "representative_species": "Eubleekeria splendens",
+      "species_count": 2,
+      "representative_species": "Eubleekeria jonesi",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714403264/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614201541/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Daiki Hiura",
-        "observed_on": "2024-01-14",
-        "place": "Japan",
+        "author": "J Sim",
+        "observed_on": "2026-02-08",
+        "place": "Singapore",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -74,17 +95,36 @@
       "ja_name_official": false,
       "examples_ja": [
         "コバンヒイラギ",
-        "ヒシコバンヒイラギ"
+        "ヒシコバンヒイラギ",
+        "オオメコバンヒイラギ"
       ],
-      "species_count": 2,
-      "representative_species": "Gazza minuta",
+      "species_count": 3,
+      "representative_species": "Gazza achlamys",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761568661/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505182325/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY",
-        "author": "James-LaFontaine",
-        "observed_on": "2026-11-08",
-        "place": "Japan",
+        "license": "CC-BY-NC",
+        "author": "Rio",
+        "observed_on": "2025-05-15",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Karalla",
+      "ja_name": "Karalla属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Karalla daura",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482923671/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "J. Adams",
+        "observed_on": "2025-04-02",
+        "place": "China",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -96,9 +136,18 @@
       "examples_ja": [
         "セイタカヒイラギ"
       ],
-      "species_count": 2,
-      "representative_species": "Leiognathus equula",
-      "photo": null
+      "species_count": 3,
+      "representative_species": "Leiognathus brevirostris",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/85b0fe2c-b658-4b89-aa25-6e161997450a",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Hong Kong, China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     },
     {
       "genus": "Nuchequula",
@@ -107,35 +156,54 @@
       "examples_ja": [
         "ヒイラギ"
       ],
-      "species_count": 1,
-      "representative_species": "Nuchequula nuchalis",
+      "species_count": 4,
+      "representative_species": "Nuchequula flavaxilla",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/659338596/large.jpg",
+        "url": "https://data.nhm.ac.uk/media/af13acb0-adeb-4e20-a994-73052f8a4d43",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "2004-02-21",
+        "place": "Roxas, Panay Island",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Photolateralis",
+      "ja_name": "Photolateralis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Photolateralis stercorarius",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550642464/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Tomioka Masafumi",
-        "observed_on": "2026-05-13",
-        "place": "Japan",
+        "author": "Wilhelm Joshua Tan",
+        "observed_on": "2025-08-11",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
     },
     {
       "genus": "Photopectoralis",
-      "ja_name": "ネッタイヒイラギの仲間",
+      "ja_name": "キビレヒイラギの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "キビレヒイラギ",
         "ネッタイヒイラギ"
       ],
-      "species_count": 1,
-      "representative_species": "Photopectoralis bindus",
+      "species_count": 3,
+      "representative_species": "Photopectoralis aureus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/754829194/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602636254/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "daxreid",
-        "observed_on": "2026-10-24",
-        "place": "Japan",
+        "author": "kenhe",
+        "observed_on": "2025-12-19",
+        "place": "Chinese Taipei",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -270,7 +338,453 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59023,
+      "scientific_name": "Aurigequula longispinis",
+      "genus": "Aurigequula",
+      "genus_ja": "シマヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longspine ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7966,
+      "scientific_name": "Deveximentum indicium",
+      "genus": "Deveximentum",
+      "genus_ja": "ホソウケグチヒイラギの仲間",
+      "ja_name": "ホソウケグチヒイラギ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623762950/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "shunchuxia1729",
+        "observed_on": "2025-05-24",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623762950/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "shunchuxia1729",
+          "observed_on": "2025-05-24",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629901727/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2026-03-28",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/432990889/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fzwkq",
+          "observed_on": "2022-01-03",
+          "place": "Hong Kong",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "86-92",
+          "min": 86,
+          "max": 92
+        },
+        "max_length": "8.8",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "present",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4455,
+      "scientific_name": "Deveximentum insidiator",
+      "genus": "Deveximentum",
+      "genus_ja": "ホソウケグチヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Pugnose ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716609829/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "J Sim",
+        "observed_on": "2025-03-30",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716609829/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "J Sim",
+          "observed_on": "2025-03-30",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500660360/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Clinton Duffy",
+          "observed_on": "2025-04-25",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/304422308/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "renjus box",
+          "observed_on": "2023-07-26",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/304377727/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "renjus box",
+          "observed_on": "2023-07-26",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317587976/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dr. Deepu Visweswar",
+          "observed_on": "2023-09-03",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329112853/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "LEE Yeung, Gabriel",
+          "observed_on": "2022-06-26",
+          "place": "Hong Kong",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "48-52",
+          "min": 48,
+          "max": 52
+        },
+        "max_length": "11.3",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 25205,
+      "scientific_name": "Deveximentum interruptum",
+      "genus": "Deveximentum",
+      "genus_ja": "ホソウケグチヒイラギの仲間",
+      "ja_name": "カドガワウケグチヒイラギ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Pig-nosed pony-fish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529676253/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jiayuan Lin",
+        "observed_on": "2025-06-28",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/529676253/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-06-28",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588368450/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Dmitry Ivanov",
+          "observed_on": "2025-11-05",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.4",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4811,
+      "scientific_name": "Deveximentum ruconius",
+      "genus": "Deveximentum",
+      "genus_ja": "ホソウケグチヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Deep pugnose ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "27-32",
+          "min": 27,
+          "max": 32
+        },
+        "max_length": "8",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7748,
@@ -330,7 +844,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69025,
+      "scientific_name": "Equulites elongatus",
+      "genus": "Equulites",
+      "genus_ja": "ヒメヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Elongate ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048712_lg.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "bellfishes",
+        "observed_on": "2016-05-07",
+        "place": "Taiwan Strait",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048712_lg.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "bellfishes",
+          "observed_on": "2016-05-07",
+          "place": "Taiwan Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32765197/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Andre Hosper",
+          "observed_on": "2019-03-13",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32765218/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Andre Hosper",
+          "observed_on": "2019-03-13",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.16_296.b98de42e-2489-406b-a159-28144ccef5d3.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Meltem Ok, Serdar SakÄ±nan",
+          "observed_on": "2015-06-02",
+          "place": "Limonlu",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.25_288.7ad83535-f113-4cf2-9332-d830b35fa930.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Meltem Ok, Serdar SakÄ±nan",
+          "observed_on": "2015-06-02",
+          "place": "Limonlu",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.20_200.b44c3135-899e-4b4f-8e2f-e6750386f589.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Meltem Ok, Sedar SakÄ±nan",
+          "observed_on": "2015-06-02",
+          "place": "Limonlu",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.1",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63518,
+      "scientific_name": "Equulites laterofenestra",
+      "genus": "Equulites",
+      "genus_ja": "ヒメヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12.79",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4453,
@@ -460,7 +1167,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4563,
@@ -570,7 +1278,129 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 58321,
+      "scientific_name": "Equulites oblongus",
+      "genus": "Equulites",
+      "genus_ja": "ヒメヒイラギの仲間",
+      "ja_name": "ワモンイトヒキヒイラギ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Oblong ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510072489/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jiayuan Lin",
+        "observed_on": "2025-05-25",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510072489/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-05-25",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608346058/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nicolò Palumbo",
+          "observed_on": "2025-05-24",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/525039000/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2025-06-18",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415452335/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2024-08-04",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/1fa6ee4a-00d5-4eed-8846-2399da962baf",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Pamban Channel",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4450,
@@ -630,7 +1460,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23466,
@@ -720,7 +1551,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 70569,
@@ -780,7 +1612,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63865,
+      "scientific_name": "Eubleekeria jonesi",
+      "genus": "Eubleekeria",
+      "genus_ja": "タイワンヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Jones’ pony fish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614201541/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "J Sim",
+        "observed_on": "2026-02-08",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614201541/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "J Sim",
+          "observed_on": "2026-02-08",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624751518/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "grayhairstreak",
+          "observed_on": "2026-02-21",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647836963/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "charlie33931",
+          "observed_on": "2026-02-01",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630368210/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2026-03-28",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641172004/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Niran Anurakpongsathorn",
+          "observed_on": "2026-04-20",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/689498624/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andriel Cheong",
+          "observed_on": "2026-05-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "16-19",
+          "min": 16,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.9",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4454,
@@ -910,7 +1874,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 5797,
+      "scientific_name": "Gazza achlamys",
+      "genus": "Gazza",
+      "genus_ja": "コバンヒイラギの仲間",
+      "ja_name": "オオメコバンヒイラギ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Smalltoothed ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505182325/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Rio",
+        "observed_on": "2025-05-15",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505182325/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rio",
+          "observed_on": "2025-05-15",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c1762263-3135-41d3-96a9-2d0f9056dfea",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Cobato, Mindanao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/681/512/118474_Gazza_achlamys_lat_T241_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "2008",
+          "place": "E side of Helen Reef lagoon opposite entry channel, just to inside of wreck on r",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/652/711/58939_Gazza_achlamys_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1914-01",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "48-59",
+          "min": 48,
+          "max": 59
+        },
+        "max_length": "17",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4462,
@@ -1040,7 +2116,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59084,
@@ -1170,7 +2247,361 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4574,
+      "scientific_name": "Karalla daura",
+      "genus": "Karalla",
+      "genus_ja": "Karalla属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Goldstripe ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482923671/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "J. Adams",
+        "observed_on": "2025-04-02",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482923671/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "J. Adams",
+          "observed_on": "2025-04-02",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482923854/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "J. Adams",
+          "observed_on": "2025-04-02",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413762363/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Chen Zhiyang",
+          "observed_on": "2024-07-26",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465513104/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kyosapir",
+          "observed_on": "2024-10-19",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/452408299/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kyosapir",
+          "observed_on": "2024-11-23",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465066547/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "江国彬",
+          "observed_on": "2024-12-28",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 6372,
+      "scientific_name": "Karalla dussumieri",
+      "genus": "Karalla",
+      "genus_ja": "Karalla属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dussumier's ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/601cc219-bbff-4f50-8dde-20aa480cae9c",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/601cc219-bbff-4f50-8dde-20aa480cae9c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/697528419/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Ashwin Srinivasan",
+          "observed_on": "2026-07-02",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/696285388/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sagarika Gupta",
+          "observed_on": "2026-07-08",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/500660503/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Clinton Duffy",
+          "observed_on": "2025-04-25",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501754381/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "arunpdy",
+          "observed_on": "2025-05-08",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501754482/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "arunpdy",
+          "observed_on": "2025-05-08",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4810,
+      "scientific_name": "Leiognathus brevirostris",
+      "genus": "Leiognathus",
+      "genus_ja": "セイタカヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shortnose ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/85b0fe2c-b658-4b89-aa25-6e161997450a",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Hong Kong, China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/85b0fe2c-b658-4b89-aa25-6e161997450a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Hong Kong, China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c7be10fa-69aa-42fb-ad8b-a37e74a7265a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1966-10-24",
+          "place": "River Tengeh, Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18.2",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "one spot only",
+        "bars": "present",
+        "stripes": "present",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4451,
@@ -1230,7 +2661,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59091,
@@ -1290,7 +2722,321 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63684,
+      "scientific_name": "Nuchequula flavaxilla",
+      "genus": "Nuchequula",
+      "genus_ja": "ヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Yellowspotted ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/af13acb0-adeb-4e20-a994-73052f8a4d43",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "2004-02-21",
+        "place": "Roxas, Panay Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/af13acb0-adeb-4e20-a994-73052f8a4d43",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "2004-02-21",
+          "place": "Roxas, Panay Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/949b783d-1b7e-462e-9114-7bf7fc761d37",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sungai Nerus, Malaya",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "55-65",
+          "min": 55,
+          "max": 65
+        },
+        "max_length": "10.9",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4809,
+      "scientific_name": "Nuchequula gerreoides",
+      "genus": "Nuchequula",
+      "genus_ja": "ヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Decorated ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593659212/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kenhe",
+        "observed_on": "2012-03-04",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593659212/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kenhe",
+          "observed_on": "2012-03-04",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/483029269/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ayegege",
+          "observed_on": "2025-04-05",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658016842/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Liu I-chen",
+          "observed_on": "2025-05-17",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591020058/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "J. Adams",
+          "observed_on": "2025-10-25",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/522761787/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mosrus",
+          "observed_on": "2024-08-15",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/458757765/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kyosapir",
+          "observed_on": "2024-12-20",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12.5",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 64227,
+      "scientific_name": "Nuchequula mannusella",
+      "genus": "Nuchequula",
+      "genus_ja": "ヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760618586/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "akarisxy",
+        "observed_on": "2026-11-07",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/760618586/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "akarisxy",
+          "observed_on": "2026-11-07",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350301704/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "郭权锋",
+          "observed_on": "2024-02-08",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.1",
+        "body_shape": "",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4596,
@@ -1420,13 +3166,236 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 5798,
+      "scientific_name": "Photolateralis stercorarius",
+      "genus": "Photolateralis",
+      "genus_ja": "Photolateralis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Oblong slipmouth",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550642464/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Wilhelm Joshua Tan",
+        "observed_on": "2025-08-11",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550642464/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Wilhelm Joshua Tan",
+          "observed_on": "2025-08-11",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550644520/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Wilhelm Joshua Tan",
+          "observed_on": "2025-08-11",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469075815/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kyosapir",
+          "observed_on": "2025-02-09",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683227623/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Феодор Басилашвили",
+          "observed_on": "2026-06-21",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534917003/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "anaclair",
+          "observed_on": "2025-07-10",
+          "place": "Viet Nam",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539320896/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2025-07-19",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "55-57",
+          "min": 55,
+          "max": 57
+        },
+        "max_length": "10.2",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 27494,
+      "scientific_name": "Photopectoralis aureus",
+      "genus": "Photopectoralis",
+      "genus_ja": "キビレヒイラギの仲間",
+      "ja_name": "キビレヒイラギ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Golden ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602636254/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kenhe",
+        "observed_on": "2025-12-19",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602636254/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kenhe",
+          "observed_on": "2025-12-19",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/phoaur01sl.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-11-12",
+          "place": "Donggang, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "16-19",
+          "min": 16,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "67-85",
+          "min": 67,
+          "max": 85
+        },
+        "max_length": "10",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 4449,
       "scientific_name": "Photopectoralis bindus",
       "genus": "Photopectoralis",
-      "genus_ja": "ネッタイヒイラギの仲間",
+      "genus_ja": "キビレヒイラギの仲間",
       "ja_name": "ネッタイヒイラギ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Orangefin ponyfish",
@@ -1550,7 +3519,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 61440,
+      "scientific_name": "Photopectoralis panayensis",
+      "genus": "Photopectoralis",
+      "genus_ja": "キビレヒイラギの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Panay ponyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "64-75",
+          "min": 64,
+          "max": 75
+        },
+        "max_length": "8.3",
+        "body_shape": "",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

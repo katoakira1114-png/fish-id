@@ -2,8 +2,8 @@
   "family": "Squalidae",
   "family_ja": "ツノザメ科",
   "family_slug": "squalidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 9,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 12,
   "genera_count": 2,
   "genera": [
     {
@@ -35,15 +35,15 @@
         "ツマリツノザメ",
         "トガリツノザメ"
       ],
-      "species_count": 8,
-      "representative_species": "Squalus blainville",
+      "species_count": 11,
+      "representative_species": "Squalus acanthias",
       "photo": {
-        "url": "https://collections.nmnh.si.edu/media/?i=10919330&h=2000",
-        "source": "GBIF NMNH Extant Biology",
-        "license": "CC0",
-        "author": "Division of Fishes",
-        "observed_on": "",
-        "place": "China: Hingpo, Chekiang",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604391093/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Lisa Bennett",
+        "observed_on": "2026-01-01",
+        "place": "New Zealand",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -158,7 +158,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 139,
+      "scientific_name": "Squalus acanthias",
+      "genus": "Squalus",
+      "genus_ja": "フトツノザメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Picked dogfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604391093/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Lisa Bennett",
+        "observed_on": "2026-01-01",
+        "place": "New Zealand",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604391093/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Lisa Bennett",
+          "observed_on": "2026-01-01",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604617186/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "marbryhopkins",
+          "observed_on": "2026-01-01",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610913659/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "L Timmo",
+          "observed_on": "2026-01-26",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607295743/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Daniel Percy",
+          "observed_on": "2026-01-10",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607267416/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "inbetweenbays",
+          "observed_on": "2026-01-11",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://maps.biodiversityireland.ie/Map/GetTaxonRecordImage/158345898/158345898_1.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Lisa Kenny",
+          "observed_on": "2026-02-11",
+          "place": "Quilty",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "160",
+        "body_shape": "elongated",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 708,
@@ -288,7 +420,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63317,
@@ -388,7 +521,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 66267,
@@ -498,7 +632,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 710,
@@ -628,7 +763,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 711,
@@ -758,7 +894,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 713,
@@ -888,7 +1025,230 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63581,
+      "scientific_name": "Squalus montalbani",
+      "genus": "Squalus",
+      "genus_ja": "フトツノザメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Philippiines spurdog",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602218941/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sharkdevotee",
+        "observed_on": "2025-12-23",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602218941/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2025-12-23",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602218487/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2025-12-23",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=525feb28-3e75-40a2-a692-51be1f5739fc",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Mark McGrouther",
+          "observed_on": "2009-09-07",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=e4236967-e92d-4868-8863-64a5d05a3e54",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Sarah Viana",
+          "observed_on": "2002-07-01",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=f1ba7494-f8d3-4afa-9a81-fee0d44fef08",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Sarah Viana",
+          "observed_on": "1986-01-20",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168762212/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1977-08-23",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "84",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63590,
+      "scientific_name": "Squalus nasutus",
+      "genus": "Squalus",
+      "genus_ja": "フトツノザメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Western longnose spurdog",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612420155/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "barnydillarstone",
+        "observed_on": "2026-01-30",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612420155/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barnydillarstone",
+          "observed_on": "2026-01-30",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ad87b6dc-acc0-46de-ab71-c75ca242cbac",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Sarah Viana",
+          "observed_on": "1982-04-07",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "49.9",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 69172,
@@ -948,7 +1308,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 65869,
@@ -1078,7 +1439,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

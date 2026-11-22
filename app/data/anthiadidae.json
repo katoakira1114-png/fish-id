@@ -2,10 +2,28 @@
   "family": "Anthiadidae",
   "family_ja": "ハナダイ科",
   "family_slug": "anthiadidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 53,
-  "genera_count": 16,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 72,
+  "genera_count": 17,
   "genera": [
+    {
+      "genus": "Acanthistius",
+      "ja_name": "Acanthistius属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Acanthistius pictus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530502783/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Diego Almendras",
+        "observed_on": "2025-07-01",
+        "place": "Chile",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Caprodon",
       "ja_name": "アカイサキの仲間",
@@ -127,7 +145,7 @@
         "マダラハナダイ",
         "ボロサクラダイ"
       ],
-      "species_count": 5,
+      "species_count": 6,
       "representative_species": "Odontanthias borbonius",
       "photo": {
         "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/odobor01sr.tif",
@@ -147,9 +165,9 @@
       "examples_ja": [
         "チゴハナダイ",
         "イズハナダイ",
-        "アズマハナダイ"
+        "チビハナダイ"
       ],
-      "species_count": 9,
+      "species_count": 22,
       "representative_species": "Plectranthias anthioides",
       "photo": {
         "url": "https://mediaphoto.mnhn.fr/media/1707483026619Qy1No23MlL4oVwa2",
@@ -171,15 +189,15 @@
         "スジハナダイ",
         "カシワハナダイ"
       ],
-      "species_count": 19,
-      "representative_species": "Pseudanthias caudalis",
+      "species_count": 23,
+      "representative_species": "Pseudanthias bimaculatus",
       "photo": {
-        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/psecau01sr.tif",
-        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473098231/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
-        "observed_on": "1900-01",
-        "place": "Taiwan",
+        "author": "mken0403",
+        "observed_on": "2024-09-22",
+        "place": "Indonesia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -312,6 +330,137 @@
   ],
   "species": [
     {
+      "spec_code": 57960,
+      "scientific_name": "Acanthistius pictus",
+      "genus": "Acanthistius",
+      "genus_ja": "Acanthistius属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Brick seabass",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530502783/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Diego Almendras",
+        "observed_on": "2025-07-01",
+        "place": "Chile",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530502783/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Diego Almendras",
+          "observed_on": "2025-07-01",
+          "place": "Chile",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443766055/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Diego Almendras",
+          "observed_on": "2024-10-20",
+          "place": "Chile",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172421427/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Diego Almendras",
+          "observed_on": "2021-12-14",
+          "place": "Chile",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54561062/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Diego Almendras",
+          "observed_on": "2019-10-20",
+          "place": "Chile",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0205360.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1957-03-26",
+          "place": "Mexico Socorro Id Braithwaite Bay Grayson Cove.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0204498.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "Larkin, P.",
+          "observed_on": "1956-02-01",
+          "place": "Punta Aguja.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "47",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
       "spec_code": 69010,
       "scientific_name": "Caprodon affinis",
       "genus": "Caprodon",
@@ -369,7 +518,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13007,
@@ -499,7 +649,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10743,
@@ -579,7 +730,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7453,
@@ -709,7 +861,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 57812,
@@ -789,7 +942,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6934,
@@ -919,7 +1073,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6502,
@@ -1049,7 +1204,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7874,
@@ -1109,7 +1265,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7454,
@@ -1169,7 +1326,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23333,
@@ -1299,7 +1457,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24848,
@@ -1359,7 +1518,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 64625,
@@ -1489,7 +1649,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 66271,
+      "scientific_name": "Odontanthias randalli",
+      "genus": "Odontanthias",
+      "genus_ja": "バラハナダイの仲間",
+      "ja_name": "エンビサクラダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Lombok Swallowtail",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "37-39",
+          "min": 37,
+          "max": 39
+        },
+        "max_length": "21.2",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10631,
@@ -1589,7 +1811,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24847,
@@ -1719,7 +1942,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24846,
@@ -1779,7 +2003,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13022,
@@ -1869,7 +2094,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 70044,
@@ -1929,7 +2155,352 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 65962,
+      "scientific_name": "Plectranthias elongatus",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "ミズホハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.42",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 26731,
+      "scientific_name": "Plectranthias foresti",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1707130976959cjjWRI7Qll3cPvGH",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Z.GABSI",
+        "observed_on": "1976-03-19",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1707130976959cjjWRI7Qll3cPvGH",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "1976-03-19",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 26734,
+      "scientific_name": "Plectranthias helenae",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001577/1577157.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "",
+        "observed_on": "2013-08-19",
+        "place": "Main Hawaiian Islands | Oahu | Waikiki",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001577/1577157.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2013-08-19",
+          "place": "Main Hawaiian Islands | Oahu | Waikiki",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001577/1577156.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2013-08-19",
+          "place": "Main Hawaiian Islands | Oahu | Waikiki",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.15",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 26735,
+      "scientific_name": "Plectranthias inermis",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "レンガハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Chequered perchlet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/17/b2/17b2ac24-9c11-448e-b138-6f00862e9f90.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Williams, Jeff T.; Carpenter, Kent; Dumale, Don; Catania, David; Lane, Mark; Mendoza, William (dive guide)",
+        "observed_on": "2016-04-20",
+        "place": "Batangas, Tingloy, south side of Maricaban I., Devil's Point (dive site)",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/17/b2/17b2ac24-9c11-448e-b138-6f00862e9f90.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Williams, Jeff T.; Carpenter, Kent; Dumale, Don; Catania, David; Lane, Mark; Mendoza, William (dive guide)",
+          "observed_on": "2016-04-20",
+          "place": "Batangas, Tingloy, south side of Maricaban I., Devil's Point (dive site)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_1344.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Pelicier",
+          "observed_on": "1995-05",
+          "place": "Flic-en-Flac",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/8de51378-5e83-4fa6-a891-0e07a5f8bf77",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/bfd31a2b-a70d-44af-8837-538543bc36ec",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Nodup, near Rabaul, North New Britain Bismarck Archipelago, Papua New Guinea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.5",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10577,
@@ -2059,7 +2630,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59805,
@@ -2179,7 +2751,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59845,
+      "scientific_name": "Plectranthias knappi",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "29",
+          "min": 29,
+          "max": 29
+        },
+        "max_length": "",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7322,
@@ -2309,7 +2943,291 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15118,
+      "scientific_name": "Plectranthias nanus",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "チビハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Bownband perchlet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.23_293.a02c58d9-7842-464c-9651-0c6da1ba06f1.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "J. Williams & S. Planes",
+        "observed_on": "2016-12-11",
+        "place": "Wallis and Futuna, Futuna Island, off west coast, off Nuku, outer reef spur and groove.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.23_293.a02c58d9-7842-464c-9651-0c6da1ba06f1.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "J. Williams & S. Planes",
+          "observed_on": "2016-12-11",
+          "place": "Wallis and Futuna, Futuna Island, off west coast, off Nuku, outer reef spur and groove.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=2e6a0b86-f7b3-4087-a2c0-7cae1a705f19",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "AMS - Ichthyology",
+          "observed_on": "2014-10-10",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=252bb672-1e2f-48dd-9a29-5d95f0ae3022",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "S French Polynesia Fish Team 2014",
+          "observed_on": "2014-10-05",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=f0d78261-6f17-4417-bb3b-648f62d017bc",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "S French Polynesia Fish Team 2014",
+          "observed_on": "2014-10-09",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_136.b12adafe-bdfe-4915-a613-651249c0be15.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Serge Planes, Nathalie Tolou, Valeriano Parravicini, Pierre Sasal, Charles Bedford",
+          "observed_on": "2014-12-01",
+          "place": "Scilly Atoll, outer reef slope on southwest side of atoll on a coral slope.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.12_287.bcb4b92c-0f35-44d1-87ac-c367886573e7.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Erwan Delrieu-Trottin, Pierre Sasal",
+          "observed_on": "2013-04-19",
+          "place": "Austral Islands, Rimatara, outer reef slope channel to drop-off with dead coral structure, but little live coral.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.98",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69649,
+      "scientific_name": "Plectranthias purpuralepis",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Purple-scaled perchlet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15.09",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59806,
+      "scientific_name": "Plectranthias randalli",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "チョウチョウハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1732119383750yAXqyeOQgRURn3hd",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Z.GABSI",
+        "observed_on": "1985-09-17",
+        "place": "$$$$",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1732119383750yAXqyeOQgRURn3hd",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "1985-09-17",
+          "place": "$$$$",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1655981148326tASHtO5pgBQwf9lj",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Ho Hans",
+          "observed_on": "",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "37-39",
+          "min": 37,
+          "max": 39
+        },
+        "max_length": "11.07",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10447,
@@ -2369,7 +3287,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59804,
+      "scientific_name": "Plectranthias sheni",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "キオビイズハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "32-33",
+          "min": 32,
+          "max": 33
+        },
+        "max_length": "11.51",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 70543,
@@ -2429,7 +3409,372 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 14457,
+      "scientific_name": "Plectranthias wheeleri",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "フジナハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Spotted perchlet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/plewhe01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2009-01-22",
+        "place": "Daxi, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/plewhe01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-01-22",
+          "place": "Daxi, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/dc8f882d-7947-4f6d-97c8-f649bffd2f55",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1874-09-26",
+          "place": "West of Kai Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.28",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 26764,
+      "scientific_name": "Plectranthias whiteheadi",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/a5b64b1d-a862-44ed-8da5-5921b77ede48",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1874-09-26",
+        "place": "West of Kai Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/a5b64b1d-a862-44ed-8da5-5921b77ede48",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1874-09-26",
+          "place": "West of Kai Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 12799,
+      "scientific_name": "Plectranthias winniensis",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "デイゴハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Redblotch basslet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.19_233.0c9963a9-8238-4757-bf09-d859b83a4ab3.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeff Williams, Serge Planes, Pierre Sasal, Erwan Delrieu-Trottin",
+        "observed_on": "2010-10-03",
+        "place": "French Polynesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.19_233.0c9963a9-8238-4757-bf09-d859b83a4ab3.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Serge Planes, Pierre Sasal, Erwan Delrieu-Trottin",
+          "observed_on": "2010-10-03",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.13_186.8c75574e-4532-4fe4-b25c-ef0b6fc8c842.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Patrick Plantard, Julien Buzzi",
+          "observed_on": "2008-10-18",
+          "place": "Moorea, outer reef, northeast side of channel from Opunohu Bay on deep reef (Tiahura reef)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.16_119.d03231dd-f3fa-4bec-bf73-38099186ba51.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Patrick Plantard, Julien Buzzi",
+          "observed_on": "2008-10-18",
+          "place": "Moorea, outer reef, northeast side of channel from Opunohu Bay on deep reef (Tiahura reef)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp67166971499762126425.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2002-02-03",
+          "place": "Suva, South of \"Fish Patch\", southern wall",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp6247001982015188697.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2002-02-03",
+          "place": "Suva, South of \"Fish Patch\", southern wall",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=1885.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra",
+          "observed_on": "2001-05-14",
+          "place": "8 mile reef",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 65963,
+      "scientific_name": "Plectranthias xanthomaculatus",
+      "genus": "Plectranthias",
+      "genus_ja": "チゴハナダイの仲間",
+      "ja_name": "ユズノミハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "30",
+          "min": 30,
+          "max": 30
+        },
+        "max_length": "5.76",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 24844,
@@ -2489,7 +3834,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 12731,
+      "scientific_name": "Pseudanthias bimaculatus",
+      "genus": "Pseudanthias",
+      "genus_ja": "ナガハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Two-spot basslet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473098231/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "mken0403",
+        "observed_on": "2024-09-22",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/473098231/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mken0403",
+          "observed_on": "2024-09-22",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_7610.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "JLB Smith; Margaret Smith",
+          "observed_on": "1950-07-18",
+          "place": "Bay of Bocage",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6317154695399553067.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Zinzi Somana",
+          "observed_on": "1950-07-18",
+          "place": "Pinda Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp66949795138154492617.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Zinzi Somana",
+          "observed_on": "1950-07-18",
+          "place": "Baixo Pinda",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/849457a1-4e6d-4284-8fb2-965826d8ba54",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Seribu Islands, Java",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=6139b.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "John E. Randall",
+          "observed_on": "",
+          "place": "Seribu Island, Java",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7-8",
+          "min": 7,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "46-47",
+          "min": 46,
+          "max": 47
+        },
+        "max_length": "14",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23427,
@@ -2569,7 +4046,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6945,
@@ -2649,7 +4127,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 13006,
@@ -2779,7 +4258,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23424,
@@ -2909,7 +4389,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15064,
+      "scientific_name": "Pseudanthias engelhardi",
+      "genus": "Pseudanthias",
+      "genus_ja": "ナガハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Orangebar anthias",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.25_180.5fb65179-7953-42e4-822a-4dd9f9411292.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Daniel Yanke",
+        "observed_on": "2005-08-24",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.25_180.5fb65179-7953-42e4-822a-4dd9f9411292.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Yanke",
+          "observed_on": "2005-08-24",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_139.c9f395ff-7534-41ab-ab7c-c20e7061bc36.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Yanke",
+          "observed_on": "2005-08-24",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.18_204.fb306015-6313-4311-af1d-fd7f1d771e6c.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Daniel Yanke",
+          "observed_on": "2005-08-24",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/407613202/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nicolas Charpin",
+          "observed_on": "2024-07-14",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/422019734/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Damien Brouste",
+          "observed_on": "2024-08-18",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198520204/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2022-05-08",
+          "place": "Fiji",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "42-45",
+          "min": 42,
+          "max": 45
+        },
+        "max_length": "10",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10632,
@@ -3039,7 +4651,240 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 6567,
+      "scientific_name": "Pseudanthias huchtii",
+      "genus": "Pseudanthias",
+      "genus_ja": "ナガハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Red-cheeked fairy basslet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585573166/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Min-Hsuan NI",
+        "observed_on": "2025-10-24",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585573166/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Min-Hsuan NI",
+          "observed_on": "2025-10-24",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607133569/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-11",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605882959/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606859643/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-10",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609806977/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jodie",
+          "observed_on": "2026-01-03",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606859701/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-10",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "36-40",
+          "min": 36,
+          "max": 40
+        },
+        "max_length": "12",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59192,
+      "scientific_name": "Pseudanthias hutomoi",
+      "genus": "Pseudanthias",
+      "genus_ja": "ナガハナダイの仲間",
+      "ja_name": "アワユキハナダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Hutomo's anthias",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/bfd31a2b-a70d-44af-8837-538543bc36ec",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1978-08-25",
+        "place": "Philippine Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/bfd31a2b-a70d-44af-8837-538543bc36ec",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1978-08-25",
+          "place": "Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=6143b.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "John E. Randall",
+          "observed_on": "",
+          "place": "N E Sulawesi",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=6143a.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "John E. Randall",
+          "observed_on": "",
+          "place": "N E Sulawesi",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "43-46",
+          "min": 43,
+          "max": 46
+        },
+        "max_length": "12",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8124,
@@ -3169,7 +5014,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23425,
@@ -3229,7 +5075,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7458,
@@ -3359,7 +5206,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 61255,
@@ -3489,7 +5337,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6569,
@@ -3619,7 +5468,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6571,
@@ -3749,7 +5599,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7321,
@@ -3879,7 +5730,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 61257,
@@ -3939,7 +5791,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6568,
@@ -4069,7 +5922,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24856,
@@ -4129,7 +5983,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69250,
@@ -4209,7 +6064,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7783,
@@ -4339,7 +6195,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 61251,
@@ -4419,7 +6276,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12700,
@@ -4549,7 +6407,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23430,
@@ -4609,7 +6468,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7456,
@@ -4669,7 +6529,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 25682,
@@ -4729,7 +6590,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7460,
@@ -4789,7 +6651,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 61271,
@@ -4849,7 +6712,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24854,
@@ -4979,7 +6843,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10769,
@@ -5109,7 +6974,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10771,
@@ -5239,7 +7105,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23423,
@@ -5339,7 +7206,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23420,
@@ -5399,7 +7267,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23421,
@@ -5499,7 +7368,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

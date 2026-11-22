@@ -2,9 +2,9 @@
   "family": "Serranidae",
   "family_ja": "ヒメコダイ科",
   "family_slug": "serranidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 5,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 9,
+  "genera_count": 2,
   "genera": [
     {
       "genus": "Chelidoperca",
@@ -15,7 +15,7 @@
         "ホシヒメコダイ",
         "トサヒメコダイ"
       ],
-      "species_count": 5,
+      "species_count": 8,
       "representative_species": "Chelidoperca hirundinacea",
       "photo": {
         "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.D.172_4/format/large",
@@ -27,9 +27,149 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Serranus",
+      "ja_name": "Serranus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Serranus scriba",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605610457/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Sylvain Le Bris",
+        "observed_on": "2026-01-04",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     }
   ],
   "species": [
+    {
+      "spec_code": 69284,
+      "scientific_name": "Chelidoperca barazeri",
+      "genus": "Chelidoperca",
+      "genus_ja": "ヒメコダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Barazer's perchlet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.3",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69650,
+      "scientific_name": "Chelidoperca formosa",
+      "genus": "Chelidoperca",
+      "genus_ja": "ヒメコダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Taiwanese perchlet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.62",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 8237,
       "scientific_name": "Chelidoperca hirundinacea",
@@ -158,7 +298,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15050,
@@ -238,7 +379,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23418,
@@ -328,7 +470,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 67613,
@@ -408,7 +551,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 68588,
+      "scientific_name": "Chelidoperca stella",
+      "genus": "Chelidoperca",
+      "genus_ja": "ヒメコダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Star-spotted perchlet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/17132581630138fYeCO0xpvbBt3k3",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "A. Dettai",
+        "observed_on": "2007-09-23",
+        "place": "Solomon Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/17132581630138fYeCO0xpvbBt3k3",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2007-09-23",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/17132581684464FWrZUWgRDrz1UQ7",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2007-09-23",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.23",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 68807,
@@ -468,7 +703,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 1761,
+      "scientific_name": "Serranus scriba",
+      "genus": "Serranus",
+      "genus_ja": "Serranus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Painted comber",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605610457/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Sylvain Le Bris",
+        "observed_on": "2026-01-04",
+        "place": "France",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605610457/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-04",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608376072/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cescgv",
+          "observed_on": "2026-01-11",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606107538/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Remy DUBAS",
+          "observed_on": "2026-01-06",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610650752/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "James Lefebvre",
+          "observed_on": "2026-01-24",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610651227/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "James Lefebvre",
+          "observed_on": "2026-01-24",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610650969/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "James Lefebvre",
+          "observed_on": "2026-01-24",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "36",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "family": "Melanocetidae",
   "family_ja": "クロアンコウ科",
   "family_slug": "melanocetidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 1,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 2,
   "genera_count": 1,
   "genera": [
     {
@@ -11,9 +11,10 @@
       "ja_name": "ペリカンアンコウの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "ペリカンアンコウ"
+        "ペリカンアンコウ",
+        "ペリカンアンコウモドキ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Melanocetus johnsonii",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/9b4bf3eb-1896-45d8-9a16-21d14bfc90e4",
@@ -156,7 +157,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16882,
+      "scientific_name": "Melanocetus murrayi",
+      "genus": "Melanocetus",
+      "genus_ja": "ペリカンアンコウの仲間",
+      "ja_name": "ペリカンアンコウモドキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Murray's abyssal anglerfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/melmur01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2005-03-28",
+        "place": "Daxi, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/melmur01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2005-03-28",
+          "place": "Daxi, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_193.5cfc30cb-38a2-46ff-a76e-58129d8ceb62.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "DEEPEND Consortium (Deep Pelagic Nekton Dynamics of the Gulf of Mexico)",
+          "observed_on": "2016-08-18",
+          "place": "unknown or invalid",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/edbdb793-d201-4e6b-9ce2-4466a7bc2e34",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1983-04-05",
+          "place": "West of Martinique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/b535de37-3a95-4d19-8a45-d9f966d8a4c7",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1970-01-14",
+          "place": "Ca 10-15 km SW of Matthew Town, Great Inagua Id",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/db8c23e3-8792-4bfb-8d79-4d6fe29463eb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1937-05-02",
+          "place": "Guinea Basin, off Gabon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1876-04-09",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4",
+          "min": 4,
+          "max": 4
+        },
+        "pectoral_rays": {
+          "raw": "15-19",
+          "min": 15,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "2",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "family": "Alepocephalidae",
   "family_ja": "セキトリイワシ科",
   "family_slug": "alepocephalidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 22,
-  "genera_count": 9,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 29,
+  "genera_count": 10,
   "genera": [
     {
       "genus": "Alepocephalus",
@@ -15,7 +15,7 @@
         "コンニャクイワシ",
         "マルコンニャクイワシ"
       ],
-      "species_count": 7,
+      "species_count": 8,
       "representative_species": "Alepocephalus australis",
       "photo": {
         "url": "https://images.collections.yale.edu/iiif/2/ypm:0a9d64aa-3809-4d26-b7c8-adfa07195b81/full/!1920,1920/0/default.jpg",
@@ -47,6 +47,15 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Bathytroctes",
+      "ja_name": "Bathytroctes属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Bathytroctes pappenheimi",
+      "photo": null
     },
     {
       "genus": "Leptochilichthys",
@@ -91,13 +100,14 @@
     },
     {
       "genus": "Narcetes",
-      "ja_name": "ヨコヅナイワシの仲間",
+      "ja_name": "クログチイワシの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "クログチイワシ",
         "ヨコヅナイワシ",
         "クロマスクイワシ"
       ],
-      "species_count": 3,
+      "species_count": 4,
       "representative_species": "Narcetes wonderi",
       "photo": {
         "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/1c/55/1c55a838-da6e-4f52-9286-993b9b1ab550.jpg",
@@ -137,27 +147,28 @@
       "examples_ja": [
         "タナカセキトリイワシ"
       ],
-      "species_count": 2,
-      "representative_species": "Rouleina guentheri",
+      "species_count": 5,
+      "representative_species": "Rouleina danae",
       "photo": {
-        "url": "https://mediaphoto.mnhn.fr/media/1713258304364FsRuo3OihhImCcqc",
-        "source": "GBIF",
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P1778_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
         "license": "CC-BY",
-        "author": "A. Dettai",
-        "observed_on": "2009-07-12",
-        "place": "Madagascar",
+        "author": "",
+        "observed_on": "1929-04-06",
+        "place": "Sulu Sea",
         "life_stage": "不明",
         "context": "不明"
       }
     },
     {
       "genus": "Talismania",
-      "ja_name": "ノコバイワシの仲間",
+      "ja_name": "イトイワシの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "イトイワシ",
         "ノコバイワシ"
       ],
-      "species_count": 3,
+      "species_count": 4,
       "representative_species": "Talismania antillarum",
       "photo": {
         "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_248.943f6c58-a509-4f36-b167-702ed556f437.jpg?subunit=1024.jpg",
@@ -192,6 +203,67 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 58899,
+      "scientific_name": "Alepocephalus andersoni",
+      "genus": "Alepocephalus",
+      "genus_ja": "ハゲイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 9172,
       "scientific_name": "Alepocephalus australis",
@@ -320,7 +392,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7592,
@@ -450,7 +523,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22691,
@@ -510,7 +584,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22693,
@@ -600,7 +675,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22688,
@@ -680,7 +756,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22694,
@@ -740,7 +817,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22687,
@@ -800,7 +878,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 58907,
@@ -860,7 +939,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10003,
@@ -990,7 +1070,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56588,
+      "scientific_name": "Bathytroctes pappenheimi",
+      "genus": "Bathytroctes",
+      "genus_ja": "Bathytroctes属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.78",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 52695,
@@ -1070,7 +1212,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22707,
@@ -1130,7 +1273,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22711,
@@ -1210,13 +1354,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22695,
       "scientific_name": "Narcetes kamoharai",
       "genus": "Narcetes",
-      "genus_ja": "ヨコヅナイワシの仲間",
+      "genus_ja": "クログチイワシの仲間",
       "ja_name": "クロマスクイワシ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1270,13 +1415,75 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15811,
+      "scientific_name": "Narcetes lloydi",
+      "genus": "Narcetes",
+      "genus_ja": "クログチイワシの仲間",
+      "ja_name": "クログチイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Lloyd's slickhead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "18-22",
+          "min": 18,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "8-11",
+          "min": 8,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "50",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 69365,
       "scientific_name": "Narcetes shonanmaruae",
       "genus": "Narcetes",
-      "genus_ja": "ヨコヅナイワシの仲間",
+      "genus_ja": "クログチイワシの仲間",
       "ja_name": "ヨコヅナイワシ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Yokozuna Slickhead",
@@ -1330,13 +1537,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 58914,
       "scientific_name": "Narcetes wonderi",
       "genus": "Narcetes",
-      "genus_ja": "ヨコヅナイワシの仲間",
+      "genus_ja": "クログチイワシの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -1410,7 +1618,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10921,
@@ -1540,7 +1749,150 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 27419,
+      "scientific_name": "Rouleina danae",
+      "genus": "Rouleina",
+      "genus_ja": "タナカセキトリイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P1778_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-04-06",
+        "place": "Sulu Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P1778_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-04-06",
+          "place": "Sulu Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 58905,
+      "scientific_name": "Rouleina euryops",
+      "genus": "Rouleina",
+      "genus_ja": "タナカセキトリイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "17-21",
+          "min": 17,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "14-18",
+          "min": 14,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "23.4",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22702,
@@ -1650,7 +2002,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 58066,
+      "scientific_name": "Rouleina livida",
+      "genus": "Rouleina",
+      "genus_ja": "タナカセキトリイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "18-21",
+          "min": 18,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "17-21",
+          "min": 17,
+          "max": 21
+        },
+        "pectoral_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "34",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22700,
@@ -1710,13 +2124,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 11248,
       "scientific_name": "Talismania antillarum",
       "genus": "Talismania",
-      "genus_ja": "ノコバイワシの仲間",
+      "genus_ja": "イトイワシの仲間",
       "ja_name": "ノコバイワシ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Antillean smooth-head",
@@ -1800,13 +2215,75 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 58896,
+      "scientific_name": "Talismania brachycephala",
+      "genus": "Talismania",
+      "genus_ja": "イトイワシの仲間",
+      "ja_name": "イトイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22697,
       "scientific_name": "Talismania filamentosa",
       "genus": "Talismania",
-      "genus_ja": "ノコバイワシの仲間",
+      "genus_ja": "イトイワシの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -1860,13 +2337,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22698,
       "scientific_name": "Talismania okinawensis",
       "genus": "Talismania",
-      "genus_ja": "ノコバイワシの仲間",
+      "genus_ja": "イトイワシの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -1920,7 +2398,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22703,
@@ -2050,7 +2529,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

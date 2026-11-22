@@ -2,10 +2,40 @@
   "family": "Cetomimidae",
   "family_ja": "クジラウオ科",
   "family_slug": "cetomimidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 2,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 9,
+  "genera_count": 8,
   "genera": [
+    {
+      "genus": "Cetichthys",
+      "ja_name": "クジラウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クジラウオ",
+        "マボロシクジラウオ"
+      ],
+      "species_count": 2,
+      "representative_species": "Cetichthys indagator",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P23451_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1951-01-31",
+        "place": "340km E of East London, South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Cetomimoides",
+      "ja_name": "Cetomimoides属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Cetomimoides parri",
+      "photo": null
+    },
     {
       "genus": "Cetomimus",
       "ja_name": "イレズミクジラウオの仲間",
@@ -36,9 +66,270 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Eutaeniophorus",
+      "ja_name": "リボンイワシの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "リボンイワシ"
+      ],
+      "species_count": 1,
+      "representative_species": "Eutaeniophorus festivus",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2329853_hab-lat-xr_Parataeniophorus_festivus.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-10-16",
+        "place": "Between Cocos Is. and West coast of Sumatra",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Mirapinna",
+      "ja_name": "Mirapinna属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Mirapinna esau",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2329855_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1911-06-09",
+        "place": "Unspecified",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Parataeniophorus",
+      "ja_name": "Parataeniophorus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Parataeniophorus brevis",
+      "photo": null
+    },
+    {
+      "genus": "Vitiaziella",
+      "ja_name": "ソコクジラウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ソコクジラウオ"
+      ],
+      "species_count": 1,
+      "representative_species": "Vitiaziella cubiceps",
+      "photo": null
     }
   ],
   "species": [
+    {
+      "spec_code": 15188,
+      "scientific_name": "Cetichthys indagator",
+      "genus": "Cetichthys",
+      "genus_ja": "クジラウオの仲間",
+      "ja_name": "マボロシクジラウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P23451_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1951-01-31",
+        "place": "340km E of East London, South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P23451_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1951-01-31",
+          "place": "340km E of East London, South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "21",
+          "min": 21,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "max_length": "11.8",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15195,
+      "scientific_name": "Cetichthys parini",
+      "genus": "Cetichthys",
+      "genus_ja": "クジラウオの仲間",
+      "ja_name": "クジラウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-16",
+          "min": 13,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "max_length": "19.6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15324,
+      "scientific_name": "Cetomimoides parri",
+      "genus": "Cetomimoides",
+      "genus_ja": "Cetomimoides属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.7",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 23354,
       "scientific_name": "Cetomimus compunctus",
@@ -97,7 +388,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 9040,
@@ -227,7 +519,292 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 9043,
+      "scientific_name": "Eutaeniophorus festivus",
+      "genus": "Eutaeniophorus",
+      "genus_ja": "リボンイワシの仲間",
+      "ja_name": "リボンイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Festive ribbonfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2329853_hab-lat-xr_Parataeniophorus_festivus.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-10-16",
+        "place": "Between Cocos Is. and West coast of Sumatra",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2329853_hab-lat-xr_Parataeniophorus_festivus.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-10-16",
+          "place": "Between Cocos Is. and West coast of Sumatra",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "16-20",
+          "min": 16,
+          "max": 20
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "20-24",
+          "min": 20,
+          "max": 24
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.3",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4591,
+      "scientific_name": "Mirapinna esau",
+      "genus": "Mirapinna",
+      "genus_ja": "Mirapinna属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Hairyfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2329855_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1911-06-09",
+        "place": "Unspecified",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2329855_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1911-06-09",
+          "place": "Unspecified",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 16852,
+      "scientific_name": "Parataeniophorus brevis",
+      "genus": "Parataeniophorus",
+      "genus_ja": "Parataeniophorus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Short tapetail",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "15-20",
+          "min": 15,
+          "max": 20
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 62759,
+      "scientific_name": "Vitiaziella cubiceps",
+      "genus": "Vitiaziella",
+      "genus_ja": "ソコクジラウオの仲間",
+      "ja_name": "ソコクジラウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

@@ -246,8 +246,13 @@ def master_ja(sci: str) -> str:
         if os.path.exists(path):
             with open(path, encoding="utf-8") as f:
                 for r in csv.DictReader(f):
-                    _MASTER_JA[r["学名"].strip()] = (r.get("和名") or "").strip()
-    return _MASTER_JA.get(sci, "")
+                    _MASTER_JA[r["学名"].strip()] = ((r.get("和名") or "").strip(), (r.get("区分") or "").strip())
+    return _MASTER_JA.get(sci, ("", ""))[0]
+
+
+def master_region(sci: str) -> str:
+    master_ja(sci)
+    return _MASTER_JA.get(sci, ("", ""))[1]
 
 
 def build_family(family_arg: str, family_names: dict) -> dict:
@@ -335,6 +340,7 @@ def build_family(family_arg: str, family_names: dict) -> dict:
             "missing_traits_filled": sorted(filled_keys),
             "missing_traits_source": (mt_obj.get("source") or "").strip() if filled_keys else "",
             "evidence": evidence,
+            "region": master_region(sci) or "日本産",
         }
         species_list.append(species_entry)
 

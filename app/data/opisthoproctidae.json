@@ -2,9 +2,9 @@
   "family": "Opisthoproctidae",
   "family_ja": "デメニギス科",
   "family_slug": "opisthoproctidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 6,
-  "genera_count": 5,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 9,
+  "genera_count": 6,
   "genera": [
     {
       "genus": "Bathylychnops",
@@ -23,17 +23,18 @@
       "ja_name_official": false,
       "examples_ja": [
         "ヒナデメニギス",
-        "キタヒナデメニギス"
+        "キタヒナデメニギス",
+        "イッセンヒナデメニギス"
       ],
-      "species_count": 2,
-      "representative_species": "Dolichopteryx parini",
+      "species_count": 4,
+      "representative_species": "Dolichopteryx longipes",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467241020/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "IanLJones",
-        "observed_on": "2000-07-10",
-        "place": "United States of America",
+        "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp65731220305267884116.att.jpg",
+        "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+        "license": "CC-BY",
+        "author": "University of Kansas Biodiversity Institute",
+        "observed_on": "2004-06-06",
+        "place": "Georges Bank, Bear Seamount",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -54,6 +55,24 @@
         "author": "Dhugal Lindsay",
         "observed_on": "2024-05-17",
         "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Opisthoproctus",
+      "ja_name": "Opisthoproctus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Opisthoproctus soleatus",
+      "photo": {
+        "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.35770_06/format/large",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Naturalis Biodiversity Center",
+        "observed_on": "2008-03-24",
+        "place": "NE Atlantic Ocean, west of Porcupine bank, deep water",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -158,7 +177,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 65556,
+      "scientific_name": "Dolichopteryx andriashevi",
+      "genus": "Dolichopteryx",
+      "genus_ja": "ヒナデメニギスの仲間",
+      "ja_name": "イッセンヒナデメニギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.3",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 9121,
+      "scientific_name": "Dolichopteryx longipes",
+      "genus": "Dolichopteryx",
+      "genus_ja": "ヒナデメニギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Brownsnout spookfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp65731220305267884116.att.jpg",
+        "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+        "license": "CC-BY",
+        "author": "University of Kansas Biodiversity Institute",
+        "observed_on": "2004-06-06",
+        "place": "Georges Bank, Bear Seamount",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp65731220305267884116.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2004-06-06",
+          "place": "Georges Bank, Bear Seamount",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp66346226535856163876.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2004-06-03",
+          "place": "Georges Bank, Bear Seamount",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp62229088036892215944.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2000-12-05",
+          "place": "Slope water, mid Atlantic bight",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/97221888-f04b-4dc7-9c58-ed6f6f9ae2cd",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1981-06-08",
+          "place": "Madeira abyssal Plain, off SW Madeira Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/22b731aa-d4e7-4ccc-820c-be3791b6548b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1972-04-07",
+          "place": "Monaco Basin, NW of Canary Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c186c31b-bdf8-4a4a-9dd5-f07881be877f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1937-11-08",
+          "place": "Gulf of Honduras",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 63387,
@@ -218,7 +430,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60994,
@@ -298,7 +511,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 2704,
@@ -428,7 +642,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7397,
+      "scientific_name": "Opisthoproctus soleatus",
+      "genus": "Opisthoproctus",
+      "genus_ja": "Opisthoproctus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Barrel-eye",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.35770_06/format/large",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Naturalis Biodiversity Center",
+        "observed_on": "2008-03-24",
+        "place": "NE Atlantic Ocean, west of Porcupine bank, deep water",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.35770_06/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "2008-03-24",
+          "place": "NE Atlantic Ocean, west of Porcupine bank, deep water",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/803.1sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "Dr. Victor Tuset, Sr Fernando Bordes",
+          "observed_on": "2000-01-25",
+          "place": "Gran Canària",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/0bb828ba-2075-481f-9d64-2bcb0129fffc",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1974-02-22",
+          "place": "N of Cay Sal Bank",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2b425305-abf5-4954-b7e7-83af0f59f888",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1937-05-02",
+          "place": "Guinea Basin, off Gabon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.collections.yale.edu/iiif/2/ypm:05ec728c-e3e6-4eeb-8e08-d47f12f289d0/full/full/0/default.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Adriana D. Rubinstein",
+          "observed_on": "1927-03-14",
+          "place": "Andros Island. Tongue of the Ocean, 8000 ft. wire out. Pawnee Sta. 23",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d2b07e31-adf4-4407-aa6c-22c8482f7832",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1912-10-05",
+          "place": "Filet Bourú In Vitesse. North Atlantic Ocean",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.5",
+        "body_shape": "",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 9123,
@@ -548,7 +894,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 9124,
@@ -648,7 +995,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "family": "Merlucciidae",
   "family_ja": "メルルーサ科",
   "family_slug": "merlucciidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 2,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 3,
   "genera_count": 1,
   "genera": [
     {
@@ -13,14 +13,14 @@
       "examples_ja": [
         "シロガネダラ"
       ],
-      "species_count": 2,
-      "representative_species": "Merluccius productus",
+      "species_count": 3,
+      "representative_species": "Merluccius bilinearis",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619770730/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653032135/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "catherinepo",
-        "observed_on": "2026-01-04",
+        "author": "kathleenfspicer",
+        "observed_on": "2026-02-05",
         "place": "Canada",
         "life_stage": "不明",
         "context": "不明"
@@ -28,6 +28,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 323,
+      "scientific_name": "Merluccius bilinearis",
+      "genus": "Merluccius",
+      "genus_ja": "シロガネダラの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Silver hake",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653032135/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kathleenfspicer",
+        "observed_on": "2026-02-05",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653032135/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kathleenfspicer",
+          "observed_on": "2026-02-05",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653039013/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kathleenfspicer",
+          "observed_on": "2026-02-19",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626744199/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "CJ Campbell",
+          "observed_on": "2026-03-20",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/663358234/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Brevan Wagner",
+          "observed_on": "2026-05-20",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/663940985/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "baileysilver",
+          "observed_on": "2026-05-21",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/749200137/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Emma_Chip",
+          "observed_on": "2026-05-17",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "dorsal_soft_rays": {
+          "raw": "47-54",
+          "min": 47,
+          "max": 54
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "37-41",
+          "min": 37,
+          "max": 41
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "76",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 326,
       "scientific_name": "Merluccius productus",
@@ -156,7 +287,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63108,
@@ -216,7 +348,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

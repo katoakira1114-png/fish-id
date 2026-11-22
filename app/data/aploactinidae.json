@@ -1,11 +1,29 @@
 {
   "family": "Aploactinidae",
-  "family_ja": "",
+  "family_ja": "イボオコゼ科",
   "family_slug": "aploactinidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 10,
-  "genera_count": 5,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 18,
+  "genera_count": 8,
   "genera": [
+    {
+      "genus": "Acanthosphex",
+      "ja_name": "Acanthosphex属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Acanthosphex leurynnis",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569818758/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Keith Willmott",
+        "observed_on": "2024-11-29",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Aploactis",
       "ja_name": "イボオコゼの仲間",
@@ -35,15 +53,15 @@
         "ケラマオコゼ",
         "マスダオコゼ"
       ],
-      "species_count": 6,
-      "representative_species": "Cocotropus larvatus",
+      "species_count": 7,
+      "representative_species": "Cocotropus dermacanthus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633687921/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "Keith Willmott",
-        "observed_on": "2026-03-17",
-        "place": "Philippines",
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/a4/bc/a4bcae17-75b7-4104-b7a7-f988b373bdab.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Williams, Jeff T.; Carpenter, Kent; Romena, Nov; Burke, Meg; Lane, Mark",
+        "observed_on": "2016-04-04",
+        "place": "Central Visayas Region, Siquijor I., San Juan, Paliton Wall",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -55,15 +73,15 @@
       "examples_ja": [
         "アブオコゼ"
       ],
-      "species_count": 1,
-      "representative_species": "Erisphex pottii",
+      "species_count": 4,
+      "representative_species": "Erisphex aniarus",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/97401eb5-1b55-46ad-b998-2a84d98bf341",
+        "url": "https://data.nhm.ac.uk/media/df4b743e-4471-4239-bab6-ca99d07ae424",
         "source": "GBIF",
         "license": "CC-BY",
         "author": "The Trustees of the Natural History Museum, London",
         "observed_on": "",
-        "place": "Inland Sea, Japan",
+        "place": "off Java, Indian Ocean side",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -95,7 +113,7 @@
       "examples_ja": [
         "カゴシマオコゼ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Paraploactis kagoshimensis",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624236266/large.jpg",
@@ -107,9 +125,167 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Sthenopus",
+      "ja_name": "Sthenopus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Sthenopus mollis",
+      "photo": null
+    },
+    {
+      "genus": "Xenaploactis",
+      "ja_name": "Xenaploactis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Xenaploactis anopta",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/03/e9/03e903ed-2ca7-4c29-88e1-c20c5c0df5c0.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Norton, J. E.",
+        "observed_on": "1966-06-09",
+        "place": "2.5 mi. w. of Calaguaguin Cove, Zambales.",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     }
   ],
   "species": [
+    {
+      "spec_code": 25311,
+      "scientific_name": "Acanthosphex leurynnis",
+      "genus": "Acanthosphex",
+      "genus_ja": "Acanthosphex属",
+      "ja_name": "和名なし",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Wasp-spine velvetfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569818758/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Keith Willmott",
+        "observed_on": "2024-11-29",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569818758/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Keith Willmott",
+          "observed_on": "2024-11-29",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459215274/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "belen_caro",
+          "observed_on": "2023-11-09",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19694239/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2018-05-23",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18831019/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mark Rosenstein",
+          "observed_on": "2018-05-12",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123672034/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Franca Wermuth",
+          "observed_on": "2018-05-13",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256692900/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "uwkwaj",
+          "observed_on": "2017-05-07",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-15",
+          "min": 11,
+          "max": 15
+        },
+        "dorsal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1-2",
+          "min": 1,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "3.1",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 9237,
       "scientific_name": "Aploactis aspera",
@@ -208,7 +384,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 70305,
@@ -268,7 +445,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 52887,
+      "scientific_name": "Cocotropus dermacanthus",
+      "genus": "Cocotropus",
+      "genus_ja": "イズオコゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Spinyskin velvetfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/a4/bc/a4bcae17-75b7-4104-b7a7-f988b373bdab.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Williams, Jeff T.; Carpenter, Kent; Romena, Nov; Burke, Meg; Lane, Mark",
+        "observed_on": "2016-04-04",
+        "place": "Central Visayas Region, Siquijor I., San Juan, Paliton Wall",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/a4/bc/a4bcae17-75b7-4104-b7a7-f988b373bdab.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Williams, Jeff T.; Carpenter, Kent; Romena, Nov; Burke, Meg; Lane, Mark",
+          "observed_on": "2016-04-04",
+          "place": "Central Visayas Region, Siquijor I., San Juan, Paliton Wall",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/cf116f37-8a20-434f-a374-4eb1d9e6b16c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Seychelles",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "5.08",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 65426,
@@ -328,7 +597,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 61434,
@@ -388,7 +658,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 56826,
@@ -508,7 +779,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23897,
@@ -568,7 +840,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 63771,
@@ -628,7 +901,160 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10539,
+      "scientific_name": "Erisphex aniarus",
+      "genus": "Erisphex",
+      "genus_ja": "アブオコゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dark-finned velvetfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/df4b743e-4471-4239-bab6-ca99d07ae424",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "off Java, Indian Ocean side",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/df4b743e-4471-4239-bab6-ca99d07ae424",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "off Java, Indian Ocean side",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c40b9ad5-5c59-4313-bee6-551fbc640288",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "Cape Moreton, 3 ml NE of",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.1",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10633,
+      "scientific_name": "Erisphex philippinus",
+      "genus": "Erisphex",
+      "genus_ja": "アブオコゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 9238,
@@ -758,7 +1184,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59073,
+      "scientific_name": "Erisphex simplex",
+      "genus": "Erisphex",
+      "genus_ja": "アブオコゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048726_lg.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "bellfishes",
+        "observed_on": "2016-05-19",
+        "place": "Taiwan Strait",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048726_lg.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "bellfishes",
+          "observed_on": "2016-05-19",
+          "place": "Taiwan Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/erisimt01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2008-12-20",
+          "place": "Daxi, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/27/6e/276e6d63-f15a-481d-b6f9-29859651460c.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Liu, C. H.",
+          "observed_on": "1978-11-03",
+          "place": "off Kaohsiung.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp62796432999037013601.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp64173280561365579016.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp67953534138086475733.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12763,
@@ -838,7 +1396,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23898,
@@ -968,7 +1527,241 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59072,
+      "scientific_name": "Paraploactis obbesi",
+      "genus": "Paraploactis",
+      "genus_ja": "カゴシマオコゼの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sulu velvetfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115625176/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Francesco Ricciardi",
+        "observed_on": "2021-03-07",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115625176/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Francesco Ricciardi",
+          "observed_on": "2021-03-07",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83720267/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Albert Kang",
+          "observed_on": "2019-06-14",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "7-10",
+          "min": 7,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "11-15",
+          "min": 11,
+          "max": 15
+        },
+        "max_length": "5",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59081,
+      "scientific_name": "Sthenopus mollis",
+      "genus": "Sthenopus",
+      "genus_ja": "Sthenopus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59078,
+      "scientific_name": "Xenaploactis anopta",
+      "genus": "Xenaploactis",
+      "genus_ja": "Xenaploactis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/03/e9/03e903ed-2ca7-4c29-88e1-c20c5c0df5c0.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Norton, J. E.",
+        "observed_on": "1966-06-09",
+        "place": "2.5 mi. w. of Calaguaguin Cove, Zambales.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/03/e9/03e903ed-2ca7-4c29-88e1-c20c5c0df5c0.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Norton, J. E.",
+          "observed_on": "1966-06-09",
+          "place": "2.5 mi. w. of Calaguaguin Cove, Zambales.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "max_length": "3.7",
+        "body_shape": "",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

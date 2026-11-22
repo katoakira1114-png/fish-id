@@ -2,9 +2,9 @@
   "family": "Neoscopelidae",
   "family_ja": "ソトオリイワシ科",
   "family_slug": "neoscopelidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 4,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 5,
+  "genera_count": 3,
   "genera": [
     {
       "genus": "Neoscopelus",
@@ -44,6 +44,24 @@
         "author": "DEEPEND Consortium (Deep Pelagic Nekton Dynamics of the Gulf of Mexico)",
         "observed_on": "2016-08-18",
         "place": "unknown or invalid",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Solivomer",
+      "ja_name": "Solivomer属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Solivomer arenidens",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11058336&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1909-07-31",
+        "place": "San Ricardo Point (Panaon Island), South 59 degrees East, 9 miles; Between Leyte and Mindanao",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -178,7 +196,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10176,
@@ -308,7 +327,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23022,
@@ -368,7 +388,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5119,
@@ -498,7 +519,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15329,
+      "scientific_name": "Solivomer arenidens",
+      "genus": "Solivomer",
+      "genus_ja": "Solivomer属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11058336&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1909-07-31",
+        "place": "San Ricardo Point (Panaon Island), South 59 degrees East, 9 miles; Between Leyte and Mindanao",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11058336&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-07-31",
+          "place": "San Ricardo Point (Panaon Island), South 59 degrees East, 9 miles; Between Leyte and Mindanao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/653/004/43971_Solivomer_arenidens_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1909",
+          "place": "Philippine Islands:  18.4 mi. off Balicasag Island, between Siquigor and Bohol I",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

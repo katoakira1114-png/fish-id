@@ -2,8 +2,8 @@
   "family": "Istiophoridae",
   "family_ja": "マカジキ科",
   "family_slug": "istiophoridae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 5,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 6,
   "genera_count": 5,
   "genera": [
     {
@@ -33,15 +33,15 @@
       "examples_ja": [
         "バショウカジキ"
       ],
-      "species_count": 1,
-      "representative_species": "Istiophorus platypterus",
+      "species_count": 2,
+      "representative_species": "Istiophorus albicans",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662153165/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "kenhe",
-        "observed_on": "2026-05-16",
-        "place": "Chinese Taipei",
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/b9/45/b945db27-9487-4834-9b07-3985c2a994df.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "McGuire, J. A.",
+        "observed_on": "",
+        "place": "Long Key.",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -236,7 +236,109 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 78,
+      "scientific_name": "Istiophorus albicans",
+      "genus": "Istiophorus",
+      "genus_ja": "バショウカジキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Atlantic sailfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/b9/45/b945db27-9487-4834-9b07-3985c2a994df.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "McGuire, J. A.",
+        "observed_on": "",
+        "place": "Long Key.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/b9/45/b945db27-9487-4834-9b07-3985c2a994df.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "McGuire, J. A.",
+          "observed_on": "",
+          "place": "Long Key.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/77/b2/77b2057f-30d4-4856-9be7-2907428cc381.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Jerlaw, N.",
+          "observed_on": "",
+          "place": "Long Key.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/6d/ee/6dee58e2-be3e-41bb-9cb0-09860928c91b.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Gessler, T.",
+          "observed_on": "",
+          "place": "Near Miami.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "48-53",
+          "min": 48,
+          "max": 53
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "9-12",
+          "min": 9,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "17-20",
+          "min": 17,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "315",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "striking type of mouth"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 77,
@@ -366,7 +468,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 223,
@@ -496,7 +599,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 218,
@@ -576,7 +680,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 3915,
@@ -706,7 +811,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

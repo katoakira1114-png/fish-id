@@ -2,8 +2,8 @@
   "family": "Callanthiidae",
   "family_ja": "シキシマハナダイ科",
   "family_slug": "callanthiidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 3,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 6,
   "genera_count": 2,
   "genera": [
     {
@@ -34,9 +34,18 @@
         "オオメハナダイ",
         "テンジクハナダイ"
       ],
-      "species_count": 2,
-      "representative_species": "Grammatonotus macrophthalmus",
-      "photo": null
+      "species_count": 5,
+      "representative_species": "Grammatonotus crosnieri",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1643287558479BfFhyB9tgg0UDKCn",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "J. PFLIGER",
+        "observed_on": "1976-03-21",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     }
   ],
   "species": [
@@ -168,7 +177,281 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 68044,
+      "scientific_name": "Grammatonotus brianne",
+      "genus": "Grammatonotus",
+      "genus_ja": "オオメハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Batangas groppo",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.44",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15303,
+      "scientific_name": "Grammatonotus crosnieri",
+      "genus": "Grammatonotus",
+      "genus_ja": "オオメハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Long-tailed groppo",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1643287558479BfFhyB9tgg0UDKCn",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "J. PFLIGER",
+        "observed_on": "1976-03-21",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1643287558479BfFhyB9tgg0UDKCn",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "1976-03-21",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1508494789359DsDfptwsUtxJFigC",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. RANDRIHASIPARA",
+          "observed_on": "1976-03-19",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 27474,
+      "scientific_name": "Grammatonotus laysanus",
+      "genus": "Grammatonotus",
+      "genus_ja": "オオメハナダイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10975906&h=1025",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-07-30",
+        "place": "Cabugan Grande Island (North), North 59 degrees West, 10.5 miles; Between Samar and Leyte, vicinity of Surigao Strait",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10975906&h=1025",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-07-30",
+          "place": "Cabugan Grande Island (North), North 59 degrees West, 10.5 miles; Between Samar and Leyte, vicinity of Surigao Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10955449&h=1523",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1909-07-30",
+          "place": "Cabugan Grande Island (North), North 59 degrees West, 10.5 miles; Between Samar and Leyte, vicinity of Surigao Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/waf/dsc-data/images/001569/1569433.tif",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "2005-07-21",
+          "place": "Line Islands | Jarvis Island Unit of the Pacific Remote Islands Marine National Monument | Jarvis Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10976693&h=904",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1902-05-19",
+          "place": "Vicinity of Laysan Island, Laysan Island Light, S. 78 degrees, E. 8.6 miles [nautical].",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10955447&h=1700",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1902-05-19",
+          "place": "Vicinity of Laysan Island, Laysan Island Light, S. 78 degrees, E. 8.6 miles [nautical].",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12.8",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 52722,
@@ -228,7 +511,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23433,
@@ -288,7 +572,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

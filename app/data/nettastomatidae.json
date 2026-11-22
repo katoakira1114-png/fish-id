@@ -2,9 +2,9 @@
   "family": "Nettastomatidae",
   "family_ja": "クズアナゴ科",
   "family_slug": "nettastomatidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 5,
-  "genera_count": 3,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 11,
+  "genera_count": 4,
   "genera": [
     {
       "genus": "Nettastoma",
@@ -28,11 +28,33 @@
       }
     },
     {
-      "genus": "Saurenchelys",
-      "ja_name": "Saurenchelys属",
+      "genus": "Nettenchelys",
+      "ja_name": "ハシクズアナゴの仲間",
       "ja_name_official": false,
-      "examples_ja": [],
-      "species_count": 1,
+      "examples_ja": [
+        "ハシクズアナゴ"
+      ],
+      "species_count": 2,
+      "representative_species": "Nettenchelys gephyra",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1746026264323h7SWbtTvCrImbuS0",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Z.GABSI",
+        "observed_on": "1978-04-01",
+        "place": "$$$$",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Saurenchelys",
+      "ja_name": "シマイトアナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シマイトアナゴ"
+      ],
+      "species_count": 4,
       "representative_species": "Saurenchelys fierasfer",
       "photo": {
         "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/31/9c/319ca953-a06c-46a7-93cd-94f1ad070349.jpg",
@@ -52,15 +74,15 @@
       "examples_ja": [
         "キセルクズアナゴ"
       ],
-      "species_count": 2,
-      "representative_species": "Venefica proboscidea",
+      "species_count": 3,
+      "representative_species": "Venefica multiporosa",
       "photo": {
-        "url": "http://193.146.88.250/WEB/PECES/Venefica%20proboscidea_1527.jpg",
-        "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
-        "license": "CC-BY-NC",
-        "author": "IEO",
-        "observed_on": "2008-11-24",
-        "place": "Mauritania",
+        "url": "https://mediaphoto.mnhn.fr/media/16462112168512Me2Jqs8erEimAAa",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Ho Hans",
+        "observed_on": "1985-06-02",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -195,7 +217,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7492,
@@ -325,13 +348,156 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10561,
+      "scientific_name": "Nettenchelys gephyra",
+      "genus": "Nettenchelys",
+      "genus_ja": "ハシクズアナゴの仲間",
+      "ja_name": "ハシクズアナゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Bridge duckbill eel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1746026264323h7SWbtTvCrImbuS0",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Z.GABSI",
+        "observed_on": "1978-04-01",
+        "place": "$$$$",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1746026264323h7SWbtTvCrImbuS0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "1978-04-01",
+          "place": "$$$$",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 70524,
+      "scientific_name": "Nettenchelys proxima",
+      "genus": "Nettenchelys",
+      "genus_ja": "ハシクズアナゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8292,
       "scientific_name": "Saurenchelys fierasfer",
       "genus": "Saurenchelys",
-      "genus_ja": "Saurenchelys属",
+      "genus_ja": "シマイトアナゴの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -455,7 +621,292 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 70527,
+      "scientific_name": "Saurenchelys gigas",
+      "genus": "Saurenchelys",
+      "genus_ja": "シマイトアナゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Giant duckbill eel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "87.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 58723,
+      "scientific_name": "Saurenchelys lateromaculata",
+      "genus": "Saurenchelys",
+      "genus_ja": "シマイトアナゴの仲間",
+      "ja_name": "シマイトアナゴ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63066,
+      "scientific_name": "Saurenchelys taiwanensis",
+      "genus": "Saurenchelys",
+      "genus_ja": "シマイトアナゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "34.2",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 58714,
+      "scientific_name": "Venefica multiporosa",
+      "genus": "Venefica",
+      "genus_ja": "キセルクズアナゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/16462112168512Me2Jqs8erEimAAa",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Ho Hans",
+        "observed_on": "1985-06-02",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/16462112168512Me2Jqs8erEimAAa",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Ho Hans",
+          "observed_on": "1985-06-02",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1561042191919Go3AECLHmzfDKK7W",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER & H. HO",
+          "observed_on": "1980-11-27",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/15610421916881NmrDNldUz8kDG3f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER & H. HO",
+          "observed_on": "1975-02-28",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "70",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 9073,
@@ -585,7 +1036,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22599,
@@ -645,7 +1097,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

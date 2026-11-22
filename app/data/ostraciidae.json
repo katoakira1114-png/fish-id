@@ -2,9 +2,9 @@
   "family": "Ostraciidae",
   "family_ja": "ハコフグ科",
   "family_slug": "ostraciidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 10,
-  "genera_count": 3,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 12,
+  "genera_count": 4,
   "genera": [
     {
       "genus": "Lactoria",
@@ -37,7 +37,7 @@
         "クロハコフグ",
         "ミナミハコフグ"
       ],
-      "species_count": 4,
+      "species_count": 5,
       "representative_species": "Ostracion meleagris",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613768587/large.jpg",
@@ -46,6 +46,24 @@
         "author": "Fabian Michael Gnadlinger",
         "observed_on": "2026-02-06",
         "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Rhynchostracion",
+      "ja_name": "Rhynchostracion属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Rhynchostracion nasus",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_151.2f8c6ef0-7f2b-4c88-80f8-47dc2cee11de.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+        "observed_on": "2017-11-08",
+        "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim fish caught in vicinity of Bulan, Ticao Pass.",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -201,7 +219,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6554,
@@ -331,7 +350,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7837,
@@ -461,7 +481,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6555,
@@ -521,7 +542,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12825,
@@ -581,7 +603,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6556,
@@ -711,7 +734,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8288,
@@ -841,7 +865,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 6577,
+      "scientific_name": "Ostracion solorense",
+      "genus": "Ostracion",
+      "genus_ja": "ハコフグの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Reticulate boxfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605881718/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "ae201",
+        "observed_on": "2026-01-05",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605881718/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-05",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606094660/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-07",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605882453/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606859861/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-10",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607866515/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ae201",
+          "observed_on": "2026-01-14",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610088058/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "reichiang",
+          "observed_on": "2026-01-23",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 8192,
+      "scientific_name": "Rhynchostracion nasus",
+      "genus": "Rhynchostracion",
+      "genus_ja": "Rhynchostracion属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shortnose boxfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_151.2f8c6ef0-7f2b-4c88-80f8-47dc2cee11de.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+        "observed_on": "2017-11-08",
+        "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim fish caught in vicinity of Bulan, Ticao Pass.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_151.2f8c6ef0-7f2b-4c88-80f8-47dc2cee11de.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+          "observed_on": "2017-11-08",
+          "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim fish caught in vicinity of Bulan, Ticao Pass.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.24_168.87dfaeae-d831-479a-9b44-58a9bcbf5d00.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Apollo Lizano, Aaron Macaspac",
+          "observed_on": "2013-06-01",
+          "place": "Philippines, Cebu, Pasil Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_234.4099759a-069f-44e4-bdfa-9590d4605cb4.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Apollo Lizano, Aaron Macaspac",
+          "observed_on": "2013-06-11",
+          "place": "Philippines, Tacloban, Tacloban City Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=5800.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "John E. Randall",
+          "observed_on": "",
+          "place": "Sumilon Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/689498738/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andriel Cheong",
+          "observed_on": "2026-05-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/689498673/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andriel Cheong",
+          "observed_on": "2026-05-31",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8060,
@@ -971,7 +1258,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8129,
@@ -1101,7 +1389,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10591,
@@ -1231,7 +1520,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "family": "Stichaeidae",
   "family_ja": "タウエガジ科",
   "family_slug": "stichaeidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 20,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 28,
   "genera_count": 10,
   "genera": [
     {
@@ -13,9 +13,9 @@
       "examples_ja": [
         "ムシャギンポ",
         "キタムシャギンポ",
-        "ヒナムシャギンポ"
+        "ヒゲキタノトサカ"
       ],
-      "species_count": 4,
+      "species_count": 6,
       "representative_species": "Alectrias alectrolophus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193493289/large.jpeg",
@@ -57,15 +57,15 @@
         "アキギンポ",
         "ハナブサギンポ"
       ],
-      "species_count": 3,
-      "representative_species": "Chirolophis japonicus",
+      "species_count": 5,
+      "representative_species": "Chirolophis decoratus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608898008/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609870145/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "toufu",
-        "observed_on": "2026-01-18",
-        "place": "Japan",
+        "author": "Daniella LoScerbo",
+        "observed_on": "2026-01-03",
+        "place": "Canada",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -76,9 +76,10 @@
       "ja_name_official": false,
       "examples_ja": [
         "ダイナンギンポ",
-        "ベニツケギンポ"
+        "ベニツケギンポ",
+        "モヨウダイナンギンポ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Dictyosoma burgeri",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629022797/large.jpg",
@@ -93,12 +94,13 @@
     },
     {
       "genus": "Ernogrammus",
-      "ja_name": "ムスジガジの仲間",
+      "ja_name": "ヤリガジの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "ヤリガジ",
         "ムスジガジ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Ernogrammus hexagrammus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/603550815/large.jpg",
@@ -170,7 +172,7 @@
         "アメガジ",
         "ゴマギンポ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Stichaeopsis epallax",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/408929125/large.jpeg",
@@ -192,7 +194,7 @@
         "ナガヅカ",
         "タウエガジ"
       ],
-      "species_count": 4,
+      "species_count": 5,
       "representative_species": "Stichaeus grigorjewi",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/1c664747-2f75-4ee0-9beb-be1414dadb23",
@@ -325,7 +327,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 25022,
@@ -425,7 +428,150 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 50409,
+      "scientific_name": "Alectrias cirratus",
+      "genus": "Alectrias",
+      "genus_ja": "ムシャギンポの仲間",
+      "ja_name": "ヒゲキタノトサカ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Ciliate cockscomb",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0202801.jpg",
+        "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+        "license": "CC0",
+        "author": "",
+        "observed_on": "1980-08-20",
+        "place": "Guyana Off Mouth Esquibo, New Amsterdam R.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0202801.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1980-08-20",
+          "place": "Guyana Off Mouth Esquibo, New Amsterdam R.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 61164,
+      "scientific_name": "Alectrias gallinus",
+      "genus": "Alectrias",
+      "genus_ja": "ムシャギンポの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shaggy cockscomb",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 67405,
@@ -485,7 +631,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 56843,
@@ -575,7 +722,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 3777,
@@ -655,7 +803,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 3780,
+      "scientific_name": "Chirolophis decoratus",
+      "genus": "Chirolophis",
+      "genus_ja": "フサギンポの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Decorated warbonnet",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609870145/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Daniella LoScerbo",
+        "observed_on": "2026-01-03",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609870145/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Daniella LoScerbo",
+          "observed_on": "2026-01-03",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619207000/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-02-25",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621142267/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "hewittdoesit",
+          "observed_on": "2026-03-03",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621142190/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "hewittdoesit",
+          "observed_on": "2026-03-03",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642801591/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "KJ",
+          "observed_on": "2026-04-19",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/663105595/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paul Norwood",
+          "observed_on": "2026-05-18",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "61-62",
+          "min": 61,
+          "max": 62
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "44-51",
+          "min": 44,
+          "max": 51
+        },
+        "pectoral_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "42",
+        "body_shape": "",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 13154,
@@ -785,7 +1065,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23772,
@@ -865,7 +1146,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23773,
@@ -925,7 +1207,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 60430,
+      "scientific_name": "Chirolophis wui",
+      "genus": "Chirolophis",
+      "genus_ja": "フサギンポの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23793,
@@ -1055,7 +1399,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23794,
@@ -1185,13 +1530,75 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 67002,
+      "scientific_name": "Dictyosoma tongyeongensis",
+      "genus": "Dictyosoma",
+      "genus_ja": "ダイナンギンポの仲間",
+      "ja_name": "モヨウダイナンギンポ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Korean prickleback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "58-62",
+          "min": 58,
+          "max": 62
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "45-47",
+          "min": 45,
+          "max": 47
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23788,
       "scientific_name": "Ernogrammus hexagrammus",
       "genus": "Ernogrammus",
-      "genus_ja": "ムスジガジの仲間",
+      "genus_ja": "ヤリガジの仲間",
       "ja_name": "ムスジガジ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Six-lined prickleback",
@@ -1315,7 +1722,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 66022,
+      "scientific_name": "Ernogrammus zhirmunskii",
+      "genus": "Ernogrammus",
+      "genus_ja": "ヤリガジの仲間",
+      "ja_name": "ヤリガジ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Seven-lined prickleback",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "41-42",
+          "min": 41,
+          "max": 42
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "28-30",
+          "min": 28,
+          "max": 30
+        },
+        "pectoral_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.4",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 3784,
@@ -1405,7 +1874,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 50412,
@@ -1465,7 +1935,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 50417,
@@ -1595,7 +2066,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23791,
@@ -1675,7 +2147,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23792,
@@ -1785,7 +2258,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 50416,
+      "scientific_name": "Stichaeopsis nevelskoi",
+      "genus": "Stichaeopsis",
+      "genus_ja": "アメガジの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 51672,
@@ -1845,7 +2380,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23789,
@@ -1975,7 +2511,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23790,
@@ -2035,7 +2572,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 50415,
@@ -2095,7 +2633,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 3795,
+      "scientific_name": "Stichaeus punctatus",
+      "genus": "Stichaeus",
+      "genus_ja": "ツチガジの仲間",
+      "ja_name": "ニセタウエガジ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Arctic shanny",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249691192/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sergeymakeev",
+        "observed_on": "2000-08-13",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249691192/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sergeymakeev",
+          "observed_on": "2000-08-13",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662913401/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kim Nesbitt",
+          "observed_on": "2026-05-18",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662912290/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kim Nesbitt",
+          "observed_on": "2026-05-18",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/706239924/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "annehedlund",
+          "observed_on": "2026-07-27",
+          "place": "Greenland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715258007/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Cole Tiemann",
+          "observed_on": "2026-08-11",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727180932/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "yherfux",
+          "observed_on": "2026-08-14",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

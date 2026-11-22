@@ -2,8 +2,8 @@
   "family": "Stromateidae",
   "family_ja": "マナガツオ科",
   "family_slug": "stromateidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 4,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 5,
   "genera_count": 1,
   "genera": [
     {
@@ -15,7 +15,7 @@
         "シナマナガツオ",
         "コウライマナガツオ"
       ],
-      "species_count": 4,
+      "species_count": 5,
       "representative_species": "Pampus argenteus",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99734344/large.jpeg",
@@ -158,7 +158,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 8187,
@@ -288,7 +289,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69458,
@@ -368,7 +370,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59474,
+      "scientific_name": "Pampus minor",
+      "genus": "Pampus",
+      "genus_ja": "マナガツオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Southern lesser pomfret",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "34-39",
+          "min": 34,
+          "max": 39
+        },
+        "anal_spines": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "anal_soft_rays": {
+          "raw": "35-39",
+          "min": 35,
+          "max": 39
+        },
+        "pectoral_rays": {
+          "raw": "22-24",
+          "min": 22,
+          "max": 24
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.44",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 59625,
@@ -458,7 +522,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

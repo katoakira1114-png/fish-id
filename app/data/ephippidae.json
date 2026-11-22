@@ -2,8 +2,8 @@
   "family": "Ephippidae",
   "family_ja": "マンジュウダイ科",
   "family_slug": "ephippidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 5,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 6,
   "genera_count": 2,
   "genera": [
     {
@@ -35,15 +35,15 @@
         "ツバメウオ",
         "ミカヅキツバメウオ"
       ],
-      "species_count": 4,
-      "representative_species": "Platax boersii",
+      "species_count": 5,
+      "representative_species": "Platax batavianus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727253644/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637005029/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Potamogeton sp.TOKYO",
-        "observed_on": "2026-09-01",
-        "place": "Japan",
+        "author": "Franca Wermuth",
+        "observed_on": "2026-04-11",
+        "place": "Philippines",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -178,7 +178,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10547,
+      "scientific_name": "Platax batavianus",
+      "genus": "Platax",
+      "genus_ja": "アカククリの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Humpback batfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637005029/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Franca Wermuth",
+        "observed_on": "2026-04-11",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637005029/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Franca Wermuth",
+          "observed_on": "2026-04-11",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607066793/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jens Sommer-Knudsen",
+          "observed_on": "2025-11-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598720874/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Miriam Cheng",
+          "observed_on": "2025-12-08",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344005467/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "dod_od",
+          "observed_on": "2024-01-01",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462669768/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "cmarmotte",
+          "observed_on": "2024-10-14",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252788194/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tim h",
+          "observed_on": "2022-10-25",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "28-31",
+          "min": 28,
+          "max": 31
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "19-23",
+          "min": 19,
+          "max": 23
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "65",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 14307,
@@ -308,7 +440,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5737,
@@ -438,7 +571,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5738,
@@ -568,7 +702,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5739,
@@ -698,7 +833,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

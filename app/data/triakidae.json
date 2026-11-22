@@ -1,11 +1,29 @@
 {
   "family": "Triakidae",
-  "family_ja": "",
+  "family_ja": "ドチザメ科",
   "family_slug": "triakidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 6,
-  "genera_count": 4,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 9,
+  "genera_count": 6,
   "genera": [
+    {
+      "genus": "Galeorhinus",
+      "ja_name": "Galeorhinus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Galeorhinus galeus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608201541/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Siobhan O'Neill",
+        "observed_on": "2026-01-12",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Hemitriakis",
       "ja_name": "エイラクブカの仲間",
@@ -14,7 +32,7 @@
         "エイラクブカ",
         "イレズミエイラクブカ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Hemitriakis japanica",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62662575/large.jpg",
@@ -43,6 +61,24 @@
         "author": "Ken Graham",
         "observed_on": "1986-03-06",
         "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Iago",
+      "ja_name": "Iago属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Iago garricki",
+      "photo": {
+        "url": "http://mediaphoto.mnhn.fr/media/1470063594196fFp2Gpcxdehd1oUx",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "L. Randrihasipara",
+        "observed_on": "1979",
+        "place": "vate",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -90,6 +126,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 4642,
+      "scientific_name": "Galeorhinus galeus",
+      "genus": "Galeorhinus",
+      "genus_ja": "Galeorhinus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Tope shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608201541/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Siobhan O'Neill",
+        "observed_on": "2026-01-12",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608201541/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Siobhan O'Neill",
+          "observed_on": "2026-01-12",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607876145/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "jack12347",
+          "observed_on": "2026-01-14",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607414787/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Siobhan O'Neill",
+          "observed_on": "2026-01-11",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607404567/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "glinks",
+          "observed_on": "2026-01-12",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607414777/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Siobhan O'Neill",
+          "observed_on": "2026-01-11",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656567715/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "steerben",
+          "observed_on": "2026-01-03",
+          "place": "New Zealand",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "193",
+        "body_shape": "elongated",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 63785,
       "scientific_name": "Hemitriakis complicofasciata",
@@ -148,7 +315,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5926,
@@ -258,7 +426,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 5927,
+      "scientific_name": "Hemitriakis leucoperiptera",
+      "genus": "Hemitriakis",
+      "genus_ja": "エイラクブカの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Whitefin topeshark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5928,
@@ -378,7 +608,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 5930,
+      "scientific_name": "Iago garricki",
+      "genus": "Iago",
+      "genus_ja": "Iago属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longnose houndshark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://mediaphoto.mnhn.fr/media/1470063594196fFp2Gpcxdehd1oUx",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "L. Randrihasipara",
+        "observed_on": "1979",
+        "place": "vate",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://mediaphoto.mnhn.fr/media/1470063594196fFp2Gpcxdehd1oUx",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "L. Randrihasipara",
+          "observed_on": "1979",
+          "place": "vate",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "75",
+        "body_shape": "elongated",
+        "caudal_fin": "heterocercal",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5931,
@@ -508,7 +820,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5941,
@@ -638,7 +951,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 5949,
@@ -768,7 +1082,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "family": "Caristiidae",
   "family_ja": "ヤエギス科",
   "family_slug": "caristiidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 3,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 4,
   "genera_count": 3,
   "genera": [
     {
@@ -13,15 +13,15 @@
       "examples_ja": [
         "ヤエギス"
       ],
-      "species_count": 1,
-      "representative_species": "Caristius macropus",
+      "species_count": 2,
+      "representative_species": "Caristius fasciatus",
       "photo": {
-        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.11_224.a5adec32-8c42-4e75-a4d9-22d32ca8fd86.jpg?subunit=1024.jpg",
-        "source": "GBIF",
-        "license": "CC-BY",
-        "author": "DEEPEND Consortium (Deep Pelagic Nekton Dynamics of the Gulf of Mexico)",
-        "observed_on": "2016-05-05",
-        "place": "unknown or invalid",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761197508/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Claude Nozères",
+        "observed_on": "2026-09-09",
+        "place": "Canada",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -59,6 +59,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 16894,
+      "scientific_name": "Caristius fasciatus",
+      "genus": "Caristius",
+      "genus_ja": "ヤエギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Greenland manefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761197508/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Claude Nozères",
+        "observed_on": "2026-09-09",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761197508/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Claude Nozères",
+          "observed_on": "2026-09-09",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=ada507cc-b30a-4395-8871-27bc8c2dd172.jpeg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "2024-08-06",
+          "place": "Atlantic Ocean, 135km E of Greenland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29923367/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gonzalo Mucientes Sandoval",
+          "observed_on": "2013-06-17",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30066788/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gonzalo Mucientes Sandoval",
+          "observed_on": "2013-07-01",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/4c4c28e2-0f83-4c6b-87e4-df06e085ca43.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2008-03-23",
+          "place": "Slope water",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=9536.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "P.C. Heemstra; Elaine Heemstra",
+          "observed_on": "2007-10-01",
+          "place": "Off Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "31-34",
+          "min": 31,
+          "max": 34
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "18-21",
+          "min": 18,
+          "max": 21
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 11831,
       "scientific_name": "Caristius macropus",
@@ -167,7 +298,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 66296,
@@ -247,7 +379,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 67660,
@@ -307,7 +440,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

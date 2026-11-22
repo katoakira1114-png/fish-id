@@ -2,8 +2,8 @@
   "family": "Epigonidae",
   "family_ja": "ヤセムツ科",
   "family_slug": "epigonidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 4,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 5,
   "genera_count": 1,
   "genera": [
     {
@@ -15,7 +15,7 @@
         "ヒラヤセムツ",
         "ナガヤセムツ"
       ],
-      "species_count": 4,
+      "species_count": 5,
       "representative_species": "Epigonus atherinoides",
       "photo": {
         "url": "https://collections.nmnh.si.edu/media/?i=10975561&h=2000",
@@ -148,7 +148,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23460,
@@ -208,7 +209,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 2507,
@@ -338,7 +340,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 67837,
+      "scientific_name": "Epigonus draco",
+      "genus": "Epigonus",
+      "genus_ja": "ヤセムツの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dragon deepwater cardinalfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1713258118875EEUdULhUWPiZcNYW",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "A. Dettai",
+        "observed_on": "2009-10-16",
+        "place": "French Polynesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258118875EEUdULhUWPiZcNYW",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-10-16",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "19-20",
+          "min": 19,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23457,
@@ -428,7 +512,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }
