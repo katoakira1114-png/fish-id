@@ -3,7 +3,7 @@
 あなたは fish-id リポジトリ（katoakira1114-png/fish-id）の作業担当です。次をくり返してください。
 
 1. `gh issue list -R katoakira1114-png/fish-id --label antigravity --state open` で開いている Issue を見る。
-2. 番号の一番小さい Issue を1つ選び、本文の指示どおりに作業する。ROADMAP.md の受け入れ基準を守る。
+2. 番号の小さい順に、**同時に3つまで**の Issue を並行して進める（Agent Manager で Issue ごとに別のエージェント・別の作業フォルダ）。1つ終わったら次を取る。すでに `issue-<番号>` ブランチか PR がある Issue は取らない。本文の指示どおりに作業し、ROADMAP.md の受け入れ基準を守る。
 3. ブランチ `issue-<番号>` を切り、コミットして push し、PR を作る。PR 本文に `Closes #<番号>`、件数、自信のないものを書く。
 4. Issue に「PR #… を出しました」とコメントする。
 5. 自分の PR がレビュー待ちでも止まらない。次の Issue が前の PR の結果に依存するなら、前の PR のブランチから新しいブランチを切って進め、PR 本文に「#前のPR番号 に依存」と書く。

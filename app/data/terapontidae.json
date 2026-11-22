@@ -1,0 +1,916 @@
+{
+  "family": "Terapontidae",
+  "family_ja": "シマイサキ科",
+  "family_slug": "terapontidae",
+  "generated_at": "2026-11-22T08:34:11Z",
+  "species_count": 7,
+  "genera_count": 4,
+  "genera": [
+    {
+      "genus": "Mesopristes",
+      "ja_name": "Mesopristes属",
+      "species_count": 3,
+      "representative_species": "Mesopristes argenteus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356074918/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Whispers of Aqua",
+        "observed_on": "2024-03-04",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Pelates",
+      "ja_name": "Pelates属",
+      "species_count": 1,
+      "representative_species": "Pelates quadrilineatus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/759960230/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "James-LaFontaine",
+        "observed_on": "2026-11-05",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Rhynchopelates",
+      "ja_name": "Rhynchopelates属",
+      "species_count": 1,
+      "representative_species": "Rhynchopelates oxyrhynchus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716004989/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "one_of_tua",
+        "observed_on": "2026-08-13",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Terapon",
+      "ja_name": "Terapon属",
+      "species_count": 2,
+      "representative_species": "Terapon jarbua",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691889113/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kurodahaze",
+        "observed_on": "2026-01-03",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 6464,
+      "scientific_name": "Mesopristes argenteus",
+      "genus": "Mesopristes",
+      "genus_ja": "Mesopristes属",
+      "ja_name": "ニセシマイサキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Silver grunter",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356074918/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Whispers of Aqua",
+        "observed_on": "2024-03-04",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356074918/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Whispers of Aqua",
+          "observed_on": "2024-03-04",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/415724592/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tse Chung Yi",
+          "observed_on": "2024-07-11",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/456945083/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Whispers of Aqua",
+          "observed_on": "2024-12-06",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338424392/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Whispers of Aqua",
+          "observed_on": "2023-11-28",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214559594/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Yunju Fang",
+          "observed_on": "2022-06-01",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/484820441/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Vince Golder",
+          "observed_on": "2025-04-10",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 23487,
+      "scientific_name": "Mesopristes cancellatus",
+      "genus": "Mesopristes",
+      "genus_ja": "Mesopristes属",
+      "ja_name": "ヨコシマイサキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Tapiroid grunter",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476674485/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Whispers of Aqua",
+        "observed_on": "2025-03-08",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/476674485/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Whispers of Aqua",
+          "observed_on": "2025-03-08",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/689074590/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "王弘德",
+          "observed_on": "2025-06-20",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405989076/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Yuchen",
+          "observed_on": "2024-05-18",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/414531857/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tse Chung Yi",
+          "observed_on": "2024-07-11",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/504660897/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "masa yang",
+          "observed_on": "2023-07-13",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/319863300/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "汪俊良",
+          "observed_on": "2023-08-27",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "13-16",
+          "min": 13,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "23",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 59890,
+      "scientific_name": "Mesopristes iravi",
+      "genus": "Mesopristes",
+      "genus_ja": "Mesopristes属",
+      "ja_name": "シミズシマイサキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22.31",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 7945,
+      "scientific_name": "Pelates quadrilineatus",
+      "genus": "Pelates",
+      "genus_ja": "Pelates属",
+      "ja_name": "ヨスジシマイサキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Fourlined terapon",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/759960230/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "James-LaFontaine",
+        "observed_on": "2026-11-05",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/759960230/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "James-LaFontaine",
+          "observed_on": "2026-11-05",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632475703/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Zhao-Hui LIN",
+          "observed_on": "2026-04-03",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586291263/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "YouG Liu",
+          "observed_on": "2025-10-30",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436905391/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bohong_yu",
+          "observed_on": "2024-09-27",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172552388/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tern911",
+          "observed_on": "2021-12-08",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85954365/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tern911",
+          "observed_on": "2020-07-23",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-11",
+          "min": 8,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "60-75",
+          "min": 60,
+          "max": 75
+        },
+        "max_length": "30",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 6581,
+      "scientific_name": "Rhynchopelates oxyrhynchus",
+      "genus": "Rhynchopelates",
+      "genus_ja": "Rhynchopelates属",
+      "ja_name": "シマイサキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716004989/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "one_of_tua",
+        "observed_on": "2026-08-13",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716004989/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "one_of_tua",
+          "observed_on": "2026-08-13",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727352568/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ejin",
+          "observed_on": "2026-08-30",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727186606/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tomioka Masafumi",
+          "observed_on": "2026-08-30",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/742457994/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "one_of_tua",
+          "observed_on": "2026-09-28",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615791486/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "holyel",
+          "observed_on": "2025-01-13",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557102202/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "堀内伸一",
+          "observed_on": "2025-08-15",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "25",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 4458,
+      "scientific_name": "Terapon jarbua",
+      "genus": "Terapon",
+      "genus_ja": "Terapon属",
+      "ja_name": "コトヒキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Jarbua terapon",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691889113/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kurodahaze",
+        "observed_on": "2026-01-03",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691889113/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kurodahaze",
+          "observed_on": "2026-01-03",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/711432190/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Herpihiko Komatsu",
+          "observed_on": "2026-08-05",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622568679/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "gghsiang",
+          "observed_on": "2026-03-07",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622292071/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "劉佳勳",
+          "observed_on": "2026-03-01",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638038609/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "劉佳勳",
+          "observed_on": "2026-04-10",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/652696190/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "謝忠良",
+          "observed_on": "2026-04-25",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7-10",
+          "min": 7,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "36",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 4829,
+      "scientific_name": "Terapon theraps",
+      "genus": "Terapon",
+      "genus_ja": "Terapon属",
+      "ja_name": "ヒメコトヒキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Largescaled terapon",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428936724/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "mojineko",
+        "observed_on": "2024-09-06",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/428936724/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mojineko",
+          "observed_on": "2024-09-06",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616294713/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "holyel",
+          "observed_on": "2023-09-05",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641855816/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "an2mc",
+          "observed_on": "2023-09-03",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/752105117/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Vicky",
+          "observed_on": "2022-08-27",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/676406522/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kuo3351",
+          "observed_on": "2026-06-06",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582370378/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "changchih-yi",
+          "observed_on": "2025-10-18",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "46-56",
+          "min": 46,
+          "max": 56
+        },
+        "max_length": "30",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}

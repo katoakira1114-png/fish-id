@@ -153,6 +153,22 @@ def load_evidence(family_dir: str, sci_name: str) -> list:
     return out
 
 
+_MASTER_JA = None
+
+
+def master_ja(sci: str) -> str:
+    """species_master.csv の和名（下書きが無い種の表示用）。"""
+    global _MASTER_JA
+    if _MASTER_JA is None:
+        _MASTER_JA = {}
+        path = os.path.join(DATA_DIR, "species_master.csv")
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                for r in csv.DictReader(f):
+                    _MASTER_JA[r["学名"].strip()] = (r.get("和名") or "").strip()
+    return _MASTER_JA.get(sci, "")
+
+
 def build_family(family_arg: str, family_names: dict) -> dict:
     slug = family_arg.strip().lower()
     family_dir = os.path.join(DATA_DIR, slug)
@@ -206,8 +222,9 @@ def build_family(family_arg: str, family_names: dict) -> dict:
             "scientific_name": sci,
             "genus": genus,
             "genus_ja": genus_ja,
-            "ja_name": (ja_obj.get("value") or "").strip(),
-            "ja_name_source": (ja_obj.get("source") or "").strip(),
+            "ja_name": (ja_obj.get("value") or "").strip() or master_ja(sci),
+            "ja_name_source": (ja_obj.get("source") or "").strip()
+            or ("日本産魚類全種目録（本村, 2026）" if master_ja(sci) else ""),
             "en_name": (merged.get("英名") or "").strip(),
             "color_pattern": (cp_obj.get("value") or "").strip(),
             "color_pattern_source": (cp_obj.get("source") or "").strip(),
@@ -297,8 +314,11 @@ def update_families_manifest() -> None:
                 "species_count": d["species_count"],
                 "genera_count": d["genera_count"],
                 "file": f"data/{os.path.basename(p)}",
+                "described": sum(1 for sp in d.get("species", []) if sp.get("color_pattern")),
             }
         )
+    # 説明文のある科を先に、残りは種数の多い順（ドロップダウンの並び）
+    entries.sort(key=lambda e: (-(e["described"] > 0), -e["species_count"], e["slug"]))
     manifest_path = os.path.join(APP_DATA_DIR, "families.json")
     with open(manifest_path, "w", encoding="utf-8") as f:
         json.dump({"families": entries}, f, ensure_ascii=False, indent=2)

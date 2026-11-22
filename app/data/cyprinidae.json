@@ -1,0 +1,580 @@
+{
+  "family": "Cyprinidae",
+  "family_ja": "コイ科",
+  "family_slug": "cyprinidae",
+  "generated_at": "2026-11-22T08:34:10Z",
+  "species_count": 4,
+  "genera_count": 3,
+  "genera": [
+    {
+      "genus": "Carassius",
+      "ja_name": "Carassius属",
+      "species_count": 2,
+      "representative_species": "Carassius auratus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631158929/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jessica Schmitt",
+        "observed_on": "2026-03-29",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Cyprinus",
+      "ja_name": "Cyprinus属",
+      "species_count": 1,
+      "representative_species": "Cyprinus carpio",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604424226/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "rogueislander",
+        "observed_on": "2026-01-01",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Labeo",
+      "ja_name": "Labeo属",
+      "species_count": 1,
+      "representative_species": "Labeo rohita",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664820738/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Wang Chengyue",
+        "observed_on": "2026-05-23",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 271,
+      "scientific_name": "Carassius auratus",
+      "genus": "Carassius",
+      "genus_ja": "Carassius属",
+      "ja_name": "キンギョ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Goldfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631158929/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Jessica Schmitt",
+        "observed_on": "2026-03-29",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631158929/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jessica Schmitt",
+          "observed_on": "2026-03-29",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/649789540/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mégane Blouin",
+          "observed_on": "2026-03-08",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/682356160/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Summer Gao",
+          "observed_on": "2026-03-16",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606138086/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "yuenchen",
+          "observed_on": "2026-01-04",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608343593/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "塔克斯",
+          "observed_on": "2026-01-16",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609174797/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "塔克斯",
+          "observed_on": "2026-01-19",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3-4",
+          "min": 3,
+          "max": 4
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-20",
+          "min": 14,
+          "max": 20
+        },
+        "anal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "4-7",
+          "min": 4,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "29-30",
+          "min": 29,
+          "max": 30
+        },
+        "max_length": "48",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 270,
+      "scientific_name": "Carassius carassius",
+      "genus": "Carassius",
+      "genus_ja": "Carassius属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Crucian carp",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://arter.dk/media/8f0aa0e2-c3bd-488a-b1c8-36234a1cfdd0.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Lars Jæger",
+        "observed_on": "2026-03-22",
+        "place": "Denmark",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://arter.dk/media/8f0aa0e2-c3bd-488a-b1c8-36234a1cfdd0.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Lars Jæger",
+          "observed_on": "2026-03-22",
+          "place": "Denmark",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/4/f22e9fdb-ce6e-4eb6-a8f6-7a00ce3f0c24_image.jpeg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Ole Helgeneseth",
+          "observed_on": "2026-04-01",
+          "place": "Karrustjennet, Kongsvinger, In",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646324985/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Michal Svit",
+          "observed_on": "2026-04-26",
+          "place": "Poland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646276148/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "etav",
+          "observed_on": "2026-04-26",
+          "place": "Czechia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648496388/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Franz Schantl",
+          "observed_on": "2026-04-27",
+          "place": "Austria",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/650984154/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "dactimis_glomerata",
+          "observed_on": "2026-04-30",
+          "place": "Germany",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3-4",
+          "min": 3,
+          "max": 4
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-22",
+          "min": 13,
+          "max": 22
+        },
+        "anal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "31-36",
+          "min": 31,
+          "max": 36
+        },
+        "max_length": "64",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 1450,
+      "scientific_name": "Cyprinus carpio",
+      "genus": "Cyprinus",
+      "genus_ja": "Cyprinus属",
+      "ja_name": "コイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Common carp",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604424226/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "rogueislander",
+        "observed_on": "2026-01-01",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604424226/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "rogueislander",
+          "observed_on": "2026-01-01",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604981061/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tama_king_fisher",
+          "observed_on": "2026-01-03",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607670658/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "hiro_is_a_hero",
+          "observed_on": "2026-01-13",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608892941/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ts04",
+          "observed_on": "2026-01-16",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605765567/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Liem Malarney",
+          "observed_on": "2026-01-05",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607369839/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "tama_king_fisher",
+          "observed_on": "2026-01-12",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3-4",
+          "min": 3,
+          "max": 4
+        },
+        "dorsal_soft_rays": {
+          "raw": "17-23",
+          "min": 17,
+          "max": 23
+        },
+        "anal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "5-6",
+          "min": 5,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "14-18",
+          "min": 14,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "33-39",
+          "min": 33,
+          "max": 39
+        },
+        "max_length": "120",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking barbels(s)"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 82,
+      "scientific_name": "Labeo rohita",
+      "genus": "Labeo",
+      "genus_ja": "Labeo属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Roho labeo",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664820738/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Wang Chengyue",
+        "observed_on": "2026-05-23",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664820738/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Wang Chengyue",
+          "observed_on": "2026-05-23",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531688840/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "szlly404",
+          "observed_on": "2025-07-05",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557497633/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "游魂",
+          "observed_on": "2025-08-25",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/601919759/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Yixuan Zhang",
+          "observed_on": "2025-12-21",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/412185749/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "alvinlee0525",
+          "observed_on": "2024-07-27",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/442562067/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "dd304",
+          "observed_on": "2024-10-02",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "40-42",
+          "min": 40,
+          "max": 42
+        },
+        "max_length": "200",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "forked",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}

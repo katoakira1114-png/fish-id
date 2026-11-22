@@ -1,0 +1,1456 @@
+{
+  "family": "Hemiramphidae",
+  "family_ja": "サヨリ科",
+  "family_slug": "hemiramphidae",
+  "generated_at": "2026-11-22T08:34:11Z",
+  "species_count": 11,
+  "genera_count": 4,
+  "genera": [
+    {
+      "genus": "Euleptorhamphus",
+      "ja_name": "Euleptorhamphus属",
+      "species_count": 1,
+      "representative_species": "Euleptorhamphus viridis",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569280121/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kenhe",
+        "observed_on": "2019-11-20",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Hemiramphus",
+      "ja_name": "Hemiramphus属",
+      "species_count": 3,
+      "representative_species": "Hemiramphus far",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514028221/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "puddinggod",
+        "observed_on": "2025-06-01",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Hyporhamphus",
+      "ja_name": "Hyporhamphus属",
+      "species_count": 6,
+      "representative_species": "Hyporhamphus affinis",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13676676&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-03-16",
+        "place": "Malapascua Island (West); North of Cebu",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Oxyporhamphus",
+      "ja_name": "Oxyporhamphus属",
+      "species_count": 1,
+      "representative_species": "Oxyporhamphus micropterus",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/oxymic01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2011-05-01",
+        "place": "Lüdao, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 3156,
+      "scientific_name": "Euleptorhamphus viridis",
+      "genus": "Euleptorhamphus",
+      "genus_ja": "Euleptorhamphus属",
+      "ja_name": "トウザヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Ribbon halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569280121/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "kenhe",
+        "observed_on": "2019-11-20",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/569280121/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kenhe",
+          "observed_on": "2019-11-20",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.12_127.0b5402d2-285f-4e38-80a1-89df1b021adf.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Aaron Macaspac",
+          "observed_on": "2013-06-12",
+          "place": "Philippines, Ormoc City, Ormoc Public Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631394376/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Shan",
+          "observed_on": "2026-03-29",
+          "place": "Sri Lanka",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722513018/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Russ Hedley",
+          "observed_on": "2026-03-16",
+          "place": "Mexico",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/722512997/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Russ Hedley",
+          "observed_on": "2026-03-16",
+          "place": "Mexico",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653482906/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "mikedesi",
+          "observed_on": "2026-05-03",
+          "place": "Kiribati",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "21-25",
+          "min": 21,
+          "max": 25
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "20-25",
+          "min": 20,
+          "max": 25
+        },
+        "pectoral_rays": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "53",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 5404,
+      "scientific_name": "Hemiramphus far",
+      "genus": "Hemiramphus",
+      "genus_ja": "Hemiramphus属",
+      "ja_name": "ホシザヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Black-barred halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514028221/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "puddinggod",
+        "observed_on": "2025-06-01",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514028221/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "puddinggod",
+          "observed_on": "2025-06-01",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hemfar01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2008-09-20",
+          "place": "Houbihu, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13533193&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1914-12-03",
+          "place": "Takao, Formosa (Kao-Hsiung Hsien)",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634647668/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2026-04-04",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623762722/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "shunchuxia1729",
+          "observed_on": "2025-05-24",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/83633199/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "堀内伸一",
+          "observed_on": "2019-05-01",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "50-55",
+          "min": 50,
+          "max": 55
+        },
+        "max_length": "45",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking type of mouth"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 7709,
+      "scientific_name": "Hemiramphus lutkei",
+      "genus": "Hemiramphus",
+      "genus_ja": "Hemiramphus属",
+      "ja_name": "ナンヨウサヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Lutke's halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13547501&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1929-04-01",
+        "place": "Iloilo, Panay, Philippine Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13547501&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1929-04-01",
+          "place": "Iloilo, Panay, Philippine Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13547432&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1908-04-07",
+          "place": "Cebu Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e1503079-f88b-4515-90d0-57f83e754ad0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Dumaguete",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13547437&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "",
+          "place": "Bacon, Philippine Islands.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461450473/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "Erwin Sieben",
+          "observed_on": "2025-01-03",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577647141/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Bethany Lee",
+          "observed_on": "2025-10-08",
+          "place": "Guam",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 9963,
+      "scientific_name": "Hemiramphus marginatus",
+      "genus": "Hemiramphus",
+      "genus_ja": "Hemiramphus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Yellowtip halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425539920/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "naty603_s",
+        "observed_on": "2024-08-31",
+        "place": "Egypt",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/425539920/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "naty603_s",
+          "observed_on": "2024-08-31",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355647397/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mariia N. Kuznetsova",
+          "observed_on": "2023-11-08",
+          "place": "United Arab Emirates",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/334836201/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jellygelletich",
+          "observed_on": "2020-02-17",
+          "place": "United Arab Emirates",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610328670/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Nicolò Palumbo",
+          "observed_on": "2019-11-02",
+          "place": "Qatar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465349684/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Bas Engels",
+          "observed_on": "2010-08-18",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402076129/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Mikhail V. Chemeris",
+          "observed_on": "2009-12-14",
+          "place": "Egypt",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 7710,
+      "scientific_name": "Hyporhamphus affinis",
+      "genus": "Hyporhamphus",
+      "genus_ja": "Hyporhamphus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Tropical halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13676676&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-03-16",
+        "place": "Malapascua Island (West); North of Cebu",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13676676&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-03-16",
+          "place": "Malapascua Island (West); North of Cebu",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13676650&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1908-07-23",
+          "place": "Varadero Bay; China Sea, Vicinity Southern Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13676634&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "",
+          "place": "P.I.: Luzon Is., Bulan.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633126262/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "andrey_smetanin",
+          "observed_on": "2026-02-22",
+          "place": "United Arab Emirates",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487759529/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Cricket Raspet",
+          "observed_on": "2025-04-15",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521132507/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sarah",
+          "observed_on": "2025-06-15",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "15-19",
+          "min": 15,
+          "max": 19
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "38",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 12895,
+      "scientific_name": "Hyporhamphus dussumieri",
+      "genus": "Hyporhamphus",
+      "genus_ja": "Hyporhamphus属",
+      "ja_name": "マルサヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Dussumier's halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00047/JFBM-FISH-0047586_lg.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "bellfishes",
+        "observed_on": "2013-08-04",
+        "place": "Tidal mud flat, near Haomeili",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00047/JFBM-FISH-0047586_lg.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "bellfishes",
+          "observed_on": "2013-08-04",
+          "place": "Tidal mud flat, near Haomeili",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/63388635/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "呂一起(Lyu yi-chi)",
+          "observed_on": "2012-06-22",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hypdus01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2008-07-02",
+          "place": "Houbihu, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13677264&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1908-10-25",
+          "place": "Pratas Island (Southwest side Beach); China Sea, Vicinity Hong Kong",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3693703/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "veiortiz",
+          "observed_on": "2016-05-15",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176074978/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "shierandrulist",
+          "observed_on": "2012-12-15",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "38",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking type of mouth"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 12985,
+      "scientific_name": "Hyporhamphus intermedius",
+      "genus": "Hyporhamphus",
+      "genus_ja": "Hyporhamphus属",
+      "ja_name": "クルメサヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Asian pencil halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561232575/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "r-fujii",
+        "observed_on": "2025-08-02",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561232575/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "r-fujii",
+          "observed_on": "2025-08-02",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605506556/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "kusa-to-uo",
+          "observed_on": "2024-08-31",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/508280527/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "r-fujii",
+          "observed_on": "2024-08-13",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/698333764/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "r-fujii",
+          "observed_on": "2024-08-13",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/715229907/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ku",
+          "observed_on": "2022-11-01",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250090014/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "鯉もなか",
+          "observed_on": "2022-12-13",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-17",
+          "min": 13,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "14-19",
+          "min": 14,
+          "max": 19
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20.3",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 8262,
+      "scientific_name": "Hyporhamphus quoyi",
+      "genus": "Hyporhamphus",
+      "genus_ja": "Hyporhamphus属",
+      "ja_name": "センニンサヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Quoy's garfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/732617596/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "e2gb",
+        "observed_on": "2026-09-12",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/732617596/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "e2gb",
+          "observed_on": "2026-09-12",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13547823&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1901-11",
+          "place": "Nagasaki",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13679246&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-07-26",
+          "place": "Abuyog, (Leyte); Between Samar and Leyte, Vicinity of Surigao Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13679268&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-12-09",
+          "place": "Bouro Island (South) and Vicinity; Uki Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e1503079-f88b-4515-90d0-57f83e754ad0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sitankai",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13679284&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1882-06",
+          "place": "China: Shanghai",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "13-17",
+          "min": 13,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "31.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 305,
+      "scientific_name": "Hyporhamphus sajori",
+      "genus": "Hyporhamphus",
+      "genus_ja": "Hyporhamphus属",
+      "ja_name": "サヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Japanese halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/726850727/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "西内慎之介",
+        "observed_on": "2026-09-01",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/726850727/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "西内慎之介",
+          "observed_on": "2026-09-01",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736967325/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "yajapin",
+          "observed_on": "2026-09-19",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/736967456/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "yajapin",
+          "observed_on": "2026-09-19",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560311760/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Arthur Han",
+          "observed_on": "2025-08-31",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567758383/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Kai Klawitter",
+          "observed_on": "2025-09-16",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416906455/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Shin.YD -iKBM",
+          "observed_on": "2024-08-08",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "14-18",
+          "min": 14,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 17039,
+      "scientific_name": "Hyporhamphus yuri",
+      "genus": "Hyporhamphus",
+      "genus_ja": "Hyporhamphus属",
+      "ja_name": "ユリサヨリ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13681768&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1906",
+        "place": "Naha, Okinawa, Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13681768&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1906",
+          "place": "Naha, Okinawa, Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "17-19",
+          "min": 17,
+          "max": 19
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 12112,
+      "scientific_name": "Oxyporhamphus micropterus",
+      "genus": "Oxyporhamphus",
+      "genus_ja": "Oxyporhamphus属",
+      "ja_name": "サヨリトビウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Bigwing halfbeak",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/oxymic01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2011-05-01",
+        "place": "Lüdao, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/oxymic01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2011-05-01",
+          "place": "Lüdao, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330779658/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Pierre-Louis Stenger",
+          "observed_on": "2023-10-23",
+          "place": "Tanzania, United Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.16_226.f8431f24-5a3c-4c64-ae38-d98d2d7cb536.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Allan D. Connell",
+          "observed_on": "2006-02-16",
+          "place": "Park Rynie",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.morphosource.org/index.php/Detail/MediaDetail/Show/media_file_id/51372",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History, University of Florida",
+          "observed_on": "1968-04-23",
+          "place": "NE of Principe Island.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/2e004654-f10a-40fc-9155-65392cda2b53",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1962-08-29",
+          "place": "E of Turtle Reef",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0205402.jpg",
+          "source": "GBIF Beaty Biodiversity Museum Fish Collection",
+          "license": "CC0",
+          "author": "",
+          "observed_on": "1957-03-28",
+          "place": "Mexico 100 Mi W Of Tres Marias Id.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "13-16",
+          "min": 13,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "18.5",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "striking type of mouth"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}

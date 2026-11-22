@@ -1,0 +1,633 @@
+{
+  "family": "Opisthoproctidae",
+  "family_ja": "デメニギス科",
+  "family_slug": "opisthoproctidae",
+  "generated_at": "2026-11-22T08:34:11Z",
+  "species_count": 6,
+  "genera_count": 5,
+  "genera": [
+    {
+      "genus": "Bathylychnops",
+      "ja_name": "Bathylychnops属",
+      "species_count": 1,
+      "representative_species": "Bathylychnops exilis",
+      "photo": null
+    },
+    {
+      "genus": "Dolichopteryx",
+      "ja_name": "Dolichopteryx属",
+      "species_count": 2,
+      "representative_species": "Dolichopteryx parini",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467241020/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "IanLJones",
+        "observed_on": "2000-07-10",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Macropinna",
+      "ja_name": "Macropinna属",
+      "species_count": 1,
+      "representative_species": "Macropinna microstoma",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382826397/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Dhugal Lindsay",
+        "observed_on": "2024-05-17",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Rhynchohyalus",
+      "ja_name": "Rhynchohyalus属",
+      "species_count": 1,
+      "representative_species": "Rhynchohyalus natalensis",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.17_188.78bb3d42-56f9-4d3f-a99c-b0bd73c6772d.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "DEEPEND Consortium (Deep Pelagic Nekton Dynamics of the Gulf of Mexico)",
+        "observed_on": "2017-05-07",
+        "place": "unknown or invalid",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Winteria",
+      "ja_name": "Winteria属",
+      "species_count": 1,
+      "representative_species": "Winteria telescopa",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56149444/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Ken Graham",
+        "observed_on": "1979-11-28",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 9119,
+      "scientific_name": "Bathylychnops exilis",
+      "genus": "Bathylychnops",
+      "genus_ja": "Bathylychnops属",
+      "ja_name": "ムカシデメニギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Javelin spookfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-16",
+          "min": 13,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "10-14",
+          "min": 10,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "58",
+        "body_shape": "",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 63387,
+      "scientific_name": "Dolichopteryx minuscula",
+      "genus": "Dolichopteryx",
+      "genus_ja": "Dolichopteryx属",
+      "ja_name": "ヒナデメニギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 60994,
+      "scientific_name": "Dolichopteryx parini",
+      "genus": "Dolichopteryx",
+      "genus_ja": "Dolichopteryx属",
+      "ja_name": "キタヒナデメニギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Winged spookfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467241020/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "IanLJones",
+        "observed_on": "2000-07-10",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467241020/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "IanLJones",
+          "observed_on": "2000-07-10",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "15",
+          "min": 15,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "21.7",
+        "body_shape": "",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 2704,
+      "scientific_name": "Macropinna microstoma",
+      "genus": "Macropinna",
+      "genus_ja": "Macropinna属",
+      "ja_name": "デメニギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Barreleye",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382826397/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Dhugal Lindsay",
+        "observed_on": "2024-05-17",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/382826397/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dhugal Lindsay",
+          "observed_on": "2024-05-17",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359315291/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "linddealy",
+          "observed_on": "2023-08-25",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465228467/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "IanLJones",
+          "observed_on": "2012-06-17",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.24_116.bb9a6bcf-eea9-4054-854f-da9440d23a2a.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Jim Boutillier, Pacific Biological Station, B.C.",
+          "observed_on": "2006-10-09",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.17_171.e4c57f42-109d-465f-a818-2aeb6586142a.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Jim Boutillier, Pacific Biological Station, B.C.",
+          "observed_on": "2006-10-08",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.18_217.dac43ea3-ada8-4f62-950f-a3d298269561.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Jim Boutillier, Pacific Biological Station, B.C.",
+          "observed_on": "2006-10-09",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 9123,
+      "scientific_name": "Rhynchohyalus natalensis",
+      "genus": "Rhynchohyalus",
+      "genus_ja": "Rhynchohyalus属",
+      "ja_name": "ヨツメニギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Glasshead barreleye",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.17_188.78bb3d42-56f9-4d3f-a99c-b0bd73c6772d.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "DEEPEND Consortium (Deep Pelagic Nekton Dynamics of the Gulf of Mexico)",
+        "observed_on": "2017-05-07",
+        "place": "unknown or invalid",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.17_188.78bb3d42-56f9-4d3f-a99c-b0bd73c6772d.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "DEEPEND Consortium (Deep Pelagic Nekton Dynamics of the Gulf of Mexico)",
+          "observed_on": "2017-05-07",
+          "place": "unknown or invalid",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp63999916738554679785.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2005-04-12",
+          "place": "Slope water, off southern New England",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_247.0c8f335e-8f5a-4b6c-9e57-9a58a783ab7b.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "R/V Delaware",
+          "observed_on": "2005-04-12",
+          "place": "Slope water, off southern New England",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56148661/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1984-11-01",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56149253/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1977-12-13",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "7-10",
+          "min": 7,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "41",
+          "min": 41,
+          "max": 41
+        },
+        "max_length": "16",
+        "body_shape": "",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 9124,
+      "scientific_name": "Winteria telescopa",
+      "genus": "Winteria",
+      "genus_ja": "Winteria属",
+      "ja_name": "クロデメニギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Binocular fish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56149444/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Ken Graham",
+        "observed_on": "1979-11-28",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56149444/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1979-11-28",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/03be9e86-0e92-419f-a84b-64dad186c628",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1965-05-23",
+          "place": "W of Sao Tome",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2b425305-abf5-4954-b7e7-83af0f59f888",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1937-05-05",
+          "place": "North East Edge of Sierra Leone Basin",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "34-38",
+          "min": 34,
+          "max": 38
+        },
+        "max_length": "15",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}

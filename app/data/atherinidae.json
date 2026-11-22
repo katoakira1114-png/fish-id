@@ -1,0 +1,844 @@
+{
+  "family": "Atherinidae",
+  "family_ja": "",
+  "family_slug": "atherinidae",
+  "generated_at": "2026-11-22T08:34:10Z",
+  "species_count": 7,
+  "genera_count": 2,
+  "genera": [
+    {
+      "genus": "Atherinomorus",
+      "ja_name": "Atherinomorus属",
+      "species_count": 2,
+      "representative_species": "Atherinomorus lacunosus",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/2b/25/2b25d2aa-d76e-4691-a281-176165fbdac6.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Anderson (, R. Van Vleck; Anderson ?)",
+        "observed_on": "",
+        "place": "Osumi Is. Group, Yaku-Shima, Miyanoura.",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Hypoatherina",
+      "ja_name": "Hypoatherina属",
+      "species_count": 5,
+      "representative_species": "Hypoatherina barnesi",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-1878514763917101563.att.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "JLB Smith; Margaret Smith",
+        "observed_on": "1956-10-02",
+        "place": "Pinda Island",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 1303,
+      "scientific_name": "Atherinomorus lacunosus",
+      "genus": "Atherinomorus",
+      "genus_ja": "Atherinomorus属",
+      "ja_name": "ヤクシマイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Wide-banded hardyhead silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/2b/25/2b25d2aa-d76e-4691-a281-176165fbdac6.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Anderson (, R. Van Vleck; Anderson ?)",
+        "observed_on": "",
+        "place": "Osumi Is. Group, Yaku-Shima, Miyanoura.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/2b/25/2b25d2aa-d76e-4691-a281-176165fbdac6.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Anderson (, R. Van Vleck; Anderson ?)",
+          "observed_on": "",
+          "place": "Osumi Is. Group, Yaku-Shima, Miyanoura.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/athlac01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2007-12-03",
+          "place": "Haikou, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643348145/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Annika Lindqvist",
+          "observed_on": "2026-03-07",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/641698980/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Annika Lindqvist",
+          "observed_on": "2026-03-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462347974/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2025-01-03",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485335570/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Samarth Jain",
+          "observed_on": "2025-04-11",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-8",
+          "min": 5,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "12-17",
+          "min": 12,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "25",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 66824,
+      "scientific_name": "Atherinomorus pinguis",
+      "genus": "Atherinomorus",
+      "genus_ja": "Atherinomorus属",
+      "ja_name": "ホソオビヤクシマイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Narrow-banded hardyhead silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/441dbde0-5230-4165-95c2-4c790e03ebc9",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1985-08-12",
+        "place": "Kunduchi Beach",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/441dbde0-5230-4165-95c2-4c790e03ebc9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1985-08-12",
+          "place": "Kunduchi Beach",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/8d4e5254-b04a-470f-b45b-2db734daeb43",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1966-03-15",
+          "place": "Eilat",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/685f0656-69f9-4a0e-9af1-8cc71c70dbe8",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Charbar, Mekran Coast",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/bc5f238c-d37a-412d-b0d4-8a838576e760",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Cerf Island, Victoria, Seychelles",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/32ca540b-9196-492d-b913-a86f6a6462f1",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Mauritius",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/86a4bfef-56e9-4f2d-8586-7e0049249ba2",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Kosi Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "12-16",
+          "min": 12,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.6",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 1305,
+      "scientific_name": "Hypoatherina barnesi",
+      "genus": "Hypoatherina",
+      "genus_ja": "Hypoatherina属",
+      "ja_name": "オオスジイソイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Barnes' silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-1878514763917101563.att.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "JLB Smith; Margaret Smith",
+        "observed_on": "1956-10-02",
+        "place": "Pinda Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-1878514763917101563.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "JLB Smith; Margaret Smith",
+          "observed_on": "1956-10-02",
+          "place": "Pinda Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-3577673722491761685.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "JLB Smith; Margaret Smith",
+          "observed_on": "1950-06",
+          "place": "Mozambique Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-8380674233471620386.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "JLB Smith; Margaret Smith",
+          "observed_on": "1948-08",
+          "place": "Inhaca Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp63003556420153315201.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "JLB Smith; Margaret Smith",
+          "observed_on": "1948-08",
+          "place": "Maputo",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6207980760142612617.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "JLB Smith; Margaret Smith",
+          "observed_on": "1948-08",
+          "place": "Inhaca Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/652/770/62602_Hypoatherina_barnesi_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1946",
+          "place": "Boro Channel, sta. S-46-53",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-12",
+          "min": 8,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "12-17",
+          "min": 12,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "10",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 66756,
+      "scientific_name": "Hypoatherina lunata",
+      "genus": "Hypoatherina",
+      "genus_ja": "Hypoatherina属",
+      "ja_name": "オキナワトウゴロウ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Okinawan silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.4",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 23372,
+      "scientific_name": "Hypoatherina tsurugae",
+      "genus": "Hypoatherina",
+      "genus_ja": "Hypoatherina属",
+      "ja_name": "ギンイソイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660584832/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "sharkdevotee",
+        "observed_on": "2026-05-10",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660584832/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sharkdevotee",
+          "observed_on": "2026-05-10",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/16/4a/164ab011-47ea-4af5-9d99-ce3b8e0f49eb.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Jordan, David S.; Snyder, John O.",
+          "observed_on": "1900",
+          "place": "Nagasaki.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a598d958-e7fc-49c7-ad5d-8a4dfe5e8114",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Goto Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586241059/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "taiwan_habu",
+          "observed_on": "2024-07-12",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586264721/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "taiwan_habu",
+          "observed_on": "2024-09-06",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586553168/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "taiwan_habu",
+          "observed_on": "2024-10-04",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-9",
+          "min": 6,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-11",
+          "min": 8,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "15",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 15462,
+      "scientific_name": "Hypoatherina valenciennei",
+      "genus": "Hypoatherina",
+      "genus_ja": "Hypoatherina属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sumatran silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/1e187154-9d17-4912-9f96-c6b00cee37ca",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Wakanoura, Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/1e187154-9d17-4912-9f96-c6b00cee37ca",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Wakanoura, Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/1c664747-2f75-4ee0-9beb-be1414dadb23",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sagami, Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a8093e60-d0c6-4aa1-96d1-9799d2a19002",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Yokei, Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00047/JFBM-FISH-0047983_lg.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "bellfishes",
+          "observed_on": "2014-05-27",
+          "place": "Sandy beach near Haomeili",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e40e309b-3141-4bba-aeb6-7f58a83179ea",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Chinese Seas",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/89c29fdb-e186-4fbb-ab34-ead1929e9296",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Hong Kong, China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-8",
+          "min": 5,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "12",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 23371,
+      "scientific_name": "Hypoatherina woodwardi",
+      "genus": "Hypoatherina",
+      "genus_ja": "Hypoatherina属",
+      "ja_name": "リュウキュウイソイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/63/3e/633e9c3e-21a9-40c9-ab14-922b13eb56db.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Imperial Museum",
+        "observed_on": "",
+        "place": "Okinawa.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/63/3e/633e9c3e-21a9-40c9-ab14-922b13eb56db.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Imperial Museum",
+          "observed_on": "",
+          "place": "Okinawa.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hypwoo01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2004-12-31",
+          "place": "Shimen, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-11",
+          "min": 8,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}
