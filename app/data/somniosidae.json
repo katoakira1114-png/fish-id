@@ -2,13 +2,18 @@
   "family": "Somniosidae",
   "family_ja": "オンデンザメ科",
   "family_slug": "somniosidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 6,
   "genera_count": 4,
   "genera": [
     {
       "genus": "Centroscymnus",
-      "ja_name": "Centroscymnus属",
+      "ja_name": "ユメザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ユメザメ",
+        "マルバラユメザメ"
+      ],
       "species_count": 2,
       "representative_species": "Centroscymnus coelolepis",
       "photo": {
@@ -24,7 +29,11 @@
     },
     {
       "genus": "Scymnodon",
-      "ja_name": "Scymnodon属",
+      "ja_name": "イチハラビロウドザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "イチハラビロウドザメ"
+      ],
       "species_count": 1,
       "representative_species": "Scymnodon ichiharai",
       "photo": {
@@ -40,7 +49,12 @@
     },
     {
       "genus": "Somniosus",
-      "ja_name": "Somniosus属",
+      "ja_name": "カエルザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カエルザメ",
+        "オンデンザメ"
+      ],
       "species_count": 2,
       "representative_species": "Somniosus pacificus",
       "photo": {
@@ -56,7 +70,11 @@
     },
     {
       "genus": "Zameus",
-      "ja_name": "Zameus属",
+      "ja_name": "ビロウドザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ビロウドザメ"
+      ],
       "species_count": 1,
       "representative_species": "Zameus squamulosus",
       "photo": {
@@ -76,7 +94,7 @@
       "spec_code": 662,
       "scientific_name": "Centroscymnus coelolepis",
       "genus": "Centroscymnus",
-      "genus_ja": "Centroscymnus属",
+      "genus_ja": "ユメザメの仲間",
       "ja_name": "マルバラユメザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Portuguese dogfish",
@@ -206,7 +224,7 @@
       "spec_code": 666,
       "scientific_name": "Centroscymnus owstonii",
       "genus": "Centroscymnus",
-      "genus_ja": "Centroscymnus属",
+      "genus_ja": "ユメザメの仲間",
       "ja_name": "ユメザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Roughskin dogfish",
@@ -336,7 +354,7 @@
       "spec_code": 53991,
       "scientific_name": "Scymnodon ichiharai",
       "genus": "Scymnodon",
-      "genus_ja": "Scymnodon属",
+      "genus_ja": "イチハラビロウドザメの仲間",
       "ja_name": "イチハラビロウドザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Japanese velvet dogfish",
@@ -416,7 +434,7 @@
       "spec_code": 65973,
       "scientific_name": "Somniosus longus",
       "genus": "Somniosus",
-      "genus_ja": "Somniosus属",
+      "genus_ja": "カエルザメの仲間",
       "ja_name": "カエルザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Frog shark",
@@ -476,7 +494,7 @@
       "spec_code": 2544,
       "scientific_name": "Somniosus pacificus",
       "genus": "Somniosus",
-      "genus_ja": "Somniosus属",
+      "genus_ja": "カエルザメの仲間",
       "ja_name": "オンデンザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific sleeper shark",
@@ -606,7 +624,7 @@
       "spec_code": 701,
       "scientific_name": "Zameus squamulosus",
       "genus": "Zameus",
-      "genus_ja": "Zameus属",
+      "genus_ja": "ビロウドザメの仲間",
       "ja_name": "ビロウドザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Velvet dogfish",

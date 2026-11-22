@@ -2,13 +2,17 @@
   "family": "Psychrolutidae",
   "family_ja": "ウラナイカジカ科",
   "family_slug": "psychrolutidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 12,
   "genera_count": 6,
   "genera": [
     {
       "genus": "Dasycottus",
-      "ja_name": "Dasycottus属",
+      "ja_name": "ガンコの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ガンコ"
+      ],
       "species_count": 1,
       "representative_species": "Dasycottus setiger",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Ebinania",
-      "ja_name": "Ebinania属",
+      "ja_name": "アカドンコの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アカドンコ",
+        "ボウズカジカ"
+      ],
       "species_count": 2,
       "representative_species": "Ebinania brephocephala",
       "photo": {
@@ -40,7 +49,11 @@
     },
     {
       "genus": "Eurymen",
-      "ja_name": "Eurymen属",
+      "ja_name": "ヤギシリカジカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヤギシリカジカ"
+      ],
       "species_count": 1,
       "representative_species": "Eurymen gyrinus",
       "photo": {
@@ -56,14 +69,23 @@
     },
     {
       "genus": "Gilbertidia",
-      "ja_name": "Gilbertidia属",
+      "ja_name": "コンニャクカジカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "コンニャクカジカ"
+      ],
       "species_count": 1,
       "representative_species": "Gilbertidia pustulosa",
       "photo": null
     },
     {
       "genus": "Malacocottus",
-      "ja_name": "Malacocottus属",
+      "ja_name": "コブシカジカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "コブシカジカ",
+        "ヤマトコブシカジカ"
+      ],
       "species_count": 4,
       "representative_species": "Malacocottus gibber",
       "photo": {
@@ -79,7 +101,12 @@
     },
     {
       "genus": "Psychrolutes",
-      "ja_name": "Psychrolutes属",
+      "ja_name": "ウラナイカジカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ウラナイカジカ",
+        "ニュウドウカジカ"
+      ],
       "species_count": 3,
       "representative_species": "Psychrolutes inermis",
       "photo": {
@@ -99,7 +126,7 @@
       "spec_code": 4085,
       "scientific_name": "Dasycottus setiger",
       "genus": "Dasycottus",
-      "genus_ja": "Dasycottus属",
+      "genus_ja": "ガンコの仲間",
       "ja_name": "ガンコ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spinyhead sculpin",
@@ -229,7 +256,7 @@
       "spec_code": 23983,
       "scientific_name": "Ebinania brephocephala",
       "genus": "Ebinania",
-      "genus_ja": "Ebinania属",
+      "genus_ja": "アカドンコの仲間",
       "ja_name": "ボウズカジカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -309,7 +336,7 @@
       "spec_code": 23984,
       "scientific_name": "Ebinania vermiculata",
       "genus": "Ebinania",
-      "genus_ja": "Ebinania属",
+      "genus_ja": "アカドンコの仲間",
       "ja_name": "アカドンコ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -369,7 +396,7 @@
       "spec_code": 11715,
       "scientific_name": "Eurymen gyrinus",
       "genus": "Eurymen",
-      "genus_ja": "Eurymen属",
+      "genus_ja": "ヤギシリカジカの仲間",
       "ja_name": "ヤギシリカジカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Smoothcheek sculpin",
@@ -479,7 +506,7 @@
       "spec_code": 52789,
       "scientific_name": "Gilbertidia pustulosa",
       "genus": "Gilbertidia",
-      "genus_ja": "Gilbertidia属",
+      "genus_ja": "コンニャクカジカの仲間",
       "ja_name": "コンニャクカジカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -539,7 +566,7 @@
       "spec_code": 50813,
       "scientific_name": "Malacocottus aleuticus",
       "genus": "Malacocottus",
-      "genus_ja": "Malacocottus属",
+      "genus_ja": "コブシカジカの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Whitetail sculpin",
@@ -599,7 +626,7 @@
       "spec_code": 23982,
       "scientific_name": "Malacocottus gibber",
       "genus": "Malacocottus",
-      "genus_ja": "Malacocottus属",
+      "genus_ja": "コブシカジカの仲間",
       "ja_name": "ヤマトコブシカジカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -679,7 +706,7 @@
       "spec_code": 4113,
       "scientific_name": "Malacocottus kincaidi",
       "genus": "Malacocottus",
-      "genus_ja": "Malacocottus属",
+      "genus_ja": "コブシカジカの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Blackfin sculpin",
@@ -809,7 +836,7 @@
       "spec_code": 11730,
       "scientific_name": "Malacocottus zonurus",
       "genus": "Malacocottus",
-      "genus_ja": "Malacocottus属",
+      "genus_ja": "コブシカジカの仲間",
       "ja_name": "コブシカジカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Darkfin sculpin",
@@ -939,7 +966,7 @@
       "spec_code": 17335,
       "scientific_name": "Psychrolutes inermis",
       "genus": "Psychrolutes",
-      "genus_ja": "Psychrolutes属",
+      "genus_ja": "ウラナイカジカの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -1049,7 +1076,7 @@
       "spec_code": 4135,
       "scientific_name": "Psychrolutes paradoxus",
       "genus": "Psychrolutes",
-      "genus_ja": "Psychrolutes属",
+      "genus_ja": "ウラナイカジカの仲間",
       "ja_name": "ウラナイカジカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Tadpole sculpin",
@@ -1179,7 +1206,7 @@
       "spec_code": 11732,
       "scientific_name": "Psychrolutes phrictus",
       "genus": "Psychrolutes",
-      "genus_ja": "Psychrolutes属",
+      "genus_ja": "ウラナイカジカの仲間",
       "ja_name": "ニュウドウカジカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blob sculpin",

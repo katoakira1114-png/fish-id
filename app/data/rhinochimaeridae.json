@@ -2,13 +2,18 @@
   "family": "Rhinochimaeridae",
   "family_ja": "テングギンザメ科",
   "family_slug": "rhinochimaeridae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 4,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Harriotta",
-      "ja_name": "Harriotta属",
+      "ja_name": "ヨミノツカイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヨミノツカイ",
+        "アズマギンザメ"
+      ],
       "species_count": 2,
       "representative_species": "Harriotta raleighana",
       "photo": {
@@ -24,7 +29,12 @@
     },
     {
       "genus": "Rhinochimaera",
-      "ja_name": "Rhinochimaera属",
+      "ja_name": "テングギンザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "テングギンザメ",
+        "クロテングギンザメ"
+      ],
       "species_count": 2,
       "representative_species": "Rhinochimaera africana",
       "photo": {
@@ -44,7 +54,7 @@
       "spec_code": 69648,
       "scientific_name": "Harriotta chaetirhamphus",
       "genus": "Harriotta",
-      "genus_ja": "Harriotta属",
+      "genus_ja": "ヨミノツカイの仲間",
       "ja_name": "アズマギンザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -104,7 +114,7 @@
       "spec_code": 5053,
       "scientific_name": "Harriotta raleighana",
       "genus": "Harriotta",
-      "genus_ja": "Harriotta属",
+      "genus_ja": "ヨミノツカイの仲間",
       "ja_name": "ヨミノツカイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific longnose chimaera",
@@ -234,7 +244,7 @@
       "spec_code": 52796,
       "scientific_name": "Rhinochimaera africana",
       "genus": "Rhinochimaera",
-      "genus_ja": "Rhinochimaera属",
+      "genus_ja": "テングギンザメの仲間",
       "ja_name": "クロテングギンザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Paddlenose chimaera",
@@ -314,7 +324,7 @@
       "spec_code": 22766,
       "scientific_name": "Rhinochimaera pacifica",
       "genus": "Rhinochimaera",
-      "genus_ja": "Rhinochimaera属",
+      "genus_ja": "テングギンザメの仲間",
       "ja_name": "テングギンザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific spookfish",

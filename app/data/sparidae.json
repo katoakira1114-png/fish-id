@@ -2,13 +2,19 @@
   "family": "Sparidae",
   "family_ja": "タイ科",
   "family_slug": "sparidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 15,
   "genera_count": 7,
   "genera": [
     {
       "genus": "Acanthopagrus",
-      "ja_name": "Acanthopagrus属",
+      "ja_name": "キチヌの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "キチヌ",
+        "クロダイ",
+        "ナンヨウチヌ"
+      ],
       "species_count": 6,
       "representative_species": "Acanthopagrus australis",
       "photo": {
@@ -24,14 +30,22 @@
     },
     {
       "genus": "Amamiichthys",
-      "ja_name": "Amamiichthys属",
+      "ja_name": "ホシレンコの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ホシレンコ"
+      ],
       "species_count": 1,
       "representative_species": "Amamiichthys matsubarai",
       "photo": null
     },
     {
       "genus": "Argyrops",
-      "ja_name": "Argyrops属",
+      "ja_name": "タイワンダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タイワンダイ"
+      ],
       "species_count": 1,
       "representative_species": "Argyrops bleekeri",
       "photo": {
@@ -47,7 +61,12 @@
     },
     {
       "genus": "Dentex",
-      "ja_name": "Dentex属",
+      "ja_name": "キダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "キダイ",
+        "キビレアカレンコ"
+      ],
       "species_count": 2,
       "representative_species": "Dentex hypselosomus",
       "photo": {
@@ -63,7 +82,12 @@
     },
     {
       "genus": "Evynnis",
-      "ja_name": "Evynnis属",
+      "ja_name": "チダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "チダイ",
+        "ヒレコダイ"
+      ],
       "species_count": 2,
       "representative_species": "Evynnis cardinalis",
       "photo": {
@@ -79,7 +103,11 @@
     },
     {
       "genus": "Pagrus",
-      "ja_name": "Pagrus属",
+      "ja_name": "マダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "マダイ"
+      ],
       "species_count": 2,
       "representative_species": "Pagrus auratus",
       "photo": {
@@ -95,7 +123,11 @@
     },
     {
       "genus": "Rhabdosargus",
-      "ja_name": "Rhabdosargus属",
+      "ja_name": "ヘダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヘダイ"
+      ],
       "species_count": 1,
       "representative_species": "Rhabdosargus sarba",
       "photo": {
@@ -115,7 +147,7 @@
       "spec_code": 8109,
       "scientific_name": "Acanthopagrus australis",
       "genus": "Acanthopagrus",
-      "genus_ja": "Acanthopagrus属",
+      "genus_ja": "キチヌの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Yellowfin bream",
@@ -245,7 +277,7 @@
       "spec_code": 63767,
       "scientific_name": "Acanthopagrus chinshira",
       "genus": "Acanthopagrus",
-      "genus_ja": "Acanthopagrus属",
+      "genus_ja": "キチヌの仲間",
       "ja_name": "オキナワキチヌ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Okinawan yellow-fin seabream",
@@ -365,7 +397,7 @@
       "spec_code": 6356,
       "scientific_name": "Acanthopagrus latus",
       "genus": "Acanthopagrus",
-      "genus_ja": "Acanthopagrus属",
+      "genus_ja": "キチヌの仲間",
       "ja_name": "キチヌ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Yellowfin seabream",
@@ -495,7 +527,7 @@
       "spec_code": 65896,
       "scientific_name": "Acanthopagrus pacificus",
       "genus": "Acanthopagrus",
-      "genus_ja": "Acanthopagrus属",
+      "genus_ja": "キチヌの仲間",
       "ja_name": "ナンヨウチヌ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific seabream",
@@ -625,7 +657,7 @@
       "spec_code": 6531,
       "scientific_name": "Acanthopagrus schlegelii",
       "genus": "Acanthopagrus",
-      "genus_ja": "Acanthopagrus属",
+      "genus_ja": "キチヌの仲間",
       "ja_name": "クロダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blackhead seabream",
@@ -755,7 +787,7 @@
       "spec_code": 6583,
       "scientific_name": "Acanthopagrus sivicolus",
       "genus": "Acanthopagrus",
-      "genus_ja": "Acanthopagrus属",
+      "genus_ja": "キチヌの仲間",
       "ja_name": "ミナミクロダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Okinawa seabream",
@@ -875,7 +907,7 @@
       "spec_code": 8105,
       "scientific_name": "Amamiichthys matsubarai",
       "genus": "Amamiichthys",
-      "genus_ja": "Amamiichthys属",
+      "genus_ja": "ホシレンコの仲間",
       "ja_name": "ホシレンコ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Japanese blue-spotted seabream",
@@ -935,7 +967,7 @@
       "spec_code": 8103,
       "scientific_name": "Argyrops bleekeri",
       "genus": "Argyrops",
-      "genus_ja": "Argyrops属",
+      "genus_ja": "タイワンダイの仲間",
       "ja_name": "タイワンダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Taiwan tai",
@@ -1045,7 +1077,7 @@
       "spec_code": 64598,
       "scientific_name": "Dentex abei",
       "genus": "Dentex",
-      "genus_ja": "Dentex属",
+      "genus_ja": "キダイの仲間",
       "ja_name": "キビレアカレンコ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Yellowfin sea bream",
@@ -1105,7 +1137,7 @@
       "spec_code": 67288,
       "scientific_name": "Dentex hypselosomus",
       "genus": "Dentex",
-      "genus_ja": "Dentex属",
+      "genus_ja": "キダイの仲間",
       "ja_name": "キダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Yellowback sea-bream",
@@ -1235,7 +1267,7 @@
       "spec_code": 8107,
       "scientific_name": "Evynnis cardinalis",
       "genus": "Evynnis",
-      "genus_ja": "Evynnis属",
+      "genus_ja": "チダイの仲間",
       "ja_name": "ヒレコダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Threadfin porgy",
@@ -1365,7 +1397,7 @@
       "spec_code": 4710,
       "scientific_name": "Evynnis tumifrons",
       "genus": "Evynnis",
-      "genus_ja": "Evynnis属",
+      "genus_ja": "チダイの仲間",
       "ja_name": "チダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Yellowback seabream",
@@ -1495,7 +1527,7 @@
       "spec_code": 6426,
       "scientific_name": "Pagrus auratus",
       "genus": "Pagrus",
-      "genus_ja": "Pagrus属",
+      "genus_ja": "マダイの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Silver seabream",
@@ -1625,7 +1657,7 @@
       "spec_code": 445,
       "scientific_name": "Pagrus major",
       "genus": "Pagrus",
-      "genus_ja": "Pagrus属",
+      "genus_ja": "マダイの仲間",
       "ja_name": "マダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Red seabream",
@@ -1755,7 +1787,7 @@
       "spec_code": 5368,
       "scientific_name": "Rhabdosargus sarba",
       "genus": "Rhabdosargus",
-      "genus_ja": "Rhabdosargus属",
+      "genus_ja": "ヘダイの仲間",
       "ja_name": "ヘダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Goldlined seabream",

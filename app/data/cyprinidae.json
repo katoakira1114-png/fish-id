@@ -2,13 +2,17 @@
   "family": "Cyprinidae",
   "family_ja": "コイ科",
   "family_slug": "cyprinidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 4,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Carassius",
-      "ja_name": "Carassius属",
+      "ja_name": "キンギョの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "キンギョ"
+      ],
       "species_count": 2,
       "representative_species": "Carassius auratus",
       "photo": {
@@ -24,7 +28,11 @@
     },
     {
       "genus": "Cyprinus",
-      "ja_name": "Cyprinus属",
+      "ja_name": "コイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "コイ"
+      ],
       "species_count": 1,
       "representative_species": "Cyprinus carpio",
       "photo": {
@@ -41,6 +49,8 @@
     {
       "genus": "Labeo",
       "ja_name": "Labeo属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Labeo rohita",
       "photo": {
@@ -60,7 +70,7 @@
       "spec_code": 271,
       "scientific_name": "Carassius auratus",
       "genus": "Carassius",
-      "genus_ja": "Carassius属",
+      "genus_ja": "キンギョの仲間",
       "ja_name": "キンギョ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Goldfish",
@@ -190,7 +200,7 @@
       "spec_code": 270,
       "scientific_name": "Carassius carassius",
       "genus": "Carassius",
-      "genus_ja": "Carassius属",
+      "genus_ja": "キンギョの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Crucian carp",
@@ -320,7 +330,7 @@
       "spec_code": 1450,
       "scientific_name": "Cyprinus carpio",
       "genus": "Cyprinus",
-      "genus_ja": "Cyprinus属",
+      "genus_ja": "コイの仲間",
       "ja_name": "コイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Common carp",

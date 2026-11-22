@@ -2,13 +2,18 @@
   "family": "Gasterosteidae",
   "family_ja": "トゲウオ科",
   "family_slug": "gasterosteidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 4,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Gasterosteus",
-      "ja_name": "Gasterosteus属",
+      "ja_name": "ニホンイトヨの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ニホンイトヨ",
+        "太平洋系降海型イトヨ"
+      ],
       "species_count": 2,
       "representative_species": "Gasterosteus aculeatus",
       "photo": {
@@ -24,7 +29,11 @@
     },
     {
       "genus": "Pungitius",
-      "ja_name": "Pungitius属",
+      "ja_name": "トミヨの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トミヨ"
+      ],
       "species_count": 2,
       "representative_species": "Pungitius pungitius",
       "photo": {
@@ -44,7 +53,7 @@
       "spec_code": 2420,
       "scientific_name": "Gasterosteus aculeatus",
       "genus": "Gasterosteus",
-      "genus_ja": "Gasterosteus属",
+      "genus_ja": "ニホンイトヨの仲間",
       "ja_name": "太平洋系降海型イトヨ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Three-spined stickleback",
@@ -174,7 +183,7 @@
       "spec_code": 68420,
       "scientific_name": "Gasterosteus nipponicus",
       "genus": "Gasterosteus",
-      "genus_ja": "Gasterosteus属",
+      "genus_ja": "ニホンイトヨの仲間",
       "ja_name": "ニホンイトヨ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -284,7 +293,7 @@
       "spec_code": 3273,
       "scientific_name": "Pungitius pungitius",
       "genus": "Pungitius",
-      "genus_ja": "Pungitius属",
+      "genus_ja": "トミヨの仲間",
       "ja_name": "和名なし",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Ninespine stickleback",
@@ -414,7 +423,7 @@
       "spec_code": 24828,
       "scientific_name": "Pungitius sinensis",
       "genus": "Pungitius",
-      "genus_ja": "Pungitius属",
+      "genus_ja": "トミヨの仲間",
       "ja_name": "トミヨ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Amur stickleback",

@@ -2,13 +2,19 @@
   "family": "Osmeridae",
   "family_ja": "キュウリウオ科",
   "family_slug": "osmeridae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 7,
   "genera_count": 4,
   "genera": [
     {
       "genus": "Hypomesus",
-      "ja_name": "Hypomesus属",
+      "ja_name": "チカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "チカ",
+        "ワカサギ",
+        "イシカリワカサギ"
+      ],
       "species_count": 3,
       "representative_species": "Hypomesus japonicus",
       "photo": {
@@ -24,7 +30,11 @@
     },
     {
       "genus": "Mallotus",
-      "ja_name": "Mallotus属",
+      "ja_name": "カラフトシシャモの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カラフトシシャモ"
+      ],
       "species_count": 1,
       "representative_species": "Mallotus villosus",
       "photo": {
@@ -40,7 +50,11 @@
     },
     {
       "genus": "Osmerus",
-      "ja_name": "Osmerus属",
+      "ja_name": "キュウリウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "キュウリウオ"
+      ],
       "species_count": 2,
       "representative_species": "Osmerus dentex",
       "photo": {
@@ -56,7 +70,11 @@
     },
     {
       "genus": "Spirinchus",
-      "ja_name": "Spirinchus属",
+      "ja_name": "シシャモの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シシャモ"
+      ],
       "species_count": 1,
       "representative_species": "Spirinchus lanceolatus",
       "photo": {
@@ -76,7 +94,7 @@
       "spec_code": 23752,
       "scientific_name": "Hypomesus japonicus",
       "genus": "Hypomesus",
-      "genus_ja": "Hypomesus属",
+      "genus_ja": "チカの仲間",
       "ja_name": "チカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -206,7 +224,7 @@
       "spec_code": 2695,
       "scientific_name": "Hypomesus nipponensis",
       "genus": "Hypomesus",
-      "genus_ja": "Hypomesus属",
+      "genus_ja": "チカの仲間",
       "ja_name": "ワカサギ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Japanese smelt",
@@ -336,7 +354,7 @@
       "spec_code": 254,
       "scientific_name": "Hypomesus olidus",
       "genus": "Hypomesus",
-      "genus_ja": "Hypomesus属",
+      "genus_ja": "チカの仲間",
       "ja_name": "イシカリワカサギ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pond smelt",
@@ -466,7 +484,7 @@
       "spec_code": 252,
       "scientific_name": "Mallotus villosus",
       "genus": "Mallotus",
-      "genus_ja": "Mallotus属",
+      "genus_ja": "カラフトシシャモの仲間",
       "ja_name": "カラフトシシャモ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Capelin",
@@ -596,7 +614,7 @@
       "spec_code": 22635,
       "scientific_name": "Osmerus dentex",
       "genus": "Osmerus",
-      "genus_ja": "Osmerus属",
+      "genus_ja": "キュウリウオの仲間",
       "ja_name": "キュウリウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific rainbow smelt",
@@ -726,7 +744,7 @@
       "spec_code": 253,
       "scientific_name": "Osmerus mordax",
       "genus": "Osmerus",
-      "genus_ja": "Osmerus属",
+      "genus_ja": "キュウリウオの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Rainbow smelt",
@@ -856,7 +874,7 @@
       "spec_code": 6557,
       "scientific_name": "Spirinchus lanceolatus",
       "genus": "Spirinchus",
-      "genus_ja": "Spirinchus属",
+      "genus_ja": "シシャモの仲間",
       "ja_name": "シシャモ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",

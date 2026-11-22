@@ -2,13 +2,18 @@
   "family": "Tetrarogidae",
   "family_ja": "",
   "family_slug": "tetrarogidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 9,
   "genera_count": 6,
   "genera": [
     {
       "genus": "Ablabys",
-      "ja_name": "Ablabys属",
+      "ja_name": "カササハオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カササハオコゼ",
+        "ツマジロオコゼ"
+      ],
       "species_count": 2,
       "representative_species": "Ablabys taenianotus",
       "photo": {
@@ -24,7 +29,11 @@
     },
     {
       "genus": "Neocentropogon",
-      "ja_name": "Neocentropogon属",
+      "ja_name": "ナガハチオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ナガハチオコゼ"
+      ],
       "species_count": 1,
       "representative_species": "Neocentropogon japonicus",
       "photo": {
@@ -40,14 +49,23 @@
     },
     {
       "genus": "Ocosia",
-      "ja_name": "Ocosia属",
+      "ja_name": "ハチオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハチオコゼ",
+        "シマハチオコゼ"
+      ],
       "species_count": 2,
       "representative_species": "Ocosia fasciata",
       "photo": null
     },
     {
       "genus": "Paracentropogon",
-      "ja_name": "Paracentropogon属",
+      "ja_name": "ハオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハオコゼ"
+      ],
       "species_count": 1,
       "representative_species": "Paracentropogon rubripinnis",
       "photo": {
@@ -63,7 +81,11 @@
     },
     {
       "genus": "Snyderina",
-      "ja_name": "Snyderina属",
+      "ja_name": "ヤマヒメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヤマヒメ"
+      ],
       "species_count": 1,
       "representative_species": "Snyderina yamanokami",
       "photo": {
@@ -79,7 +101,12 @@
     },
     {
       "genus": "Tetraroge",
-      "ja_name": "Tetraroge属",
+      "ja_name": "アゴヒゲオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アゴヒゲオコゼ",
+        "ヒゲソリオコゼ"
+      ],
       "species_count": 2,
       "representative_species": "Tetraroge barbata",
       "photo": {
@@ -99,7 +126,7 @@
       "spec_code": 69366,
       "scientific_name": "Ablabys gymnothorax",
       "genus": "Ablabys",
-      "genus_ja": "Ablabys属",
+      "genus_ja": "カササハオコゼの仲間",
       "ja_name": "カササハオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Scaleless spiny waspfsh",
@@ -159,7 +186,7 @@
       "spec_code": 10232,
       "scientific_name": "Ablabys taenianotus",
       "genus": "Ablabys",
-      "genus_ja": "Ablabys属",
+      "genus_ja": "カササハオコゼの仲間",
       "ja_name": "ツマジロオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Cockatoo waspfish",
@@ -289,7 +316,7 @@
       "spec_code": 23894,
       "scientific_name": "Neocentropogon japonicus",
       "genus": "Neocentropogon",
-      "genus_ja": "Neocentropogon属",
+      "genus_ja": "ナガハチオコゼの仲間",
       "ja_name": "ナガハチオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -379,7 +406,7 @@
       "spec_code": 23896,
       "scientific_name": "Ocosia fasciata",
       "genus": "Ocosia",
-      "genus_ja": "Ocosia属",
+      "genus_ja": "ハチオコゼの仲間",
       "ja_name": "シマハチオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -439,7 +466,7 @@
       "spec_code": 23895,
       "scientific_name": "Ocosia vespa",
       "genus": "Ocosia",
-      "genus_ja": "Ocosia属",
+      "genus_ja": "ハチオコゼの仲間",
       "ja_name": "ハチオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -499,7 +526,7 @@
       "spec_code": 4590,
       "scientific_name": "Paracentropogon rubripinnis",
       "genus": "Paracentropogon",
-      "genus_ja": "Paracentropogon属",
+      "genus_ja": "ハオコゼの仲間",
       "ja_name": "ハオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -629,7 +656,7 @@
       "spec_code": 10385,
       "scientific_name": "Snyderina yamanokami",
       "genus": "Snyderina",
-      "genus_ja": "Snyderina属",
+      "genus_ja": "ヤマヒメの仲間",
       "ja_name": "ヤマヒメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -749,7 +776,7 @@
       "spec_code": 11764,
       "scientific_name": "Tetraroge barbata",
       "genus": "Tetraroge",
-      "genus_ja": "Tetraroge属",
+      "genus_ja": "アゴヒゲオコゼの仲間",
       "ja_name": "アゴヒゲオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bearded roguefish",
@@ -859,7 +886,7 @@
       "spec_code": 11765,
       "scientific_name": "Tetraroge nigra",
       "genus": "Tetraroge",
-      "genus_ja": "Tetraroge属",
+      "genus_ja": "アゴヒゲオコゼの仲間",
       "ja_name": "ヒゲソリオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",

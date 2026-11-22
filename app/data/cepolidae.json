@@ -2,13 +2,18 @@
   "family": "Cepolidae",
   "family_ja": "アカタチ科",
   "family_slug": "cepolidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 8,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Acanthocepola",
-      "ja_name": "Acanthocepola属",
+      "ja_name": "アカタチの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アカタチ",
+        "イッテンアカタチ"
+      ],
       "species_count": 2,
       "representative_species": "Acanthocepola krusensternii",
       "photo": {
@@ -24,7 +29,11 @@
     },
     {
       "genus": "Cepola",
-      "ja_name": "Cepola属",
+      "ja_name": "スミツキアカタチの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "スミツキアカタチ"
+      ],
       "species_count": 1,
       "representative_species": "Cepola schlegelii",
       "photo": {
@@ -40,7 +49,13 @@
     },
     {
       "genus": "Owstonia",
-      "ja_name": "Owstonia属",
+      "ja_name": "オキアマダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オキアマダイ",
+        "ソコアマダイ",
+        "アカタチモドキ"
+      ],
       "species_count": 5,
       "representative_species": "Owstonia tosaensis",
       "photo": {
@@ -60,7 +75,7 @@
       "spec_code": 9215,
       "scientific_name": "Acanthocepola krusensternii",
       "genus": "Acanthocepola",
-      "genus_ja": "Acanthocepola属",
+      "genus_ja": "アカタチの仲間",
       "ja_name": "アカタチ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Red-spotted bandfish",
@@ -190,7 +205,7 @@
       "spec_code": 9214,
       "scientific_name": "Acanthocepola limbata",
       "genus": "Acanthocepola",
-      "genus_ja": "Acanthocepola属",
+      "genus_ja": "アカタチの仲間",
       "ja_name": "イッテンアカタチ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blackspot bandfish",
@@ -320,7 +335,7 @@
       "spec_code": 10480,
       "scientific_name": "Cepola schlegelii",
       "genus": "Cepola",
-      "genus_ja": "Cepola属",
+      "genus_ja": "スミツキアカタチの仲間",
       "ja_name": "スミツキアカタチ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -400,7 +415,7 @@
       "spec_code": 68898,
       "scientific_name": "Owstonia japonica",
       "genus": "Owstonia",
-      "genus_ja": "Owstonia属",
+      "genus_ja": "オキアマダイの仲間",
       "ja_name": "ソコアマダイモドキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -460,7 +475,7 @@
       "spec_code": 68899,
       "scientific_name": "Owstonia kamoharai",
       "genus": "Owstonia",
-      "genus_ja": "Owstonia属",
+      "genus_ja": "オキアマダイの仲間",
       "ja_name": "オオソコアマダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Kamohara’s Bandfish",
@@ -520,7 +535,7 @@
       "spec_code": 23511,
       "scientific_name": "Owstonia taeniosoma",
       "genus": "Owstonia",
-      "genus_ja": "Owstonia属",
+      "genus_ja": "オキアマダイの仲間",
       "ja_name": "アカタチモドキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -580,7 +595,7 @@
       "spec_code": 23510,
       "scientific_name": "Owstonia tosaensis",
       "genus": "Owstonia",
-      "genus_ja": "Owstonia属",
+      "genus_ja": "オキアマダイの仲間",
       "ja_name": "オキアマダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -670,7 +685,7 @@
       "spec_code": 10481,
       "scientific_name": "Owstonia totomiensis",
       "genus": "Owstonia",
-      "genus_ja": "Owstonia属",
+      "genus_ja": "オキアマダイの仲間",
       "ja_name": "ソコアマダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Short-tail bandfish",

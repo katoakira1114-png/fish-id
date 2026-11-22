@@ -2,13 +2,19 @@
   "family": "Nomeidae",
   "family_ja": "エボシダイ科",
   "family_slug": "nomeidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 8,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Cubiceps",
-      "ja_name": "Cubiceps属",
+      "ja_name": "オキメダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オキメダイ",
+        "ホソオキメダイ",
+        "ボウズコンニャク"
+      ],
       "species_count": 3,
       "representative_species": "Cubiceps baxteri",
       "photo": {
@@ -24,7 +30,11 @@
     },
     {
       "genus": "Nomeus",
-      "ja_name": "Nomeus属",
+      "ja_name": "エボシダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "エボシダイ"
+      ],
       "species_count": 1,
       "representative_species": "Nomeus gronovii",
       "photo": {
@@ -40,7 +50,13 @@
     },
     {
       "genus": "Psenes",
-      "ja_name": "Psenes属",
+      "ja_name": "クラゲウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クラゲウオ",
+        "ハナビラウオ",
+        "スジハナビラウオ"
+      ],
       "species_count": 4,
       "representative_species": "Psenes arafurensis",
       "photo": {
@@ -60,7 +76,7 @@
       "spec_code": 10197,
       "scientific_name": "Cubiceps baxteri",
       "genus": "Cubiceps",
-      "genus_ja": "Cubiceps属",
+      "genus_ja": "オキメダイの仲間",
       "ja_name": "オキメダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Black fathead",
@@ -180,7 +196,7 @@
       "spec_code": 5049,
       "scientific_name": "Cubiceps pauciradiatus",
       "genus": "Cubiceps",
-      "genus_ja": "Cubiceps属",
+      "genus_ja": "オキメダイの仲間",
       "ja_name": "ホソオキメダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bigeye cigarfish",
@@ -310,7 +326,7 @@
       "spec_code": 8028,
       "scientific_name": "Cubiceps whiteleggii",
       "genus": "Cubiceps",
-      "genus_ja": "Cubiceps属",
+      "genus_ja": "オキメダイの仲間",
       "ja_name": "ボウズコンニャク",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Shadow driftfish",
@@ -440,7 +456,7 @@
       "spec_code": 2461,
       "scientific_name": "Nomeus gronovii",
       "genus": "Nomeus",
-      "genus_ja": "Nomeus属",
+      "genus_ja": "エボシダイの仲間",
       "ja_name": "エボシダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Man-of-war fish",
@@ -570,7 +586,7 @@
       "spec_code": 10299,
       "scientific_name": "Psenes arafurensis",
       "genus": "Psenes",
-      "genus_ja": "Psenes属",
+      "genus_ja": "クラゲウオの仲間",
       "ja_name": "クラゲウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Banded driftfish",
@@ -700,7 +716,7 @@
       "spec_code": 3925,
       "scientific_name": "Psenes cyanophrys",
       "genus": "Psenes",
-      "genus_ja": "Psenes属",
+      "genus_ja": "クラゲウオの仲間",
       "ja_name": "スジハナビラウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Freckled driftfish",
@@ -830,7 +846,7 @@
       "spec_code": 3926,
       "scientific_name": "Psenes maculatus",
       "genus": "Psenes",
-      "genus_ja": "Psenes属",
+      "genus_ja": "クラゲウオの仲間",
       "ja_name": "シマハナビラウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Silver driftfish",
@@ -960,7 +976,7 @@
       "spec_code": 3927,
       "scientific_name": "Psenes pellucidus",
       "genus": "Psenes",
-      "genus_ja": "Psenes属",
+      "genus_ja": "クラゲウオの仲間",
       "ja_name": "ハナビラウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bluefin driftfish",

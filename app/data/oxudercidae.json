@@ -2,13 +2,17 @@
   "family": "Oxudercidae",
   "family_ja": "オクスデルクス科",
   "family_slug": "oxudercidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 8,
   "genera_count": 6,
   "genera": [
     {
       "genus": "Apocryptodon",
-      "ja_name": "Apocryptodon属",
+      "ja_name": "タビラクチの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タビラクチ"
+      ],
       "species_count": 2,
       "representative_species": "Apocryptodon madurensis",
       "photo": {
@@ -24,7 +28,11 @@
     },
     {
       "genus": "Boleophthalmus",
-      "ja_name": "Boleophthalmus属",
+      "ja_name": "ムツゴロウの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ムツゴロウ"
+      ],
       "species_count": 1,
       "representative_species": "Boleophthalmus pectinirostris",
       "photo": {
@@ -41,6 +49,8 @@
     {
       "genus": "Oxuderces",
       "ja_name": "Oxuderces属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Oxuderces dentatus",
       "photo": {
@@ -56,7 +66,12 @@
     },
     {
       "genus": "Periophthalmus",
-      "ja_name": "Periophthalmus属",
+      "ja_name": "トビハゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トビハゼ",
+        "ミナミトビハゼ"
+      ],
       "species_count": 2,
       "representative_species": "Periophthalmus argentilineatus",
       "photo": {
@@ -72,7 +87,11 @@
     },
     {
       "genus": "Pseudapocryptes",
-      "ja_name": "Pseudapocryptes属",
+      "ja_name": "ホコハゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ホコハゼ"
+      ],
       "species_count": 1,
       "representative_species": "Pseudapocryptes elongatus",
       "photo": {
@@ -88,7 +107,11 @@
     },
     {
       "genus": "Scartelaos",
-      "ja_name": "Scartelaos属",
+      "ja_name": "トカゲハゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トカゲハゼ"
+      ],
       "species_count": 1,
       "representative_species": "Scartelaos histophorus",
       "photo": {
@@ -108,7 +131,7 @@
       "spec_code": 7328,
       "scientific_name": "Apocryptodon madurensis",
       "genus": "Apocryptodon",
-      "genus_ja": "Apocryptodon属",
+      "genus_ja": "タビラクチの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Madura goby",
@@ -238,7 +261,7 @@
       "spec_code": 55511,
       "scientific_name": "Apocryptodon punctatus",
       "genus": "Apocryptodon",
-      "genus_ja": "Apocryptodon属",
+      "genus_ja": "タビラクチの仲間",
       "ja_name": "タビラクチ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -368,7 +391,7 @@
       "spec_code": 15864,
       "scientific_name": "Boleophthalmus pectinirostris",
       "genus": "Boleophthalmus",
-      "genus_ja": "Boleophthalmus属",
+      "genus_ja": "ムツゴロウの仲間",
       "ja_name": "ムツゴロウ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Great blue spotted mudskipper",
@@ -628,7 +651,7 @@
       "spec_code": 7480,
       "scientific_name": "Periophthalmus argentilineatus",
       "genus": "Periophthalmus",
-      "genus_ja": "Periophthalmus属",
+      "genus_ja": "トビハゼの仲間",
       "ja_name": "ミナミトビハゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Barred mudskipper",
@@ -758,7 +781,7 @@
       "spec_code": 54509,
       "scientific_name": "Periophthalmus modestus",
       "genus": "Periophthalmus",
-      "genus_ja": "Periophthalmus属",
+      "genus_ja": "トビハゼの仲間",
       "ja_name": "トビハゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Shuttles hoppfish",
@@ -888,7 +911,7 @@
       "spec_code": 8409,
       "scientific_name": "Pseudapocryptes elongatus",
       "genus": "Pseudapocryptes",
-      "genus_ja": "Pseudapocryptes属",
+      "genus_ja": "ホコハゼの仲間",
       "ja_name": "ホコハゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1018,7 +1041,7 @@
       "spec_code": 7487,
       "scientific_name": "Scartelaos histophorus",
       "genus": "Scartelaos",
-      "genus_ja": "Scartelaos属",
+      "genus_ja": "トカゲハゼの仲間",
       "ja_name": "トカゲハゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Walking goby",

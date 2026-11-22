@@ -2,13 +2,17 @@
   "family": "Lumpenidae",
   "family_ja": "ウナギガジ科",
   "family_slug": "lumpenidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 7,
   "genera_count": 6,
   "genera": [
     {
       "genus": "Acantholumpenus",
-      "ja_name": "Acantholumpenus属",
+      "ja_name": "ヌイメガジの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヌイメガジ"
+      ],
       "species_count": 1,
       "representative_species": "Acantholumpenus mackayi",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Anisarchus",
-      "ja_name": "Anisarchus属",
+      "ja_name": "メダマギンポの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "メダマギンポ",
+        "ニセメダマギンポ"
+      ],
       "species_count": 2,
       "representative_species": "Anisarchus medius",
       "photo": {
@@ -40,7 +49,11 @@
     },
     {
       "genus": "Lumpenella",
-      "ja_name": "Lumpenella属",
+      "ja_name": "ネズミギンポの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ネズミギンポ"
+      ],
       "species_count": 1,
       "representative_species": "Lumpenella longirostris",
       "photo": {
@@ -56,7 +69,11 @@
     },
     {
       "genus": "Lumpenus",
-      "ja_name": "Lumpenus属",
+      "ja_name": "ウナギガジの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ウナギガジ"
+      ],
       "species_count": 1,
       "representative_species": "Lumpenus sagitta",
       "photo": {
@@ -72,14 +89,22 @@
     },
     {
       "genus": "Neolumpenus",
-      "ja_name": "Neolumpenus属",
+      "ja_name": "モンツキガジの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "モンツキガジ"
+      ],
       "species_count": 1,
       "representative_species": "Neolumpenus unocellatus",
       "photo": null
     },
     {
       "genus": "Xenolumpenus",
-      "ja_name": "Xenolumpenus属",
+      "ja_name": "フリソデガジの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "フリソデガジ"
+      ],
       "species_count": 1,
       "representative_species": "Xenolumpenus longipterus",
       "photo": null
@@ -90,7 +115,7 @@
       "spec_code": 3771,
       "scientific_name": "Acantholumpenus mackayi",
       "genus": "Acantholumpenus",
-      "genus_ja": "Acantholumpenus属",
+      "genus_ja": "ヌイメガジの仲間",
       "ja_name": "ヌイメガジ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pighead prickleback",
@@ -220,7 +245,7 @@
       "spec_code": 23774,
       "scientific_name": "Anisarchus macrops",
       "genus": "Anisarchus",
-      "genus_ja": "Anisarchus属",
+      "genus_ja": "メダマギンポの仲間",
       "ja_name": "メダマギンポ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -280,7 +305,7 @@
       "spec_code": 3789,
       "scientific_name": "Anisarchus medius",
       "genus": "Anisarchus",
-      "genus_ja": "Anisarchus属",
+      "genus_ja": "メダマギンポの仲間",
       "ja_name": "ニセメダマギンポ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Stout eelblenny",
@@ -410,7 +435,7 @@
       "spec_code": 3785,
       "scientific_name": "Lumpenella longirostris",
       "genus": "Lumpenella",
-      "genus_ja": "Lumpenella属",
+      "genus_ja": "ネズミギンポの仲間",
       "ja_name": "ネズミギンポ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longsnout prickleback",
@@ -540,7 +565,7 @@
       "spec_code": 3790,
       "scientific_name": "Lumpenus sagitta",
       "genus": "Lumpenus",
-      "genus_ja": "Lumpenus属",
+      "genus_ja": "ウナギガジの仲間",
       "ja_name": "ウナギガジ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Snake prickleback",
@@ -670,7 +695,7 @@
       "spec_code": 27031,
       "scientific_name": "Neolumpenus unocellatus",
       "genus": "Neolumpenus",
-      "genus_ja": "Neolumpenus属",
+      "genus_ja": "モンツキガジの仲間",
       "ja_name": "モンツキガジ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -730,7 +755,7 @@
       "spec_code": 65536,
       "scientific_name": "Xenolumpenus longipterus",
       "genus": "Xenolumpenus",
-      "genus_ja": "Xenolumpenus属",
+      "genus_ja": "フリソデガジの仲間",
       "ja_name": "フリソデガジ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",

@@ -2,13 +2,17 @@
   "family": "Echeneidae",
   "family_ja": "コバンザメ科",
   "family_slug": "echeneidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 7,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Echeneis",
-      "ja_name": "Echeneis属",
+      "ja_name": "コバンザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "コバンザメ"
+      ],
       "species_count": 1,
       "representative_species": "Echeneis naucrates",
       "photo": {
@@ -24,7 +28,11 @@
     },
     {
       "genus": "Phtheirichthys",
-      "ja_name": "Phtheirichthys属",
+      "ja_name": "スジコバンの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "スジコバン"
+      ],
       "species_count": 1,
       "representative_species": "Phtheirichthys lineatus",
       "photo": {
@@ -40,7 +48,13 @@
     },
     {
       "genus": "Remora",
-      "ja_name": "Remora属",
+      "ja_name": "シロコバンの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シロコバン",
+        "オオコバン",
+        "クロコバン"
+      ],
       "species_count": 5,
       "representative_species": "Remora albescens",
       "photo": {
@@ -60,7 +74,7 @@
       "spec_code": 2467,
       "scientific_name": "Echeneis naucrates",
       "genus": "Echeneis",
-      "genus_ja": "Echeneis属",
+      "genus_ja": "コバンザメの仲間",
       "ja_name": "コバンザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Live sharksucker",
@@ -190,7 +204,7 @@
       "spec_code": 3544,
       "scientific_name": "Phtheirichthys lineatus",
       "genus": "Phtheirichthys",
-      "genus_ja": "Phtheirichthys属",
+      "genus_ja": "スジコバンの仲間",
       "ja_name": "スジコバン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Slender suckerfish",
@@ -320,7 +334,7 @@
       "spec_code": 3548,
       "scientific_name": "Remora albescens",
       "genus": "Remora",
-      "genus_ja": "Remora属",
+      "genus_ja": "シロコバンの仲間",
       "ja_name": "シロコバン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "White suckerfish",
@@ -450,7 +464,7 @@
       "spec_code": 3545,
       "scientific_name": "Remora australis",
       "genus": "Remora",
-      "genus_ja": "Remora属",
+      "genus_ja": "シロコバンの仲間",
       "ja_name": "オオコバン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Whalesucker",
@@ -580,7 +594,7 @@
       "spec_code": 3546,
       "scientific_name": "Remora brachyptera",
       "genus": "Remora",
-      "genus_ja": "Remora属",
+      "genus_ja": "シロコバンの仲間",
       "ja_name": "クロコバン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spearfish remora",
@@ -710,7 +724,7 @@
       "spec_code": 3547,
       "scientific_name": "Remora osteochir",
       "genus": "Remora",
-      "genus_ja": "Remora属",
+      "genus_ja": "シロコバンの仲間",
       "ja_name": "ヒシコバン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Marlin sucker",
@@ -840,7 +854,7 @@
       "spec_code": 1751,
       "scientific_name": "Remora remora",
       "genus": "Remora",
-      "genus_ja": "Remora属",
+      "genus_ja": "シロコバンの仲間",
       "ja_name": "ナガコバン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Shark sucker",

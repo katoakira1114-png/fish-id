@@ -2,13 +2,17 @@
   "family": "Pegasidae",
   "family_ja": "ウミテング科",
   "family_slug": "pegasidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 3,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Eurypegasus",
-      "ja_name": "Eurypegasus属",
+      "ja_name": "ウミテングの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ウミテング"
+      ],
       "species_count": 1,
       "representative_species": "Eurypegasus draconis",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Pegasus",
-      "ja_name": "Pegasus属",
+      "ja_name": "ヤリテングの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヤリテング",
+        "テングノオトシゴ"
+      ],
       "species_count": 2,
       "representative_species": "Pegasus laternarius",
       "photo": {
@@ -44,7 +53,7 @@
       "spec_code": 4606,
       "scientific_name": "Eurypegasus draconis",
       "genus": "Eurypegasus",
-      "genus_ja": "Eurypegasus属",
+      "genus_ja": "ウミテングの仲間",
       "ja_name": "ウミテング",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Short dragonfish",
@@ -174,7 +183,7 @@
       "spec_code": 4608,
       "scientific_name": "Pegasus laternarius",
       "genus": "Pegasus",
-      "genus_ja": "Pegasus属",
+      "genus_ja": "ヤリテングの仲間",
       "ja_name": "テングノオトシゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -264,7 +273,7 @@
       "spec_code": 4609,
       "scientific_name": "Pegasus volitans",
       "genus": "Pegasus",
-      "genus_ja": "Pegasus属",
+      "genus_ja": "ヤリテングの仲間",
       "ja_name": "ヤリテング",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longtail seamouth",

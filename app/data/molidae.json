@@ -2,13 +2,17 @@
   "family": "Molidae",
   "family_ja": "マンボウ科",
   "family_slug": "molidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 4,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Masturus",
-      "ja_name": "Masturus属",
+      "ja_name": "ヤリマンボウの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヤリマンボウ"
+      ],
       "species_count": 1,
       "representative_species": "Masturus lanceolatus",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Mola",
-      "ja_name": "Mola属",
+      "ja_name": "マンボウの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "マンボウ",
+        "ウシマンボウ"
+      ],
       "species_count": 2,
       "representative_species": "Mola alexandrini",
       "photo": {
@@ -40,7 +49,11 @@
     },
     {
       "genus": "Ranzania",
-      "ja_name": "Ranzania属",
+      "ja_name": "クサビフグの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クサビフグ"
+      ],
       "species_count": 1,
       "representative_species": "Ranzania laevis",
       "photo": {
@@ -60,7 +73,7 @@
       "spec_code": 10207,
       "scientific_name": "Masturus lanceolatus",
       "genus": "Masturus",
-      "genus_ja": "Masturus属",
+      "genus_ja": "ヤリマンボウの仲間",
       "ja_name": "ヤリマンボウ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Sharptail mola",
@@ -190,7 +203,7 @@
       "spec_code": 26423,
       "scientific_name": "Mola alexandrini",
       "genus": "Mola",
-      "genus_ja": "Mola属",
+      "genus_ja": "マンボウの仲間",
       "ja_name": "ウシマンボウ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bumphead sunfish",
@@ -320,7 +333,7 @@
       "spec_code": 1732,
       "scientific_name": "Mola mola",
       "genus": "Mola",
-      "genus_ja": "Mola属",
+      "genus_ja": "マンボウの仲間",
       "ja_name": "マンボウ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Ocean sunfish",
@@ -450,7 +463,7 @@
       "spec_code": 1750,
       "scientific_name": "Ranzania laevis",
       "genus": "Ranzania",
-      "genus_ja": "Ranzania属",
+      "genus_ja": "クサビフグの仲間",
       "ja_name": "クサビフグ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Slender sunfish",

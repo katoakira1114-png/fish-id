@@ -2,13 +2,18 @@
   "family": "Ammodytidae",
   "family_ja": "イカナゴ科",
   "family_slug": "ammodytidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 6,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Ammodytes",
-      "ja_name": "Ammodytes属",
+      "ja_name": "オオイカナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オオイカナゴ",
+        "キタイカナゴ"
+      ],
       "species_count": 3,
       "representative_species": "Ammodytes hexapterus",
       "photo": {
@@ -24,14 +29,23 @@
     },
     {
       "genus": "Ammodytoides",
-      "ja_name": "Ammodytoides属",
+      "ja_name": "ミナミイカナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ミナミイカナゴ",
+        "ゴマヒレミナミイカナゴ"
+      ],
       "species_count": 2,
       "representative_species": "Ammodytoides kanazawai",
       "photo": null
     },
     {
       "genus": "Bleekeria",
-      "ja_name": "Bleekeria属",
+      "ja_name": "タイワンイカナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タイワンイカナゴ"
+      ],
       "species_count": 1,
       "representative_species": "Bleekeria mitsukurii",
       "photo": {
@@ -51,7 +65,7 @@
       "spec_code": 70396,
       "scientific_name": "Ammodytes heian",
       "genus": "Ammodytes",
-      "genus_ja": "Ammodytes属",
+      "genus_ja": "オオイカナゴの仲間",
       "ja_name": "オオイカナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Peaceful sand lance",
@@ -111,7 +125,7 @@
       "spec_code": 3822,
       "scientific_name": "Ammodytes hexapterus",
       "genus": "Ammodytes",
-      "genus_ja": "Ammodytes属",
+      "genus_ja": "オオイカナゴの仲間",
       "ja_name": "キタイカナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific sand lance",
@@ -241,7 +255,7 @@
       "spec_code": 487,
       "scientific_name": "Ammodytes personatus",
       "genus": "Ammodytes",
-      "genus_ja": "Ammodytes属",
+      "genus_ja": "オオイカナゴの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Pacific sandlance",
@@ -371,7 +385,7 @@
       "spec_code": 66971,
       "scientific_name": "Ammodytoides kanazawai",
       "genus": "Ammodytoides",
-      "genus_ja": "Ammodytoides属",
+      "genus_ja": "ミナミイカナゴの仲間",
       "ja_name": "ゴマヒレミナミイカナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -431,7 +445,7 @@
       "spec_code": 58287,
       "scientific_name": "Ammodytoides kimurai",
       "genus": "Ammodytoides",
-      "genus_ja": "Ammodytoides属",
+      "genus_ja": "ミナミイカナゴの仲間",
       "ja_name": "ミナミイカナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -491,7 +505,7 @@
       "spec_code": 9236,
       "scientific_name": "Bleekeria mitsukurii",
       "genus": "Bleekeria",
-      "genus_ja": "Bleekeria属",
+      "genus_ja": "タイワンイカナゴの仲間",
       "ja_name": "タイワンイカナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Mitsukuri's sandlance",

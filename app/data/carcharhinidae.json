@@ -2,13 +2,19 @@
   "family": "Carcharhinidae",
   "family_ja": "メジロザメ科",
   "family_slug": "carcharhinidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 22,
   "genera_count": 8,
   "genera": [
     {
       "genus": "Carcharhinus",
-      "ja_name": "Carcharhinus属",
+      "ja_name": "ヨゴレの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヨゴレ",
+        "ツマジロ",
+        "ハナザメ"
+      ],
       "species_count": 13,
       "representative_species": "Carcharhinus albimarginatus",
       "photo": {
@@ -25,6 +31,8 @@
     {
       "genus": "Glyphis",
       "ja_name": "Glyphis属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Glyphis gangeticus",
       "photo": {
@@ -40,7 +48,11 @@
     },
     {
       "genus": "Loxodon",
-      "ja_name": "Loxodon属",
+      "ja_name": "トガリメザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トガリメザメ"
+      ],
       "species_count": 1,
       "representative_species": "Loxodon macrorhinus",
       "photo": {
@@ -56,7 +68,11 @@
     },
     {
       "genus": "Negaprion",
-      "ja_name": "Negaprion属",
+      "ja_name": "レモンザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "レモンザメ"
+      ],
       "species_count": 1,
       "representative_species": "Negaprion acutidens",
       "photo": {
@@ -72,7 +88,11 @@
     },
     {
       "genus": "Prionace",
-      "ja_name": "Prionace属",
+      "ja_name": "ヨシキリザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヨシキリザメ"
+      ],
       "species_count": 1,
       "representative_species": "Prionace glauca",
       "photo": {
@@ -88,7 +108,12 @@
     },
     {
       "genus": "Rhizoprionodon",
-      "ja_name": "Rhizoprionodon属",
+      "ja_name": "ヒラガシラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヒラガシラ",
+        "アンコウザメ"
+      ],
       "species_count": 2,
       "representative_species": "Rhizoprionodon acutus",
       "photo": {
@@ -104,7 +129,11 @@
     },
     {
       "genus": "Scoliodon",
-      "ja_name": "Scoliodon属",
+      "ja_name": "トガリアンコウザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トガリアンコウザメ"
+      ],
       "species_count": 2,
       "representative_species": "Scoliodon laticaudus",
       "photo": {
@@ -120,7 +149,11 @@
     },
     {
       "genus": "Triaenodon",
-      "ja_name": "Triaenodon属",
+      "ja_name": "ネムリブカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ネムリブカ"
+      ],
       "species_count": 1,
       "representative_species": "Triaenodon obesus",
       "photo": {
@@ -140,7 +173,7 @@
       "spec_code": 858,
       "scientific_name": "Carcharhinus albimarginatus",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ツマジロ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Silvertip shark",
@@ -270,7 +303,7 @@
       "spec_code": 864,
       "scientific_name": "Carcharhinus brachyurus",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "クロヘリメジロザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Copper shark",
@@ -400,7 +433,7 @@
       "spec_code": 865,
       "scientific_name": "Carcharhinus brevipinna",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ハナザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spinner shark",
@@ -530,7 +563,7 @@
       "spec_code": 867,
       "scientific_name": "Carcharhinus dussumieri",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Whitecheek shark",
@@ -660,7 +693,7 @@
       "spec_code": 868,
       "scientific_name": "Carcharhinus falciformis",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "クロトガリザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Silky shark",
@@ -790,7 +823,7 @@
       "spec_code": 870,
       "scientific_name": "Carcharhinus galapagensis",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ガラパゴスザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Galapagos shark",
@@ -920,7 +953,7 @@
       "spec_code": 874,
       "scientific_name": "Carcharhinus limbatus",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "カマストガリザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blacktip shark",
@@ -1050,7 +1083,7 @@
       "spec_code": 875,
       "scientific_name": "Carcharhinus longimanus",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ヨゴレ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Oceanic whitetip shark",
@@ -1180,7 +1213,7 @@
       "spec_code": 876,
       "scientific_name": "Carcharhinus macloti",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ホコサキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Hardnose shark",
@@ -1310,7 +1343,7 @@
       "spec_code": 877,
       "scientific_name": "Carcharhinus melanopterus",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ツマグロ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blacktip reef shark",
@@ -1440,7 +1473,7 @@
       "spec_code": 878,
       "scientific_name": "Carcharhinus obscurus",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ドタブカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Dusky shark",
@@ -1570,7 +1603,7 @@
       "spec_code": 880,
       "scientific_name": "Carcharhinus plumbeus",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "メジロザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Sandbar shark",
@@ -1700,7 +1733,7 @@
       "spec_code": 884,
       "scientific_name": "Carcharhinus sorrah",
       "genus": "Carcharhinus",
-      "genus_ja": "Carcharhinus属",
+      "genus_ja": "ヨゴレの仲間",
       "ja_name": "ホウライザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spot-tail shark",
@@ -1960,7 +1993,7 @@
       "spec_code": 894,
       "scientific_name": "Loxodon macrorhinus",
       "genus": "Loxodon",
-      "genus_ja": "Loxodon属",
+      "genus_ja": "トガリメザメの仲間",
       "ja_name": "トガリメザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Sliteye shark",
@@ -2090,7 +2123,7 @@
       "spec_code": 896,
       "scientific_name": "Negaprion acutidens",
       "genus": "Negaprion",
-      "genus_ja": "Negaprion属",
+      "genus_ja": "レモンザメの仲間",
       "ja_name": "レモンザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Sicklefin lemon shark",
@@ -2220,7 +2253,7 @@
       "spec_code": 898,
       "scientific_name": "Prionace glauca",
       "genus": "Prionace",
-      "genus_ja": "Prionace属",
+      "genus_ja": "ヨシキリザメの仲間",
       "ja_name": "ヨシキリザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blue shark",
@@ -2350,7 +2383,7 @@
       "spec_code": 899,
       "scientific_name": "Rhizoprionodon acutus",
       "genus": "Rhizoprionodon",
-      "genus_ja": "Rhizoprionodon属",
+      "genus_ja": "ヒラガシラの仲間",
       "ja_name": "ヒラガシラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Milk shark",
@@ -2480,7 +2513,7 @@
       "spec_code": 902,
       "scientific_name": "Rhizoprionodon oligolinx",
       "genus": "Rhizoprionodon",
-      "genus_ja": "Rhizoprionodon属",
+      "genus_ja": "ヒラガシラの仲間",
       "ja_name": "アンコウザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Grey sharpnose shark",
@@ -2610,7 +2643,7 @@
       "spec_code": 906,
       "scientific_name": "Scoliodon laticaudus",
       "genus": "Scoliodon",
-      "genus_ja": "Scoliodon属",
+      "genus_ja": "トガリアンコウザメの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Spadenose shark",
@@ -2740,7 +2773,7 @@
       "spec_code": 67046,
       "scientific_name": "Scoliodon macrorhynchos",
       "genus": "Scoliodon",
-      "genus_ja": "Scoliodon属",
+      "genus_ja": "トガリアンコウザメの仲間",
       "ja_name": "トガリアンコウザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific spadenose shark",
@@ -2870,7 +2903,7 @@
       "spec_code": 907,
       "scientific_name": "Triaenodon obesus",
       "genus": "Triaenodon",
-      "genus_ja": "Triaenodon属",
+      "genus_ja": "ネムリブカの仲間",
       "ja_name": "ネムリブカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Whitetip reef shark",

@@ -2,13 +2,17 @@
   "family": "Lamnidae",
   "family_ja": "ネズミザメ科",
   "family_slug": "lamnidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 4,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Carcharodon",
-      "ja_name": "Carcharodon属",
+      "ja_name": "ホオジロザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ホオジロザメ"
+      ],
       "species_count": 1,
       "representative_species": "Carcharodon carcharias",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Isurus",
-      "ja_name": "Isurus属",
+      "ja_name": "アオザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アオザメ",
+        "バケアオザメ"
+      ],
       "species_count": 2,
       "representative_species": "Isurus oxyrinchus",
       "photo": {
@@ -40,7 +49,11 @@
     },
     {
       "genus": "Lamna",
-      "ja_name": "Lamna属",
+      "ja_name": "ネズミザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ネズミザメ"
+      ],
       "species_count": 1,
       "representative_species": "Lamna ditropis",
       "photo": {
@@ -60,7 +73,7 @@
       "spec_code": 751,
       "scientific_name": "Carcharodon carcharias",
       "genus": "Carcharodon",
-      "genus_ja": "Carcharodon属",
+      "genus_ja": "ホオジロザメの仲間",
       "ja_name": "ホオジロザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Great white shark",
@@ -190,7 +203,7 @@
       "spec_code": 752,
       "scientific_name": "Isurus oxyrinchus",
       "genus": "Isurus",
-      "genus_ja": "Isurus属",
+      "genus_ja": "アオザメの仲間",
       "ja_name": "アオザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Shortfin mako",
@@ -320,7 +333,7 @@
       "spec_code": 753,
       "scientific_name": "Isurus paucus",
       "genus": "Isurus",
-      "genus_ja": "Isurus属",
+      "genus_ja": "アオザメの仲間",
       "ja_name": "バケアオザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longfin mako",
@@ -450,7 +463,7 @@
       "spec_code": 755,
       "scientific_name": "Lamna ditropis",
       "genus": "Lamna",
-      "genus_ja": "Lamna属",
+      "genus_ja": "ネズミザメの仲間",
       "ja_name": "ネズミザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Salmon shark",

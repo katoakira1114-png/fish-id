@@ -2,13 +2,17 @@
   "family": "Eleotridae",
   "family_ja": "カワアナゴ科",
   "family_slug": "eleotridae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 8,
   "genera_count": 5,
   "genera": [
     {
       "genus": "Belobranchus",
-      "ja_name": "Belobranchus属",
+      "ja_name": "エリトゲハゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "エリトゲハゼ"
+      ],
       "species_count": 1,
       "representative_species": "Belobranchus belobranchus",
       "photo": {
@@ -24,7 +28,11 @@
     },
     {
       "genus": "Bunaka",
-      "ja_name": "Bunaka属",
+      "ja_name": "オウギハゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オウギハゼ"
+      ],
       "species_count": 1,
       "representative_species": "Bunaka gyrinoides",
       "photo": {
@@ -40,7 +48,11 @@
     },
     {
       "genus": "Calumia",
-      "ja_name": "Calumia属",
+      "ja_name": "クモガクレの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クモガクレ"
+      ],
       "species_count": 1,
       "representative_species": "Calumia godeffroyi",
       "photo": {
@@ -56,7 +68,13 @@
     },
     {
       "genus": "Eleotris",
-      "ja_name": "Eleotris属",
+      "ja_name": "オカメハゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オカメハゼ",
+        "カワアナゴ",
+        "チチブモドキ"
+      ],
       "species_count": 4,
       "representative_species": "Eleotris fusca",
       "photo": {
@@ -72,7 +90,11 @@
     },
     {
       "genus": "Hypseleotris",
-      "ja_name": "Hypseleotris属",
+      "ja_name": "タナゴモドキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タナゴモドキ"
+      ],
       "species_count": 1,
       "representative_species": "Hypseleotris cyprinoides",
       "photo": {
@@ -92,7 +114,7 @@
       "spec_code": 11787,
       "scientific_name": "Belobranchus belobranchus",
       "genus": "Belobranchus",
-      "genus_ja": "Belobranchus属",
+      "genus_ja": "エリトゲハゼの仲間",
       "ja_name": "エリトゲハゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Throat-spine gudgeon",
@@ -222,7 +244,7 @@
       "spec_code": 22508,
       "scientific_name": "Bunaka gyrinoides",
       "genus": "Bunaka",
-      "genus_ja": "Bunaka属",
+      "genus_ja": "オウギハゼの仲間",
       "ja_name": "オウギハゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Greenback gauvina",
@@ -352,7 +374,7 @@
       "spec_code": 13765,
       "scientific_name": "Calumia godeffroyi",
       "genus": "Calumia",
-      "genus_ja": "Calumia属",
+      "genus_ja": "クモガクレの仲間",
       "ja_name": "クモガクレ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Tailface sleeper",
@@ -482,7 +504,7 @@
       "spec_code": 11794,
       "scientific_name": "Eleotris acanthopomus",
       "genus": "Eleotris",
-      "genus_ja": "Eleotris属",
+      "genus_ja": "オカメハゼの仲間",
       "ja_name": "チチブモドキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spinecheek gudgeon",
@@ -542,7 +564,7 @@
       "spec_code": 8034,
       "scientific_name": "Eleotris fusca",
       "genus": "Eleotris",
-      "genus_ja": "Eleotris属",
+      "genus_ja": "オカメハゼの仲間",
       "ja_name": "テンジクカワアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Dusky sleeper",
@@ -672,7 +694,7 @@
       "spec_code": 10013,
       "scientific_name": "Eleotris melanosoma",
       "genus": "Eleotris",
-      "genus_ja": "Eleotris属",
+      "genus_ja": "オカメハゼの仲間",
       "ja_name": "オカメハゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Broadhead sleeper",
@@ -802,7 +824,7 @@
       "spec_code": 15874,
       "scientific_name": "Eleotris oxycephala",
       "genus": "Eleotris",
-      "genus_ja": "Eleotris属",
+      "genus_ja": "オカメハゼの仲間",
       "ja_name": "カワアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -932,7 +954,7 @@
       "spec_code": 10016,
       "scientific_name": "Hypseleotris cyprinoides",
       "genus": "Hypseleotris",
-      "genus_ja": "Hypseleotris属",
+      "genus_ja": "タナゴモドキの仲間",
       "ja_name": "タナゴモドキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Tropical carp-gudgeon",

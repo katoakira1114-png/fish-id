@@ -2,13 +2,17 @@
   "family": "Xenocyprididae",
   "family_ja": "クセノキプリス科",
   "family_slug": "xenocyprididae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 6,
   "genera_count": 5,
   "genera": [
     {
       "genus": "Ctenopharyngodon",
-      "ja_name": "Ctenopharyngodon属",
+      "ja_name": "ソウギョの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ソウギョ"
+      ],
       "species_count": 1,
       "representative_species": "Ctenopharyngodon idella",
       "photo": {
@@ -25,6 +29,8 @@
     {
       "genus": "Hemiculter",
       "ja_name": "Hemiculter属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Hemiculter leucisculus",
       "photo": {
@@ -40,14 +46,23 @@
     },
     {
       "genus": "Hemigrammocypris",
-      "ja_name": "Hemigrammocypris属",
+      "ja_name": "カワバタモロコの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カワバタモロコ"
+      ],
       "species_count": 1,
       "representative_species": "Hemigrammocypris neglecta",
       "photo": null
     },
     {
       "genus": "Hypophthalmichthys",
-      "ja_name": "Hypophthalmichthys属",
+      "ja_name": "ハクレンの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハクレン",
+        "コクレン"
+      ],
       "species_count": 2,
       "representative_species": "Hypophthalmichthys molitrix",
       "photo": {
@@ -63,7 +78,11 @@
     },
     {
       "genus": "Mylopharyngodon",
-      "ja_name": "Mylopharyngodon属",
+      "ja_name": "アオウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アオウオ"
+      ],
       "species_count": 1,
       "representative_species": "Mylopharyngodon piceus",
       "photo": {
@@ -83,7 +102,7 @@
       "spec_code": 79,
       "scientific_name": "Ctenopharyngodon idella",
       "genus": "Ctenopharyngodon",
-      "genus_ja": "Ctenopharyngodon属",
+      "genus_ja": "ソウギョの仲間",
       "ja_name": "ソウギョ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Grass carp",
@@ -343,7 +362,7 @@
       "spec_code": 6563,
       "scientific_name": "Hemigrammocypris neglecta",
       "genus": "Hemigrammocypris",
-      "genus_ja": "Hemigrammocypris属",
+      "genus_ja": "カワバタモロコの仲間",
       "ja_name": "カワバタモロコ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -403,7 +422,7 @@
       "spec_code": 274,
       "scientific_name": "Hypophthalmichthys molitrix",
       "genus": "Hypophthalmichthys",
-      "genus_ja": "Hypophthalmichthys属",
+      "genus_ja": "ハクレンの仲間",
       "ja_name": "ハクレン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Silver carp",
@@ -533,7 +552,7 @@
       "spec_code": 275,
       "scientific_name": "Hypophthalmichthys nobilis",
       "genus": "Hypophthalmichthys",
-      "genus_ja": "Hypophthalmichthys属",
+      "genus_ja": "ハクレンの仲間",
       "ja_name": "コクレン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bighead carp",
@@ -663,7 +682,7 @@
       "spec_code": 4602,
       "scientific_name": "Mylopharyngodon piceus",
       "genus": "Mylopharyngodon",
-      "genus_ja": "Mylopharyngodon属",
+      "genus_ja": "アオウオの仲間",
       "ja_name": "アオウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Black carp",

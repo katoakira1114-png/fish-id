@@ -2,13 +2,17 @@
   "family": "Hexanchidae",
   "family_ja": "カグラザメ科",
   "family_slug": "hexanchidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 4,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Heptranchias",
-      "ja_name": "Heptranchias属",
+      "ja_name": "エドアブラザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "エドアブラザメ"
+      ],
       "species_count": 1,
       "representative_species": "Heptranchias perlo",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Hexanchus",
-      "ja_name": "Hexanchus属",
+      "ja_name": "カグラザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カグラザメ",
+        "シロカグラ"
+      ],
       "species_count": 2,
       "representative_species": "Hexanchus griseus",
       "photo": {
@@ -40,7 +49,11 @@
     },
     {
       "genus": "Notorynchus",
-      "ja_name": "Notorynchus属",
+      "ja_name": "エビスザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "エビスザメ"
+      ],
       "species_count": 1,
       "representative_species": "Notorynchus cepedianus",
       "photo": {
@@ -60,7 +73,7 @@
       "spec_code": 636,
       "scientific_name": "Heptranchias perlo",
       "genus": "Heptranchias",
-      "genus_ja": "Heptranchias属",
+      "genus_ja": "エドアブラザメの仲間",
       "ja_name": "エドアブラザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Sharpnose sevengill shark",
@@ -190,7 +203,7 @@
       "spec_code": 637,
       "scientific_name": "Hexanchus griseus",
       "genus": "Hexanchus",
-      "genus_ja": "Hexanchus属",
+      "genus_ja": "カグラザメの仲間",
       "ja_name": "カグラザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bluntnose sixgill shark",
@@ -320,7 +333,7 @@
       "spec_code": 638,
       "scientific_name": "Hexanchus nakamurai",
       "genus": "Hexanchus",
-      "genus_ja": "Hexanchus属",
+      "genus_ja": "カグラザメの仲間",
       "ja_name": "シロカグラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bigeyed sixgill shark",
@@ -450,7 +463,7 @@
       "spec_code": 2531,
       "scientific_name": "Notorynchus cepedianus",
       "genus": "Notorynchus",
-      "genus_ja": "Notorynchus属",
+      "genus_ja": "エビスザメの仲間",
       "ja_name": "エビスザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Broadnose sevengill shark",

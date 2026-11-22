@@ -2,13 +2,19 @@
   "family": "Terapontidae",
   "family_ja": "シマイサキ科",
   "family_slug": "terapontidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 7,
   "genera_count": 4,
   "genera": [
     {
       "genus": "Mesopristes",
-      "ja_name": "Mesopristes属",
+      "ja_name": "ニセシマイサキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ニセシマイサキ",
+        "ヨコシマイサキ",
+        "シミズシマイサキ"
+      ],
       "species_count": 3,
       "representative_species": "Mesopristes argenteus",
       "photo": {
@@ -24,7 +30,11 @@
     },
     {
       "genus": "Pelates",
-      "ja_name": "Pelates属",
+      "ja_name": "ヨスジシマイサキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヨスジシマイサキ"
+      ],
       "species_count": 1,
       "representative_species": "Pelates quadrilineatus",
       "photo": {
@@ -40,7 +50,11 @@
     },
     {
       "genus": "Rhynchopelates",
-      "ja_name": "Rhynchopelates属",
+      "ja_name": "シマイサキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シマイサキ"
+      ],
       "species_count": 1,
       "representative_species": "Rhynchopelates oxyrhynchus",
       "photo": {
@@ -56,7 +70,12 @@
     },
     {
       "genus": "Terapon",
-      "ja_name": "Terapon属",
+      "ja_name": "コトヒキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "コトヒキ",
+        "ヒメコトヒキ"
+      ],
       "species_count": 2,
       "representative_species": "Terapon jarbua",
       "photo": {
@@ -76,7 +95,7 @@
       "spec_code": 6464,
       "scientific_name": "Mesopristes argenteus",
       "genus": "Mesopristes",
-      "genus_ja": "Mesopristes属",
+      "genus_ja": "ニセシマイサキの仲間",
       "ja_name": "ニセシマイサキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Silver grunter",
@@ -206,7 +225,7 @@
       "spec_code": 23487,
       "scientific_name": "Mesopristes cancellatus",
       "genus": "Mesopristes",
-      "genus_ja": "Mesopristes属",
+      "genus_ja": "ニセシマイサキの仲間",
       "ja_name": "ヨコシマイサキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Tapiroid grunter",
@@ -336,7 +355,7 @@
       "spec_code": 59890,
       "scientific_name": "Mesopristes iravi",
       "genus": "Mesopristes",
-      "genus_ja": "Mesopristes属",
+      "genus_ja": "ニセシマイサキの仲間",
       "ja_name": "シミズシマイサキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -396,7 +415,7 @@
       "spec_code": 7945,
       "scientific_name": "Pelates quadrilineatus",
       "genus": "Pelates",
-      "genus_ja": "Pelates属",
+      "genus_ja": "ヨスジシマイサキの仲間",
       "ja_name": "ヨスジシマイサキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Fourlined terapon",
@@ -526,7 +545,7 @@
       "spec_code": 6581,
       "scientific_name": "Rhynchopelates oxyrhynchus",
       "genus": "Rhynchopelates",
-      "genus_ja": "Rhynchopelates属",
+      "genus_ja": "シマイサキの仲間",
       "ja_name": "シマイサキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -656,7 +675,7 @@
       "spec_code": 4458,
       "scientific_name": "Terapon jarbua",
       "genus": "Terapon",
-      "genus_ja": "Terapon属",
+      "genus_ja": "コトヒキの仲間",
       "ja_name": "コトヒキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Jarbua terapon",
@@ -786,7 +805,7 @@
       "spec_code": 4829,
       "scientific_name": "Terapon theraps",
       "genus": "Terapon",
-      "genus_ja": "Terapon属",
+      "genus_ja": "コトヒキの仲間",
       "ja_name": "ヒメコトヒキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Largescaled terapon",

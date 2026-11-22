@@ -2,13 +2,17 @@
   "family": "Poeciliidae",
   "family_ja": "カダヤシ科",
   "family_slug": "poeciliidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 4,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Gambusia",
-      "ja_name": "Gambusia属",
+      "ja_name": "カダヤシの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カダヤシ"
+      ],
       "species_count": 1,
       "representative_species": "Gambusia affinis",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Poecilia",
-      "ja_name": "Poecilia属",
+      "ja_name": "グッピーの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "グッピー",
+        "コクチモーリー"
+      ],
       "species_count": 2,
       "representative_species": "Poecilia reticulata",
       "photo": {
@@ -40,7 +49,11 @@
     },
     {
       "genus": "Xiphophorus",
-      "ja_name": "Xiphophorus属",
+      "ja_name": "グリーンソードテールの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "グリーンソードテール"
+      ],
       "species_count": 1,
       "representative_species": "Xiphophorus hellerii",
       "photo": {
@@ -60,7 +73,7 @@
       "spec_code": 3215,
       "scientific_name": "Gambusia affinis",
       "genus": "Gambusia",
-      "genus_ja": "Gambusia属",
+      "genus_ja": "カダヤシの仲間",
       "ja_name": "カダヤシ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Mosquitofish",
@@ -190,7 +203,7 @@
       "spec_code": 3228,
       "scientific_name": "Poecilia reticulata",
       "genus": "Poecilia",
-      "genus_ja": "Poecilia属",
+      "genus_ja": "グッピーの仲間",
       "ja_name": "グッピー",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Guppy",
@@ -320,7 +333,7 @@
       "spec_code": 4680,
       "scientific_name": "Poecilia sphenops",
       "genus": "Poecilia",
-      "genus_ja": "Poecilia属",
+      "genus_ja": "グッピーの仲間",
       "ja_name": "コクチモーリー",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Molly",
@@ -450,7 +463,7 @@
       "spec_code": 3231,
       "scientific_name": "Xiphophorus hellerii",
       "genus": "Xiphophorus",
-      "genus_ja": "Xiphophorus属",
+      "genus_ja": "グリーンソードテールの仲間",
       "ja_name": "グリーンソードテール",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Green swordtail",

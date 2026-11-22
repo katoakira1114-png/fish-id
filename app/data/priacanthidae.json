@@ -2,13 +2,17 @@
   "family": "Priacanthidae",
   "family_ja": "キントキダイ科",
   "family_slug": "priacanthidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 10,
   "genera_count": 4,
   "genera": [
     {
       "genus": "Cookeolus",
-      "ja_name": "Cookeolus属",
+      "ja_name": "チカメキントキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "チカメキントキ"
+      ],
       "species_count": 1,
       "representative_species": "Cookeolus japonicus",
       "photo": {
@@ -25,6 +29,8 @@
     {
       "genus": "Heteropriacanthus",
       "ja_name": "Heteropriacanthus属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Heteropriacanthus cruentatus",
       "photo": {
@@ -40,7 +46,13 @@
     },
     {
       "genus": "Priacanthus",
-      "ja_name": "Priacanthus属",
+      "ja_name": "キントキダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "キントキダイ",
+        "ミナミキントキ",
+        "キビレキントキ"
+      ],
       "species_count": 5,
       "representative_species": "Priacanthus fitchi",
       "photo": {
@@ -56,7 +68,13 @@
     },
     {
       "genus": "Pristigenys",
-      "ja_name": "Pristigenys属",
+      "ja_name": "クルマダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クルマダイ",
+        "ミナミクルマダイ",
+        "オキナワクルマダイ"
+      ],
       "species_count": 3,
       "representative_species": "Pristigenys meyeri",
       "photo": {
@@ -76,7 +94,7 @@
       "spec_code": 3517,
       "scientific_name": "Cookeolus japonicus",
       "genus": "Cookeolus",
-      "genus_ja": "Cookeolus属",
+      "genus_ja": "チカメキントキの仲間",
       "ja_name": "チカメキントキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longfinned bullseye",
@@ -336,7 +354,7 @@
       "spec_code": 9904,
       "scientific_name": "Priacanthus fitchi",
       "genus": "Priacanthus",
-      "genus_ja": "Priacanthus属",
+      "genus_ja": "キントキダイの仲間",
       "ja_name": "ウスベニキントキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Deepsea bigeye",
@@ -456,7 +474,7 @@
       "spec_code": 5791,
       "scientific_name": "Priacanthus hamrur",
       "genus": "Priacanthus",
-      "genus_ja": "Priacanthus属",
+      "genus_ja": "キントキダイの仲間",
       "ja_name": "ホウセキキントキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Moontail bullseye",
@@ -586,7 +604,7 @@
       "spec_code": 356,
       "scientific_name": "Priacanthus macracanthus",
       "genus": "Priacanthus",
-      "genus_ja": "Priacanthus属",
+      "genus_ja": "キントキダイの仲間",
       "ja_name": "キントキダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Red bigeye",
@@ -716,7 +734,7 @@
       "spec_code": 9913,
       "scientific_name": "Priacanthus sagittarius",
       "genus": "Priacanthus",
-      "genus_ja": "Priacanthus属",
+      "genus_ja": "キントキダイの仲間",
       "ja_name": "ミナミキントキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Arrow bulleye",
@@ -846,7 +864,7 @@
       "spec_code": 9914,
       "scientific_name": "Priacanthus zaiserae",
       "genus": "Priacanthus",
-      "genus_ja": "Priacanthus属",
+      "genus_ja": "キントキダイの仲間",
       "ja_name": "キビレキントキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Miyake bigeye",
@@ -926,7 +944,7 @@
       "spec_code": 9891,
       "scientific_name": "Pristigenys meyeri",
       "genus": "Pristigenys",
-      "genus_ja": "Pristigenys属",
+      "genus_ja": "クルマダイの仲間",
       "ja_name": "オキナワクルマダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1016,7 +1034,7 @@
       "spec_code": 7905,
       "scientific_name": "Pristigenys niphonia",
       "genus": "Pristigenys",
-      "genus_ja": "Pristigenys属",
+      "genus_ja": "クルマダイの仲間",
       "ja_name": "クルマダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Japanese bigeye",
@@ -1146,7 +1164,7 @@
       "spec_code": 67121,
       "scientific_name": "Pristigenys refulgens",
       "genus": "Pristigenys",
-      "genus_ja": "Pristigenys属",
+      "genus_ja": "クルマダイの仲間",
       "ja_name": "ミナミクルマダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blackfringe Bigeye",

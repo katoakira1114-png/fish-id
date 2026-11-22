@@ -2,13 +2,18 @@
   "family": "Trachipteridae",
   "family_ja": "フリソデウオ科",
   "family_slug": "trachipteridae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 5,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Desmodema",
-      "ja_name": "Desmodema属",
+      "ja_name": "フリソデウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "フリソデウオ",
+        "オキフリソデウオ"
+      ],
       "species_count": 2,
       "representative_species": "Desmodema polystictum",
       "photo": {
@@ -24,7 +29,12 @@
     },
     {
       "genus": "Trachipterus",
-      "ja_name": "Trachipterus属",
+      "ja_name": "サケガシラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "サケガシラ",
+        "テンガイハタ"
+      ],
       "species_count": 2,
       "representative_species": "Trachipterus ishikawae",
       "photo": {
@@ -40,7 +50,11 @@
     },
     {
       "genus": "Zu",
-      "ja_name": "Zu属",
+      "ja_name": "ユキフリソデウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ユキフリソデウオ"
+      ],
       "species_count": 1,
       "representative_species": "Zu cristatus",
       "photo": {
@@ -60,7 +74,7 @@
       "spec_code": 3262,
       "scientific_name": "Desmodema lorum",
       "genus": "Desmodema",
-      "genus_ja": "Desmodema属",
+      "genus_ja": "フリソデウオの仲間",
       "ja_name": "オキフリソデウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Whiptail ribbonfish",
@@ -120,7 +134,7 @@
       "spec_code": 3263,
       "scientific_name": "Desmodema polystictum",
       "genus": "Desmodema",
-      "genus_ja": "Desmodema属",
+      "genus_ja": "フリソデウオの仲間",
       "ja_name": "フリソデウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Polka-dot ribbonfish",
@@ -250,7 +264,7 @@
       "spec_code": 23360,
       "scientific_name": "Trachipterus ishikawae",
       "genus": "Trachipterus",
-      "genus_ja": "Trachipterus属",
+      "genus_ja": "サケガシラの仲間",
       "ja_name": "サケガシラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Slender ribbonfish",
@@ -330,7 +344,7 @@
       "spec_code": 1777,
       "scientific_name": "Trachipterus trachypterus",
       "genus": "Trachipterus",
-      "genus_ja": "Trachipterus属",
+      "genus_ja": "サケガシラの仲間",
       "ja_name": "テンガイハタ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Mediterranean dealfish",
@@ -460,7 +474,7 @@
       "spec_code": 1776,
       "scientific_name": "Zu cristatus",
       "genus": "Zu",
-      "genus_ja": "Zu属",
+      "genus_ja": "ユキフリソデウオの仲間",
       "ja_name": "ユキフリソデウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Scalloped ribbonfish",

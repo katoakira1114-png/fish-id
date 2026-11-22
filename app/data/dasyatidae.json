@@ -2,13 +2,18 @@
   "family": "Dasyatidae",
   "family_ja": "アカエイ科",
   "family_slug": "dasyatidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 14,
   "genera_count": 8,
   "genera": [
     {
       "genus": "Bathytoshia",
-      "ja_name": "Bathytoshia属",
+      "ja_name": "ホシエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ホシエイ",
+        "ウシエイ"
+      ],
       "species_count": 2,
       "representative_species": "Bathytoshia brevicaudata",
       "photo": {
@@ -24,7 +29,13 @@
     },
     {
       "genus": "Hemitrygon",
-      "ja_name": "Hemitrygon属",
+      "ja_name": "アカエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アカエイ",
+        "シロエイ",
+        "オナガエイ"
+      ],
       "species_count": 4,
       "representative_species": "Hemitrygon akajei",
       "photo": {
@@ -40,7 +51,11 @@
     },
     {
       "genus": "Himantura",
-      "ja_name": "Himantura属",
+      "ja_name": "アミメオトメエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アミメオトメエイ"
+      ],
       "species_count": 2,
       "representative_species": "Himantura uarnak",
       "photo": {
@@ -56,7 +71,11 @@
     },
     {
       "genus": "Maculabatis",
-      "ja_name": "Maculabatis属",
+      "ja_name": "オトメエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オトメエイ"
+      ],
       "species_count": 1,
       "representative_species": "Maculabatis gerrardi",
       "photo": {
@@ -72,7 +91,11 @@
     },
     {
       "genus": "Pteroplatytrygon",
-      "ja_name": "Pteroplatytrygon属",
+      "ja_name": "カラスエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カラスエイ"
+      ],
       "species_count": 1,
       "representative_species": "Pteroplatytrygon violacea",
       "photo": {
@@ -89,6 +112,8 @@
     {
       "genus": "Taeniura",
       "ja_name": "Taeniura属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Taeniura lymma",
       "photo": {
@@ -104,7 +129,11 @@
     },
     {
       "genus": "Taeniurops",
-      "ja_name": "Taeniurops属",
+      "ja_name": "マダラエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "マダラエイ"
+      ],
       "species_count": 1,
       "representative_species": "Taeniurops meyeni",
       "photo": {
@@ -120,7 +149,12 @@
     },
     {
       "genus": "Telatrygon",
-      "ja_name": "Telatrygon属",
+      "ja_name": "ズグエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ズグエイ",
+        "ヤジリエイ"
+      ],
       "species_count": 2,
       "representative_species": "Telatrygon acutirostra",
       "photo": {
@@ -140,7 +174,7 @@
       "spec_code": 6381,
       "scientific_name": "Bathytoshia brevicaudata",
       "genus": "Bathytoshia",
-      "genus_ja": "Bathytoshia属",
+      "genus_ja": "ホシエイの仲間",
       "ja_name": "ホシエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Short-tail stingray",
@@ -270,7 +304,7 @@
       "spec_code": 27065,
       "scientific_name": "Bathytoshia lata",
       "genus": "Bathytoshia",
-      "genus_ja": "Bathytoshia属",
+      "genus_ja": "ホシエイの仲間",
       "ja_name": "ウシエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Brown stingray",
@@ -400,7 +434,7 @@
       "spec_code": 940,
       "scientific_name": "Hemitrygon akajei",
       "genus": "Hemitrygon",
-      "genus_ja": "Hemitrygon属",
+      "genus_ja": "アカエイの仲間",
       "ja_name": "アカエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Whip stingray",
@@ -530,7 +564,7 @@
       "spec_code": 15387,
       "scientific_name": "Hemitrygon bennettii",
       "genus": "Hemitrygon",
-      "genus_ja": "Hemitrygon属",
+      "genus_ja": "アカエイの仲間",
       "ja_name": "オナガエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bennett's stingray",
@@ -660,7 +694,7 @@
       "spec_code": 54631,
       "scientific_name": "Hemitrygon izuensis",
       "genus": "Hemitrygon",
-      "genus_ja": "Hemitrygon属",
+      "genus_ja": "アカエイの仲間",
       "ja_name": "イズヒメエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Izu stingray",
@@ -750,7 +784,7 @@
       "spec_code": 54629,
       "scientific_name": "Hemitrygon laevigata",
       "genus": "Hemitrygon",
-      "genus_ja": "Hemitrygon属",
+      "genus_ja": "アカエイの仲間",
       "ja_name": "シロエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Yantai stingray",
@@ -830,7 +864,7 @@
       "spec_code": 5507,
       "scientific_name": "Himantura uarnak",
       "genus": "Himantura",
-      "genus_ja": "Himantura属",
+      "genus_ja": "アミメオトメエイの仲間",
       "ja_name": "アミメオトメエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Honeycomb stingray",
@@ -960,7 +994,7 @@
       "spec_code": 12584,
       "scientific_name": "Himantura undulata",
       "genus": "Himantura",
-      "genus_ja": "Himantura属",
+      "genus_ja": "アミメオトメエイの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Leopard whipray",
@@ -1090,7 +1124,7 @@
       "spec_code": 15483,
       "scientific_name": "Maculabatis gerrardi",
       "genus": "Maculabatis",
-      "genus_ja": "Maculabatis属",
+      "genus_ja": "オトメエイの仲間",
       "ja_name": "オトメエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Sharpnose stingray",
@@ -1220,7 +1254,7 @@
       "spec_code": 2576,
       "scientific_name": "Pteroplatytrygon violacea",
       "genus": "Pteroplatytrygon",
-      "genus_ja": "Pteroplatytrygon属",
+      "genus_ja": "カラスエイの仲間",
       "ja_name": "カラスエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pelagic stingray",
@@ -1480,7 +1514,7 @@
       "spec_code": 6482,
       "scientific_name": "Taeniurops meyeni",
       "genus": "Taeniurops",
-      "genus_ja": "Taeniurops属",
+      "genus_ja": "マダラエイの仲間",
       "ja_name": "マダラエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Round ribbontail ray",
@@ -1610,7 +1644,7 @@
       "spec_code": 54630,
       "scientific_name": "Telatrygon acutirostra",
       "genus": "Telatrygon",
-      "genus_ja": "Telatrygon属",
+      "genus_ja": "ズグエイの仲間",
       "ja_name": "ヤジリエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1690,7 +1724,7 @@
       "spec_code": 8205,
       "scientific_name": "Telatrygon zugei",
       "genus": "Telatrygon",
-      "genus_ja": "Telatrygon属",
+      "genus_ja": "ズグエイの仲間",
       "ja_name": "ズグエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pale-edged stingray",

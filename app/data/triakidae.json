@@ -2,13 +2,18 @@
   "family": "Triakidae",
   "family_ja": "",
   "family_slug": "triakidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 6,
   "genera_count": 4,
   "genera": [
     {
       "genus": "Hemitriakis",
-      "ja_name": "Hemitriakis属",
+      "ja_name": "エイラクブカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "エイラクブカ",
+        "イレズミエイラクブカ"
+      ],
       "species_count": 2,
       "representative_species": "Hemitriakis japanica",
       "photo": {
@@ -24,7 +29,11 @@
     },
     {
       "genus": "Hypogaleus",
-      "ja_name": "Hypogaleus属",
+      "ja_name": "ツマグロエイラクブカの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ツマグロエイラクブカ"
+      ],
       "species_count": 1,
       "representative_species": "Hypogaleus hyugaensis",
       "photo": {
@@ -40,7 +49,12 @@
     },
     {
       "genus": "Mustelus",
-      "ja_name": "Mustelus属",
+      "ja_name": "シロザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シロザメ",
+        "ホシザメ"
+      ],
       "species_count": 2,
       "representative_species": "Mustelus griseus",
       "photo": {
@@ -56,7 +70,11 @@
     },
     {
       "genus": "Triakis",
-      "ja_name": "Triakis属",
+      "ja_name": "ドチザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ドチザメ"
+      ],
       "species_count": 1,
       "representative_species": "Triakis scyllium",
       "photo": {
@@ -76,7 +94,7 @@
       "spec_code": 63785,
       "scientific_name": "Hemitriakis complicofasciata",
       "genus": "Hemitriakis",
-      "genus_ja": "Hemitriakis属",
+      "genus_ja": "エイラクブカの仲間",
       "ja_name": "イレズミエイラクブカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -136,7 +154,7 @@
       "spec_code": 5926,
       "scientific_name": "Hemitriakis japanica",
       "genus": "Hemitriakis",
-      "genus_ja": "Hemitriakis属",
+      "genus_ja": "エイラクブカの仲間",
       "ja_name": "エイラクブカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Japanese topeshark",
@@ -246,7 +264,7 @@
       "spec_code": 5928,
       "scientific_name": "Hypogaleus hyugaensis",
       "genus": "Hypogaleus",
-      "genus_ja": "Hypogaleus属",
+      "genus_ja": "ツマグロエイラクブカの仲間",
       "ja_name": "ツマグロエイラクブカ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blacktip tope",
@@ -366,7 +384,7 @@
       "spec_code": 5931,
       "scientific_name": "Mustelus griseus",
       "genus": "Mustelus",
-      "genus_ja": "Mustelus属",
+      "genus_ja": "シロザメの仲間",
       "ja_name": "シロザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spotless smooth-hound",
@@ -496,7 +514,7 @@
       "spec_code": 5941,
       "scientific_name": "Mustelus manazo",
       "genus": "Mustelus",
-      "genus_ja": "Mustelus属",
+      "genus_ja": "シロザメの仲間",
       "ja_name": "ホシザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Starspotted smooth-hound",
@@ -626,7 +644,7 @@
       "spec_code": 5949,
       "scientific_name": "Triakis scyllium",
       "genus": "Triakis",
-      "genus_ja": "Triakis属",
+      "genus_ja": "ドチザメの仲間",
       "ja_name": "ドチザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Banded houndshark",

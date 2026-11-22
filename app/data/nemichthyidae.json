@@ -2,13 +2,18 @@
   "family": "Nemichthyidae",
   "family_ja": "シギウナギ科",
   "family_slug": "nemichthyidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 3,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Avocettina",
-      "ja_name": "Avocettina属",
+      "ja_name": "クロシギウナギの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クロシギウナギ",
+        "クロシギウナギモドキ"
+      ],
       "species_count": 2,
       "representative_species": "Avocettina infans",
       "photo": {
@@ -24,7 +29,11 @@
     },
     {
       "genus": "Nemichthys",
-      "ja_name": "Nemichthys属",
+      "ja_name": "シギウナギの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シギウナギ"
+      ],
       "species_count": 1,
       "representative_species": "Nemichthys scolopaceus",
       "photo": {
@@ -44,7 +53,7 @@
       "spec_code": 5099,
       "scientific_name": "Avocettina infans",
       "genus": "Avocettina",
-      "genus_ja": "Avocettina属",
+      "genus_ja": "クロシギウナギの仲間",
       "ja_name": "クロシギウナギ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Avocet snipe eel",
@@ -174,7 +183,7 @@
       "spec_code": 15803,
       "scientific_name": "Avocettina paucipora",
       "genus": "Avocettina",
-      "genus_ja": "Avocettina属",
+      "genus_ja": "クロシギウナギの仲間",
       "ja_name": "クロシギウナギモドキ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -254,7 +263,7 @@
       "spec_code": 2660,
       "scientific_name": "Nemichthys scolopaceus",
       "genus": "Nemichthys",
-      "genus_ja": "Nemichthys属",
+      "genus_ja": "シギウナギの仲間",
       "ja_name": "シギウナギ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Slender snipe eel",

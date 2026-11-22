@@ -2,13 +2,17 @@
   "family": "Dalatiidae",
   "family_ja": "ヨロイザメ科",
   "family_slug": "dalatiidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 5,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Dalatias",
-      "ja_name": "Dalatias属",
+      "ja_name": "ヨロイザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヨロイザメ"
+      ],
       "species_count": 1,
       "representative_species": "Dalatias licha",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Isistius",
-      "ja_name": "Isistius属",
+      "ja_name": "ダルマザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ダルマザメ",
+        "コヒレダルマザメ"
+      ],
       "species_count": 2,
       "representative_species": "Isistius brasiliensis",
       "photo": {
@@ -40,7 +49,12 @@
     },
     {
       "genus": "Squaliolus",
-      "ja_name": "Squaliolus属",
+      "ja_name": "オオメコビトザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オオメコビトザメ",
+        "ツラナガコビトザメ"
+      ],
       "species_count": 2,
       "representative_species": "Squaliolus aliae",
       "photo": {
@@ -60,7 +74,7 @@
       "spec_code": 669,
       "scientific_name": "Dalatias licha",
       "genus": "Dalatias",
-      "genus_ja": "Dalatias属",
+      "genus_ja": "ヨロイザメの仲間",
       "ja_name": "ヨロイザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Kitefin shark",
@@ -190,7 +204,7 @@
       "spec_code": 696,
       "scientific_name": "Isistius brasiliensis",
       "genus": "Isistius",
-      "genus_ja": "Isistius属",
+      "genus_ja": "ダルマザメの仲間",
       "ja_name": "ダルマザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Cookie cutter shark",
@@ -320,7 +334,7 @@
       "spec_code": 697,
       "scientific_name": "Isistius plutodus",
       "genus": "Isistius",
-      "genus_ja": "Isistius属",
+      "genus_ja": "ダルマザメの仲間",
       "ja_name": "コヒレダルマザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Largetooth cookiecutter shark",
@@ -420,7 +434,7 @@
       "spec_code": 27208,
       "scientific_name": "Squaliolus aliae",
       "genus": "Squaliolus",
-      "genus_ja": "Squaliolus属",
+      "genus_ja": "オオメコビトザメの仲間",
       "ja_name": "ツラナガコビトザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Smalleye pygmy shark",
@@ -550,7 +564,7 @@
       "spec_code": 705,
       "scientific_name": "Squaliolus laticaudus",
       "genus": "Squaliolus",
-      "genus_ja": "Squaliolus属",
+      "genus_ja": "オオメコビトザメの仲間",
       "ja_name": "オオメコビトザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spined pygmy shark",

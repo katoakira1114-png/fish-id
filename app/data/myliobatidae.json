@@ -2,13 +2,15 @@
   "family": "Myliobatidae",
   "family_ja": "トビエイ科",
   "family_slug": "myliobatidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 2,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Aetomylaeus",
       "ja_name": "Aetomylaeus属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Aetomylaeus nichofii",
       "photo": {
@@ -24,7 +26,11 @@
     },
     {
       "genus": "Myliobatis",
-      "ja_name": "Myliobatis属",
+      "ja_name": "トビエイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トビエイ"
+      ],
       "species_count": 1,
       "representative_species": "Myliobatis tobijei",
       "photo": {
@@ -174,7 +180,7 @@
       "spec_code": 12964,
       "scientific_name": "Myliobatis tobijei",
       "genus": "Myliobatis",
-      "genus_ja": "Myliobatis属",
+      "genus_ja": "トビエイの仲間",
       "ja_name": "トビエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Japanese eagle ray",

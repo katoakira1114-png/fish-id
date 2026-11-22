@@ -2,20 +2,29 @@
   "family": "Opisthoproctidae",
   "family_ja": "デメニギス科",
   "family_slug": "opisthoproctidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 6,
   "genera_count": 5,
   "genera": [
     {
       "genus": "Bathylychnops",
-      "ja_name": "Bathylychnops属",
+      "ja_name": "ムカシデメニギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ムカシデメニギス"
+      ],
       "species_count": 1,
       "representative_species": "Bathylychnops exilis",
       "photo": null
     },
     {
       "genus": "Dolichopteryx",
-      "ja_name": "Dolichopteryx属",
+      "ja_name": "ヒナデメニギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヒナデメニギス",
+        "キタヒナデメニギス"
+      ],
       "species_count": 2,
       "representative_species": "Dolichopteryx parini",
       "photo": {
@@ -31,7 +40,11 @@
     },
     {
       "genus": "Macropinna",
-      "ja_name": "Macropinna属",
+      "ja_name": "デメニギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "デメニギス"
+      ],
       "species_count": 1,
       "representative_species": "Macropinna microstoma",
       "photo": {
@@ -47,7 +60,11 @@
     },
     {
       "genus": "Rhynchohyalus",
-      "ja_name": "Rhynchohyalus属",
+      "ja_name": "ヨツメニギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヨツメニギス"
+      ],
       "species_count": 1,
       "representative_species": "Rhynchohyalus natalensis",
       "photo": {
@@ -63,7 +80,11 @@
     },
     {
       "genus": "Winteria",
-      "ja_name": "Winteria属",
+      "ja_name": "クロデメニギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クロデメニギス"
+      ],
       "species_count": 1,
       "representative_species": "Winteria telescopa",
       "photo": {
@@ -83,7 +104,7 @@
       "spec_code": 9119,
       "scientific_name": "Bathylychnops exilis",
       "genus": "Bathylychnops",
-      "genus_ja": "Bathylychnops属",
+      "genus_ja": "ムカシデメニギスの仲間",
       "ja_name": "ムカシデメニギス",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Javelin spookfish",
@@ -143,7 +164,7 @@
       "spec_code": 63387,
       "scientific_name": "Dolichopteryx minuscula",
       "genus": "Dolichopteryx",
-      "genus_ja": "Dolichopteryx属",
+      "genus_ja": "ヒナデメニギスの仲間",
       "ja_name": "ヒナデメニギス",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -203,7 +224,7 @@
       "spec_code": 60994,
       "scientific_name": "Dolichopteryx parini",
       "genus": "Dolichopteryx",
-      "genus_ja": "Dolichopteryx属",
+      "genus_ja": "ヒナデメニギスの仲間",
       "ja_name": "キタヒナデメニギス",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Winged spookfish",
@@ -283,7 +304,7 @@
       "spec_code": 2704,
       "scientific_name": "Macropinna microstoma",
       "genus": "Macropinna",
-      "genus_ja": "Macropinna属",
+      "genus_ja": "デメニギスの仲間",
       "ja_name": "デメニギス",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Barreleye",
@@ -413,7 +434,7 @@
       "spec_code": 9123,
       "scientific_name": "Rhynchohyalus natalensis",
       "genus": "Rhynchohyalus",
-      "genus_ja": "Rhynchohyalus属",
+      "genus_ja": "ヨツメニギスの仲間",
       "ja_name": "ヨツメニギス",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Glasshead barreleye",
@@ -533,7 +554,7 @@
       "spec_code": 9124,
       "scientific_name": "Winteria telescopa",
       "genus": "Winteria",
-      "genus_ja": "Winteria属",
+      "genus_ja": "クロデメニギスの仲間",
       "ja_name": "クロデメニギス",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Binocular fish",

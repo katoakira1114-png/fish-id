@@ -2,13 +2,17 @@
   "family": "Diodontidae",
   "family_ja": "ハリセンボン科",
   "family_slug": "diodontidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 7,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Chilomycterus",
-      "ja_name": "Chilomycterus属",
+      "ja_name": "イシガキフグの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "イシガキフグ"
+      ],
       "species_count": 1,
       "representative_species": "Chilomycterus reticulatus",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Cyclichthys",
-      "ja_name": "Cyclichthys属",
+      "ja_name": "イガグリフグの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "イガグリフグ",
+        "メイタイシガキフグ"
+      ],
       "species_count": 2,
       "representative_species": "Cyclichthys orbicularis",
       "photo": {
@@ -40,7 +49,13 @@
     },
     {
       "genus": "Diodon",
-      "ja_name": "Diodon属",
+      "ja_name": "ネズミフグの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ネズミフグ",
+        "ハリセンボン",
+        "ヤセハリセンボン"
+      ],
       "species_count": 4,
       "representative_species": "Diodon eydouxii",
       "photo": {
@@ -60,7 +75,7 @@
       "spec_code": 10206,
       "scientific_name": "Chilomycterus reticulatus",
       "genus": "Chilomycterus",
-      "genus_ja": "Chilomycterus属",
+      "genus_ja": "イシガキフグの仲間",
       "ja_name": "イシガキフグ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spotfin burrfish",
@@ -190,7 +205,7 @@
       "spec_code": 5196,
       "scientific_name": "Cyclichthys orbicularis",
       "genus": "Cyclichthys",
-      "genus_ja": "Cyclichthys属",
+      "genus_ja": "イガグリフグの仲間",
       "ja_name": "メイタイシガキフグ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Birdbeak burrfish",
@@ -320,7 +335,7 @@
       "spec_code": 10305,
       "scientific_name": "Cyclichthys spilostylus",
       "genus": "Cyclichthys",
-      "genus_ja": "Cyclichthys属",
+      "genus_ja": "イガグリフグの仲間",
       "ja_name": "イガグリフグ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spotbase burrfish",
@@ -450,7 +465,7 @@
       "spec_code": 14490,
       "scientific_name": "Diodon eydouxii",
       "genus": "Diodon",
-      "genus_ja": "Diodon属",
+      "genus_ja": "ネズミフグの仲間",
       "ja_name": "ヤセハリセンボン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pelagic porcupinefish",
@@ -580,7 +595,7 @@
       "spec_code": 4659,
       "scientific_name": "Diodon holocanthus",
       "genus": "Diodon",
-      "genus_ja": "Diodon属",
+      "genus_ja": "ネズミフグの仲間",
       "ja_name": "ハリセンボン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longspined porcupinefish",
@@ -710,7 +725,7 @@
       "spec_code": 1022,
       "scientific_name": "Diodon hystrix",
       "genus": "Diodon",
-      "genus_ja": "Diodon属",
+      "genus_ja": "ネズミフグの仲間",
       "ja_name": "ネズミフグ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Spot-fin porcupinefish",
@@ -840,7 +855,7 @@
       "spec_code": 6552,
       "scientific_name": "Diodon liturosus",
       "genus": "Diodon",
-      "genus_ja": "Diodon属",
+      "genus_ja": "ネズミフグの仲間",
       "ja_name": "ヒトヅラハリセンボン",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Black-blotched porcupinefish",

@@ -2,13 +2,17 @@
   "family": "Scyliorhinidae",
   "family_ja": "トラザメ科",
   "family_slug": "scyliorhinidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 3,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Cephaloscyllium",
-      "ja_name": "Cephaloscyllium属",
+      "ja_name": "ナヌカザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ナヌカザメ"
+      ],
       "species_count": 1,
       "representative_species": "Cephaloscyllium umbratile",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Scyliorhinus",
-      "ja_name": "Scyliorhinus属",
+      "ja_name": "トラザメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トラザメ",
+        "フカミトラザメ"
+      ],
       "species_count": 2,
       "representative_species": "Scyliorhinus torazame",
       "photo": {
@@ -44,7 +53,7 @@
       "spec_code": 49109,
       "scientific_name": "Cephaloscyllium umbratile",
       "genus": "Cephaloscyllium",
-      "genus_ja": "Cephaloscyllium属",
+      "genus_ja": "ナヌカザメの仲間",
       "ja_name": "ナヌカザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blotchy swell shark",
@@ -174,7 +183,7 @@
       "spec_code": 69620,
       "scientific_name": "Scyliorhinus hachijoensis",
       "genus": "Scyliorhinus",
-      "genus_ja": "Scyliorhinus属",
+      "genus_ja": "トラザメの仲間",
       "ja_name": "フカミトラザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Cinder cloudy catshark",
@@ -234,7 +243,7 @@
       "spec_code": 855,
       "scientific_name": "Scyliorhinus torazame",
       "genus": "Scyliorhinus",
-      "genus_ja": "Scyliorhinus属",
+      "genus_ja": "トラザメの仲間",
       "ja_name": "トラザメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Cloudy catshark",

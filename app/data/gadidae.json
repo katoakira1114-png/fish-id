@@ -2,13 +2,17 @@
   "family": "Gadidae",
   "family_ja": "タラ科",
   "family_slug": "gadidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 3,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Eleginus",
-      "ja_name": "Eleginus属",
+      "ja_name": "コマイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "コマイ"
+      ],
       "species_count": 1,
       "representative_species": "Eleginus gracilis",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Gadus",
-      "ja_name": "Gadus属",
+      "ja_name": "マダラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "マダラ",
+        "スケトウダラ"
+      ],
       "species_count": 2,
       "representative_species": "Gadus chalcogrammus",
       "photo": {
@@ -44,7 +53,7 @@
       "spec_code": 315,
       "scientific_name": "Eleginus gracilis",
       "genus": "Eleginus",
-      "genus_ja": "Eleginus属",
+      "genus_ja": "コマイの仲間",
       "ja_name": "コマイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Saffron cod",
@@ -174,7 +183,7 @@
       "spec_code": 318,
       "scientific_name": "Gadus chalcogrammus",
       "genus": "Gadus",
-      "genus_ja": "Gadus属",
+      "genus_ja": "マダラの仲間",
       "ja_name": "スケトウダラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Alaska pollock",
@@ -304,7 +313,7 @@
       "spec_code": 308,
       "scientific_name": "Gadus macrocephalus",
       "genus": "Gadus",
-      "genus_ja": "Gadus属",
+      "genus_ja": "マダラの仲間",
       "ja_name": "マダラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pacific cod",

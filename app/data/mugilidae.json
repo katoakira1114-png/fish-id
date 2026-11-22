@@ -2,13 +2,17 @@
   "family": "Mugilidae",
   "family_ja": "ボラ科",
   "family_slug": "mugilidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 19,
   "genera_count": 8,
   "genera": [
     {
       "genus": "Cestraeus",
-      "ja_name": "Cestraeus属",
+      "ja_name": "カワボラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カワボラ"
+      ],
       "species_count": 1,
       "representative_species": "Cestraeus plicatilis",
       "photo": {
@@ -24,7 +28,13 @@
     },
     {
       "genus": "Crenimugil",
-      "ja_name": "Crenimugil属",
+      "ja_name": "フウライボラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "フウライボラ",
+        "タイワンメナダ",
+        "ナガレフウライボラ"
+      ],
       "species_count": 5,
       "representative_species": "Crenimugil buchanani",
       "photo": {
@@ -40,7 +50,11 @@
     },
     {
       "genus": "Ellochelon",
-      "ja_name": "Ellochelon属",
+      "ja_name": "オニボラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オニボラ"
+      ],
       "species_count": 1,
       "representative_species": "Ellochelon vaigiensis",
       "photo": {
@@ -56,7 +70,11 @@
     },
     {
       "genus": "Mugil",
-      "ja_name": "Mugil属",
+      "ja_name": "ボラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ボラ"
+      ],
       "species_count": 1,
       "representative_species": "Mugil cephalus",
       "photo": {
@@ -72,7 +90,11 @@
     },
     {
       "genus": "Neomyxus",
-      "ja_name": "Neomyxus属",
+      "ja_name": "クチボソボラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クチボソボラ"
+      ],
       "species_count": 1,
       "representative_species": "Neomyxus leuciscus",
       "photo": {
@@ -88,7 +110,12 @@
     },
     {
       "genus": "Osteomugil",
-      "ja_name": "Osteomugil属",
+      "ja_name": "モンナシボラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "モンナシボラ",
+        "ナンヨウボラ"
+      ],
       "species_count": 3,
       "representative_species": "Osteomugil cunnesius",
       "photo": {
@@ -104,7 +131,13 @@
     },
     {
       "genus": "Planiliza",
-      "ja_name": "Planiliza属",
+      "ja_name": "メナダの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "メナダ",
+        "コボラ",
+        "セスジボラ"
+      ],
       "species_count": 6,
       "representative_species": "Planiliza affinis",
       "photo": {
@@ -120,7 +153,11 @@
     },
     {
       "genus": "Plicomugil",
-      "ja_name": "Plicomugil属",
+      "ja_name": "ワニグチボラの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ワニグチボラ"
+      ],
       "species_count": 1,
       "representative_species": "Plicomugil labiosus",
       "photo": {
@@ -140,7 +177,7 @@
       "spec_code": 15286,
       "scientific_name": "Cestraeus plicatilis",
       "genus": "Cestraeus",
-      "genus_ja": "Cestraeus属",
+      "genus_ja": "カワボラの仲間",
       "ja_name": "カワボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Lobed river mullet",
@@ -220,7 +257,7 @@
       "spec_code": 4817,
       "scientific_name": "Crenimugil buchanani",
       "genus": "Crenimugil",
-      "genus_ja": "Crenimugil属",
+      "genus_ja": "フウライボラの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Bluetail mullet",
@@ -350,7 +387,7 @@
       "spec_code": 5653,
       "scientific_name": "Crenimugil crenilabis",
       "genus": "Crenimugil",
-      "genus_ja": "Crenimugil属",
+      "genus_ja": "フウライボラの仲間",
       "ja_name": "フウライボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Fringelip mullet",
@@ -480,7 +517,7 @@
       "spec_code": 15723,
       "scientific_name": "Crenimugil heterocheilos",
       "genus": "Crenimugil",
-      "genus_ja": "Crenimugil属",
+      "genus_ja": "フウライボラの仲間",
       "ja_name": "ナガレフウライボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Half fringelip mullet",
@@ -560,7 +597,7 @@
       "spec_code": 46377,
       "scientific_name": "Crenimugil pedaraki",
       "genus": "Crenimugil",
-      "genus_ja": "Crenimugil属",
+      "genus_ja": "フウライボラの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Longfin mullet",
@@ -620,7 +657,7 @@
       "spec_code": 5659,
       "scientific_name": "Crenimugil seheli",
       "genus": "Crenimugil",
-      "genus_ja": "Crenimugil属",
+      "genus_ja": "フウライボラの仲間",
       "ja_name": "タイワンメナダ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bluespot mullet",
@@ -750,7 +787,7 @@
       "spec_code": 5656,
       "scientific_name": "Ellochelon vaigiensis",
       "genus": "Ellochelon",
-      "genus_ja": "Ellochelon属",
+      "genus_ja": "オニボラの仲間",
       "ja_name": "オニボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Squaretail mullet",
@@ -880,7 +917,7 @@
       "spec_code": 785,
       "scientific_name": "Mugil cephalus",
       "genus": "Mugil",
-      "genus_ja": "Mugil属",
+      "genus_ja": "ボラの仲間",
       "ja_name": "ボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Flathead grey mullet",
@@ -1010,7 +1047,7 @@
       "spec_code": 5652,
       "scientific_name": "Neomyxus leuciscus",
       "genus": "Neomyxus",
-      "genus_ja": "Neomyxus属",
+      "genus_ja": "クチボソボラの仲間",
       "ja_name": "クチボソボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Acute-jawed mullet",
@@ -1140,7 +1177,7 @@
       "spec_code": 4700,
       "scientific_name": "Osteomugil cunnesius",
       "genus": "Osteomugil",
-      "genus_ja": "Osteomugil属",
+      "genus_ja": "モンナシボラの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Longarm mullet",
@@ -1270,7 +1307,7 @@
       "spec_code": 5658,
       "scientific_name": "Osteomugil engeli",
       "genus": "Osteomugil",
-      "genus_ja": "Osteomugil属",
+      "genus_ja": "モンナシボラの仲間",
       "ja_name": "モンナシボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Kanda",
@@ -1400,7 +1437,7 @@
       "spec_code": 53923,
       "scientific_name": "Osteomugil perusii",
       "genus": "Osteomugil",
-      "genus_ja": "Osteomugil属",
+      "genus_ja": "モンナシボラの仲間",
       "ja_name": "ナンヨウボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longfinned mullet",
@@ -1530,7 +1567,7 @@
       "spec_code": 15287,
       "scientific_name": "Planiliza affinis",
       "genus": "Planiliza",
-      "genus_ja": "Planiliza属",
+      "genus_ja": "メナダの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Eastern keelback mullet",
@@ -1640,7 +1677,7 @@
       "spec_code": 13673,
       "scientific_name": "Planiliza carinata",
       "genus": "Planiliza",
-      "genus_ja": "Planiliza属",
+      "genus_ja": "メナダの仲間",
       "ja_name": "セスジボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Keeled mullet",
@@ -1730,7 +1767,7 @@
       "spec_code": 13000,
       "scientific_name": "Planiliza haematocheilus",
       "genus": "Planiliza",
-      "genus_ja": "Planiliza属",
+      "genus_ja": "メナダの仲間",
       "ja_name": "メナダ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "So-iuy mullet",
@@ -1790,7 +1827,7 @@
       "spec_code": 4816,
       "scientific_name": "Planiliza macrolepis",
       "genus": "Planiliza",
-      "genus_ja": "Planiliza属",
+      "genus_ja": "メナダの仲間",
       "ja_name": "コボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Largescale mullet",
@@ -1920,7 +1957,7 @@
       "spec_code": 5655,
       "scientific_name": "Planiliza melinoptera",
       "genus": "Planiliza",
-      "genus_ja": "Planiliza属",
+      "genus_ja": "メナダの仲間",
       "ja_name": "ヒルギメナダ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Otomebora mullet",
@@ -1980,7 +2017,7 @@
       "spec_code": 4819,
       "scientific_name": "Planiliza subviridis",
       "genus": "Planiliza",
-      "genus_ja": "Planiliza属",
+      "genus_ja": "メナダの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Greenback mullet",
@@ -2110,7 +2147,7 @@
       "spec_code": 5657,
       "scientific_name": "Plicomugil labiosus",
       "genus": "Plicomugil",
-      "genus_ja": "Plicomugil属",
+      "genus_ja": "ワニグチボラの仲間",
       "ja_name": "ワニグチボラ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Hornlip mullet",

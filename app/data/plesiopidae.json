@@ -2,13 +2,17 @@
   "family": "Plesiopidae",
   "family_ja": "タナバタウオ科",
   "family_slug": "plesiopidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 11,
   "genera_count": 5,
   "genera": [
     {
       "genus": "Acanthoplesiops",
-      "ja_name": "Acanthoplesiops属",
+      "ja_name": "フチドリタナバタウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "フチドリタナバタウオ"
+      ],
       "species_count": 2,
       "representative_species": "Acanthoplesiops hiatti",
       "photo": {
@@ -24,7 +28,11 @@
     },
     {
       "genus": "Assessor",
-      "ja_name": "Assessor属",
+      "ja_name": "ツバメタナバタウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ツバメタナバタウオ"
+      ],
       "species_count": 1,
       "representative_species": "Assessor randalli",
       "photo": {
@@ -40,7 +48,11 @@
     },
     {
       "genus": "Belonepterygion",
-      "ja_name": "Belonepterygion属",
+      "ja_name": "トゲタナバタウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トゲタナバタウオ"
+      ],
       "species_count": 1,
       "representative_species": "Belonepterygion fasciolatum",
       "photo": {
@@ -56,7 +68,11 @@
     },
     {
       "genus": "Calloplesiops",
-      "ja_name": "Calloplesiops属",
+      "ja_name": "シモフリタナバタウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シモフリタナバタウオ"
+      ],
       "species_count": 1,
       "representative_species": "Calloplesiops altivelis",
       "photo": {
@@ -72,7 +88,13 @@
     },
     {
       "genus": "Plesiops",
-      "ja_name": "Plesiops属",
+      "ja_name": "タナバタウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タナバタウオ",
+        "ヨサクタナバタウオ",
+        "ドンコタナバタウオ"
+      ],
       "species_count": 6,
       "representative_species": "Plesiops cephalotaenia",
       "photo": {
@@ -92,7 +114,7 @@
       "spec_code": 17444,
       "scientific_name": "Acanthoplesiops hiatti",
       "genus": "Acanthoplesiops",
-      "genus_ja": "Acanthoplesiops属",
+      "genus_ja": "フチドリタナバタウオの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Hiatt's basslet",
@@ -222,7 +244,7 @@
       "spec_code": 59172,
       "scientific_name": "Acanthoplesiops psilogaster",
       "genus": "Acanthoplesiops",
-      "genus_ja": "Acanthoplesiops属",
+      "genus_ja": "フチドリタナバタウオの仲間",
       "ja_name": "フチドリタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Barebelly longfin",
@@ -302,7 +324,7 @@
       "spec_code": 23439,
       "scientific_name": "Assessor randalli",
       "genus": "Assessor",
-      "genus_ja": "Assessor属",
+      "genus_ja": "ツバメタナバタウオの仲間",
       "ja_name": "ツバメタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -432,7 +454,7 @@
       "spec_code": 9230,
       "scientific_name": "Belonepterygion fasciolatum",
       "genus": "Belonepterygion",
-      "genus_ja": "Belonepterygion属",
+      "genus_ja": "トゲタナバタウオの仲間",
       "ja_name": "トゲタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Barred spiny basslet",
@@ -552,7 +574,7 @@
       "spec_code": 12655,
       "scientific_name": "Calloplesiops altivelis",
       "genus": "Calloplesiops",
-      "genus_ja": "Calloplesiops属",
+      "genus_ja": "シモフリタナバタウオの仲間",
       "ja_name": "シモフリタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Comet",
@@ -682,7 +704,7 @@
       "spec_code": 14981,
       "scientific_name": "Plesiops cephalotaenia",
       "genus": "Plesiops",
-      "genus_ja": "Plesiops属",
+      "genus_ja": "タナバタウオの仲間",
       "ja_name": "ヨサクタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Headstripe longfin",
@@ -812,7 +834,7 @@
       "spec_code": 8005,
       "scientific_name": "Plesiops coeruleolineatus",
       "genus": "Plesiops",
-      "genus_ja": "Plesiops属",
+      "genus_ja": "タナバタウオの仲間",
       "ja_name": "タナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Crimsontip longfin",
@@ -942,7 +964,7 @@
       "spec_code": 14983,
       "scientific_name": "Plesiops corallicola",
       "genus": "Plesiops",
-      "genus_ja": "Plesiops属",
+      "genus_ja": "タナバタウオの仲間",
       "ja_name": "ドンコタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bluegill longfin",
@@ -1072,7 +1094,7 @@
       "spec_code": 23437,
       "scientific_name": "Plesiops nakaharae",
       "genus": "Plesiops",
-      "genus_ja": "Plesiops属",
+      "genus_ja": "タナバタウオの仲間",
       "ja_name": "ナカハラタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1152,7 +1174,7 @@
       "spec_code": 23438,
       "scientific_name": "Plesiops oxycephalus",
       "genus": "Plesiops",
-      "genus_ja": "Plesiops属",
+      "genus_ja": "タナバタウオの仲間",
       "ja_name": "オキナワタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Sharp-nosed longfin",
@@ -1232,7 +1254,7 @@
       "spec_code": 50748,
       "scientific_name": "Plesiops verecundus",
       "genus": "Plesiops",
-      "genus_ja": "Plesiops属",
+      "genus_ja": "タナバタウオの仲間",
       "ja_name": "アマミタナバタウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Redtip longfin",

@@ -2,13 +2,19 @@
   "family": "Ophichthidae",
   "family_ja": "ウミヘビ科",
   "family_slug": "ophichthidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:13Z",
   "species_count": 51,
   "genera_count": 21,
   "genera": [
     {
       "genus": "Apterichtus",
-      "ja_name": "Apterichtus属",
+      "ja_name": "ゴマウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ゴマウミヘビ",
+        "ケラマウミヘビ",
+        "ホオジロゴマウミヘビ"
+      ],
       "species_count": 7,
       "representative_species": "Apterichtus australis",
       "photo": {
@@ -24,14 +30,24 @@
     },
     {
       "genus": "Bascanichthys",
-      "ja_name": "Bascanichthys属",
+      "ja_name": "カズラウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カズラウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Bascanichthys ryukyuensis",
       "photo": null
     },
     {
       "genus": "Brachysomophis",
-      "ja_name": "Brachysomophis属",
+      "ja_name": "タツウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タツウミヘビ",
+        "ムラサキウミヘビ",
+        "モヨウタツウミヘビ"
+      ],
       "species_count": 4,
       "representative_species": "Brachysomophis cirrocheilos",
       "photo": {
@@ -47,14 +63,22 @@
     },
     {
       "genus": "Caecula",
-      "ja_name": "Caecula属",
+      "ja_name": "クロウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クロウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Caecula kuro",
       "photo": null
     },
     {
       "genus": "Callechelys",
-      "ja_name": "Callechelys属",
+      "ja_name": "ヒモウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヒモウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Callechelys catostoma",
       "photo": {
@@ -70,14 +94,22 @@
     },
     {
       "genus": "Chauligenion",
-      "ja_name": "Chauligenion属",
+      "ja_name": "キリンウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "キリンウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Chauligenion camelopardalis",
       "photo": null
     },
     {
       "genus": "Echelus",
-      "ja_name": "Echelus属",
+      "ja_name": "ヒレアナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヒレアナゴ"
+      ],
       "species_count": 1,
       "representative_species": "Echelus uropterus",
       "photo": {
@@ -94,6 +126,8 @@
     {
       "genus": "Ichthyapus",
       "ja_name": "Ichthyapus属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Ichthyapus vulturis",
       "photo": {
@@ -109,7 +143,11 @@
     },
     {
       "genus": "Lamnostoma",
-      "ja_name": "Lamnostoma属",
+      "ja_name": "ハクテンウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハクテンウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Lamnostoma polyophthalmum",
       "photo": {
@@ -125,7 +163,11 @@
     },
     {
       "genus": "Leiuranus",
-      "ja_name": "Leiuranus属",
+      "ja_name": "ソラウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ソラウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Leiuranus semicinctus",
       "photo": {
@@ -141,7 +183,12 @@
     },
     {
       "genus": "Muraenichthys",
-      "ja_name": "Muraenichthys属",
+      "ja_name": "ミナミミミズアナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ミナミミミズアナゴ",
+        "ウシィバーミミズアナゴ"
+      ],
       "species_count": 2,
       "representative_species": "Muraenichthys gymnopterus",
       "photo": {
@@ -157,7 +204,12 @@
     },
     {
       "genus": "Myrichthys",
-      "ja_name": "Myrichthys属",
+      "ja_name": "シマウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "シマウミヘビ",
+        "モヨウモンガラドオシ"
+      ],
       "species_count": 2,
       "representative_species": "Myrichthys colubrinus",
       "photo": {
@@ -173,7 +225,11 @@
     },
     {
       "genus": "Myrophis",
-      "ja_name": "Myrophis属",
+      "ja_name": "セレベスヒレアナゴの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "セレベスヒレアナゴ"
+      ],
       "species_count": 1,
       "representative_species": "Myrophis microchir",
       "photo": {
@@ -189,7 +245,12 @@
     },
     {
       "genus": "Neenchelys",
-      "ja_name": "Neenchelys属",
+      "ja_name": "ムカシウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ムカシウミヘビ",
+        "ツルギムカシウミヘビ"
+      ],
       "species_count": 2,
       "representative_species": "Neenchelys mccoskeri",
       "photo": {
@@ -205,7 +266,13 @@
     },
     {
       "genus": "Ophichthus",
-      "ja_name": "Ophichthus属",
+      "ja_name": "スソウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "スソウミヘビ",
+        "イナカウミヘビ",
+        "モンガラドオシ"
+      ],
       "species_count": 13,
       "representative_species": "Ophichthus altipennis",
       "photo": {
@@ -221,7 +288,11 @@
     },
     {
       "genus": "Ophisurus",
-      "ja_name": "Ophisurus属",
+      "ja_name": "ダイナンウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ダイナンウミヘビ"
+      ],
       "species_count": 2,
       "representative_species": "Ophisurus macrorhynchos",
       "photo": {
@@ -237,7 +308,11 @@
     },
     {
       "genus": "Phyllophichthus",
-      "ja_name": "Phyllophichthus属",
+      "ja_name": "ゲットウウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ゲットウウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Phyllophichthus xenodontus",
       "photo": {
@@ -253,7 +328,11 @@
     },
     {
       "genus": "Pisodonophis",
-      "ja_name": "Pisodonophis属",
+      "ja_name": "ミナミホタテウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ミナミホタテウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Pisodonophis cancrivorus",
       "photo": {
@@ -269,7 +348,13 @@
     },
     {
       "genus": "Scolecenchelys",
-      "ja_name": "Scolecenchelys属",
+      "ja_name": "ミサキウナギの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ミサキウナギ",
+        "ミミズアナゴ",
+        "クリミミズアナゴ"
+      ],
       "species_count": 6,
       "representative_species": "Scolecenchelys aoki",
       "photo": {
@@ -285,7 +370,11 @@
     },
     {
       "genus": "Xyrias",
-      "ja_name": "Xyrias属",
+      "ja_name": "ボウウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ボウウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Xyrias revulsus",
       "photo": {
@@ -301,7 +390,11 @@
     },
     {
       "genus": "Yirrkala",
-      "ja_name": "Yirrkala属",
+      "ja_name": "タケノコウミヘビの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タケノコウミヘビ"
+      ],
       "species_count": 1,
       "representative_species": "Yirrkala misolensis",
       "photo": {
@@ -321,7 +414,7 @@
       "spec_code": 63838,
       "scientific_name": "Apterichtus australis",
       "genus": "Apterichtus",
-      "genus_ja": "Apterichtus属",
+      "genus_ja": "ゴマウミヘビの仲間",
       "ja_name": "ホオジロゴマウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Snake eel",
@@ -451,7 +544,7 @@
       "spec_code": 53823,
       "scientific_name": "Apterichtus flavicaudus",
       "genus": "Apterichtus",
-      "genus_ja": "Apterichtus属",
+      "genus_ja": "ゴマウミヘビの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -551,7 +644,7 @@
       "spec_code": 67869,
       "scientific_name": "Apterichtus hatookai",
       "genus": "Apterichtus",
-      "genus_ja": "Apterichtus属",
+      "genus_ja": "ゴマウミヘビの仲間",
       "ja_name": "ダイダイマダラウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Orange blotched eel",
@@ -611,7 +704,7 @@
       "spec_code": 27962,
       "scientific_name": "Apterichtus keramanus",
       "genus": "Apterichtus",
-      "genus_ja": "Apterichtus属",
+      "genus_ja": "ゴマウミヘビの仲間",
       "ja_name": "ケラマウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -671,7 +764,7 @@
       "spec_code": 53822,
       "scientific_name": "Apterichtus moseri",
       "genus": "Apterichtus",
-      "genus_ja": "Apterichtus属",
+      "genus_ja": "ゴマウミヘビの仲間",
       "ja_name": "ゴマウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -731,7 +824,7 @@
       "spec_code": 27807,
       "scientific_name": "Apterichtus orientalis",
       "genus": "Apterichtus",
-      "genus_ja": "Apterichtus属",
+      "genus_ja": "ゴマウミヘビの仲間",
       "ja_name": "キシュウゴマウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -791,7 +884,7 @@
       "spec_code": 69198,
       "scientific_name": "Apterichtus soyoae",
       "genus": "Apterichtus",
-      "genus_ja": "Apterichtus属",
+      "genus_ja": "ゴマウミヘビの仲間",
       "ja_name": "ソウヨウゴマウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -851,7 +944,7 @@
       "spec_code": 69895,
       "scientific_name": "Bascanichthys ryukyuensis",
       "genus": "Bascanichthys",
-      "genus_ja": "Bascanichthys属",
+      "genus_ja": "カズラウミヘビの仲間",
       "ja_name": "カズラウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Vine-like sand eel",
@@ -911,7 +1004,7 @@
       "spec_code": 12886,
       "scientific_name": "Brachysomophis cirrocheilos",
       "genus": "Brachysomophis",
-      "genus_ja": "Brachysomophis属",
+      "genus_ja": "タツウミヘビの仲間",
       "ja_name": "モヨウタツウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Stargazer snake eel",
@@ -1041,7 +1134,7 @@
       "spec_code": 12887,
       "scientific_name": "Brachysomophis crocodilinus",
       "genus": "Brachysomophis",
-      "genus_ja": "Brachysomophis属",
+      "genus_ja": "タツウミヘビの仲間",
       "ja_name": "タツウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Crocodile snake eel",
@@ -1171,7 +1264,7 @@
       "spec_code": 59559,
       "scientific_name": "Brachysomophis henshawi",
       "genus": "Brachysomophis",
-      "genus_ja": "Brachysomophis属",
+      "genus_ja": "タツウミヘビの仲間",
       "ja_name": "ハワイタツウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Reptilian snake eel",
@@ -1301,7 +1394,7 @@
       "spec_code": 22613,
       "scientific_name": "Brachysomophis porphyreus",
       "genus": "Brachysomophis",
-      "genus_ja": "Brachysomophis属",
+      "genus_ja": "タツウミヘビの仲間",
       "ja_name": "ムラサキウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1401,7 +1494,7 @@
       "spec_code": 61392,
       "scientific_name": "Caecula kuro",
       "genus": "Caecula",
-      "genus_ja": "Caecula属",
+      "genus_ja": "クロウミヘビの仲間",
       "ja_name": "クロウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1461,7 +1554,7 @@
       "spec_code": 12888,
       "scientific_name": "Callechelys catostoma",
       "genus": "Callechelys",
-      "genus_ja": "Callechelys属",
+      "genus_ja": "ヒモウミヘビの仲間",
       "ja_name": "ヒモウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Black-striped snake eel",
@@ -1591,7 +1684,7 @@
       "spec_code": 70535,
       "scientific_name": "Chauligenion camelopardalis",
       "genus": "Chauligenion",
-      "genus_ja": "Chauligenion属",
+      "genus_ja": "キリンウミヘビの仲間",
       "ja_name": "キリンウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Giraffe-spotted snake eel",
@@ -1651,7 +1744,7 @@
       "spec_code": 17407,
       "scientific_name": "Echelus uropterus",
       "genus": "Echelus",
-      "genus_ja": "Echelus属",
+      "genus_ja": "ヒレアナゴの仲間",
       "ja_name": "ヒレアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Finned worm eel",
@@ -1891,7 +1984,7 @@
       "spec_code": 23867,
       "scientific_name": "Lamnostoma polyophthalmum",
       "genus": "Lamnostoma",
-      "genus_ja": "Lamnostoma属",
+      "genus_ja": "ハクテンウミヘビの仲間",
       "ja_name": "ハクテンウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Ocellated sand-eel",
@@ -2021,7 +2114,7 @@
       "spec_code": 7473,
       "scientific_name": "Leiuranus semicinctus",
       "genus": "Leiuranus",
-      "genus_ja": "Leiuranus属",
+      "genus_ja": "ソラウミヘビの仲間",
       "ja_name": "ソラウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Saddled snake-eel",
@@ -2151,7 +2244,7 @@
       "spec_code": 17345,
       "scientific_name": "Muraenichthys gymnopterus",
       "genus": "Muraenichthys",
-      "genus_ja": "Muraenichthys属",
+      "genus_ja": "ミナミミミズアナゴの仲間",
       "ja_name": "ウシィバーミミズアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -2251,7 +2344,7 @@
       "spec_code": 7290,
       "scientific_name": "Muraenichthys schultzei",
       "genus": "Muraenichthys",
-      "genus_ja": "Muraenichthys属",
+      "genus_ja": "ミナミミミズアナゴの仲間",
       "ja_name": "ミナミミミズアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Maimed snake eel",
@@ -2351,7 +2444,7 @@
       "spec_code": 8053,
       "scientific_name": "Myrichthys colubrinus",
       "genus": "Myrichthys",
-      "genus_ja": "Myrichthys属",
+      "genus_ja": "シマウミヘビの仲間",
       "ja_name": "シマウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Harlequin snake eel",
@@ -2481,7 +2574,7 @@
       "spec_code": 2650,
       "scientific_name": "Myrichthys maculosus",
       "genus": "Myrichthys",
-      "genus_ja": "Myrichthys属",
+      "genus_ja": "シマウミヘビの仲間",
       "ja_name": "モヨウモンガラドオシ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Tiger snake eel",
@@ -2611,7 +2704,7 @@
       "spec_code": 22602,
       "scientific_name": "Myrophis microchir",
       "genus": "Myrophis",
-      "genus_ja": "Myrophis属",
+      "genus_ja": "セレベスヒレアナゴの仲間",
       "ja_name": "セレベスヒレアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Ordinary snake eel",
@@ -2701,7 +2794,7 @@
       "spec_code": 66664,
       "scientific_name": "Neenchelys mccoskeri",
       "genus": "Neenchelys",
-      "genus_ja": "Neenchelys属",
+      "genus_ja": "ムカシウミヘビの仲間",
       "ja_name": "ツルギムカシウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "McCosker’s worm eel",
@@ -2801,7 +2894,7 @@
       "spec_code": 67485,
       "scientific_name": "Neenchelys similis",
       "genus": "Neenchelys",
-      "genus_ja": "Neenchelys属",
+      "genus_ja": "ムカシウミヘビの仲間",
       "ja_name": "ムカシウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Slender work eel",
@@ -2861,7 +2954,7 @@
       "spec_code": 53849,
       "scientific_name": "Ophichthus altipennis",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "トンガリホタテウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Highfin snake eel",
@@ -2991,7 +3084,7 @@
       "spec_code": 22622,
       "scientific_name": "Ophichthus asakusae",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "イナカウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -3081,7 +3174,7 @@
       "spec_code": 15686,
       "scientific_name": "Ophichthus bonaparti",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "イレズミウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Napoleon snake eel",
@@ -3211,7 +3304,7 @@
       "spec_code": 7291,
       "scientific_name": "Ophichthus cephalozona",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "カタグロウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Dark-shouldered snake eel",
@@ -3341,7 +3434,7 @@
       "spec_code": 15682,
       "scientific_name": "Ophichthus erabo",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "モンガラドオシ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Blotched snake-eel",
@@ -3471,7 +3564,7 @@
       "spec_code": 64829,
       "scientific_name": "Ophichthus lithinus",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "ホウライウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Evermann's snake eel",
@@ -3601,7 +3694,7 @@
       "spec_code": 70139,
       "scientific_name": "Ophichthus machidai",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "マチダウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -3661,7 +3754,7 @@
       "spec_code": 53867,
       "scientific_name": "Ophichthus megalops",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "メダマウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -3721,7 +3814,7 @@
       "spec_code": 70141,
       "scientific_name": "Ophichthus obtusus",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "シシガシラウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -3781,7 +3874,7 @@
       "spec_code": 7475,
       "scientific_name": "Ophichthus polyophthalmus",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "ワヌケモンガラドオシ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Many-eyed snake-eel",
@@ -3911,7 +4004,7 @@
       "spec_code": 59376,
       "scientific_name": "Ophichthus roseus",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -3971,7 +4064,7 @@
       "spec_code": 22624,
       "scientific_name": "Ophichthus tsuchidae",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -4051,7 +4144,7 @@
       "spec_code": 10406,
       "scientific_name": "Ophichthus urolophus",
       "genus": "Ophichthus",
-      "genus_ja": "Ophichthus属",
+      "genus_ja": "スソウミヘビの仲間",
       "ja_name": "スソウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Manetail snake eel",
@@ -4141,7 +4234,7 @@
       "spec_code": 12980,
       "scientific_name": "Ophisurus macrorhynchos",
       "genus": "Ophisurus",
-      "genus_ja": "Ophisurus属",
+      "genus_ja": "ダイナンウミヘビの仲間",
       "ja_name": "ダイナンウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -4231,7 +4324,7 @@
       "spec_code": 1745,
       "scientific_name": "Ophisurus serpens",
       "genus": "Ophisurus",
-      "genus_ja": "Ophisurus属",
+      "genus_ja": "ダイナンウミヘビの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Serpent eel",
@@ -4361,7 +4454,7 @@
       "spec_code": 7470,
       "scientific_name": "Phyllophichthus xenodontus",
       "genus": "Phyllophichthus",
-      "genus_ja": "Phyllophichthus属",
+      "genus_ja": "ゲットウウミヘビの仲間",
       "ja_name": "ゲットウウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Flappy snake-eel",
@@ -4491,7 +4584,7 @@
       "spec_code": 8054,
       "scientific_name": "Pisodonophis cancrivorus",
       "genus": "Pisodonophis",
-      "genus_ja": "Pisodonophis属",
+      "genus_ja": "ミナミホタテウミヘビの仲間",
       "ja_name": "ミナミホタテウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longfin snake-eel",
@@ -4621,7 +4714,7 @@
       "spec_code": 66757,
       "scientific_name": "Scolecenchelys aoki",
       "genus": "Scolecenchelys",
-      "genus_ja": "Scolecenchelys属",
+      "genus_ja": "ミサキウナギの仲間",
       "ja_name": "ミサキウナギ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Misaki worm eel",
@@ -4701,7 +4794,7 @@
       "spec_code": 70140,
       "scientific_name": "Scolecenchelys fuscapenis",
       "genus": "Scolecenchelys",
-      "genus_ja": "Scolecenchelys属",
+      "genus_ja": "ミサキウナギの仲間",
       "ja_name": "ツマグロミミズアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -4761,7 +4854,7 @@
       "spec_code": 66754,
       "scientific_name": "Scolecenchelys fuscogularis",
       "genus": "Scolecenchelys",
-      "genus_ja": "Scolecenchelys属",
+      "genus_ja": "ミサキウナギの仲間",
       "ja_name": "ノドグロミミズアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Dark throat worm eel",
@@ -4821,7 +4914,7 @@
       "spec_code": 7288,
       "scientific_name": "Scolecenchelys gymnota",
       "genus": "Scolecenchelys",
-      "genus_ja": "Scolecenchelys属",
+      "genus_ja": "ミサキウナギの仲間",
       "ja_name": "ミミズアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Indo-Pacific slender worm-eel",
@@ -4951,7 +5044,7 @@
       "spec_code": 67826,
       "scientific_name": "Scolecenchelys iredalei",
       "genus": "Scolecenchelys",
-      "genus_ja": "Scolecenchelys属",
+      "genus_ja": "ミサキウナギの仲間",
       "ja_name": "サンゴミミズアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Coral worm eel",
@@ -5041,7 +5134,7 @@
       "spec_code": 7289,
       "scientific_name": "Scolecenchelys macroptera",
       "genus": "Scolecenchelys",
-      "genus_ja": "Scolecenchelys属",
+      "genus_ja": "ミサキウナギの仲間",
       "ja_name": "クリミミズアナゴ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Narrow worm eel",
@@ -5171,7 +5264,7 @@
       "spec_code": 22612,
       "scientific_name": "Xyrias revulsus",
       "genus": "Xyrias",
-      "genus_ja": "Xyrias属",
+      "genus_ja": "ボウウミヘビの仲間",
       "ja_name": "ボウウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Strict snake eel",
@@ -5261,7 +5354,7 @@
       "spec_code": 59390,
       "scientific_name": "Yirrkala misolensis",
       "genus": "Yirrkala",
-      "genus_ja": "Yirrkala属",
+      "genus_ja": "タケノコウミヘビの仲間",
       "ja_name": "タケノコウミヘビ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Misol snake eel",

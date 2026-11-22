@@ -2,13 +2,17 @@
   "family": "Ephippidae",
   "family_ja": "マンジュウダイ科",
   "family_slug": "ephippidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 5,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Ephippus",
-      "ja_name": "Ephippus属",
+      "ja_name": "マンジュウダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "マンジュウダイ"
+      ],
       "species_count": 1,
       "representative_species": "Ephippus orbis",
       "photo": {
@@ -24,7 +28,13 @@
     },
     {
       "genus": "Platax",
-      "ja_name": "Platax属",
+      "ja_name": "アカククリの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アカククリ",
+        "ツバメウオ",
+        "ミカヅキツバメウオ"
+      ],
       "species_count": 4,
       "representative_species": "Platax boersii",
       "photo": {
@@ -44,7 +54,7 @@
       "spec_code": 8243,
       "scientific_name": "Ephippus orbis",
       "genus": "Ephippus",
-      "genus_ja": "Ephippus属",
+      "genus_ja": "マンジュウダイの仲間",
       "ja_name": "マンジュウダイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Orbfish",
@@ -174,7 +184,7 @@
       "spec_code": 14307,
       "scientific_name": "Platax boersii",
       "genus": "Platax",
-      "genus_ja": "Platax属",
+      "genus_ja": "アカククリの仲間",
       "ja_name": "ミカヅキツバメウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Golden spadefish",
@@ -304,7 +314,7 @@
       "spec_code": 5737,
       "scientific_name": "Platax orbicularis",
       "genus": "Platax",
-      "genus_ja": "Platax属",
+      "genus_ja": "アカククリの仲間",
       "ja_name": "ナンヨウツバメウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Orbicular batfish",
@@ -434,7 +444,7 @@
       "spec_code": 5738,
       "scientific_name": "Platax pinnatus",
       "genus": "Platax",
-      "genus_ja": "Platax属",
+      "genus_ja": "アカククリの仲間",
       "ja_name": "アカククリ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Dusky batfish",
@@ -564,7 +574,7 @@
       "spec_code": 5739,
       "scientific_name": "Platax teira",
       "genus": "Platax",
-      "genus_ja": "Platax属",
+      "genus_ja": "アカククリの仲間",
       "ja_name": "ツバメウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Longfin batfish",

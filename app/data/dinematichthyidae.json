@@ -2,13 +2,19 @@
   "family": "Dinematichthyidae",
   "family_ja": "アカネイタチウオ科",
   "family_slug": "dinematichthyidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 7,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Alionematichthys",
-      "ja_name": "Alionematichthys属",
+      "ja_name": "リュウキュウイタチウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "リュウキュウイタチウオ",
+        "ハダカリュウキュウイタチウオ",
+        "シノハラリュウキュウイタチウオ"
+      ],
       "species_count": 3,
       "representative_species": "Alionematichthys piger",
       "photo": {
@@ -24,7 +30,13 @@
     },
     {
       "genus": "Diancistrus",
-      "ja_name": "Diancistrus属",
+      "ja_name": "トゲイタチウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トゲイタチウオ",
+        "サンゴイタチウオ",
+        "ランドールイタチウオ"
+      ],
       "species_count": 3,
       "representative_species": "Diancistrus fuscus",
       "photo": {
@@ -40,7 +52,11 @@
     },
     {
       "genus": "Dinematichthys",
-      "ja_name": "Dinematichthys属",
+      "ja_name": "アカネイタチウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "アカネイタチウオ"
+      ],
       "species_count": 1,
       "representative_species": "Dinematichthys iluocoeteoides",
       "photo": {
@@ -60,7 +76,7 @@
       "spec_code": 64965,
       "scientific_name": "Alionematichthys piger",
       "genus": "Alionematichthys",
-      "genus_ja": "Alionematichthys属",
+      "genus_ja": "リュウキュウイタチウオの仲間",
       "ja_name": "ハダカリュウキュウイタチウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Whiskered viviparous brotula",
@@ -190,7 +206,7 @@
       "spec_code": 27338,
       "scientific_name": "Alionematichthys riukiuensis",
       "genus": "Alionematichthys",
-      "genus_ja": "Alionematichthys属",
+      "genus_ja": "リュウキュウイタチウオの仲間",
       "ja_name": "リュウキュウイタチウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bigeye cusk",
@@ -320,7 +336,7 @@
       "spec_code": 64962,
       "scientific_name": "Alionematichthys shinoharai",
       "genus": "Alionematichthys",
-      "genus_ja": "Alionematichthys属",
+      "genus_ja": "リュウキュウイタチウオの仲間",
       "ja_name": "シノハラリュウキュウイタチウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -380,7 +396,7 @@
       "spec_code": 23243,
       "scientific_name": "Diancistrus erythraeus",
       "genus": "Diancistrus",
-      "genus_ja": "Diancistrus属",
+      "genus_ja": "トゲイタチウオの仲間",
       "ja_name": "トゲイタチウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Red viviparous brotula",
@@ -440,7 +456,7 @@
       "spec_code": 23244,
       "scientific_name": "Diancistrus fuscus",
       "genus": "Diancistrus",
-      "genus_ja": "Diancistrus属",
+      "genus_ja": "トゲイタチウオの仲間",
       "ja_name": "サンゴイタチウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Dusky brotulid",
@@ -520,7 +536,7 @@
       "spec_code": 63201,
       "scientific_name": "Diancistrus jackrandalli",
       "genus": "Diancistrus",
-      "genus_ja": "Diancistrus属",
+      "genus_ja": "トゲイタチウオの仲間",
       "ja_name": "ランドールイタチウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Randall's coralbrotula",
@@ -580,7 +596,7 @@
       "spec_code": 7300,
       "scientific_name": "Dinematichthys iluocoeteoides",
       "genus": "Dinematichthys",
-      "genus_ja": "Dinematichthys属",
+      "genus_ja": "アカネイタチウオの仲間",
       "ja_name": "アカネイタチウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Yellow pigmy brotula",

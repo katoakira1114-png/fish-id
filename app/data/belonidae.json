@@ -2,13 +2,17 @@
   "family": "Belonidae",
   "family_ja": "ダツ科",
   "family_slug": "belonidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 7,
   "genera_count": 4,
   "genera": [
     {
       "genus": "Ablennes",
-      "ja_name": "Ablennes属",
+      "ja_name": "ハマダツの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハマダツ"
+      ],
       "species_count": 1,
       "representative_species": "Ablennes hians",
       "photo": {
@@ -24,7 +28,11 @@
     },
     {
       "genus": "Platybelone",
-      "ja_name": "Platybelone属",
+      "ja_name": "ヒメダツの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヒメダツ"
+      ],
       "species_count": 1,
       "representative_species": "Platybelone platyura",
       "photo": {
@@ -40,7 +48,12 @@
     },
     {
       "genus": "Strongylura",
-      "ja_name": "Strongylura属",
+      "ja_name": "ダツの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ダツ",
+        "リュウキュウダツ"
+      ],
       "species_count": 2,
       "representative_species": "Strongylura anastomella",
       "photo": {
@@ -56,7 +69,12 @@
     },
     {
       "genus": "Tylosurus",
-      "ja_name": "Tylosurus属",
+      "ja_name": "オキザヨリの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オキザヨリ",
+        "テンジクダツ"
+      ],
       "species_count": 3,
       "representative_species": "Tylosurus acus",
       "photo": {
@@ -76,7 +94,7 @@
       "spec_code": 972,
       "scientific_name": "Ablennes hians",
       "genus": "Ablennes",
-      "genus_ja": "Ablennes属",
+      "genus_ja": "ハマダツの仲間",
       "ja_name": "ハマダツ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Flat needlefish",
@@ -206,7 +224,7 @@
       "spec_code": 1314,
       "scientific_name": "Platybelone platyura",
       "genus": "Platybelone",
-      "genus_ja": "Platybelone属",
+      "genus_ja": "ヒメダツの仲間",
       "ja_name": "ヒメダツ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Keeled needlefish",
@@ -336,7 +354,7 @@
       "spec_code": 23039,
       "scientific_name": "Strongylura anastomella",
       "genus": "Strongylura",
-      "genus_ja": "Strongylura属",
+      "genus_ja": "ダツの仲間",
       "ja_name": "ダツ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -466,7 +484,7 @@
       "spec_code": 8121,
       "scientific_name": "Strongylura incisa",
       "genus": "Strongylura",
-      "genus_ja": "Strongylura属",
+      "genus_ja": "ダツの仲間",
       "ja_name": "リュウキュウダツ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Reef needlefish",
@@ -596,7 +614,7 @@
       "spec_code": 976,
       "scientific_name": "Tylosurus acus",
       "genus": "Tylosurus",
-      "genus_ja": "Tylosurus属",
+      "genus_ja": "オキザヨリの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Agujon needlefish",
@@ -726,7 +744,7 @@
       "spec_code": 977,
       "scientific_name": "Tylosurus crocodilus",
       "genus": "Tylosurus",
-      "genus_ja": "Tylosurus属",
+      "genus_ja": "オキザヨリの仲間",
       "ja_name": "オキザヨリ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Hound needlefish",
@@ -856,7 +874,7 @@
       "spec_code": 1317,
       "scientific_name": "Tylosurus melanotus",
       "genus": "Tylosurus",
-      "genus_ja": "Tylosurus属",
+      "genus_ja": "オキザヨリの仲間",
       "ja_name": "テンジクダツ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Keel-jawed needle fish",

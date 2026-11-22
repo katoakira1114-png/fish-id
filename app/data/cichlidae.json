@@ -2,13 +2,17 @@
   "family": "Cichlidae",
   "family_ja": "カワスズメ科",
   "family_slug": "cichlidae",
-  "generated_at": "2026-11-22T08:34:10Z",
+  "generated_at": "2026-11-22T12:57:12Z",
   "species_count": 6,
   "genera_count": 3,
   "genera": [
     {
       "genus": "Coptodon",
-      "ja_name": "Coptodon属",
+      "ja_name": "ジルティラピアの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ジルティラピア"
+      ],
       "species_count": 1,
       "representative_species": "Coptodon zillii",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Oreochromis",
-      "ja_name": "Oreochromis属",
+      "ja_name": "カワスズメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カワスズメ",
+        "ナイルティラピア"
+      ],
       "species_count": 4,
       "representative_species": "Oreochromis aureus",
       "photo": {
@@ -41,6 +50,8 @@
     {
       "genus": "Sarotherodon",
       "ja_name": "Sarotherodon属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
       "representative_species": "Sarotherodon melanotheron",
       "photo": {
@@ -60,7 +71,7 @@
       "spec_code": 1390,
       "scientific_name": "Coptodon zillii",
       "genus": "Coptodon",
-      "genus_ja": "Coptodon属",
+      "genus_ja": "ジルティラピアの仲間",
       "ja_name": "ジルティラピア",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Redbelly tilapia",
@@ -190,7 +201,7 @@
       "spec_code": 1387,
       "scientific_name": "Oreochromis aureus",
       "genus": "Oreochromis",
-      "genus_ja": "Oreochromis属",
+      "genus_ja": "カワスズメの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Blue tilapia",
@@ -320,7 +331,7 @@
       "spec_code": 3,
       "scientific_name": "Oreochromis mossambicus",
       "genus": "Oreochromis",
-      "genus_ja": "Oreochromis属",
+      "genus_ja": "カワスズメの仲間",
       "ja_name": "カワスズメ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Mozambique tilapia",
@@ -450,7 +461,7 @@
       "spec_code": 2,
       "scientific_name": "Oreochromis niloticus",
       "genus": "Oreochromis",
-      "genus_ja": "Oreochromis属",
+      "genus_ja": "カワスズメの仲間",
       "ja_name": "ナイルティラピア",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Nile tilapia",
@@ -580,7 +591,7 @@
       "spec_code": 1420,
       "scientific_name": "Oreochromis urolepis",
       "genus": "Oreochromis",
-      "genus_ja": "Oreochromis属",
+      "genus_ja": "カワスズメの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Wami tilapia",

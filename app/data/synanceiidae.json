@@ -2,13 +2,17 @@
   "family": "Synanceiidae",
   "family_ja": "オニオコゼ科",
   "family_slug": "synanceiidae",
-  "generated_at": "2026-11-22T08:34:11Z",
+  "generated_at": "2026-11-22T12:57:14Z",
   "species_count": 9,
   "genera_count": 4,
   "genera": [
     {
       "genus": "Erosa",
-      "ja_name": "Erosa属",
+      "ja_name": "ダルマオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ダルマオコゼ"
+      ],
       "species_count": 1,
       "representative_species": "Erosa erosa",
       "photo": {
@@ -24,7 +28,12 @@
     },
     {
       "genus": "Inimicus",
-      "ja_name": "Inimicus属",
+      "ja_name": "オニオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オニオコゼ",
+        "ヒメオニオコゼ"
+      ],
       "species_count": 3,
       "representative_species": "Inimicus didactylus",
       "photo": {
@@ -40,7 +49,13 @@
     },
     {
       "genus": "Minous",
-      "ja_name": "Minous属",
+      "ja_name": "ヒメオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヒメオコゼ",
+        "ヤセオコゼ",
+        "イトオコゼ"
+      ],
       "species_count": 4,
       "representative_species": "Minous groeneveldi",
       "photo": {
@@ -56,7 +71,11 @@
     },
     {
       "genus": "Synanceia",
-      "ja_name": "Synanceia属",
+      "ja_name": "オニダルマオコゼの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オニダルマオコゼ"
+      ],
       "species_count": 1,
       "representative_species": "Synanceia verrucosa",
       "photo": {
@@ -76,7 +95,7 @@
       "spec_code": 10752,
       "scientific_name": "Erosa erosa",
       "genus": "Erosa",
-      "genus_ja": "Erosa属",
+      "genus_ja": "ダルマオコゼの仲間",
       "ja_name": "ダルマオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Pitted stonefish",
@@ -206,7 +225,7 @@
       "spec_code": 5826,
       "scientific_name": "Inimicus didactylus",
       "genus": "Inimicus",
-      "genus_ja": "Inimicus属",
+      "genus_ja": "オニオコゼの仲間",
       "ja_name": "ヒメオニオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bearded ghoul",
@@ -336,7 +355,7 @@
       "spec_code": 6386,
       "scientific_name": "Inimicus japonicus",
       "genus": "Inimicus",
-      "genus_ja": "Inimicus属",
+      "genus_ja": "オニオコゼの仲間",
       "ja_name": "オニオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -466,7 +485,7 @@
       "spec_code": 23892,
       "scientific_name": "Inimicus joubini",
       "genus": "Inimicus",
-      "genus_ja": "Inimicus属",
+      "genus_ja": "オニオコゼの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -546,7 +565,7 @@
       "spec_code": 69921,
       "scientific_name": "Minous groeneveldi",
       "genus": "Minous",
-      "genus_ja": "Minous属",
+      "genus_ja": "ヒメオコゼの仲間",
       "ja_name": "アダヒメオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Groeneveld’s stingfish",
@@ -626,7 +645,7 @@
       "spec_code": 6388,
       "scientific_name": "Minous monodactylus",
       "genus": "Minous",
-      "genus_ja": "Minous属",
+      "genus_ja": "ヒメオコゼの仲間",
       "ja_name": "ヒメオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Grey stingfish",
@@ -756,7 +775,7 @@
       "spec_code": 23890,
       "scientific_name": "Minous pusillus",
       "genus": "Minous",
-      "genus_ja": "Minous属",
+      "genus_ja": "ヒメオコゼの仲間",
       "ja_name": "ヤセオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Dwarf stingfish",
@@ -816,7 +835,7 @@
       "spec_code": 8264,
       "scientific_name": "Minous quincarinatus",
       "genus": "Minous",
-      "genus_ja": "Minous属",
+      "genus_ja": "ヒメオコゼの仲間",
       "ja_name": "イトオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -936,7 +955,7 @@
       "spec_code": 5825,
       "scientific_name": "Synanceia verrucosa",
       "genus": "Synanceia",
-      "genus_ja": "Synanceia属",
+      "genus_ja": "オニダルマオコゼの仲間",
       "ja_name": "オニダルマオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Stonefish",
