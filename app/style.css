@@ -587,6 +587,19 @@ body {
   display: block;
 }
 
+.tile-thumb.is-cropped {
+  position: absolute;
+  max-width: none;
+  object-fit: fill;
+}
+
+.tile-examples {
+  margin: 2px 0 4px;
+  font-size: 0.75rem;
+  color: #475569;
+  line-height: 1.3;
+}
+
 .tile-svg-fallback {
   width: 100%;
   height: 100%;
