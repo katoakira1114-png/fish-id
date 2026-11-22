@@ -456,8 +456,14 @@ function renderGenusTiles(remainingSpecies, activeTraits) {
     if (remList.length === 0) continue;
 
     count += 1;
-    const repPhoto =
-      remList.find((x) => x.sp.photo)?.sp.photo || gMeta.photo;
+    // Use the remaining species whose photo shows the fish best (largest/clearest).
+    let repPhoto = null;
+    for (const x of remList) {
+      const ph = x.sp.photo;
+      if (ph && (!repPhoto || (ph.score || 0) > (repPhoto.score || 0))) repPhoto = ph;
+    }
+    repPhoto = repPhoto || gMeta.photo;
+    const examples = (gMeta.examples_ja || []).join("・");
 
     const matchCnt = remList.filter((x) => x.evalRes.status === "match").length;
     const unkCnt = remList.filter((x) => x.evalRes.status === "unknown").length;
@@ -476,6 +482,7 @@ function renderGenusTiles(remainingSpecies, activeTraits) {
       <div class="tile-body">
         <h3 class="tile-ja">${escapeHtml(gMeta.ja_name)}</h3>
         <p class="tile-sci">${escapeHtml(gMeta.genus)}</p>
+        ${examples ? `<p class="tile-examples">${escapeHtml(examples)}${gMeta.species_count > (gMeta.examples_ja || []).length ? " など" : ""}</p>` : ""}
         <div class="tile-meta-row">
           <span class="count-chip">残り ${remList.length} / ${gMeta.species_count} 種</span>
           ${
@@ -581,8 +588,32 @@ function buildThumbHtml(photo, alt) {
   if (!photo || !photo.url) {
     return buildFallbackSvgHtml("CC写真なし");
   }
-  return `<img class="tile-thumb" src="${escapeHtml(photo.url)}" alt="${escapeHtml(alt)}" loading="lazy" referrerpolicy="no-referrer" />`;
+  const crop = Array.isArray(photo.crop) ? ` data-crop="${photo.crop.join(",")}"` : "";
+  return `<img class="tile-thumb" src="${escapeHtml(photo.url)}" alt="${escapeHtml(alt)}" loading="lazy" referrerpolicy="no-referrer"${crop} />`;
 }
+
+// Zoom a tile image so the detected fish box fills the tile (no blank edges).
+function applyCrop(img) {
+  const c = (img.dataset.crop || "").split(",").map(Number);
+  const wrap = img.parentElement;
+  if (c.length !== 4 || !img.naturalWidth || !wrap) return;
+  const W = wrap.clientWidth, H = wrap.clientHeight;
+  const w = img.naturalWidth, h = img.naturalHeight;
+  if (!W || !H) return;
+  const pad = 0.06;
+  const bx0 = Math.max(0, c[0] - pad) * w, bx1 = Math.min(1, c[2] + pad) * w;
+  const by0 = Math.max(0, c[1] - pad) * h, by1 = Math.min(1, c[3] + pad) * h;
+  const cover = Math.max(W / w, H / h);
+  const k = Math.max(cover, Math.min(W / (bx1 - bx0), H / (by1 - by0), cover * 3));
+  const left = Math.min(0, Math.max(W - w * k, W / 2 - ((bx0 + bx1) / 2) * k));
+  const top = Math.min(0, Math.max(H - h * k, H / 2 - ((by0 + by1) / 2) * k));
+  img.classList.add("is-cropped");
+  Object.assign(img.style, { width: `${w * k}px`, height: `${h * k}px`, left: `${left}px`, top: `${top}px` });
+}
+
+window.addEventListener("resize", () => {
+  document.querySelectorAll("img.tile-thumb[data-crop]").forEach(applyCrop);
+});
 
 function buildFallbackSvgHtml(caption) {
   return `
@@ -600,6 +631,10 @@ function buildFallbackSvgHtml(caption) {
 function attachImgFallback(container) {
   const img = container.querySelector("img.tile-thumb");
   if (!img) return;
+  if (img.dataset.crop) {
+    if (img.complete && img.naturalWidth) requestAnimationFrame(() => applyCrop(img));
+    else img.addEventListener("load", () => applyCrop(img));
+  }
   img.addEventListener("error", () => {
     const wrap = img.parentElement;
     img.remove();
