@@ -115,6 +115,44 @@ def load_valid_photos(family_dir: str, sci_name: str, draft_photo_url: str) -> t
     return primary, gallery
 
 
+EVIDENCE_TRAIT_JA = {
+    "dorsal_spines": "背鰭棘数", "dorsal_soft_rays": "背鰭軟条数",
+    "anal_spines": "臀鰭棘数", "anal_soft_rays": "臀鰭軟条数",
+    "pectoral_rays": "胸鰭条数", "pelvic_rays": "腹鰭条数",
+    "lateral_line_scales": "側線鱗数", "lateral_line_pored_scales": "側線有孔鱗数",
+    "gill_rakers": "鰓耙数", "vertebrae": "脊椎骨数", "scale_rows": "鱗列数",
+    "body_depth": "体高", "head_length": "頭長", "color": "体色・模様",
+    "juvenile_color": "幼魚の色彩", "distinction": "類似種との区別", "other": "その他",
+}
+
+
+def load_evidence(family_dir: str, sci_name: str) -> list:
+    """Read data/<family>/evidence/<sp>.json (論文から抜き出した同定根拠) for the app."""
+    path = os.path.join(family_dir, "evidence", f"{sci_name}.json")
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    out = []
+    for e in data.get("evidence", []):
+        src = e.get("source") or {}
+        if not (src.get("doi") or src.get("url")) or not str(e.get("value", "")).strip():
+            continue  # 出典なし・値なしは載せない
+        trait = (e.get("trait") or "other").strip()
+        out.append({
+            "trait": trait,
+            "trait_ja": EVIDENCE_TRAIT_JA.get(trait, trait),
+            "value": str(e.get("value")).strip(),
+            "vs": e.get("vs") or [],
+            "note": (e.get("note") or "").strip(),
+            "cite": (src.get("cite") or "").strip(),
+            "doi": (src.get("doi") or "").strip(),
+            "url": (src.get("url") or "").strip(),
+            "where": (src.get("where") or "").strip(),
+        })
+    return out
+
+
 def build_family(family_arg: str, family_names: dict) -> dict:
     slug = family_arg.strip().lower()
     family_dir = os.path.join(DATA_DIR, slug)
@@ -161,6 +199,8 @@ def build_family(family_arg: str, family_names: dict) -> dict:
         fm_obj = draft.get("field_marks") or {}
         sim_obj = draft.get("similar_species") or {}
 
+        evidence = load_evidence(family_dir, sci)
+
         species_entry = {
             "spec_code": spec_code,
             "scientific_name": sci,
@@ -195,6 +235,7 @@ def build_family(family_arg: str, family_names: dict) -> dict:
             },
             "missing_traits_filled": sorted(filled_keys),
             "missing_traits_source": (mt_obj.get("source") or "").strip() if filled_keys else "",
+            "evidence": evidence,
         }
         species_list.append(species_entry)
 
