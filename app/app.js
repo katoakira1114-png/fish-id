@@ -47,6 +47,7 @@ function cacheElements() {
     "detail-field-marks", "detail-marks-source",
     "detail-similar-list", "detail-similar-source",
     "detail-traits-grid", "detail-dismiss-btn",
+    "detail-evidence-section", "detail-evidence-list",
   ];
   for (const id of ids) {
     els[id] = document.getElementById(id);
@@ -703,6 +704,19 @@ function openDetailModal(sci) {
     els["detail-similar-list"].innerHTML = `<span class="meristic-line">なし</span>`;
   }
   els["detail-similar-source"].textContent = sp.similar_species_source ? `出典: ${sp.similar_species_source}` : "";
+
+  // Evidence from open-access papers
+  const ev = sp.evidence || [];
+  els["detail-evidence-section"].hidden = ev.length === 0;
+  els["detail-evidence-list"].innerHTML = ev
+    .map((e) => {
+      const href = e.doi ? `https://doi.org/${e.doi}` : e.url;
+      const vs = e.vs && e.vs.length ? `<span class="evidence-vs">vs ${e.vs.map(escapeHtml).join(", ")}</span>` : "";
+      const note = e.note ? `<div>${escapeHtml(e.note)}</div>` : "";
+      return `<li><strong>${escapeHtml(e.trait_ja)}</strong>: ${escapeHtml(e.value)} ${vs}${note}
+        <div class="source-note">出典: <a href="${escapeHtml(href)}" target="_blank" rel="noopener">${escapeHtml(e.cite || e.doi || "論文")}</a>${e.where ? `（${escapeHtml(e.where)}）` : ""}</div></li>`;
+    })
+    .join("");
 
   // Trait grid with ternary match highlights
   const evalRes = evaluateSpecies(sp);
