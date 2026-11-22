@@ -2,9 +2,9 @@
   "family": "Rajidae",
   "family_ja": "ガンギエイ科",
   "family_slug": "rajidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 12,
-  "genera_count": 4,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 25,
+  "genera_count": 10,
   "genera": [
     {
       "genus": "Amblyraja",
@@ -13,7 +13,7 @@
       "examples_ja": [
         "ミツボシカスベ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Amblyraja hyperborea",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671209188/large.jpg",
@@ -33,37 +33,75 @@
       "examples_ja": [
         "メガネカスベ"
       ],
-      "species_count": 1,
-      "representative_species": "Beringraja pulchra",
+      "species_count": 2,
+      "representative_species": "Beringraja binoculata",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680187662/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605151647/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY",
-        "author": "Saryu Mae 前 朝琉",
-        "observed_on": "2026-05-29",
-        "place": "Japan",
+        "license": "CC-BY-NC",
+        "author": "James Saxton",
+        "observed_on": "2026-01-03",
+        "place": "United States of America",
         "life_stage": "不明",
         "context": "不明"
       }
     },
     {
+      "genus": "Caliraja",
+      "ja_name": "Caliraja属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Caliraja stellulata",
+      "photo": null
+    },
+    {
       "genus": "Dipturus",
-      "ja_name": "ゾウカスベの仲間",
+      "ja_name": "ガンギエイの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "ガンギエイ",
         "ゾウカスベ",
-        "キツネカスベ",
-        "テングカスベ"
+        "キツネカスベ"
       ],
-      "species_count": 4,
-      "representative_species": "Dipturus macrocauda",
+      "species_count": 7,
+      "representative_species": "Dipturus chinensis",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/514986844/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255781226/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "李博恒",
-        "observed_on": "2021-01-27",
+        "author": "Future",
+        "observed_on": "2023-01-13",
         "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Hongeo",
+      "ja_name": "コウライカスベの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "コウライカスベ"
+      ],
+      "species_count": 1,
+      "representative_species": "Hongeo koreanus",
+      "photo": null
+    },
+    {
+      "genus": "Leucoraja",
+      "ja_name": "Leucoraja属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Leucoraja fullonica",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250886462/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Anne Schlösser",
+        "observed_on": "2021-09-24",
+        "place": "Faroe Islands",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -77,7 +115,7 @@
         "キテンカスベ",
         "コモンカスベ"
       ],
-      "species_count": 6,
+      "species_count": 8,
       "representative_species": "Okamejei acutispina",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/756339132/large.jpg",
@@ -86,6 +124,51 @@
         "author": "Chao 江星辰",
         "observed_on": "2026-10-22",
         "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Orbiraja",
+      "ja_name": "Orbiraja属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Orbiraja jensenae",
+      "photo": null
+    },
+    {
+      "genus": "Raja",
+      "ja_name": "Raja属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Raja clavata",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604780854/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "David Aitken",
+        "observed_on": "2026-01-02",
+        "place": "Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Rajella",
+      "ja_name": "Rajella属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Rajella lintea",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477060221/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Stewen Dale",
+        "observed_on": "2018-07-27",
+        "place": "Norway",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -220,7 +303,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 2565,
+      "scientific_name": "Amblyraja radiata",
+      "genus": "Amblyraja",
+      "genus_ja": "ミツボシカスベの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Starry ray",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618157775/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "ikelman",
+        "observed_on": "2026-02-22",
+        "place": "United Kingdom of Great Britain and Northern Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618157775/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "ikelman",
+          "observed_on": "2026-02-22",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617019225/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jean-François Rousseau",
+          "observed_on": "2026-02-18",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619297980/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alexandre M. Ramos",
+          "observed_on": "2026-02-26",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.artsobservasjoner.no/MediaLibrary/2026/3/175aa111-13ea-4825-8490-4bc87d687942_image.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Jan Ole Olsen",
+          "observed_on": "2026-03-25",
+          "place": "Skardalen, fjord, Langneset, Kåfjord, Tr",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636754226/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-04-10",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635666442/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-04-08",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "105",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 2556,
+      "scientific_name": "Beringraja binoculata",
+      "genus": "Beringraja",
+      "genus_ja": "メガネカスベの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Big skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605151647/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "James Saxton",
+        "observed_on": "2026-01-03",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605151647/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "James Saxton",
+          "observed_on": "2026-01-03",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605153110/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "James Saxton",
+          "observed_on": "2026-01-03",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609810581/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sarahmitch",
+          "observed_on": "2026-01-19",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609297030/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "gizmo_riffic",
+          "observed_on": "2026-01-19",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609294588/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Paige Larrabee",
+          "observed_on": "2026-01-19",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612889662/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Casey Cunningham",
+          "observed_on": "2026-01-18",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "244",
+        "body_shape": "other",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22550,
@@ -350,13 +696,217 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 2570,
+      "scientific_name": "Caliraja stellulata",
+      "genus": "Caliraja",
+      "genus_ja": "Caliraja属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Starry skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "76",
+        "body_shape": "other",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 67530,
+      "scientific_name": "Dipturus amphispinus",
+      "genus": "Dipturus",
+      "genus_ja": "ガンギエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Ridgeback skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63316,
+      "scientific_name": "Dipturus chinensis",
+      "genus": "Dipturus",
+      "genus_ja": "ガンギエイの仲間",
+      "ja_name": "ガンギエイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255781226/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Future",
+        "observed_on": "2023-01-13",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255781226/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Future",
+          "observed_on": "2023-01-13",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "68",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 15414,
       "scientific_name": "Dipturus gigas",
       "genus": "Dipturus",
-      "genus_ja": "ゾウカスベの仲間",
+      "genus_ja": "ガンギエイの仲間",
       "ja_name": "ゾウカスベ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Giant skate",
@@ -410,13 +960,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 54036,
       "scientific_name": "Dipturus kwangtungensis",
       "genus": "Dipturus",
-      "genus_ja": "ゾウカスベの仲間",
+      "genus_ja": "ガンギエイの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Kwangtung skate",
@@ -470,13 +1021,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22551,
       "scientific_name": "Dipturus macrocauda",
       "genus": "Dipturus",
-      "genus_ja": "ゾウカスベの仲間",
+      "genus_ja": "ガンギエイの仲間",
       "ja_name": "キツネカスベ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Bigtail skate",
@@ -550,13 +1102,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15415,
       "scientific_name": "Dipturus tengu",
       "genus": "Dipturus",
-      "genus_ja": "ゾウカスベの仲間",
+      "genus_ja": "ガンギエイの仲間",
       "ja_name": "テングカスベ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Acutenose skate",
@@ -630,7 +1183,281 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63867,
+      "scientific_name": "Dipturus wuhanlingi",
+      "genus": "Dipturus",
+      "genus_ja": "ガンギエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "China skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640005799/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC0",
+        "author": "Chao 江星辰",
+        "observed_on": "2026-04-18",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640005799/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "Chao 江星辰",
+          "observed_on": "2026-04-18",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "66.8",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 51620,
+      "scientific_name": "Hongeo koreanus",
+      "genus": "Hongeo",
+      "genus_ja": "コウライカスベの仲間",
+      "ja_name": "コウライカスベ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Korean skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "76",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7619,
+      "scientific_name": "Leucoraja fullonica",
+      "genus": "Leucoraja",
+      "genus_ja": "Leucoraja属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shagreen ray",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250886462/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Anne Schlösser",
+        "observed_on": "2021-09-24",
+        "place": "Faroe Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/250886462/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Anne Schlösser",
+          "observed_on": "2021-09-24",
+          "place": "Faroe Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/441dbde0-5230-4165-95c2-4c790e03ebc9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1985-05-31",
+          "place": "North Scotland, 24 miles N.W. of Noup Head",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e86eda91-af49-4a71-8591-745830ef1a4f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1969-06-01",
+          "place": "Off the Skelligs, South West Ireland from 51° 46' 50'' N; 10° 45' 00'' W to 51° 50' 35'' N; 10° 47' 00'' W",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=16110456&type=jpeg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "NHM",
+          "observed_on": "1899",
+          "place": "Kristiansund",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://media-service.nrm.se/images?dataset=fish&id=Full_size/NRM9072LJVC25.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Unknown",
+          "observed_on": "",
+          "place": "No data. From the old collection. Oldest known label written by J.W. Dalman during the period 1818-1828.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/43344965-5c30-4075-b37b-75f318d6af99",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Loch Fyne",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "120",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 15416,
@@ -730,7 +1557,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15417,
@@ -860,7 +1688,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4585,
@@ -980,7 +1809,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15418,
@@ -1110,7 +1940,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22778,
@@ -1230,7 +2061,130 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63809,
+      "scientific_name": "Okamejei mengae",
+      "genus": "Okamejei",
+      "genus_ja": "モヨウカスベの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69709,
+      "scientific_name": "Okamejei panayensis",
+      "genus": "Okamejei",
+      "genus_ja": "モヨウカスベの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Philippine skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "30.44",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 22915,
@@ -1290,7 +2244,331 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 65552,
+      "scientific_name": "Orbiraja jensenae",
+      "genus": "Orbiraja",
+      "genus_ja": "Orbiraja属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sulu Sea skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "53.3",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 2059,
+      "scientific_name": "Raja clavata",
+      "genus": "Raja",
+      "genus_ja": "Raja属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Thornback ray",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604780854/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "David Aitken",
+        "observed_on": "2026-01-02",
+        "place": "Ireland",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604780854/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "David Aitken",
+          "observed_on": "2026-01-02",
+          "place": "Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605638879/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "k_l_v_",
+          "observed_on": "2026-01-05",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604547271/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tobias Polzer",
+          "observed_on": "2026-01-01",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605361540/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Наталия",
+          "observed_on": "2026-01-04",
+          "place": "Ukraine",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607695075/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "AnnaOLL",
+          "observed_on": "2026-01-13",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609526592/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "Stephen James McWilliam",
+          "observed_on": "2026-01-20",
+          "place": "United Kingdom of Great Britain and Northern Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "76-83",
+          "min": 76,
+          "max": 83
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "105",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 6422,
+      "scientific_name": "Rajella lintea",
+      "genus": "Rajella",
+      "genus_ja": "Rajella属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sailray",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477060221/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Stewen Dale",
+        "observed_on": "2018-07-27",
+        "place": "Norway",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477060221/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Stewen Dale",
+          "observed_on": "2018-07-27",
+          "place": "Norway",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23336153/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gonzalo Mucientes Sandoval",
+          "observed_on": "2017-06-22",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23337009/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gonzalo Mucientes Sandoval",
+          "observed_on": "2017-06-18",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://media-service.nrm.se/images?dataset=fish&id=Full_size/NRM51089orig.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "2008-12-15",
+          "place": "Northern Skagerrak",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ipt.nature.ca/multimedia/444/309/CMNFI_1993_0047_01_01_aa.jpg",
+          "source": "GBIF Fish",
+          "license": "CC-BY-NC",
+          "author": "©Canadian Museum of Nature",
+          "observed_on": "1986-09-01",
+          "place": "Davis Strait about 215 air km E./SE. of Cape Dyer, Cumberland Peninsula of Baffin I.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=16110465&type=jpeg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "NHM",
+          "observed_on": "1904-10-09",
+          "place": "Skagerak, Arendals-renna",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "125",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

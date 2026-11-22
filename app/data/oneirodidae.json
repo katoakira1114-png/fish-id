@@ -2,9 +2,9 @@
   "family": "Oneirodidae",
   "family_ja": "ラクダアンコウ科",
   "family_slug": "oneirodidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 13,
-  "genera_count": 8,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 25,
+  "genera_count": 14,
   "genera": [
     {
       "genus": "Bertella",
@@ -59,13 +59,49 @@
       }
     },
     {
+      "genus": "Danaphryne",
+      "ja_name": "Danaphryne属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Danaphryne nigrifilis",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P92102_hab-lat-xr_Dolopichthys_nigrifilis.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-05-22",
+        "place": "South China Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Dermatias",
+      "ja_name": "Dermatias属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Dermatias platynogaster",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=5017201&h=1722",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-06-16",
+        "place": "Sialat Point Lighthouse, South 74 degrees East, 3.9 miles; East coast of Luzon, San Bernardino Strait to San Miguel Bay",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Dolopichthys",
       "ja_name": "ミミズクラクダアンコウの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "ミミズクラクダアンコウ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Dolopichthys longicornis",
       "photo": {
         "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P92100_hab-lat-xr_Dolopichthys_mucronatus.jpg",
@@ -99,6 +135,24 @@
       }
     },
     {
+      "genus": "Lophodolos",
+      "ja_name": "Lophodolos属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Lophodolos indicus",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=16432313&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Whitney, Jonathan, Mundy, Bruce, NOAA",
+        "observed_on": "2022-06-26",
+        "place": "~500miles NE of Hawaii Island, Hawaii, USA",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Microlophichthys",
       "ja_name": "コエダアンコウの仲間",
       "ja_name_official": false,
@@ -127,7 +181,7 @@
         "ヒメラクダアンコウ",
         "トゲラクダアンコウ"
       ],
-      "species_count": 5,
+      "species_count": 10,
       "representative_species": "Oneirodes bulbosus",
       "photo": {
         "url": "https://open.library.ubc.ca/img/thumbnails/cdm/fisheries/500/1.0205299.jpg",
@@ -136,6 +190,24 @@
         "author": "",
         "observed_on": "1965-07-11",
         "place": "W Of Queen Charlotte Id.",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Pentherichthys",
+      "ja_name": "Pentherichthys属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Pentherichthys atratus",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/7f4a1d5c-102d-4d51-8d20-f4d75618c347",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1974-08-23",
+        "place": "Equatorial East Atlantic, Sierra Leone Rise",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -150,6 +222,33 @@
       "species_count": 1,
       "representative_species": "Phyllorhinichthys micractis",
       "photo": null
+    },
+    {
+      "genus": "Spiniphryne",
+      "ja_name": "Spiniphryne属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Spiniphryne gladisfenae",
+      "photo": null
+    },
+    {
+      "genus": "Tyrannophryne",
+      "ja_name": "Tyrannophryne属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Tyrannophryne pugnax",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P9294_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1928-10-19",
+        "place": "Tahiti-Rarotonga",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     }
   ],
   "species": [
@@ -211,7 +310,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16895,
@@ -341,7 +441,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16897,
@@ -471,7 +572,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 27625,
@@ -551,7 +653,170 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16901,
+      "scientific_name": "Danaphryne nigrifilis",
+      "genus": "Danaphryne",
+      "genus_ja": "Danaphryne属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P92102_hab-lat-xr_Dolopichthys_nigrifilis.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-05-22",
+        "place": "South China Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P92102_hab-lat-xr_Dolopichthys_nigrifilis.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-05-22",
+          "place": "South China Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4-5",
+          "min": 4,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "16-19",
+          "min": 16,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 65990,
+      "scientific_name": "Dermatias platynogaster",
+      "genus": "Dermatias",
+      "genus_ja": "Dermatias属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=5017201&h=1722",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-06-16",
+        "place": "Sialat Point Lighthouse, South 74 degrees East, 3.9 miles; East coast of Luzon, San Bernardino Strait to San Miguel Bay",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5017201&h=1722",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-06-16",
+          "place": "Sialat Point Lighthouse, South 74 degrees East, 3.9 miles; East coast of Luzon, San Bernardino Strait to San Miguel Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4",
+          "min": 4,
+          "max": 4
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 16912,
@@ -631,7 +896,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16921,
+      "scientific_name": "Dolopichthys pullatus",
+      "genus": "Dolopichthys",
+      "genus_ja": "ミミズクラクダアンコウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lobed dreamer",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://cdn.floridamuseum.ufl.edu/Fish/e0ea0261-1c68-42bf-8d49-63453e619b4e",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Florida Museum of Natural History Ichthyology",
+        "observed_on": "1972-08-03",
+        "place": "N of the Gulf of Venezuela, near the Islas los Monjes",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/e0ea0261-1c68-42bf-8d49-63453e619b4e",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1972-08-03",
+          "place": "N of the Gulf of Venezuela, near the Islas los Monjes",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P92101_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-03-27",
+          "place": "Amboina - Menado",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "5-8",
+          "min": 5,
+          "max": 8
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4-6",
+          "min": 4,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "17-22",
+          "min": 17,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 54587,
@@ -741,7 +1098,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16923,
+      "scientific_name": "Lophodolos indicus",
+      "genus": "Lophodolos",
+      "genus_ja": "Lophodolos属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=16432313&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Whitney, Jonathan, Mundy, Bruce, NOAA",
+        "observed_on": "2022-06-26",
+        "place": "~500miles NE of Hawaii Island, Hawaii, USA",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=16432313&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Whitney, Jonathan, Mundy, Bruce, NOAA",
+          "observed_on": "2022-06-26",
+          "place": "~500miles NE of Hawaii Island, Hawaii, USA",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P92105_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-05-22",
+          "place": "South China Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "17-21",
+          "min": 17,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 16925,
@@ -871,7 +1320,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23256,
@@ -951,7 +1401,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16933,
+      "scientific_name": "Oneirodes carlsbergi",
+      "genus": "Oneirodes",
+      "genus_ja": "ユメアンコウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/9b4bf3eb-1896-45d8-9a16-21d14bfc90e4",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "South China Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/9b4bf3eb-1896-45d8-9a16-21d14bfc90e4",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "South China Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/699dbb9b-8458-4723-96de-796ac77ad9f9",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1969-11-25",
+          "place": "NW of St. Laurent-du-Maroni.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/1e2d2617-03e8-482d-abdb-009338d5a298",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1922-01-17",
+          "place": "Gulf of Panama",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/bd7bc725-aa87-4cf2-8463-2e01e6538a01",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "S.W. Ireland",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/961b60b6-63c3-4a44-a6ce-ce0882a70716",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "North Atlantic Ocean",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P9285_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4-5",
+          "min": 4,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22.2",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 69325,
@@ -1011,7 +1593,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16939,
@@ -1141,7 +1724,150 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59126,
+      "scientific_name": "Oneirodes flagellifer",
+      "genus": "Oneirodes",
+      "genus_ja": "ユメアンコウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P9280_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1929-11-22",
+        "place": "Nicobar Is.- Malacca Strait - Ceylon",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P9280_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-11-22",
+          "place": "Nicobar Is.- Malacca Strait - Ceylon",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "5-6",
+          "min": 5,
+          "max": 6
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4",
+          "min": 4,
+          "max": 4
+        },
+        "pectoral_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69796,
+      "scientific_name": "Oneirodes formosanus",
+      "genus": "Oneirodes",
+      "genus_ja": "ユメアンコウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Formosa dreamer",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4",
+          "min": 4,
+          "max": 4
+        },
+        "pectoral_rays": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 61615,
@@ -1201,7 +1927,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 24766,
+      "scientific_name": "Oneirodes sabex",
+      "genus": "Oneirodes",
+      "genus_ja": "ユメアンコウの仲間",
+      "ja_name": "チョンマゲラクダアンコウ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Rough dreamer",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169688529/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Ken Graham",
+        "observed_on": "1977-11-01",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169688529/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1977-11-01",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "5-6",
+          "min": 5,
+          "max": 6
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4",
+          "min": 4,
+          "max": 4
+        },
+        "pectoral_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23257,
@@ -1291,7 +2099,180 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59132,
+      "scientific_name": "Oneirodes thysanema",
+      "genus": "Oneirodes",
+      "genus_ja": "ユメアンコウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4",
+          "min": 4,
+          "max": 4
+        },
+        "pectoral_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 16964,
+      "scientific_name": "Pentherichthys atratus",
+      "genus": "Pentherichthys",
+      "genus_ja": "Pentherichthys属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/7f4a1d5c-102d-4d51-8d20-f4d75618c347",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1974-08-23",
+        "place": "Equatorial East Atlantic, Sierra Leone Rise",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/7f4a1d5c-102d-4d51-8d20-f4d75618c347",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1974-08-23",
+          "place": "Equatorial East Atlantic, Sierra Leone Rise",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/961b60b6-63c3-4a44-a6ce-ce0882a70716",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1927-08-28",
+          "place": "Off Guinea-Bissau",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/1e2d2617-03e8-482d-abdb-009338d5a298",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1922-01-16",
+          "place": "Gulf of Panama",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P92103_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "pectoral_rays": {
+          "raw": "21-27",
+          "min": 21,
+          "max": 27
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 57352,
@@ -1351,7 +2332,150 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16967,
+      "scientific_name": "Spiniphryne gladisfenae",
+      "genus": "Spiniphryne",
+      "genus_ja": "Spiniphryne属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Prickly dreamer",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "4-6",
+          "min": 4,
+          "max": 6
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59133,
+      "scientific_name": "Tyrannophryne pugnax",
+      "genus": "Tyrannophryne",
+      "genus_ja": "Tyrannophryne属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P9294_hab-lat-left.jpg",
+        "source": "GBIF Natural History Museum Denmark|Ichthyology",
+        "license": "CC-BY",
+        "author": "",
+        "observed_on": "1928-10-19",
+        "place": "Tahiti-Rarotonga",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P9294_hab-lat-left.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1928-10-19",
+          "place": "Tahiti-Rarotonga",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

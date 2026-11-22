@@ -2,9 +2,9 @@
   "family": "Gonostomatidae",
   "family_ja": "ヨコエソ科",
   "family_slug": "gonostomatidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 12,
-  "genera_count": 5,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 15,
+  "genera_count": 6,
   "genera": [
     {
       "genus": "Cyclothone",
@@ -36,15 +36,15 @@
         "ユメハダカ",
         "ネッタイユメハダカ"
       ],
-      "species_count": 2,
-      "representative_species": "Diplophos taenia",
+      "species_count": 4,
+      "representative_species": "Diplophos pacificus",
       "photo": {
-        "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp64363790007458433415.att.jpg",
-        "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+        "url": "https://data.nhm.ac.uk/media/48a94884-0350-44c5-b90e-eb0c494ecadb",
+        "source": "GBIF",
         "license": "CC-BY",
-        "author": "University of Kansas Biodiversity Institute",
-        "observed_on": "2014-12-03",
-        "place": "Dong Gang Fish Market",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1875-09-02",
+        "place": "Mid Pacific",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -106,6 +106,24 @@
         "author": "Whitney, Jonathan, Mundy, Bruce, NOAA",
         "observed_on": "2022-06-27",
         "place": "~500miles NE of Hawaii Island, Hawaii, USA",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Triplophos",
+      "ja_name": "Triplophos属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Triplophos hemingi",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675092022/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Eva Paulus",
+        "observed_on": "2021-10-06",
+        "place": "Namibia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -240,7 +258,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 9968,
@@ -370,7 +389,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7384,
@@ -500,7 +520,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 9983,
@@ -630,7 +651,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6966,
@@ -760,7 +782,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6967,
@@ -890,7 +913,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22713,
@@ -950,7 +974,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59112,
+      "scientific_name": "Diplophos pacificus",
+      "genus": "Diplophos",
+      "genus_ja": "ユメハダカの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/48a94884-0350-44c5-b90e-eb0c494ecadb",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1875-09-02",
+        "place": "Mid Pacific",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/48a94884-0350-44c5-b90e-eb0c494ecadb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1875-09-02",
+          "place": "Mid Pacific",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10155,
@@ -1080,7 +1186,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69124,
+      "scientific_name": "Diplophos vicinia",
+      "genus": "Diplophos",
+      "genus_ja": "ユメハダカの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Neighbor portholefish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "57-59",
+          "min": 57,
+          "max": 59
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "14.35",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5052,
@@ -1210,7 +1378,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 11674,
@@ -1340,7 +1509,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7383,
@@ -1470,7 +1640,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 22719,
@@ -1590,7 +1761,109 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8089,
+      "scientific_name": "Triplophos hemingi",
+      "genus": "Triplophos",
+      "genus_ja": "Triplophos属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675092022/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Eva Paulus",
+        "observed_on": "2021-10-06",
+        "place": "Namibia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/675092022/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Eva Paulus",
+          "observed_on": "2021-10-06",
+          "place": "Namibia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/ccf95c52-44e2-4098-a6df-70cadd022a5f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1957-11-07",
+          "place": "Off Suriname coast",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/9a10f11d-8b7e-4233-86aa-e5fe57aaac75",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1935-05-02",
+          "place": "Off Mogadishu, Somalia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "53-67",
+          "min": 53,
+          "max": 67
+        },
+        "pectoral_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "36",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

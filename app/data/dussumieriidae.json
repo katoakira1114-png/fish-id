@@ -2,16 +2,18 @@
   "family": "Dussumieriidae",
   "family_ja": "ウルメイワシ科",
   "family_slug": "dussumieriidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 3,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 5,
   "genera_count": 2,
   "genera": [
     {
       "genus": "Dussumieria",
-      "ja_name": "Dussumieria属",
+      "ja_name": "ギンイワシの仲間",
       "ja_name_official": false,
-      "examples_ja": [],
-      "species_count": 2,
+      "examples_ja": [
+        "ギンイワシ"
+      ],
+      "species_count": 4,
       "representative_species": "Dussumieria acuta",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97556526/large.jpg",
@@ -50,7 +52,7 @@
       "spec_code": 1453,
       "scientific_name": "Dussumieria acuta",
       "genus": "Dussumieria",
-      "genus_ja": "Dussumieria属",
+      "genus_ja": "ギンイワシの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Rainbow sardine",
@@ -174,13 +176,105 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69849,
+      "scientific_name": "Dussumieria albulina",
+      "genus": "Dussumieria",
+      "genus_ja": "ギンイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lancer rainbow sardine",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/8f8b04c2-8d33-4da4-a2fa-20bd1af12ef1",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1978-05-20",
+        "place": "Off Semarang, Java, Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/8f8b04c2-8d33-4da4-a2fa-20bd1af12ef1",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1978-05-20",
+          "place": "Off Semarang, Java, Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1599570779837WDphQWPz3R06CPow",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "1827",
+          "place": "cote",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.52",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 1454,
       "scientific_name": "Dussumieria elopsoides",
       "genus": "Dussumieria",
-      "genus_ja": "Dussumieria属",
+      "genus_ja": "ギンイワシの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Slender rainbow sardine",
@@ -304,7 +398,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69846,
+      "scientific_name": "Dussumieria modakandai",
+      "genus": "Dussumieria",
+      "genus_ja": "ギンイワシの仲間",
+      "ja_name": "ギンイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Soft rainbow sardine",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16.27",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 60868,
@@ -434,7 +590,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

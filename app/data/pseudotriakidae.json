@@ -2,10 +2,19 @@
   "family": "Pseudotriakidae",
   "family_ja": "チヒロザメ科",
   "family_slug": "pseudotriakidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 2,
+  "genera_count": 2,
   "genera": [
+    {
+      "genus": "Gollum",
+      "ja_name": "Gollum属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Gollum suluensis",
+      "photo": null
+    },
     {
       "genus": "Pseudotriakis",
       "ja_name": "チヒロザメの仲間",
@@ -28,6 +37,67 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 66257,
+      "scientific_name": "Gollum suluensis",
+      "genus": "Gollum",
+      "genus_ja": "Gollum属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Sulu Gollumshark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "58.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 2536,
       "scientific_name": "Pseudotriakis microdon",
@@ -156,7 +226,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "family": "Polynemidae",
   "family_ja": "ツバメコノシロ科",
   "family_slug": "polynemidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 4,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 9,
+  "genera_count": 4,
   "genera": [
     {
       "genus": "Eleutheronema",
@@ -13,7 +13,7 @@
       "examples_ja": [
         "ミナミコノシロ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Eleutheronema rhadinum",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112219397/large.jpeg",
@@ -27,6 +27,42 @@
       }
     },
     {
+      "genus": "Filimanus",
+      "ja_name": "Filimanus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Filimanus sealei",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13901436&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "",
+        "place": "Zamboanga, Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Leptomelanosoma",
+      "ja_name": "Leptomelanosoma属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Leptomelanosoma indicum",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/66e261a3-83cf-431f-8c9f-193e9681fe75",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Chusan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Polydactylus",
       "ja_name": "ツバメコノシロの仲間",
       "ja_name_official": false,
@@ -35,15 +71,15 @@
         "ナンヨウアゴナシ",
         "カタグロアゴナシ"
       ],
-      "species_count": 3,
-      "representative_species": "Polydactylus plebeius",
+      "species_count": 5,
+      "representative_species": "Polydactylus longipes",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/a7e118b2-5856-4f9a-86bb-5317184d89fb",
+        "url": "https://mediaphoto.mnhn.fr/media/16444833024328NuWUKJb3RkslxQz",
         "source": "GBIF",
         "license": "CC-BY",
-        "author": "The Trustees of the Natural History Museum, London",
-        "observed_on": "",
-        "place": "Japan",
+        "author": "J. PFLIGER",
+        "observed_on": "2005-09-10",
+        "place": "Vanuatu",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -178,7 +214,493 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 340,
+      "scientific_name": "Eleutheronema tetradactylum",
+      "genus": "Eleutheronema",
+      "genus_ja": "ミナミコノシロの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Fourfinger threadfin",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=375bafd4-64aa-4a4b-b18e-e775ba116f45",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Rebecca Johnson",
+        "observed_on": "2005-05-23",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=375bafd4-64aa-4a4b-b18e-e775ba116f45",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Rebecca Johnson",
+          "observed_on": "2005-05-23",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=2e95963f-c780-4958-9fc0-95ebbd16ae01",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Rebecca Johnson",
+          "observed_on": "2005-05-23",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/3a62d2dd-1133-4898-85cd-b77c6eacb43b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607602085/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "JIN Pin-Tsen",
+          "observed_on": "2026-01-13",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/759671161/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "天才贝斯手广町七深",
+          "observed_on": "2026-08-30",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/66e261a3-83cf-431f-8c9f-193e9681fe75",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Chusan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "14-16",
+          "min": 14,
+          "max": 16
+        },
+        "pectoral_rays": {
+          "raw": "4",
+          "min": 4,
+          "max": 4
+        },
+        "lateral_line_scales": {
+          "raw": "59-91",
+          "min": 59,
+          "max": 91
+        },
+        "max_length": "200",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 14518,
+      "scientific_name": "Filimanus sealei",
+      "genus": "Filimanus",
+      "genus_ja": "Filimanus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Eightfinger threadfin",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13901436&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "",
+        "place": "Zamboanga, Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13901436&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "",
+          "place": "Zamboanga, Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8-9",
+          "min": 8,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "46-50",
+          "min": 46,
+          "max": 50
+        },
+        "max_length": "15",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 4469,
+      "scientific_name": "Leptomelanosoma indicum",
+      "genus": "Leptomelanosoma",
+      "genus_ja": "Leptomelanosoma属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Indian threadfin",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/66e261a3-83cf-431f-8c9f-193e9681fe75",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Chusan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/66e261a3-83cf-431f-8c9f-193e9681fe75",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Chusan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610176035/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "mulannn77",
+          "observed_on": "2026-01-21",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615586647/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Ong Jyh Seng",
+          "observed_on": "2026-02-14",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615586611/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Ong Jyh Seng",
+          "observed_on": "2026-02-14",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630336902/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "myomyintthu",
+          "observed_on": "2026-03-29",
+          "place": "Myanmar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/515514181/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Amir Alif Abu Bakar",
+          "observed_on": "2025-06-04",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "19-20",
+          "min": 19,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "70-75",
+          "min": 70,
+          "max": 75
+        },
+        "max_length": "142",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 58741,
+      "scientific_name": "Polydactylus longipes",
+      "genus": "Polydactylus",
+      "genus_ja": "ツバメコノシロの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Long-limb threadfin",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/16444833024328NuWUKJb3RkslxQz",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "J. PFLIGER",
+        "observed_on": "2005-09-10",
+        "place": "Vanuatu",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/16444833024328NuWUKJb3RkslxQz",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "2005-09-10",
+          "place": "Vanuatu",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10355,
+      "scientific_name": "Polydactylus microstoma",
+      "genus": "Polydactylus",
+      "genus_ja": "ツバメコノシロの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Smallmouth threadfin",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11-12",
+          "min": 11,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "13-15",
+          "min": 13,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "25",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7901,
@@ -308,7 +830,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6416,
@@ -438,7 +961,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4470,
@@ -568,7 +1092,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

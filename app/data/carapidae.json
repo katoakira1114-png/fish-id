@@ -2,9 +2,9 @@
   "family": "Carapidae",
   "family_ja": "カクレウオ科",
   "family_slug": "carapidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 12,
-  "genera_count": 6,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 15,
+  "genera_count": 7,
   "genera": [
     {
       "genus": "Carapus",
@@ -78,7 +78,7 @@
         "シンジュカクレウオ",
         "ホソシンジュカクレウオ"
       ],
-      "species_count": 2,
+      "species_count": 4,
       "representative_species": "Onuxodon fowleri",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/587920618/large.jpg",
@@ -108,6 +108,26 @@
         "author": "Mark Allen",
         "observed_on": "1982-04-13",
         "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Snyderidia",
+      "ja_name": "ニシカクレウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ニシカクレウオ"
+      ],
+      "species_count": 1,
+      "representative_species": "Snyderidia canina",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1683297140658BV4T0zA6fFRQCaew",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Flash Copy + J. Pfliger",
+        "observed_on": "1982-10",
+        "place": "Senegal",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -242,7 +262,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 62014,
@@ -302,7 +323,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16829,
@@ -432,7 +454,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 9204,
@@ -562,7 +585,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4832,
@@ -692,7 +716,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23228,
@@ -752,7 +777,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10226,
@@ -862,7 +888,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 24980,
@@ -922,7 +949,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69257,
+      "scientific_name": "Onuxodon albometeori",
+      "genus": "Onuxodon",
+      "genus_ja": "シンジュカクレウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "White pearlfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "136",
+          "min": 136,
+          "max": 136
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "135",
+          "min": 135,
+          "max": 135
+        },
+        "pectoral_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.76",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12785,
@@ -1042,7 +1131,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10744,
+      "scientific_name": "Onuxodon margaritiferae",
+      "genus": "Onuxodon",
+      "genus_ja": "シンジュカクレウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Bivalve pearlfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "sub-terminal/inferior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 16792,
@@ -1122,7 +1273,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 52409,
@@ -1202,7 +1354,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23224,
@@ -1292,7 +1445,129 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 49278,
+      "scientific_name": "Snyderidia canina",
+      "genus": "Snyderidia",
+      "genus_ja": "ニシカクレウオの仲間",
+      "ja_name": "ニシカクレウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1683297140658BV4T0zA6fFRQCaew",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Flash Copy + J. Pfliger",
+        "observed_on": "1982-10",
+        "place": "Senegal",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1683297140658BV4T0zA6fFRQCaew",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Flash Copy + J. Pfliger",
+          "observed_on": "1982-10",
+          "place": "Senegal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/16832971364302vfTXoKG8XveYMds",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Flash Copy + J. Pfliger",
+          "observed_on": "1973-11-26",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P771059_hab-lat-xr_Sebastichthys_carnatus.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1966-02-08",
+          "place": "Panama, Gulf of Panama",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13901275&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1902-03-27",
+          "place": "Honolulu Lighthouse, North 2 degrees, East 2.4'; South coast of Oahu Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/348bc490-708f-4315-bbd7-f0043e67d28b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26.8",
+        "body_shape": "elongated",
+        "caudal_fin": "pointed",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

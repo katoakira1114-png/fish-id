@@ -2,8 +2,8 @@
   "family": "Uranoscopidae",
   "family_ja": "ミシマオコゼ科",
   "family_slug": "uranoscopidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 10,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 13,
   "genera_count": 3,
   "genera": [
     {
@@ -28,22 +28,22 @@
     },
     {
       "genus": "Uranoscopus",
-      "ja_name": "メガネウオの仲間",
+      "ja_name": "ヤギミシマの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "ヤギミシマ",
         "メガネウオ",
-        "ミシマオコゼ",
-        "カスリミシマ"
+        "ミシマオコゼ"
       ],
-      "species_count": 6,
-      "representative_species": "Uranoscopus bicinctus",
+      "species_count": 9,
+      "representative_species": "Uranoscopus affinis",
       "photo": {
-        "url": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=16109923&type=jpeg",
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=d46d1702-11a7-4101-b9a0-ae76557f6cb3",
         "source": "GBIF",
         "license": "CC-BY",
-        "author": "NHM",
-        "observed_on": "1883",
-        "place": "Nagasaki",
+        "author": "Indiana Riley",
+        "observed_on": "2022-10-17",
+        "place": "Australia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -198,7 +198,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69126,
@@ -328,7 +329,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23561,
@@ -458,13 +460,135 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56512,
+      "scientific_name": "Uranoscopus affinis",
+      "genus": "Uranoscopus",
+      "genus_ja": "ヤギミシマの仲間",
+      "ja_name": "ヤギミシマ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=d46d1702-11a7-4101-b9a0-ae76557f6cb3",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Indiana Riley",
+        "observed_on": "2022-10-17",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=d46d1702-11a7-4101-b9a0-ae76557f6cb3",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Indiana Riley",
+          "observed_on": "2022-10-17",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181399674/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1992-04-30",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181397875/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ken Graham",
+          "observed_on": "1992-04-02",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=a234f5ea-d6f3-446e-9564-7970eccfea21",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Mark Allen",
+          "observed_on": "1910-08-02",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=bdc09a22-9fe6-41f2-9788-b9daa5a90555",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "North Reef, Capricorn Group",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "4-5",
+          "min": 4,
+          "max": 5
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "13-20",
+          "min": 13,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.07",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7621,
       "scientific_name": "Uranoscopus bicinctus",
       "genus": "Uranoscopus",
-      "genus_ja": "メガネウオの仲間",
+      "genus_ja": "ヤギミシマの仲間",
       "ja_name": "メガネウオ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Marbled stargazer",
@@ -588,13 +712,75 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69915,
+      "scientific_name": "Uranoscopus brunneus",
+      "genus": "Uranoscopus",
+      "genus_ja": "ヤギミシマの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Dark-finned stargazer",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 58223,
       "scientific_name": "Uranoscopus chinensis",
       "genus": "Uranoscopus",
-      "genus_ja": "メガネウオの仲間",
+      "genus_ja": "ヤギミシマの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -678,13 +864,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 6393,
       "scientific_name": "Uranoscopus japonicus",
       "genus": "Uranoscopus",
-      "genus_ja": "メガネウオの仲間",
+      "genus_ja": "ヤギミシマの仲間",
       "ja_name": "ミシマオコゼ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -808,13 +995,145 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8303,
+      "scientific_name": "Uranoscopus oligolepis",
+      "genus": "Uranoscopus",
+      "genus_ja": "ヤギミシマの仲間",
+      "ja_name": "キビレミシマ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.5941_ventral/format/large",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Naturalis Biodiversity Center",
+        "observed_on": "",
+        "place": "Nagasaki",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.5941_ventral/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "",
+          "place": "Nagasaki",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/uraoli01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-06-16",
+          "place": "Donggang, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp67563380918060383010.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp63282284287795826012.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.4883_ventral/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.4884_ventral/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "4-5",
+          "min": 4,
+          "max": 5
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "11.3",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 13512,
       "scientific_name": "Uranoscopus sulphureus",
       "genus": "Uranoscopus",
-      "genus_ja": "メガネウオの仲間",
+      "genus_ja": "ヤギミシマの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Whitemargin stargazer",
@@ -938,13 +1257,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10777,
       "scientific_name": "Uranoscopus tosae",
       "genus": "Uranoscopus",
-      "genus_ja": "メガネウオの仲間",
+      "genus_ja": "ヤギミシマの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "",
@@ -1028,13 +1348,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 27812,
       "scientific_name": "Uranoscopus turbisquamatus",
       "genus": "Uranoscopus",
-      "genus_ja": "メガネウオの仲間",
+      "genus_ja": "ヤギミシマの仲間",
       "ja_name": "カスリミシマ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "",
@@ -1088,7 +1409,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10508,
@@ -1218,7 +1540,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

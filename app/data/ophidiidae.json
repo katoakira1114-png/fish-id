@@ -2,9 +2,9 @@
   "family": "Ophidiidae",
   "family_ja": "アシロ科",
   "family_slug": "ophidiidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 34,
-  "genera_count": 21,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 58,
+  "genera_count": 25,
   "genera": [
     {
       "genus": "Acanthonus",
@@ -52,17 +52,18 @@
       "ja_name_official": false,
       "examples_ja": [
         "フクメンイタチウオ",
-        "ソコフクメンイタチウオ"
+        "ソコフクメンイタチウオ",
+        "イシフクメンイタチウオ"
       ],
-      "species_count": 2,
-      "representative_species": "Bassozetus levistomatus",
+      "species_count": 6,
+      "representative_species": "Bassozetus compressus",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/f1b6c0fb-3c55-42b4-bd9b-80dfceddd23a",
+        "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
         "source": "GBIF",
         "license": "CC-BY",
         "author": "The Trustees of the Natural History Museum, London",
-        "observed_on": "1990-08-18",
-        "place": "Monaco Basin, NW of Canary Islands",
+        "observed_on": "1874-11-13",
+        "place": "West of Luzon Island, Philippine Island",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -106,15 +107,15 @@
         "モモイタチウオ",
         "トウヨウモモイタチウオ"
       ],
-      "species_count": 2,
-      "representative_species": "Dicrolene quinquarius",
+      "species_count": 3,
+      "representative_species": "Dicrolene longimana",
       "photo": {
-        "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+        "url": "https://data.nhm.ac.uk/media/d87f61b5-e4e3-4560-86c8-1449bde9b402",
         "source": "GBIF",
         "license": "CC-BY",
         "author": "The Trustees of the Natural History Museum, London",
-        "observed_on": "1875-06-04",
-        "place": "Off Nagoya, South of Japan",
+        "observed_on": "1909-03-17",
+        "place": "Bagacay Pt. Lt., Between Cebu  & Leyte Islands",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -145,17 +146,36 @@
       "ja_name_official": false,
       "examples_ja": [
         "シロチョウマン",
-        "ニセシロチョウマン"
+        "スカシチョウマン",
+        "シロガネチョウマン"
       ],
-      "species_count": 2,
-      "representative_species": "Glyptophidium japonicum",
+      "species_count": 4,
+      "representative_species": "Glyptophidium argenteum",
       "photo": {
-        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/glyjap01sl.tif",
-        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
-        "license": "CC-BY-NC",
-        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
-        "observed_on": "2001-11-08",
-        "place": "Donggang, Taiwan",
+        "url": "https://collections.nmnh.si.edu/media/?i=10334622&h=1496",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-03-18",
+        "place": "Bagacay Point Lighthouse, South 37 degrees West, 7.2 miles; Between Cebu and Leyte",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Holcomycteronus",
+      "ja_name": "Holcomycteronus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Holcomycteronus aequatoris",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=5000265&h=454",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-11-18",
+        "place": "Binang Unang Island Peak, South 87 degrees East, 19 miles; Gulf of Tomini, Celebes",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -188,7 +208,7 @@
         "ヨロイイタチウオ",
         "クロヨロイイタチウオ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Hoplobrotula armata",
       "photo": {
         "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.D.1409_4/format/large",
@@ -197,6 +217,24 @@
         "author": "Naturalis Biodiversity Center",
         "observed_on": "",
         "place": "mers du Japon",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Hypopleuron",
+      "ja_name": "Hypopleuron属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Hypopleuron caninum",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10334625&h=1304",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-08-10",
+        "place": "Point Tagolo Lighthouse, South 48 degrees West, 6.7 miles; Northern Mindanao and vicinity",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -242,6 +280,26 @@
       }
     },
     {
+      "genus": "Mastigopterus",
+      "ja_name": "ハゴロモアシロの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハゴロモアシロ"
+      ],
+      "species_count": 1,
+      "representative_species": "Mastigopterus imperator",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884697&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-08-02",
+        "place": "Diuata Point (North), South 76 degrees East, 9.4 miles; Between Leyte and Mindanao",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Monomitopus",
       "ja_name": "クマイタチウオの仲間",
       "ja_name_official": false,
@@ -249,7 +307,7 @@
         "クマイタチウオ",
         "ヤエバクマイタチウオ"
       ],
-      "species_count": 2,
+      "species_count": 4,
       "representative_species": "Monomitopus kumae",
       "photo": {
         "url": "http://fm-digital-assets.fieldmuseum.org/651/989/58844_Monomitopus_kumae_FZ.jpg",
@@ -271,7 +329,7 @@
         "シマイタチウオ",
         "ニテンイタチウオ"
       ],
-      "species_count": 5,
+      "species_count": 11,
       "representative_species": "Neobythites australiensis",
       "photo": {
         "url": "https://mediaphoto.mnhn.fr/media/1713258181302NG0c78dm2A0koEJM",
@@ -321,9 +379,10 @@
       "ja_name": "タライタチウオの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "タライタチウオ"
+        "タライタチウオ",
+        "コワトゲタライタチウオ"
       ],
-      "species_count": 3,
+      "species_count": 4,
       "representative_species": "Porogadus dracocephalus",
       "photo": {
         "url": "https://mediaphoto.mnhn.fr/media/1721830687821QaeH70DAAEdUOYeW",
@@ -355,7 +414,7 @@
       "examples_ja": [
         "ウミドジョウ"
       ],
-      "species_count": 1,
+      "species_count": 3,
       "representative_species": "Sirembo imberbis",
       "photo": {
         "url": "https://data.nhm.ac.uk/media/ed7e55d7-d68a-4d7b-9db7-2b5c95cd1ce8",
@@ -387,6 +446,15 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Tenuicephalus",
+      "ja_name": "Tenuicephalus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Tenuicephalus multitrabs",
+      "photo": null
     },
     {
       "genus": "Xyelacyba",
@@ -538,7 +606,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 52723,
@@ -618,7 +687,281 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 27428,
+      "scientific_name": "Bassozetus compressus",
+      "genus": "Bassozetus",
+      "genus_ja": "フクメンイタチウオの仲間",
+      "ja_name": "オオリンフクメンイタチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Abyssal assfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1874-11-13",
+        "place": "West of Luzon Island, Philippine Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1874-11-13",
+          "place": "West of Luzon Island, Philippine Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "62",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 54223,
+      "scientific_name": "Bassozetus elongatus",
+      "genus": "Bassozetus",
+      "genus_ja": "フクメンイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10334549&h=1804",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-11-18",
+        "place": "Binang Unang Island Peak, South 87 degrees East, 19 miles; Gulf of Tomini, Celebes",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10334549&h=1804",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-11-18",
+          "place": "Binang Unang Island Peak, South 87 degrees East, 19 miles; Gulf of Tomini, Celebes",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "122-128",
+          "min": 122,
+          "max": 128
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "104-108",
+          "min": 104,
+          "max": 108
+        },
+        "pectoral_rays": {
+          "raw": "21-22",
+          "min": 21,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "48",
+        "body_shape": "eel-like",
+        "caudal_fin": "pointed",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 47209,
+      "scientific_name": "Bassozetus glutinosus",
+      "genus": "Bassozetus",
+      "genus_ja": "フクメンイタチウオの仲間",
+      "ja_name": "ナンヨウフクメンイタチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Glutin assfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884644&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes, Raredon, Sandra",
+        "observed_on": "1890-03-14",
+        "place": "Bay of Bengal",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884644&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes, Raredon, Sandra",
+          "observed_on": "1890-03-14",
+          "place": "Bay of Bengal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e738bfe6-85c4-4e98-83af-976f2cfb5fdc",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Off Ganjam Coast",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2c1050d5-67b9-413f-b909-cfbade72260b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Chantabou",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a7102da5-b3f8-4875-937f-68128d942400",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Gulf of Aden",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "120-127",
+          "min": 120,
+          "max": 127
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "101-103",
+          "min": 101,
+          "max": 103
+        },
+        "pectoral_rays": {
+          "raw": "26-29",
+          "min": 26,
+          "max": 29
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "66.3",
+        "body_shape": "",
+        "caudal_fin": "pointed",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 54232,
@@ -698,7 +1041,109 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7627,
+      "scientific_name": "Bassozetus robustus",
+      "genus": "Bassozetus",
+      "genus_ja": "フクメンイタチウオの仲間",
+      "ja_name": "イシフクメンイタチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Robust assfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884640&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1908-12-27",
+        "place": "Point Tabonan, North 85 degrees East, 45.2 miles; Palawan Passage",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884640&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1908-12-27",
+          "place": "Point Tabonan, North 85 degrees East, 45.2 miles; Palawan Passage",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://193.146.88.250/WEB/PECES/Bassozetus%20robustus_475%20(1).JPG",
+          "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
+          "license": "CC-BY-NC",
+          "author": "IEO",
+          "observed_on": "2006-11-20",
+          "place": "Morocco",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://193.146.88.250/WEB/PECES/Bassozetus%20robustus_578%20(1).JPG",
+          "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
+          "license": "CC-BY-NC",
+          "author": "IEO",
+          "observed_on": "2006-11-20",
+          "place": "Morocco",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "115-123",
+          "min": 115,
+          "max": 123
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "94-102",
+          "min": 94,
+          "max": 102
+        },
+        "pectoral_rays": {
+          "raw": "25-30",
+          "min": 25,
+          "max": 30
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "64",
+        "body_shape": "elongated",
+        "caudal_fin": "pointed",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 54109,
@@ -778,7 +1223,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 54123,
@@ -838,7 +1284,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7297,
@@ -968,7 +1415,109 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 54124,
+      "scientific_name": "Dicrolene longimana",
+      "genus": "Dicrolene",
+      "genus_ja": "モモイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/d87f61b5-e4e3-4560-86c8-1449bde9b402",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1909-03-17",
+        "place": "Bagacay Pt. Lt., Between Cebu  & Leyte Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/d87f61b5-e4e3-4560-86c8-1449bde9b402",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1909-03-17",
+          "place": "Bagacay Pt. Lt., Between Cebu  & Leyte Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10334539&h=916",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-07-31",
+          "place": "San Ricardo Point (Panaon Island), South 59 degrees East, 9 miles; Between Leyte and Mindanao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f6062003-f296-4685-b4ee-ee6cc3892843",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Gulf of Aden",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "102",
+          "min": 102,
+          "max": 102
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "81",
+          "min": 81,
+          "max": 81
+        },
+        "pectoral_rays": {
+          "raw": "22-33",
+          "min": 22,
+          "max": 33
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "32",
+        "body_shape": "",
+        "caudal_fin": "pointed",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23231,
@@ -1048,7 +1597,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23232,
@@ -1128,7 +1678,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 54125,
@@ -1238,7 +1789,129 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 54134,
+      "scientific_name": "Glyptophidium argenteum",
+      "genus": "Glyptophidium",
+      "genus_ja": "シロチョウマンの仲間",
+      "ja_name": "シロガネチョウマン",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10334622&h=1496",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-03-18",
+        "place": "Bagacay Point Lighthouse, South 37 degrees West, 7.2 miles; Between Cebu and Leyte",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10334622&h=1496",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-03-18",
+          "place": "Bagacay Point Lighthouse, South 37 degrees West, 7.2 miles; Between Cebu and Leyte",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1688397374458UStJoMAFFcOQUs6j",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "1980-11-05",
+          "place": "makasar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1689088324319bsyFStwExA4Tsrat",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z.GABSI",
+          "observed_on": "1980-11-05",
+          "place": "makasar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/f7c012d0-e6db-4185-849f-6d03572aa986",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Off Malabar Coast",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/eca9ff9b-170c-45d1-a1b2-bef0957e7499",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "SE Laccadive Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "140-158",
+          "min": 140,
+          "max": 158
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "114-133",
+          "min": 114,
+          "max": 133
+        },
+        "pectoral_rays": {
+          "raw": "20-24",
+          "min": 20,
+          "max": 24
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28.7",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 24946,
@@ -1318,7 +1991,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 24948,
+      "scientific_name": "Glyptophidium lucidum",
+      "genus": "Glyptophidium",
+      "genus_ja": "シロチョウマンの仲間",
+      "ja_name": "スカシチョウマン",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Sculptured cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1713258219009F1Tu6kMFKmAVZYbx",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "A. Dettai",
+        "observed_on": "2009-07-11",
+        "place": "Madagascar",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258219009F1Tu6kMFKmAVZYbx",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-11",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258170732XaonrYRk7BY5K4Fi",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2007-09-22",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/17132581722758XEY8wq68JE6aa80",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2007-09-24",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d87f61b5-e4e3-4560-86c8-1449bde9b402",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "South East Kayoa Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "133-146",
+          "min": 133,
+          "max": 146
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "109-122",
+          "min": 109,
+          "max": 122
+        },
+        "pectoral_rays": {
+          "raw": "23-26",
+          "min": 23,
+          "max": 26
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "21.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10434,
@@ -1398,7 +2183,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16784,
+      "scientific_name": "Holcomycteronus aequatoris",
+      "genus": "Holcomycteronus",
+      "genus_ja": "Holcomycteronus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=5000265&h=454",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-11-18",
+        "place": "Binang Unang Island Peak, South 87 degrees East, 19 miles; Gulf of Tomini, Celebes",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5000265&h=454",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-11-18",
+          "place": "Binang Unang Island Peak, South 87 degrees East, 19 miles; Gulf of Tomini, Celebes",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "111-113",
+          "min": 111,
+          "max": 113
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "88-91",
+          "min": 88,
+          "max": 91
+        },
+        "pectoral_rays": {
+          "raw": "20-21",
+          "min": 20,
+          "max": 21
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "28.8",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8536,
@@ -1528,7 +2395,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12563,
@@ -1658,7 +2526,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 54139,
@@ -1718,7 +2587,230 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7628,
+      "scientific_name": "Hoplobrotula gnathopus",
+      "genus": "Hoplobrotula",
+      "genus_ja": "ヨロイイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "False kinglip",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-1286664005924368174.att.JPG",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Sean Fennessy",
+        "observed_on": "2010-08-16",
+        "place": "ACEP Trawl 1.4",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-1286664005924368174.att.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Sean Fennessy",
+          "observed_on": "2010-08-16",
+          "place": "ACEP Trawl 1.4",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-5615210450235876534.att.jpg",
+          "source": "GBIF ALLAN CONNELL",
+          "license": "CC-BY",
+          "author": "Alan D. Connell; Knud Sorensen",
+          "observed_on": "2009-06-15",
+          "place": "Tugela Deep",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_2722.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "2008-04-15",
+          "place": "KwaZulu-Natal",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-4611867886180794210.att.jpg",
+          "source": "GBIF Marine Collections 2007",
+          "license": "CC-BY",
+          "author": "Alan D. Connell",
+          "observed_on": "2007-08-01",
+          "place": "Tugela Deep",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/ae2ff78a-a700-41bc-a507-7179c106b10b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Natal, off Umuoti River, 22 miles out",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "99-103",
+          "min": 99,
+          "max": 103
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "78-82",
+          "min": 78,
+          "max": 82
+        },
+        "pectoral_rays": {
+          "raw": "22-25",
+          "min": 22,
+          "max": 25
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "45",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10646,
+      "scientific_name": "Hypopleuron caninum",
+      "genus": "Hypopleuron",
+      "genus_ja": "Hypopleuron属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Whiptail cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10334625&h=1304",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-08-10",
+        "place": "Point Tagolo Lighthouse, South 48 degrees West, 6.7 miles; Northern Mindanao and vicinity",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10334625&h=1304",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-08-10",
+          "place": "Point Tagolo Lighthouse, South 48 degrees West, 6.7 miles; Northern Mindanao and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/128230792/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sileesh Mullasseri",
+          "observed_on": "2021-05-11",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/51aac5f6-10cf-4b0c-9bbc-99544d59350b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "26",
+          "min": 26,
+          "max": 26
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "57",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8945,
@@ -1808,7 +2900,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12502,
@@ -1908,7 +3001,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56351,
+      "scientific_name": "Mastigopterus imperator",
+      "genus": "Mastigopterus",
+      "genus_ja": "ハゴロモアシロの仲間",
+      "ja_name": "ハゴロモアシロ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884697&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-08-02",
+        "place": "Diuata Point (North), South 76 degrees East, 9.4 miles; Between Leyte and Mindanao",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884697&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-08-02",
+          "place": "Diuata Point (North), South 76 degrees East, 9.4 miles; Between Leyte and Mindanao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884698&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-11-30",
+          "place": "Saint Lamo Island (Southeast), North 9 degrees West, 7 miles; Patiente Strait and southward",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "53.5",
+        "body_shape": "elongated",
+        "caudal_fin": "pointed",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23234,
@@ -1998,7 +3183,180 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 54167,
+      "scientific_name": "Monomitopus longiceps",
+      "genus": "Monomitopus",
+      "genus_ja": "クマイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884723&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1908-08-08",
+        "place": "China Sea, vicinity southern Luzon (General Locality Data)",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884723&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1908-08-08",
+          "place": "China Sea, vicinity southern Luzon (General Locality Data)",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 54168,
+      "scientific_name": "Monomitopus microlepis",
+      "genus": "Monomitopus",
+      "genus_ja": "クマイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884734&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-03-18",
+        "place": "Bagacay Point Lighthouse, South 37 degrees West, 7.2 miles; Between Cebu and Leyte",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884734&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-03-18",
+          "place": "Bagacay Point Lighthouse, South 37 degrees West, 7.2 miles; Between Cebu and Leyte",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884736&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1908-07-22",
+          "place": "Matocot Point, South 50 degrees East, 3.10 miles; China Sea, vicinity southern Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23235,
@@ -2098,7 +3456,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 60969,
@@ -2178,7 +3537,291 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56356,
+      "scientific_name": "Neobythites fasciatus",
+      "genus": "Neobythites",
+      "genus_ja": "シオイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/d87f61b5-e4e3-4560-86c8-1449bde9b402",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1909-08-10",
+        "place": "Tagolo Pt.Lt., Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/d87f61b5-e4e3-4560-86c8-1449bde9b402",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1909-08-10",
+          "place": "Tagolo Pt.Lt., Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884748&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1908-07-22",
+          "place": "Matocot Point, South 50 degrees East, 3.10 miles; China Sea, vicinity southern Luzon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258241356o0rP4R2naOMpSRvp",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2007-09-22",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16.1",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10647,
+      "scientific_name": "Neobythites longipes",
+      "genus": "Neobythites",
+      "genus_ja": "シオイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longray cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884756&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-09-17",
+        "place": "Jolo Lighthouse (Jolo), North 83 degrees East, 15.5 miles; Jolo Island and vicinity",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884756&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-09-17",
+          "place": "Jolo Lighthouse (Jolo), North 83 degrees East, 15.5 miles; Jolo Island and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 54248,
+      "scientific_name": "Neobythites longiventralis",
+      "genus": "Neobythites",
+      "genus_ja": "シオイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1713258168989BWx2rgJo1TRR3hYw",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "A. Dettai",
+        "observed_on": "2007-09-25",
+        "place": "Solomon Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258168989BWx2rgJo1TRR3hYw",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2007-09-25",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1677677008789w3m5CmrsL0GU9pfy",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "1985-09-17",
+          "place": "$$$$",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1677677007963B3RtjmOCD8iSVpCA",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "1985-09-19",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "91-92",
+          "min": 91,
+          "max": 92
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "76",
+          "min": 76,
+          "max": 76
+        },
+        "pectoral_rays": {
+          "raw": "25-26",
+          "min": 25,
+          "max": 26
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "13.7",
+        "body_shape": "elongated",
+        "caudal_fin": "pointed",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 67383,
@@ -2238,7 +3881,291 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10648,
+      "scientific_name": "Neobythites macrops",
+      "genus": "Neobythites",
+      "genus_ja": "シオイタチウオの仲間",
+      "ja_name": "セボシイタチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Spotfin cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1875-01-25",
+        "place": "North of Mindanao Island, Philippine Island",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/73a679fd-0173-4211-9640-0a792e6ddc0d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1875-01-25",
+          "place": "North of Mindanao Island, Philippine Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/51aac5f6-10cf-4b0c-9bbc-99544d59350b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/0ae4758f-5428-429b-8fd9-3beb6b265819",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "South of Java, Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "21.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 10685,
+      "scientific_name": "Neobythites malayanus",
+      "genus": "Neobythites",
+      "genus_ja": "シオイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://medialib.naturalis.nl/file/id/ZMA.PISC.110841_XRAY/format/large",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Naturalis Biodiversity Center",
+        "observed_on": "1900-02-14",
+        "place": "Saleh Bucht  ; Sumbawa",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://medialib.naturalis.nl/file/id/ZMA.PISC.110841_XRAY/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "1900-02-14",
+          "place": "Saleh Bucht  ; Sumbawa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/51aac5f6-10cf-4b0c-9bbc-99544d59350b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "17.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 12551,
+      "scientific_name": "Neobythites purus",
+      "genus": "Neobythites",
+      "genus_ja": "シオイタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Pure cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884764&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-03-13",
+        "place": "Tubig Point, North 49 degrees East, 5 miles; Between Samar and Masbate",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884764&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-03-13",
+          "place": "Tubig Point, North 49 degrees East, 5 miles; Between Samar and Masbate",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258021382KwqiicKaLkPMlzHh",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2005-10-07",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12989,
@@ -2368,7 +4295,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23237,
@@ -2448,7 +4376,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 54206,
@@ -2568,7 +4497,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 59810,
@@ -2658,7 +4588,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10526,
@@ -2758,7 +4689,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 66226,
@@ -2818,7 +4750,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69551,
@@ -2908,7 +4841,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23630,
@@ -2968,7 +4902,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16789,
+      "scientific_name": "Porogadus miles",
+      "genus": "Porogadus",
+      "genus_ja": "タライタチウオの仲間",
+      "ja_name": "コワトゲタライタチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Slender cuskeel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/4dabd349-8aeb-49f2-a749-73d61c7acfd2.jpg",
+        "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+        "license": "CC-BY",
+        "author": "University of Kansas Biodiversity Institute",
+        "observed_on": "2008-03-30",
+        "place": "Slope water",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/4dabd349-8aeb-49f2-a749-73d61c7acfd2.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2008-03-30",
+          "place": "Slope water",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://193.146.88.250/WEB/PECES/Porogadus%20miles_415.JPG",
+          "source": "GBIF Colección de fauna marina del Centro Oceanográfico de Canarias",
+          "license": "CC-BY-NC",
+          "author": "IEO",
+          "observed_on": "2005-03-13",
+          "place": "Namibia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2042fd39-854b-4d6a-b61c-239ed971e780",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1970-10-23",
+          "place": "NE Atlantic, Azores Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884817&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1884-09-12",
+          "place": "General position: Cape Hatteras to Nantucket",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "38.7",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 54237,
@@ -3028,7 +5074,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23239,
@@ -3088,7 +5135,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23238,
@@ -3148,7 +5196,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 4965,
+      "scientific_name": "Sirembo amaculata",
+      "genus": "Sirembo",
+      "genus_ja": "ウミドジョウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lined cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "94-96",
+          "min": 94,
+          "max": 96
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "71-73",
+          "min": 71,
+          "max": 73
+        },
+        "pectoral_rays": {
+          "raw": "27",
+          "min": 27,
+          "max": 27
+        },
+        "lateral_line_scales": {
+          "raw": "51-52",
+          "min": 51,
+          "max": 52
+        },
+        "max_length": "40.5",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8193,
@@ -3278,7 +5388,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 10527,
+      "scientific_name": "Sirembo jerdoni",
+      "genus": "Sirembo",
+      "genus_ja": "ウミドジョウの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Brown-banded cusk-eel",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.11_112.e0016859-4066-4827-88a7-e8f5dbc2c108.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Michael Mendiola, Nicko Flores, Don Carpenter",
+        "observed_on": "2015-07-24",
+        "place": "Philippines, Panay Island, Iloilo Province, Iloilo City \"Super\" fish market. Vendors claim fish caught around Palawan.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.11_112.e0016859-4066-4827-88a7-e8f5dbc2c108.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Michael Mendiola, Nicko Flores, Don Carpenter",
+          "observed_on": "2015-07-24",
+          "place": "Philippines, Panay Island, Iloilo Province, Iloilo City \"Super\" fish market. Vendors claim fish caught around Palawan.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/51aac5f6-10cf-4b0c-9bbc-99544d59350b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8991,
@@ -3408,7 +5610,130 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69717,
+      "scientific_name": "Tenuicephalus multitrabs",
+      "genus": "Tenuicephalus",
+      "genus_ja": "Tenuicephalus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "20.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69716,
+      "scientific_name": "Tenuicephalus squamilabrus",
+      "genus": "Tenuicephalus",
+      "genus_ja": "Tenuicephalus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "17.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8994,
@@ -3488,7 +5813,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

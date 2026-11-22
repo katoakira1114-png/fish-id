@@ -2,10 +2,28 @@
   "family": "Clinidae",
   "family_ja": "アサヒギンポ科",
   "family_slug": "clinidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 2,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 3,
+  "genera_count": 3,
   "genera": [
+    {
+      "genus": "Clinus",
+      "ja_name": "Clinus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Clinus berrisfordi",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604201984/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Di Boonman",
+        "observed_on": "2025-12-29",
+        "place": "South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Heteroclinus",
       "ja_name": "Heteroclinus属",
@@ -46,6 +64,97 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 16996,
+      "scientific_name": "Clinus berrisfordi",
+      "genus": "Clinus",
+      "genus_ja": "Clinus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Onrust klipfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604201984/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Di Boonman",
+        "observed_on": "2025-12-29",
+        "place": "South Africa",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604201984/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Di Boonman",
+          "observed_on": "2025-12-29",
+          "place": "South Africa",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_7147.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Malcolm J. Smale",
+          "observed_on": "1986-09-04",
+          "place": "Skoenmakerskop",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "33-36",
+          "min": 33,
+          "max": 36
+        },
+        "dorsal_soft_rays": {
+          "raw": "5-6",
+          "min": 5,
+          "max": 6
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "22-25",
+          "min": 22,
+          "max": 25
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 23743,
       "scientific_name": "Heteroclinus roseus",
@@ -174,7 +283,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23568,
@@ -304,7 +414,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

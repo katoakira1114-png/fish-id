@@ -2,8 +2,8 @@
   "family": "Etmopteridae",
   "family_ja": "カラスザメ科",
   "family_slug": "etmopteridae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 11,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 17,
   "genera_count": 3,
   "genera": [
     {
@@ -14,15 +14,15 @@
         "カスミザメ",
         "ハダカカスミザメ"
       ],
-      "species_count": 2,
-      "representative_species": "Centroscyllium kamoharai",
+      "species_count": 3,
+      "representative_species": "Centroscyllium fabricii",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51095956/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662503614/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "Ken Graham",
-        "observed_on": "1988-06-21",
-        "place": "Australia",
+        "license": "CC-BY",
+        "author": "Julien Savoie",
+        "observed_on": "2026-05-18",
+        "place": "Canada",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -36,15 +36,15 @@
         "カラスザメ",
         "ホソフジクジラ"
       ],
-      "species_count": 8,
-      "representative_species": "Etmopterus brachyurus",
+      "species_count": 13,
+      "representative_species": "Etmopterus bigelowi",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590114253/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY-NC",
-        "author": "キクラゲ",
-        "observed_on": "2025-11-10",
-        "place": "Japan",
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=24705f4f-bba7-442c-8601-58a5fbaf4093",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Joycelyn Goh",
+        "observed_on": "2024-03-03",
+        "place": "Australia",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -71,6 +71,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 656,
+      "scientific_name": "Centroscyllium fabricii",
+      "genus": "Centroscyllium",
+      "genus_ja": "カスミザメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Black dogfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662503614/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY",
+        "author": "Julien Savoie",
+        "observed_on": "2026-05-18",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662503614/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-05-18",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662503643/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-05-18",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664732093/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-05-22",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662504515/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Savoie",
+          "observed_on": "2026-05-18",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671566036/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Iván Jesús Fernández Jiménez",
+          "observed_on": "2026-06-02",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/553185399/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "ottoshark",
+          "observed_on": "2025-08-16",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "107",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 658,
       "scientific_name": "Centroscyllium kamoharai",
@@ -169,7 +300,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 661,
@@ -279,7 +411,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 25482,
+      "scientific_name": "Etmopterus bigelowi",
+      "genus": "Etmopterus",
+      "genus_ja": "フジクジラの仲間",
+      "ja_name": "リュウキュウカラスザメ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Blurred smooth lantern shark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=24705f4f-bba7-442c-8601-58a5fbaf4093",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Joycelyn Goh",
+        "observed_on": "2024-03-03",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=24705f4f-bba7-442c-8601-58a5fbaf4093",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Joycelyn Goh",
+          "observed_on": "2024-03-03",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=11206e3f-c1fe-4409-bd19-45c8d6cf95e4",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Kerryn Parkinson",
+          "observed_on": "2009-09-11",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=62a71fc3-aff8-40f8-b5b6-c00fc9de3111",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Kerryn Parkinson",
+          "observed_on": "2009-09-15",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1720021671506FMESPbpEqdwlmrYR",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Z. GABSI",
+          "observed_on": "2002-02-01",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c4d942a9-e3bc-4a4b-9714-55a6dd16bdf1",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Kerryn Parkinson",
+          "observed_on": "2001-07-17",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=3267c6ef-7dbd-40f2-a899-bcdb725c2569",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Kerryn Parkinson",
+          "observed_on": "2001-07-17",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "67",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 675,
@@ -409,7 +673,251 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 63154,
+      "scientific_name": "Etmopterus burgessi",
+      "genus": "Etmopterus",
+      "genus_ja": "フジクジラの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Broadsnout lanternshark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/1e/86/1e864d86-e882-427b-8222-bcf6be72611b.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Ebert, David A.",
+        "observed_on": "1988-05-11",
+        "place": "Ta-Chi, northeastern Taiwan; fish market",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/1e/86/1e864d86-e882-427b-8222-bcf6be72611b.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Ebert, David A.",
+          "observed_on": "1988-05-11",
+          "place": "Ta-Chi, northeastern Taiwan; fish market",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "35.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 677,
+      "scientific_name": "Etmopterus decacuspidatus",
+      "genus": "Etmopterus",
+      "genus_ja": "フジクジラの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Combtoothed lanternshark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/2c75a783-0912-4432-b6f5-98e4ce0624ba",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1965-03-05",
+        "place": "120 miles south of Cape Bastion, Hainan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/2c75a783-0912-4432-b6f5-98e4ce0624ba",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1965-03-05",
+          "place": "120 miles south of Cape Bastion, Hainan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "29",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 66060,
+      "scientific_name": "Etmopterus joungi",
+      "genus": "Etmopterus",
+      "genus_ja": "フジクジラの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shortfin smooth lanternshark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/89/c3/89c3b94e-bfcd-4fc0-918d-a03e6f24c1e4.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Ebert, David A.",
+        "observed_on": "2005-05-23",
+        "place": "Ta-Chi, Taiwan; fish market",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/89/c3/89c3b94e-bfcd-4fc0-918d-a03e6f24c1e4.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Ebert, David A.",
+          "observed_on": "2005-05-23",
+          "place": "Ta-Chi, Taiwan; fish market",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40.6",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 681,
@@ -539,7 +1047,99 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 68881,
+      "scientific_name": "Etmopterus marshae",
+      "genus": "Etmopterus",
+      "genus_ja": "フジクジラの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Marsha’s lanternshark",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/0a/19/0a192b44-f9a9-47b6-9629-125a77ebb63c.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "crew of DA-BFAR",
+        "observed_on": "2011-05-30",
+        "place": "Between Luzon I. and Mindoro I.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/0a/19/0a192b44-f9a9-47b6-9629-125a77ebb63c.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "crew of DA-BFAR",
+          "observed_on": "2011-05-30",
+          "place": "Between Luzon I. and Mindoro I.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1720104617135X1dnbbRxcKULZECr",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "n.o.coriolis|musorstom 2, camp.",
+          "observed_on": "1980-12-01",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "23.4",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23928,
@@ -669,7 +1269,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 683,
@@ -799,7 +1400,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 684,
@@ -929,7 +1531,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 53993,
@@ -1009,7 +1612,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 27023,
@@ -1139,7 +1743,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 688,
@@ -1249,7 +1854,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 54015,
@@ -1339,7 +1945,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

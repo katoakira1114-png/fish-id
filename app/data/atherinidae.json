@@ -1,11 +1,29 @@
 {
   "family": "Atherinidae",
-  "family_ja": "",
+  "family_ja": "トウゴロウイワシ科",
   "family_slug": "atherinidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 7,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 19,
+  "genera_count": 5,
   "genera": [
+    {
+      "genus": "Atherina",
+      "ja_name": "Atherina属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Atherina boyeri",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605612551/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC0",
+        "author": "Giorgio Zavattoni",
+        "observed_on": "2026-01-05",
+        "place": "Italy",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Atherinomorus",
       "ja_name": "ヤクシマイワシの仲間",
@@ -14,15 +32,33 @@
         "ヤクシマイワシ",
         "ホソオビヤクシマイワシ"
       ],
-      "species_count": 2,
-      "representative_species": "Atherinomorus lacunosus",
+      "species_count": 7,
+      "representative_species": "Atherinomorus endrachtensis",
       "photo": {
-        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/2b/25/2b25d2aa-d76e-4691-a281-176165fbdac6.jpg",
-        "source": "GBIF",
-        "license": "CC0",
-        "author": "Anderson (, R. Van Vleck; Anderson ?)",
-        "observed_on": "",
-        "place": "Osumi Is. Group, Yaku-Shima, Miyanoura.",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/758675296/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Abner Bucol",
+        "observed_on": "2022-04-23",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Doboatherina",
+      "ja_name": "Doboatherina属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 2,
+      "representative_species": "Doboatherina balabacensis",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/733577003/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "J Sim",
+        "observed_on": "2026-09-12",
+        "place": "Singapore",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -36,7 +72,7 @@
         "オオスジイソイワシ",
         "オキナワトウゴロウ"
       ],
-      "species_count": 5,
+      "species_count": 8,
       "representative_species": "Hypoatherina barnesi",
       "photo": {
         "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-1878514763917101563.att.jpg",
@@ -48,9 +84,422 @@
         "life_stage": "不明",
         "context": "不明"
       }
+    },
+    {
+      "genus": "Stenatherina",
+      "ja_name": "トガリイソイワシの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トガリイソイワシ"
+      ],
+      "species_count": 1,
+      "representative_species": "Stenatherina panatela",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_152.bdefd285-6ec5-4ee6-a44f-10a57ee5a524.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Amanda Ackiss, Apollo Lizano, E. Boesak, David Catania",
+        "observed_on": "2014-05-06",
+        "place": "Philippines, Batangas, north side of Maricaban Island, Bethlehem dive site",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     }
   ],
   "species": [
+    {
+      "spec_code": 1696,
+      "scientific_name": "Atherina boyeri",
+      "genus": "Atherina",
+      "genus_ja": "Atherina属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Big-scale sand smelt",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605612551/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC0",
+        "author": "Giorgio Zavattoni",
+        "observed_on": "2026-01-05",
+        "place": "Italy",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605612551/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC0",
+          "author": "Giorgio Zavattoni",
+          "observed_on": "2026-01-05",
+          "place": "Italy",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609324171/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Adrien Lowenstein - Anaïs Berry",
+          "observed_on": "2026-01-16",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609968682/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Frédéric ANDRE",
+          "observed_on": "2026-01-21",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607536430/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sylvain Le Bris",
+          "observed_on": "2026-01-11",
+          "place": "France",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://observation.org/photos/144054875.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Youp van den Heuvel",
+          "observed_on": "2026-02-14",
+          "place": "Borssele - Noordnol / koelwaterinlaat centrale",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/753370789/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jelle_wissink",
+          "observed_on": "2026-02-06",
+          "place": "Netherlands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7-10",
+          "min": 7,
+          "max": 10
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-16",
+          "min": 8,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "10-18",
+          "min": 10,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "lateral_line_scales": {
+          "raw": "39-49",
+          "min": 39,
+          "max": 49
+        },
+        "max_length": "20",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 5228,
+      "scientific_name": "Atherinomorus endrachtensis",
+      "genus": "Atherinomorus",
+      "genus_ja": "ヤクシマイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Eendracht Land silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/758675296/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Abner Bucol",
+        "observed_on": "2022-04-23",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/758675296/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Abner Bucol",
+          "observed_on": "2022-04-23",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/81/b7/81b78010-fa3d-4012-9fce-0eb0a724bb4f.JPG",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Ackiss, A.; Biesack, E.; Catania, David; Dumale., D; Lowman, M.",
+          "observed_on": "2014-05-16",
+          "place": "Calatagan; Batangas; Seagrass bed offshore from mangroves just north of the Lago de Oro, steps to the beach",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/118b6977-ab40-4f01-83dd-251300bfba31",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Laguna de Bay",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575329588/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "the_species_seeker",
+          "observed_on": "2025-09-30",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597576875/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Sam",
+          "observed_on": "2025-12-05",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/61672eb4-8e2b-408e-a809-5797f571ee70",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1970-05-11",
+          "place": "Trobriand Island, Kuia  Island, north  west side (New Guinea); Bottom: sand and mud, and coral  outcrops: Water: Slightly turbid",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-7",
+          "min": 5,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "12-16",
+          "min": 12,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "9",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 15025,
+      "scientific_name": "Atherinomorus insularum",
+      "genus": "Atherinomorus",
+      "genus_ja": "ヤクシマイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Hawaiian Islands silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612075940/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Andy McGeoch",
+        "observed_on": "2026-01-16",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612075940/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Andy McGeoch",
+          "observed_on": "2026-01-16",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612826522/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jack Johnson",
+          "observed_on": "2026-01-13",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614246554/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Brianne Rogers",
+          "observed_on": "2026-02-08",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/613295990/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Beth Burrous",
+          "observed_on": "2026-02-04",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618480407/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Anders Hastings",
+          "observed_on": "2026-02-20",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/618480548/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Anders Hastings",
+          "observed_on": "2026-02-20",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "9.8",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 1303,
       "scientific_name": "Atherinomorus lacunosus",
@@ -179,7 +628,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15087,
+      "scientific_name": "Atherinomorus lineatus",
+      "genus": "Atherinomorus",
+      "genus_ja": "ヤクシマイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Lined silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/a898331f-6413-44e3-bafc-cc679512d1db",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/a898331f-6413-44e3-bafc-cc679512d1db",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/118b6977-ab40-4f01-83dd-251300bfba31",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sitankai, Sulu Philippines Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/521761fc-e865-49fd-89e9-dcee8f7b79d3",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Andamans",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a1e29fb2-31f6-45ab-b08a-201637888f5a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Amboyna",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-6",
+          "min": 5,
+          "max": 6
+        },
+        "dorsal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "7.5",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "absent",
+        "stripes": "present",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 66824,
@@ -309,7 +870,392 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15106,
+      "scientific_name": "Atherinomorus regina",
+      "genus": "Atherinomorus",
+      "genus_ja": "ヤクシマイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Culion silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/118b6977-ab40-4f01-83dd-251300bfba31",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Sitankai, Sulu, Philippines Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/118b6977-ab40-4f01-83dd-251300bfba31",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Sitankai, Sulu, Philippines Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "15-19",
+          "min": 15,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "7",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "absent",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 61247,
+      "scientific_name": "Atherinomorus vaigiensis",
+      "genus": "Atherinomorus",
+      "genus_ja": "ヤクシマイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Ogilby's hardyhead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606107565/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Alex Fox",
+        "observed_on": "2026-01-07",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606107565/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Alex Fox",
+          "observed_on": "2026-01-07",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615508285/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Parker H",
+          "observed_on": "2026-02-13",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615933132/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "offshore_",
+          "observed_on": "2026-02-15",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/617947970/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "aquado64",
+          "observed_on": "2026-02-18",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/619726127/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Parker H",
+          "observed_on": "2026-02-27",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624801705/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "offshore_",
+          "observed_on": "2026-03-15",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "12-15",
+          "min": 12,
+          "max": 15
+        },
+        "pectoral_rays": {
+          "raw": "15-19",
+          "min": 15,
+          "max": 19
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "17",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 59891,
+      "scientific_name": "Doboatherina aetholepis",
+      "genus": "Doboatherina",
+      "genus_ja": "Doboatherina属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Spatular-scale silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-8",
+          "min": 5,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "anal_spines": {
+          "raw": "12-14",
+          "min": 12,
+          "max": 14
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 69052,
+      "scientific_name": "Doboatherina balabacensis",
+      "genus": "Doboatherina",
+      "genus_ja": "Doboatherina属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Balabac Island silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/733577003/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "J Sim",
+        "observed_on": "2026-09-12",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/733577003/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "J Sim",
+          "observed_on": "2026-09-12",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/734172455/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2026-09-11",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/756934307/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tay Jing Xuan",
+          "observed_on": "2026-10-28",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455701957/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jiayuan Lin",
+          "observed_on": "2024-09-21",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 1305,
@@ -439,7 +1385,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 15269,
+      "scientific_name": "Hypoatherina crenolepis",
+      "genus": "Hypoatherina",
+      "genus_ja": "ギンイソイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Crenulated silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://fm-digital-assets.fieldmuseum.org/652/790/62598_Allanetta_crenolepsis_FZ.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Field Museum of Natural History",
+        "observed_on": "1908",
+        "place": "Philippine Is.:  Tara Is",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/652/790/62598_Allanetta_crenolepsis_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1908",
+          "place": "Philippine Is.:  Tara Is",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-7",
+          "min": 6,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "7-9",
+          "min": 7,
+          "max": 9
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "6.5",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 66756,
@@ -499,7 +1527,270 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 8120,
+      "scientific_name": "Hypoatherina ovalaua",
+      "genus": "Hypoatherina",
+      "genus_ja": "ギンイソイワシの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Fijian silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/61672eb4-8e2b-408e-a809-5797f571ee70",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1970-05-11",
+        "place": "Trobriand Island,halfway up east side from  village on Kuia  Island (New Guinea); Bottom: sand and  coral patches",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/61672eb4-8e2b-408e-a809-5797f571ee70",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1970-05-11",
+          "place": "Trobriand Island,halfway up east side from  village on Kuia  Island (New Guinea); Bottom: sand and  coral patches",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1502/956/17282_X43_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1929",
+          "place": "Ovalau Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1502/977/17283_X42_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1929",
+          "place": "Ovalau Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/652/787/17272_Atherina_ovalaua_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1929",
+          "place": "Ovalau Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1502/600/17273_X44_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1929",
+          "place": "Ovalau Island",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/1502/622/17275_X42_FMNH_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1929",
+          "place": "Ovalau Island",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "4-7",
+          "min": 4,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "9-12",
+          "min": 9,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "7.8",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 1307,
+      "scientific_name": "Hypoatherina temminckii",
+      "genus": "Hypoatherina",
+      "genus_ja": "ギンイソイワシの仲間",
+      "ja_name": "ミナミギンイソイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Samoan silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.10_208.66870d61-d5be-4bd1-ac3f-6f3cf81238a9.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+        "observed_on": "2017-11-05",
+        "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim from vicinity of Bulan, Ticao Pass.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.10_208.66870d61-d5be-4bd1-ac3f-6f3cf81238a9.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+          "observed_on": "2017-11-05",
+          "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim from vicinity of Bulan, Ticao Pass.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.14_105.7fd6c2d8-cad3-41cd-9210-91e681d2bf11.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+          "observed_on": "2017-11-05",
+          "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim from vicinity of Bulan, Ticao Pass.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.14_141.c1fa776d-af67-4b1b-abe2-0823d070ce4f.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+          "observed_on": "2017-11-05",
+          "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim from vicinity of Bulan, Ticao Pass.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.12_153.ea4ca33d-95ab-4097-9260-0c8126c5149e.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+          "observed_on": "2017-11-05",
+          "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim from vicinity of Bulan, Ticao Pass.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.17_121.d416fc15-4850-45aa-93f1-0d3638db5638.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+          "observed_on": "2017-11-05",
+          "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim from vicinity of Bulan, Ticao Pass.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.12_148.efd6c172-7ec4-4751-8460-67e18021f65b.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Nicko A. Flores, Jin K. Dionisio",
+          "observed_on": "2017-11-05",
+          "place": "Philippines, Sorsogon Province, Bulan market. Vendors claim from vicinity of Bulan, Ticao Pass.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6-8",
+          "min": 6,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "pectoral_rays": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "12",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23372,
@@ -629,7 +1920,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 15462,
@@ -759,7 +2051,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23371,
@@ -849,7 +2142,119 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7303,
+      "scientific_name": "Stenatherina panatela",
+      "genus": "Stenatherina",
+      "genus_ja": "トガリイソイワシの仲間",
+      "ja_name": "トガリイソイワシ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Panatella silverside",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_152.bdefd285-6ec5-4ee6-a44f-10a57ee5a524.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeffrey T. Williams, Kent Carpenter, Amanda Ackiss, Apollo Lizano, E. Boesak, David Catania",
+        "observed_on": "2014-05-06",
+        "place": "Philippines, Batangas, north side of Maricaban Island, Bethlehem dive site",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_152.bdefd285-6ec5-4ee6-a44f-10a57ee5a524.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, Amanda Ackiss, Apollo Lizano, E. Boesak, David Catania",
+          "observed_on": "2014-05-06",
+          "place": "Philippines, Batangas, north side of Maricaban Island, Bethlehem dive site",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_144.2e0e421a-9f31-482d-a57c-eacfa2805fb5.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeffrey T. Williams, Kent Carpenter, T. Nanola, Apollo Lizano, Toby Potenciana",
+          "observed_on": "2012-05-20",
+          "place": "Philippines, Davao del Sur, purchased from Lanang Market, Davao City. Vendor stated that fish was caught in vicinity of Samal Island, Mindanao.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/24/c1/24c131d4-e2ee-4b77-a9db-b4fdc2c829a6.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "McGregor, Richard C.",
+          "observed_on": "",
+          "place": "Calayan I.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/9d923a59-151e-4f72-bccd-293334b462dd",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Wickham Harbour",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-8",
+          "min": 5,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "9-12",
+          "min": 9,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "max_length": "11",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

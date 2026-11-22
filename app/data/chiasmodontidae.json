@@ -2,8 +2,8 @@
   "family": "Chiasmodontidae",
   "family_ja": "クロボウズギス科",
   "family_slug": "chiasmodontidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 6,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 7,
   "genera_count": 4,
   "genera": [
     {
@@ -75,15 +75,15 @@
         "クロボウズギス",
         "シタバクロボウズギス"
       ],
-      "species_count": 2,
-      "representative_species": "Pseudoscopelus sagamianus",
+      "species_count": 3,
+      "representative_species": "Pseudoscopelus cephalus",
       "photo": {
-        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/24/1f/241f77fe-9ddd-4648-92bf-d2a98599cf7b.jpg",
+        "url": "https://data.nhm.ac.uk/media/f6062003-f296-4685-b4ee-ee6cc3892843",
         "source": "GBIF",
-        "license": "CC0",
-        "author": "Johnson, Robert K.",
-        "observed_on": "1972-12-14",
-        "place": "Oahu Is. S. W. End. 5 miles off shore.",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Arabian Sea",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -218,7 +218,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 64184,
@@ -278,7 +279,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16915,
@@ -378,7 +380,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16919,
@@ -468,7 +471,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 60593,
+      "scientific_name": "Pseudoscopelus cephalus",
+      "genus": "Pseudoscopelus",
+      "genus_ja": "クロボウズギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/f6062003-f296-4685-b4ee-ee6cc3892843",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Arabian Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/f6062003-f296-4685-b4ee-ee6cc3892843",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Arabian Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.9",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 65839,
@@ -528,7 +613,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23514,
@@ -618,7 +704,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

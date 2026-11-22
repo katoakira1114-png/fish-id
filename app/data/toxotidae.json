@@ -2,8 +2,8 @@
   "family": "Toxotidae",
   "family_ja": "テッポウウオ科",
   "family_slug": "toxotidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 2,
   "genera_count": 1,
   "genera": [
     {
@@ -13,21 +13,152 @@
       "examples_ja": [
         "テッポウウオ"
       ],
-      "species_count": 1,
-      "representative_species": "Toxotes jaculatrix",
+      "species_count": 2,
+      "representative_species": "Toxotes chatareus",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/717900597/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605034111/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "C.Leo",
-        "observed_on": "2026-08-16",
-        "place": "Chinese Taipei",
+        "author": "Ivan Neo",
+        "observed_on": "2026-01-03",
+        "place": "Singapore",
         "life_stage": "不明",
         "context": "不明"
       }
     }
   ],
   "species": [
+    {
+      "spec_code": 8079,
+      "scientific_name": "Toxotes chatareus",
+      "genus": "Toxotes",
+      "genus_ja": "テッポウウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Spotted archerfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605034111/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Ivan Neo",
+        "observed_on": "2026-01-03",
+        "place": "Singapore",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605034111/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ivan Neo",
+          "observed_on": "2026-01-03",
+          "place": "Singapore",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610154273/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tanawan Leeboonngam",
+          "observed_on": "2026-01-23",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/609720452/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Thorsten Hackbarth",
+          "observed_on": "2026-01-10",
+          "place": "Thailand",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610344989/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Esther",
+          "observed_on": "2026-01-24",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610258306/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Hobart WQH 黄勤昊",
+          "observed_on": "2026-01-24",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611874244/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Ethan Beaver",
+          "observed_on": "2026-01-22",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5-6",
+          "min": 5,
+          "max": 6
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "40",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "more than one spot",
+        "bars": "present",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 8229,
       "scientific_name": "Toxotes jaculatrix",
@@ -156,7 +287,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

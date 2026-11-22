@@ -2,9 +2,9 @@
   "family": "Paralepididae",
   "family_ja": "ハダカエソ科",
   "family_slug": "paralepididae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 4,
-  "genera_count": 3,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 7,
+  "genera_count": 4,
   "genera": [
     {
       "genus": "Arctozenus",
@@ -48,21 +48,39 @@
       }
     },
     {
+      "genus": "Paralepis",
+      "ja_name": "Paralepis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Paralepis brevirostris",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/c186c31b-bdf8-4a4a-9dd5-f07881be877f",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1937-11-16",
+        "place": "Off Gorda Key, Mosquito Bank",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
       "genus": "Stemonosudis",
       "ja_name": "クラノセナメハダカの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "クラノセナメハダカ"
       ],
-      "species_count": 1,
-      "representative_species": "Stemonosudis rothschildi",
+      "species_count": 3,
+      "representative_species": "Stemonosudis elongata",
       "photo": {
-        "url": "https://mediaphoto.mnhn.fr/media/1652183654373JhJ3WvRwSaczBHOh",
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/65/03/6503ace4-0e9a-45f3-8988-1a4b06eee6c6.jpg",
         "source": "GBIF",
-        "license": "CC-BY",
-        "author": "Ho Hans",
-        "observed_on": "2004-10-25",
-        "place": "Solomon Islands",
+        "license": "CC0",
+        "author": "Iwamoto, Tomio; et al",
+        "observed_on": "1996-11-14",
+        "place": "Norfolk Ridge, flat-bottomed area.",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -197,7 +215,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 2727,
@@ -327,7 +346,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 58760,
@@ -407,7 +427,301 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 16584,
+      "scientific_name": "Paralepis brevirostris",
+      "genus": "Paralepis",
+      "genus_ja": "Paralepis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/c186c31b-bdf8-4a4a-9dd5-f07881be877f",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1937-11-16",
+        "place": "Off Gorda Key, Mosquito Bank",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/c186c31b-bdf8-4a4a-9dd5-f07881be877f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1937-11-16",
+          "place": "Off Gorda Key, Mosquito Bank",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/b7058f97-c04d-4eab-b3ae-7407fda68414",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Madeira",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "24.2",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 63603,
+      "scientific_name": "Stemonosudis elongata",
+      "genus": "Stemonosudis",
+      "genus_ja": "クラノセナメハダカの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/65/03/6503ace4-0e9a-45f3-8988-1a4b06eee6c6.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Iwamoto, Tomio; et al",
+        "observed_on": "1996-11-14",
+        "place": "Norfolk Ridge, flat-bottomed area.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/65/03/6503ace4-0e9a-45f3-8988-1a4b06eee6c6.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Iwamoto, Tomio; et al",
+          "observed_on": "1996-11-14",
+          "place": "Norfolk Ridge, flat-bottomed area.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/24/83/24832a1a-1117-4f3b-a862-1105e3925193.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Iwamoto, Tomio; et al",
+          "observed_on": "1996-11-21",
+          "place": "Norfolk Ridge, flat-bottom area.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1652183644883ANfp29E165EqtKVH",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Ho Hans",
+          "observed_on": "1996-11-14",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify-media.science.ku.dk/fileget?coll=NHMD+Ichthyology&type=O&filename=P2318729_hab-lat-xr_2_Macroparalepis_elongatus.jpg",
+          "source": "GBIF Natural History Museum Denmark|Ichthyology",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1929-11-22",
+          "place": "Nicobar Is.- Malacca Strait - Ceylon",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1652183657643WBCXtYtByddb7wkW",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Ho Hans",
+          "observed_on": "",
+          "place": "majunga",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "49-51",
+          "min": 49,
+          "max": 51
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "102-108",
+          "min": 102,
+          "max": 108
+        },
+        "max_length": "11.7",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 70052,
+      "scientific_name": "Stemonosudis retrodorsalis",
+      "genus": "Stemonosudis",
+      "genus_ja": "クラノセナメハダカの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Back-fin barracudina",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/c1ade98e-2cd7-4749-b27c-a7dcff02bcf9",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1979-07-15",
+        "place": "South coast of East Java",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/c1ade98e-2cd7-4749-b27c-a7dcff02bcf9",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1979-07-15",
+          "place": "South coast of East Java",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "9-10",
+          "min": 9,
+          "max": 10
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "32-34",
+          "min": 32,
+          "max": 34
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "16.1",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 10432,
@@ -537,7 +851,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

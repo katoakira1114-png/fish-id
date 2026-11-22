@@ -2,20 +2,20 @@
   "family": "Mobulidae",
   "family_ja": "イトマキエイ科",
   "family_slug": "mobulidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 5,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 8,
   "genera_count": 1,
   "genera": [
     {
       "genus": "Mobula",
-      "ja_name": "ナンヨウマンタの仲間",
+      "ja_name": "イトマキエイの仲間",
       "ja_name_official": false,
       "examples_ja": [
+        "イトマキエイ",
         "ナンヨウマンタ",
-        "オニイトマキエイ",
-        "ヒメイトマキエイ"
+        "オニイトマキエイ"
       ],
-      "species_count": 5,
+      "species_count": 8,
       "representative_species": "Mobula alfredi",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755801449/large.jpg",
@@ -34,7 +34,7 @@
       "spec_code": 65179,
       "scientific_name": "Mobula alfredi",
       "genus": "Mobula",
-      "genus_ja": "ナンヨウマンタの仲間",
+      "genus_ja": "イトマキエイの仲間",
       "ja_name": "ナンヨウマンタ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Alfred manta",
@@ -158,13 +158,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 2061,
       "scientific_name": "Mobula birostris",
       "genus": "Mobula",
-      "genus_ja": "ナンヨウマンタの仲間",
+      "genus_ja": "イトマキエイの仲間",
       "ja_name": "オニイトマキエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Giant manta",
@@ -288,13 +289,145 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 25622,
+      "scientific_name": "Mobula eregoodootenkee",
+      "genus": "Mobula",
+      "genus_ja": "イトマキエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longhorned mobula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=cf6df24d-34f6-43e9-89e8-415184924d42",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Lindsay Marshall",
+        "observed_on": "2020-09-04",
+        "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=cf6df24d-34f6-43e9-89e8-415184924d42",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Lindsay Marshall",
+          "observed_on": "2020-09-04",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ac1bc692-5b15-4e5b-8001-93a2f6533acd",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Lindsay Marshall",
+          "observed_on": "2020-09-04",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=b9e813be-c8fb-41b8-95eb-86314857026d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Lindsay Marshall",
+          "observed_on": "2020-09-04",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/9c/bb/9cbbd54f-4700-4dab-802c-9111c7130063.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Cambodian fishermen",
+          "observed_on": "1961-03-26",
+          "place": "Open water ca. 1 mile or more east of Goh Choaw & ca. 10-12 miles SSE of Goh Kong; from Bangkok fish market.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/20a75a14-acc3-46fb-8c84-eadfeb05f0b6",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Pinang",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2735bd46-ace4-477d-9426-88d95119f41e",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "North Queensland",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "100",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 2587,
       "scientific_name": "Mobula japanica",
       "genus": "Mobula",
-      "genus_ja": "ナンヨウマンタの仲間",
+      "genus_ja": "イトマキエイの仲間",
       "ja_name": "",
       "ja_name_source": "",
       "en_name": "Spinetail mobula",
@@ -388,13 +521,276 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 27177,
+      "scientific_name": "Mobula kuhlii",
+      "genus": "Mobula",
+      "genus_ja": "イトマキエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Shortfin devil ray",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624855707/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Natalia Merkulyeva",
+        "observed_on": "2026-03-06",
+        "place": "Philippines",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624855707/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Natalia Merkulyeva",
+          "observed_on": "2026-03-06",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614497600/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Nicola Crockford",
+          "observed_on": "2026-02-05",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615631330/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jafet Potenzo Lopes",
+          "observed_on": "2026-02-14",
+          "place": "Timor-Leste",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624312695/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "Julien Renoult",
+          "observed_on": "2026-03-07",
+          "place": "Oman",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629027241/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "deblee5",
+          "observed_on": "2026-03-15",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626613866/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "deblee5",
+          "observed_on": "2026-03-15",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "119",
+        "body_shape": "other",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 7618,
+      "scientific_name": "Mobula mobular",
+      "genus": "Mobula",
+      "genus_ja": "イトマキエイの仲間",
+      "ja_name": "イトマキエイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Devil fish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47008360/large.jpeg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "陳界良",
+        "observed_on": "2014-06-15",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47008360/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "陳界良",
+          "observed_on": "2014-06-15",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232702316/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tim Karnasuta",
+          "observed_on": "2018-09-09",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232708005/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tim Karnasuta",
+          "observed_on": "2018-09-26",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72900002/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Klaus Stiefel",
+          "observed_on": "2011-04-25",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574282287/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "naturalistnkc",
+          "observed_on": "2025-09-30",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624152372/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "maholsteinat",
+          "observed_on": "2026-01-29",
+          "place": "Oman",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "520",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 13194,
       "scientific_name": "Mobula tarapacana",
       "genus": "Mobula",
-      "genus_ja": "ナンヨウマンタの仲間",
+      "genus_ja": "イトマキエイの仲間",
       "ja_name": "タイワンイトマキエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Chilean devil ray",
@@ -518,13 +914,14 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 2588,
       "scientific_name": "Mobula thurstoni",
       "genus": "Mobula",
-      "genus_ja": "ナンヨウマンタの仲間",
+      "genus_ja": "イトマキエイの仲間",
       "ja_name": "ヒメイトマキエイ",
       "ja_name_source": "日本産魚類全種目録（本村, 2026）",
       "en_name": "Smoothtail mobula",
@@ -648,7 +1045,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

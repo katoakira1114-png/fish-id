@@ -2,8 +2,8 @@
   "family": "Setarchidae",
   "family_ja": "",
   "family_slug": "setarchidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 6,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 8,
   "genera_count": 4,
   "genera": [
     {
@@ -55,7 +55,7 @@
         "アズキカサゴ",
         "スミクイアカカサゴ"
       ],
-      "species_count": 3,
+      "species_count": 4,
       "representative_species": "Lythrichthys cypho",
       "photo": {
         "url": "https://mediaphoto.mnhn.fr/media/1713258120447VzW4O6qxtBZNHD2A",
@@ -75,15 +75,15 @@
       "examples_ja": [
         "シロカサゴ"
       ],
-      "species_count": 1,
-      "representative_species": "Setarches guentheri",
+      "species_count": 2,
+      "representative_species": "Setarches armata",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/612935712/large.jpg",
-        "source": "GBIF iNaturalist research-grade observations",
-        "license": "CC-BY",
-        "author": "Gianmaria Bonari",
-        "observed_on": "2026-02-03",
-        "place": "Morocco",
+        "url": "https://collections.nmnh.si.edu/media/?i=11029072&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1908-01-21",
+        "place": "Balayan Bay and Verde Island Passage, Sombrero Island, S. 17 degrees E., 10.80 miles.",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -218,7 +218,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12552,
@@ -298,7 +299,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 69880,
@@ -418,7 +420,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 69884,
+      "scientific_name": "Lythrichthys dentatus",
+      "genus": "Lythrichthys",
+      "genus_ja": "アカカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Gap-toothed red deepwater scorpionfsh",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12.3",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 69889,
@@ -518,7 +582,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 10383,
@@ -578,7 +643,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 59580,
+      "scientific_name": "Setarches armata",
+      "genus": "Setarches",
+      "genus_ja": "シロカサゴの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=11029072&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Division of Fishes",
+        "observed_on": "1908-01-21",
+        "place": "Balayan Bay and Verde Island Passage, Sombrero Island, S. 17 degrees E., 10.80 miles.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=11029072&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Division of Fishes",
+          "observed_on": "1908-01-21",
+          "place": "Balayan Bay and Verde Island Passage, Sombrero Island, S. 17 degrees E., 10.80 miles.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 5029,
@@ -708,7 +855,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

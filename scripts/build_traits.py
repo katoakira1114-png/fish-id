@@ -48,9 +48,10 @@ def main():
     ap.add_argument("families", nargs="*")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--nearby", action="store_true", help="近海のみ（日本未記録）の種を既存 traits.csv に追記する")
     a = ap.parse_args()
     master = list(csv.DictReader(open(os.path.join(DATA, "species_master.csv"), encoding="utf-8")))
-    jp = [r for r in master if r["区分"] == "日本産"]
+    jp = [r for r in master if r["区分"] == ("近海のみ" if a.nearby else "日本産")]
     fams = sorted({r["科"] for r in jp}) if a.all else a.families
     con = duckdb.connect()
     sp_path, md_path = table("species"), table("morphdat")
@@ -59,7 +60,13 @@ def main():
         if not rows:
             print(f"{fam}: 日本産なし", file=sys.stderr); continue
         out = os.path.join(DATA, fam.lower(), "traits.csv")
-        if os.path.exists(out) and not a.force:
+        existing = set()
+        if a.nearby and os.path.exists(out):
+            existing = {r["学名"] for r in csv.DictReader(open(out, encoding="utf-8"))}
+            rows = [r for r in rows if r["学名"] not in existing]
+            if not rows:
+                continue
+        elif os.path.exists(out) and not a.force:
             print(f"{fam}: 既存のためスキップ"); continue
         codes = ",".join(str(int(r["SpecCode"])) for r in rows)
         sp = {int(x[0]): x for x in con.execute(
@@ -71,8 +78,10 @@ def main():
                 StrikingFeatures from '{md_path}' where Speccode in ({codes}) order by autoctr""").fetchall():
             md.setdefault(int(x[0]), x)  # 最初の記録を使う
         os.makedirs(os.path.dirname(out), exist_ok=True)
-        with open(out, "w", encoding="utf-8", newline="") as f:
-            w = csv.writer(f); w.writerow(COLS)
+        with open(out, "a" if existing else "w", encoding="utf-8", newline="") as f:
+            w = csv.writer(f)
+            if not existing:
+                w.writerow(COLS)
             for r in sorted(rows, key=lambda r: r["学名"]):
                 c = int(r["SpecCode"]); p = sp.get(c, (c, "", None)); m = md.get(c)
                 ln = "" if p[2] is None or p[2] != p[2] else f"{float(p[2]):g}"

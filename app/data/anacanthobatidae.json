@@ -2,10 +2,19 @@
   "family": "Anacanthobatidae",
   "family_ja": "ホコカスベ科",
   "family_slug": "anacanthobatidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 3,
+  "genera_count": 2,
   "genera": [
+    {
+      "genus": "Anacanthobatis",
+      "ja_name": "Anacanthobatis属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Anacanthobatis nanhaiensis",
+      "photo": null
+    },
     {
       "genus": "Sinobatis",
       "ja_name": "イトヒキエイの仲間",
@@ -13,7 +22,7 @@
       "examples_ja": [
         "イトヒキエイ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Sinobatis borneensis",
       "photo": {
         "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/480040776/large.jpg",
@@ -28,6 +37,67 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 54439,
+      "scientific_name": "Anacanthobatis nanhaiensis",
+      "genus": "Anacanthobatis",
+      "genus_ja": "Anacanthobatis属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "South China leg skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 7279,
       "scientific_name": "Sinobatis borneensis",
@@ -116,7 +186,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7280,
+      "scientific_name": "Sinobatis melanosoma",
+      "genus": "Sinobatis",
+      "genus_ja": "イトヒキエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blackbodied leg skate",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "59",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     }
   ]
 }

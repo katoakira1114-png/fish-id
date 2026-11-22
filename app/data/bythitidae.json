@@ -2,9 +2,9 @@
   "family": "Bythitidae",
   "family_ja": "フサイタチウオ科",
   "family_slug": "bythitidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 13,
-  "genera_count": 9,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 21,
+  "genera_count": 15,
   "genera": [
     {
       "genus": "Aphyonus",
@@ -33,7 +33,7 @@
       "examples_ja": [
         "ミスジオクメウオ"
       ],
-      "species_count": 2,
+      "species_count": 3,
       "representative_species": "Barathronus maculatus",
       "photo": {
         "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=89cbdfa9-1a3c-4878-9355-8e50ec1fb5a3",
@@ -42,6 +42,24 @@
         "author": "Amanda Hay",
         "observed_on": "1989-04-11",
         "place": "Australia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Bellottia",
+      "ja_name": "Bellottia属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Bellottia armiger",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884818&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-08-05",
+        "place": "Macabalan Point Lighthouse (Mindanao), South 39 degrees East, 6 miles; Northern Mindanao and vicinity",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -94,8 +112,17 @@
       "examples_ja": [
         "ボライタチウオ"
       ],
+      "species_count": 2,
+      "representative_species": "Diplacanthopoma brunneum",
+      "photo": null
+    },
+    {
+      "genus": "Ematops",
+      "ja_name": "Ematops属",
+      "ja_name_official": false,
+      "examples_ja": [],
       "species_count": 1,
-      "representative_species": "Diplacanthopoma japonicum",
+      "representative_species": "Ematops randalli",
       "photo": null
     },
     {
@@ -115,6 +142,42 @@
         "author": "The Trustees of the Natural History Museum, London",
         "observed_on": "",
         "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Hephthocara",
+      "ja_name": "Hephthocara属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Hephthocara crassiceps",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10334626&h=1216",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-07-31",
+        "place": "San Ricardo Point (Panaon Island), South 59 degrees East, 9 miles; Between Leyte and Mindanao",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Microbrotula",
+      "ja_name": "Microbrotula属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Microbrotula bentleyi",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_7290.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Andy Bentley",
+        "observed_on": "2002-01-24",
+        "place": "Aliwal Shoal - Eelskin",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -148,6 +211,44 @@
       "species_count": 1,
       "representative_species": "Paraphyonus bolini",
       "photo": null
+    },
+    {
+      "genus": "Pseudonus",
+      "ja_name": "Pseudonus属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Pseudonus squamiceps",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1713258162225YzB0O4qlWF2BTkJw",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "A. Dettai",
+        "observed_on": "2007-09-21",
+        "place": "Solomon Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Saccogaster",
+      "ja_name": "サラサイタチウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "サラサイタチウオ"
+      ],
+      "species_count": 1,
+      "representative_species": "Saccogaster tuberculata",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/04a0b8cc-f040-4b61-8553-b8b22de58fff",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "South China Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      }
     },
     {
       "genus": "Timorichthys",
@@ -270,7 +371,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 70109,
+      "scientific_name": "Barathronus algrahami",
+      "genus": "Barathronus",
+      "genus_ja": "ミスジオクメウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "69-78",
+          "min": 69,
+          "max": 78
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "60-67",
+          "min": 60,
+          "max": 67
+        },
+        "pectoral_rays": {
+          "raw": "21-25",
+          "min": 21,
+          "max": 25
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 56411,
@@ -330,7 +493,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 16830,
@@ -430,7 +594,89 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56382,
+      "scientific_name": "Bellottia armiger",
+      "genus": "Bellottia",
+      "genus_ja": "Bellottia属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13884818&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-08-05",
+        "place": "Macabalan Point Lighthouse (Mindanao), South 39 degrees East, 6 miles; Northern Mindanao and vicinity",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884818&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-08-05",
+          "place": "Macabalan Point Lighthouse (Mindanao), South 39 degrees East, 6 miles; Northern Mindanao and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7299,
@@ -560,7 +806,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7601,
@@ -640,7 +887,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 23240,
@@ -700,7 +948,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56423,
+      "scientific_name": "Diplacanthopoma brunneum",
+      "genus": "Diplacanthopoma",
+      "genus_ja": "ボライタチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "45",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 23241,
@@ -760,7 +1070,69 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56391,
+      "scientific_name": "Ematops randalli",
+      "genus": "Ematops",
+      "genus_ja": "Ematops属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Randall's viviparous brotula",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "81-86",
+          "min": 81,
+          "max": 86
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "71-76",
+          "min": 71,
+          "max": 76
+        },
+        "pectoral_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "lateral_line_scales": {
+          "raw": "63-66",
+          "min": 63,
+          "max": 66
+        },
+        "max_length": "4.2",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 15659,
@@ -860,7 +1232,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 64221,
@@ -920,7 +1293,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 56389,
+      "scientific_name": "Hephthocara crassiceps",
+      "genus": "Hephthocara",
+      "genus_ja": "Hephthocara属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=10334626&h=1216",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Raredon, Sandra J.",
+        "observed_on": "1909-07-31",
+        "place": "San Ricardo Point (Panaon Island), South 59 degrees East, 9 miles; Between Leyte and Mindanao",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10334626&h=1216",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-07-31",
+          "place": "San Ricardo Point (Panaon Island), South 59 degrees East, 9 miles; Between Leyte and Mindanao",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d87f61b5-e4e3-4560-86c8-1449bde9b402",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1897-04-01",
+          "place": "North East Mompog Island, Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=10334565&h=1404",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "1909-12-16",
+          "place": "North Island (South), South 87 degrees East, 11.6 miles; Buton Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 62183,
+      "scientific_name": "Microbrotula bentleyi",
+      "genus": "Microbrotula",
+      "genus_ja": "Microbrotula属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Many-ray cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_7290.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Andy Bentley",
+        "observed_on": "2002-01-24",
+        "place": "Aliwal Shoal - Eelskin",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_7290.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Andy Bentley",
+          "observed_on": "2002-01-24",
+          "place": "Aliwal Shoal - Eelskin",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=illus_6791.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1979-02-22",
+          "place": "North end of Tijou Reef",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "61-70",
+          "min": 61,
+          "max": 70
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "50-57",
+          "min": 50,
+          "max": 57
+        },
+        "pectoral_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "47-50",
+          "min": 47,
+          "max": 50
+        },
+        "max_length": "4",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 16781,
@@ -1010,7 +1576,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 56771,
@@ -1070,7 +1637,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 54841,
@@ -1130,7 +1698,190 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 57317,
+      "scientific_name": "Pseudonus squamiceps",
+      "genus": "Pseudonus",
+      "genus_ja": "Pseudonus属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://mediaphoto.mnhn.fr/media/1713258162225YzB0O4qlWF2BTkJw",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "A. Dettai",
+        "observed_on": "2007-09-21",
+        "place": "Solomon Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258162225YzB0O4qlWF2BTkJw",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2007-09-21",
+          "place": "Solomon Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13884653&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes, Raredon, Sandra",
+          "observed_on": "1909-11-27",
+          "place": "Mareh Island (South) South 69 degrees East, 7.8 miles; Molucca Passage",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/a7102da5-b3f8-4875-937f-68128d942400",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Gulf of Aden",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "95-102",
+          "min": 95,
+          "max": 102
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "64-71",
+          "min": 64,
+          "max": 71
+        },
+        "pectoral_rays": {
+          "raw": "19-23",
+          "min": 19,
+          "max": 23
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "11.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 56400,
+      "scientific_name": "Saccogaster tuberculata",
+      "genus": "Saccogaster",
+      "genus_ja": "サラサイタチウオの仲間",
+      "ja_name": "サラサイタチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Bagbelly cusk",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/04a0b8cc-f040-4b61-8553-b8b22de58fff",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "South China Sea",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/04a0b8cc-f040-4b61-8553-b8b22de58fff",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "South China Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "82-93",
+          "min": 82,
+          "max": 93
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "54-60",
+          "min": 54,
+          "max": 60
+        },
+        "pectoral_rays": {
+          "raw": "19-22",
+          "min": 19,
+          "max": 22
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 67052,
@@ -1190,7 +1941,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

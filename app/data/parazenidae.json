@@ -2,8 +2,8 @@
   "family": "Parazenidae",
   "family_ja": "ベニマトウダイ科",
   "family_slug": "parazenidae",
-  "generated_at": "2026-11-22T12:57:13Z",
-  "species_count": 2,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 3,
   "genera_count": 2,
   "genera": [
     {
@@ -11,17 +11,18 @@
       "ja_name": "カゴマトウダイの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "カゴマトウダイ"
+        "カゴマトウダイ",
+        "イッテンカゴマトウダイ"
       ],
-      "species_count": 1,
-      "representative_species": "Cyttopsis rosea",
+      "species_count": 2,
+      "representative_species": "Cyttopsis cypho",
       "photo": {
-        "url": "https://collections.nmnh.si.edu/media/?i=14869492&h=1716",
+        "url": "https://collections.nmnh.si.edu/media/?i=13045459&h=2000",
         "source": "GBIF NMNH Extant Biology",
         "license": "CC0",
-        "author": "Raredon, Sandra J.",
-        "observed_on": "",
-        "place": "Suruga Bay, Japan",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-08-09",
+        "place": "Point Tagolo Lighthouse, South 83 degrees West, 10.5 miles; Northern Mindanao and vicinity",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -48,6 +49,107 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 10334,
+      "scientific_name": "Cyttopsis cypho",
+      "genus": "Cyttopsis",
+      "genus_ja": "カゴマトウダイの仲間",
+      "ja_name": "イッテンカゴマトウダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Little dory",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://collections.nmnh.si.edu/media/?i=13045459&h=2000",
+        "source": "GBIF NMNH Extant Biology",
+        "license": "CC0",
+        "author": "Smithsonian Institution NMNH Division of Fishes",
+        "observed_on": "1909-08-09",
+        "place": "Point Tagolo Lighthouse, South 83 degrees West, 10.5 miles; Northern Mindanao and vicinity",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=13045459&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Smithsonian Institution NMNH Division of Fishes",
+          "observed_on": "1909-08-09",
+          "place": "Point Tagolo Lighthouse, South 83 degrees West, 10.5 miles; Northern Mindanao and vicinity",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=0e5a531d-ec87-4928-bc0d-4e0c2417831c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Australian Museum",
+          "observed_on": "1982-04-02",
+          "place": "Australia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/8281d80c-bdd8-4c66-9a96-f61be0b2333b",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Indian Ocean Coast of Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.8",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 4953,
       "scientific_name": "Cyttopsis rosea",
@@ -176,7 +278,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4319,
@@ -306,7 +409,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

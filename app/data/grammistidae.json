@@ -2,9 +2,9 @@
   "family": "Grammistidae",
   "family_ja": "ヌノサラシ科",
   "family_slug": "grammistidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 6,
-  "genera_count": 6,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 11,
+  "genera_count": 7,
   "genera": [
     {
       "genus": "Aporops",
@@ -67,21 +67,30 @@
       }
     },
     {
+      "genus": "Jeboehlkia",
+      "ja_name": "Jeboehlkia属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Jeboehlkia gladifer",
+      "photo": null
+    },
+    {
       "genus": "Pogonoperca",
       "ja_name": "アゴハタの仲間",
       "ja_name_official": false,
       "examples_ja": [
         "アゴハタ"
       ],
-      "species_count": 1,
-      "representative_species": "Pogonoperca punctata",
+      "species_count": 2,
+      "representative_species": "Pogonoperca ocellata",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653142595/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545805535/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "Thunderwhelmed",
-        "observed_on": "2026-04-08",
-        "place": "Philippines",
+        "author": "James Lefebvre",
+        "observed_on": "2025-07-31",
+        "place": "Réunion",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -91,17 +100,18 @@
       "ja_name": "トゲメギスの仲間",
       "ja_name_official": false,
       "examples_ja": [
-        "トゲメギス"
+        "トゲメギス",
+        "カグツチトゲメギス"
       ],
-      "species_count": 1,
-      "representative_species": "Pseudogramma polyacantha",
+      "species_count": 4,
+      "representative_species": "Pseudogramma brederi",
       "photo": {
-        "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=2840.jpg",
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.20_191.495420d7-f82e-40e7-aed3-20f7d416411c.jpg?subunit=1024.jpg",
         "source": "GBIF",
-        "license": "CC-BY",
-        "author": "P.C. Heemstra",
-        "observed_on": "1988-01-20",
-        "place": "Off Houpihu, China",
+        "license": "CC-BY-NC",
+        "author": "Jeff Williams, Erwan Delrieu-Trottin, Pierre Sasal",
+        "observed_on": "2013-04-19",
+        "place": "Austral Islands, Rimatara, outer reef slope channel to drop-off with dead coral structure, but little live coral.",
         "life_stage": "不明",
         "context": "不明"
       }
@@ -256,7 +266,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 4925,
@@ -386,7 +397,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 7315,
@@ -516,7 +528,200 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 5442,
+      "scientific_name": "Jeboehlkia gladifer",
+      "genus": "Jeboehlkia",
+      "genus_ja": "Jeboehlkia属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "4.1",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 53220,
+      "scientific_name": "Pogonoperca ocellata",
+      "genus": "Pogonoperca",
+      "genus_ja": "アゴハタの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Indian soapfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545805535/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "James Lefebvre",
+        "observed_on": "2025-07-31",
+        "place": "Réunion",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/545805535/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "James Lefebvre",
+          "observed_on": "2025-07-31",
+          "place": "Réunion",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/439945243/large.png",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "barthazes",
+          "observed_on": "2024-10-09",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30913365/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Tsu Soo Tan",
+          "observed_on": "2016-03-20",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/0fdc5a46-10b5-48d7-9fe3-978e1efd1d4a",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Madras, Madras",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/0d41392e-586a-480e-8dc2-568fb9960d3d",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Seychelles",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/8adb0c18-9461-4bc1-a4f7-088e5b65f490",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Mauritius, Western Indian Ocean",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "17-18",
+          "min": 17,
+          "max": 18
+        },
+        "lateral_line_scales": {
+          "raw": "59-70",
+          "min": 59,
+          "max": 70
+        },
+        "max_length": "30",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 12727,
@@ -646,7 +851,261 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 68576,
+      "scientific_name": "Pseudogramma brederi",
+      "genus": "Pseudogramma",
+      "genus_ja": "トゲメギスの仲間",
+      "ja_name": "カグツチトゲメギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Confused podge",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.20_191.495420d7-f82e-40e7-aed3-20f7d416411c.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Jeff Williams, Erwan Delrieu-Trottin, Pierre Sasal",
+        "observed_on": "2013-04-19",
+        "place": "Austral Islands, Rimatara, outer reef slope channel to drop-off with dead coral structure, but little live coral.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.20_191.495420d7-f82e-40e7-aed3-20f7d416411c.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Erwan Delrieu-Trottin, Pierre Sasal",
+          "observed_on": "2013-04-19",
+          "place": "Austral Islands, Rimatara, outer reef slope channel to drop-off with dead coral structure, but little live coral.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.22_140.81dbb57d-f5a3-41cb-b163-a6d2878969e9.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Serge Planes, Erwan Delrieu-Trottin, Pierre Sasal, Johann Mourier, Michel Veuille, Rene Galzin, Thierry Lison de Loma, Gerard Mou-Tham",
+          "observed_on": "2011-10-28",
+          "place": "Marquesas, Banc Clark.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.18_217.ca8f8791-e177-4671-b7b9-11582783464d.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Serge Planes, Erwan Delrieu-Trottin, Pierre Sasal, Johann Mourier, Michel Veuille, Rene Galzin, Thierry Lison de Loma, Gerard Mou-Tham",
+          "observed_on": "2011-10-28",
+          "place": "Marquesas, Banc Clark.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.23_182.5bbb74ad-dda5-4745-8bea-bce3972b85a3.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Serge Planes, Erwan Delrieu-Trottin, Pierre Sasal, Johann Mourier",
+          "observed_on": "2011-11-08",
+          "place": "Marquesas, Hiva Oa, Tepaapaa, on south end of island.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.19_170.10c3b727-dba5-4d2d-ac12-998d4f3ff5c9.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Serge Planes, Erwan Delrieu-Trottin, Pierre Sasal, Johann Mourier",
+          "observed_on": "2011-11-08",
+          "place": "Marquesas, Hiva Oa, Tepaapaa, on south end of island.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.20_125.4c9f5ea5-80a6-4907-bbd9-320b453584ee.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Jeff Williams, Serge Planes, Erwan Delrieu-Trottin, Pierre Sasal, Johann Mourier",
+          "observed_on": "2011-11-08",
+          "place": "Marquesas, Hiva Oa, Tepaapaa, on south end of island.",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "20-21",
+          "min": 20,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "16-18",
+          "min": 16,
+          "max": 18
+        },
+        "pectoral_rays": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.75",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 49431,
+      "scientific_name": "Pseudogramma erythrea",
+      "genus": "Pseudogramma",
+      "genus_ja": "トゲメギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Caban podge",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "21",
+          "min": 21,
+          "max": 21
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "17",
+          "min": 17,
+          "max": 17
+        },
+        "pectoral_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "superior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
+    {
+      "spec_code": 49435,
+      "scientific_name": "Pseudogramma pectoralis",
+      "genus": "Pseudogramma",
+      "genus_ja": "トゲメギスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Pectoral podge",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "7",
+          "min": 7,
+          "max": 7
+        },
+        "dorsal_soft_rays": {
+          "raw": "21-23",
+          "min": 21,
+          "max": 23
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "18-19",
+          "min": 18,
+          "max": 19
+        },
+        "pectoral_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "16",
+          "min": 16,
+          "max": 16
+        },
+        "max_length": "",
+        "body_shape": "elongated",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "superior",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 7320,
@@ -776,7 +1235,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 49436,
@@ -896,7 +1356,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

@@ -2,10 +2,28 @@
   "family": "Trachyrincidae",
   "family_ja": "バケダラ科",
   "family_slug": "trachyrincidae",
-  "generated_at": "2026-11-22T12:57:14Z",
-  "species_count": 1,
-  "genera_count": 1,
+  "generated_at": "2026-11-22T15:31:02Z",
+  "species_count": 2,
+  "genera_count": 2,
   "genera": [
+    {
+      "genus": "Macrouroides",
+      "ja_name": "Macrouroides属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Macrouroides inflaticeps",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/21444d8e-e609-4e4a-b3c8-db2e014340bf",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "2019-04-13",
+        "place": "St Helena, Station STHSC, Event 122-1",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Squalogadus",
       "ja_name": "バケダラの仲間",
@@ -28,6 +46,97 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 16276,
+      "scientific_name": "Macrouroides inflaticeps",
+      "genus": "Macrouroides",
+      "genus_ja": "Macrouroides属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Inflated whiptail",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/21444d8e-e609-4e4a-b3c8-db2e014340bf",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "2019-04-13",
+        "place": "St Helena, Station STHSC, Event 122-1",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/21444d8e-e609-4e4a-b3c8-db2e014340bf",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "2019-04-13",
+          "place": "St Helena, Station STHSC, Event 122-1",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/2c452bba-9908-4640-bb6d-4366b84b9ead",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Maldive Area",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "48",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 17049,
       "scientific_name": "Squalogadus modificatus",
@@ -146,7 +255,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

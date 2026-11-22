@@ -2,10 +2,28 @@
   "family": "Citharidae",
   "family_ja": "コケビラメ科",
   "family_slug": "citharidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 2,
-  "genera_count": 2,
+  "generated_at": "2026-11-22T15:31:01Z",
+  "species_count": 4,
+  "genera_count": 3,
   "genera": [
+    {
+      "genus": "Brachypleura",
+      "ja_name": "Brachypleura属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Brachypleura novaezeelandiae",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/c991bd01-1ffd-46b9-aaff-f098b1b172fc",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Kwangtung, South China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
     {
       "genus": "Citharoides",
       "ja_name": "コケビラメの仲間",
@@ -13,7 +31,7 @@
       "examples_ja": [
         "コケビラメ"
       ],
-      "species_count": 1,
+      "species_count": 2,
       "representative_species": "Citharoides macrolepidotus",
       "photo": {
         "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp67537174103750665247.att.JPG",
@@ -48,6 +66,137 @@
     }
   ],
   "species": [
+    {
+      "spec_code": 8235,
+      "scientific_name": "Brachypleura novaezeelandiae",
+      "genus": "Brachypleura",
+      "genus_ja": "Brachypleura属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Yellow-dabbled flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/c991bd01-1ffd-46b9-aaff-f098b1b172fc",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Kwangtung, South China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/c991bd01-1ffd-46b9-aaff-f098b1b172fc",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Kwangtung, South China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=6459.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "1991",
+          "place": "Java Sea",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/c31fec9f-dd39-4ef6-acc6-db84363c2f9f",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1980-08-22",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/7ac32858-0653-4169-b2ba-ffe12dda24b8",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1956-01-01",
+          "place": "Bedok",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/72518bc3-eb3c-4582-9f86-817e9c6cbf2e",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Maldives",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/e738bfe6-85c4-4e98-83af-976f2cfb5fdc",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Off Ganjam Coast",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "65-77",
+          "min": 65,
+          "max": 77
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "41-50",
+          "min": 41,
+          "max": 50
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "28-33",
+          "min": 28,
+          "max": 33
+        },
+        "max_length": "14",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "other (see remark)",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 8827,
       "scientific_name": "Citharoides macrolepidotus",
@@ -176,7 +325,139 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
+    },
+    {
+      "spec_code": 7665,
+      "scientific_name": "Citharoides macrolepis",
+      "genus": "Citharoides",
+      "genus_ja": "コケビラメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Twospot largescale flounder",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/621ecc1c-0c30-4ab0-8e25-5f5cf3eedbd7",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "",
+        "place": "Japan Sea, Off Nagato",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/621ecc1c-0c30-4ab0-8e25-5f5cf3eedbd7",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Japan Sea, Off Nagato",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1721830409855PebKS7TakViKnwox",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Wei-Jen Chen",
+          "observed_on": "2009-04-10",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/172183038242115XONd8ISkmo78zk",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Wei-Jen Chen",
+          "observed_on": "2009-04-15",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1721830684334WAmjIclRnYWCw18y",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Wei-Jen Chen",
+          "observed_on": "2009-04-09",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1721909020306cNEtU194zOnn99fj",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Wei-Jen Chen",
+          "observed_on": "2009-04-13",
+          "place": "Mozambique",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258346341kIWTm5TGbLSAuElL",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-06",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "dorsal_soft_rays": {
+          "raw": "65-72",
+          "min": 65,
+          "max": 72
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "45-50",
+          "min": 45,
+          "max": 50
+        },
+        "pectoral_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "43-47",
+          "min": 43,
+          "max": 47
+        },
+        "max_length": "25",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
     },
     {
       "spec_code": 8828,
@@ -306,7 +587,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }

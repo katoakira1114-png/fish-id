@@ -2,8 +2,8 @@
   "family": "Aetobatidae",
   "family_ja": "マダラトビエイ科",
   "family_slug": "aetobatidae",
-  "generated_at": "2026-11-22T12:57:12Z",
-  "species_count": 2,
+  "generated_at": "2026-11-22T15:31:00Z",
+  "species_count": 3,
   "genera_count": 1,
   "genera": [
     {
@@ -14,21 +14,132 @@
         "ナルトビエイ",
         "マダラトビエイ"
       ],
-      "species_count": 2,
-      "representative_species": "Aetobatus narutobiei",
+      "species_count": 3,
+      "representative_species": "Aetobatus flagellum",
       "photo": {
-        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680204710/large.jpg",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671375893/large.jpg",
         "source": "GBIF iNaturalist research-grade observations",
         "license": "CC-BY-NC",
-        "author": "王定宇",
-        "observed_on": "2026-06-16",
-        "place": "Japan",
+        "author": "Hobart WQH 黄勤昊",
+        "observed_on": "2026-06-02",
+        "place": "Malaysia",
         "life_stage": "不明",
         "context": "不明"
       }
     }
   ],
   "species": [
+    {
+      "spec_code": 8973,
+      "scientific_name": "Aetobatus flagellum",
+      "genus": "Aetobatus",
+      "genus_ja": "ナルトビエイの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Longheaded eagle ray",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671375893/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Hobart WQH 黄勤昊",
+        "observed_on": "2026-06-02",
+        "place": "Malaysia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/671375893/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Hobart WQH 黄勤昊",
+          "observed_on": "2026-06-02",
+          "place": "Malaysia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463330166/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Venkatesh Saroj",
+          "observed_on": "2024-09-18",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582450892/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Adithya P.",
+          "observed_on": "2023-08-16",
+          "place": "India",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/257464353/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dilshad Farahnaz Tasnima",
+          "observed_on": "2022-12-21",
+          "place": "Bangladesh",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "72",
+        "body_shape": "other",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": [],
+      "region": "近海のみ"
+    },
     {
       "spec_code": 67276,
       "scientific_name": "Aetobatus narutobiei",
@@ -157,7 +268,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     },
     {
       "spec_code": 12600,
@@ -287,7 +399,8 @@
       },
       "missing_traits_filled": [],
       "missing_traits_source": "",
-      "evidence": []
+      "evidence": [],
+      "region": "日本産"
     }
   ]
 }
