@@ -1,0 +1,926 @@
+{
+  "family": "Trachichthyidae",
+  "family_ja": "ヒウチダイ科",
+  "family_slug": "trachichthyidae",
+  "generated_at": "2026-11-22T12:57:14Z",
+  "species_count": 9,
+  "genera_count": 3,
+  "genera": [
+    {
+      "genus": "Aulotrachichthys",
+      "ja_name": "ハリダシエビスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハリダシエビス",
+        "ミナミハリダシエビス",
+        "ネジトゲハリダシエビス"
+      ],
+      "species_count": 4,
+      "representative_species": "Aulotrachichthys prosthemius",
+      "photo": {
+        "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048685_lg.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "bellfishes",
+        "observed_on": "2016-05-11",
+        "place": "Taiwan Strait",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Gephyroberyx",
+      "ja_name": "ハシキンメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ハシキンメ"
+      ],
+      "species_count": 1,
+      "representative_species": "Gephyroberyx japonicus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727471534/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "李博恒",
+        "observed_on": "2026-09-02",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Hoplostethus",
+      "ja_name": "ヒウチダイの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ヒウチダイ",
+        "クロヒウチ",
+        "トゲブトヒウチ"
+      ],
+      "species_count": 4,
+      "representative_species": "Hoplostethus crassispinus",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hopcra01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2009-02-15",
+        "place": "Nanfang'ao, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 23262,
+      "scientific_name": "Aulotrachichthys prosthemius",
+      "genus": "Aulotrachichthys",
+      "genus_ja": "ハリダシエビスの仲間",
+      "ja_name": "ハリダシエビス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "West Pacific luminous roughy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048685_lg.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "bellfishes",
+        "observed_on": "2016-05-11",
+        "place": "Taiwan Strait",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048685_lg.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "bellfishes",
+          "observed_on": "2016-05-11",
+          "place": "Taiwan Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048724_lg.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "bellfishes",
+          "observed_on": "2016-05-19",
+          "place": "Taiwan Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/aulpro01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-12-03",
+          "place": "Donggang, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "6.14",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 15652,
+      "scientific_name": "Aulotrachichthys sajademalensis",
+      "genus": "Aulotrachichthys",
+      "genus_ja": "ハリダシエビスの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Saya de Malha luminous roughy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/parsaj01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2008-11-13",
+        "place": "Donggang, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/parsaj01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2008-11-13",
+          "place": "Donggang, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp65838266938082223951.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-03",
+          "place": "Dong Gang Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp65605981745893256604.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-03",
+          "place": "Dong Gang Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://fm-digital-assets.fieldmuseum.org/2203/756/88076_Aulotrachichthys_sajademalensis_lat_head_right_FZ.jpg",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Field Museum of Natural History",
+          "observed_on": "1964",
+          "place": "Anton Bruun Cr. 9, sta. 463.  Somalia Coast",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "9.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 70399,
+      "scientific_name": "Aulotrachichthys spiralis",
+      "genus": "Aulotrachichthys",
+      "genus_ja": "ハリダシエビスの仲間",
+      "ja_name": "ネジトゲハリダシエビス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Spiralis luminous-roughy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "dorsal_soft_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "8.87",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 70398,
+      "scientific_name": "Aulotrachichthys titan",
+      "genus": "Aulotrachichthys",
+      "genus_ja": "ハリダシエビスの仲間",
+      "ja_name": "ミナミハリダシエビス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Large-head luminous-roughy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "dorsal_soft_rays": {
+          "raw": "13",
+          "min": 13,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "10.81",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 60885,
+      "scientific_name": "Gephyroberyx japonicus",
+      "genus": "Gephyroberyx",
+      "genus_ja": "ハシキンメの仲間",
+      "ja_name": "ハシキンメ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Big roughy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727471534/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "李博恒",
+        "observed_on": "2026-09-02",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/727471534/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "李博恒",
+          "observed_on": "2026-09-02",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530319770/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "李博恒",
+          "observed_on": "2025-07-02",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457261394/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "JIN Pin-Tsen",
+          "observed_on": "2023-10-22",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=10728.jpg",
+          "source": "GBIF Denis Tweddle Seychelles/Mauritius 2008",
+          "license": "CC-BY",
+          "author": "Denis Tweddle; Oddgeir Alvheim",
+          "observed_on": "2008-10-14",
+          "place": "Nazareth bank, Mauritius plateau",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "8",
+          "min": 8,
+          "max": 8
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-14",
+          "min": 13,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "11",
+          "min": 11,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "14-15",
+          "min": 14,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "29-31",
+          "min": 29,
+          "max": 31
+        },
+        "max_length": "20",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "forked",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 15678,
+      "scientific_name": "Hoplostethus crassispinus",
+      "genus": "Hoplostethus",
+      "genus_ja": "ヒウチダイの仲間",
+      "ja_name": "和名なし",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hopcra01sr.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2009-02-15",
+        "place": "Nanfang'ao, Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hopcra01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-02-15",
+          "place": "Nanfang'ao, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp64421601470649372190.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp69057312911992929195.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp68843586569226697582.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-11-30",
+          "place": "Ta Shi Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp65806158007670762806.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-03",
+          "place": "Dong Gang Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp67294191643515372628.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Voucher Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2014-12-03",
+          "place": "Dong Gang Fish Market",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "25.4",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 15674,
+      "scientific_name": "Hoplostethus japonicus",
+      "genus": "Hoplostethus",
+      "genus_ja": "ヒウチダイの仲間",
+      "ja_name": "ヒウチダイ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Western Pacific roughy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048716_lg.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "bellfishes",
+        "observed_on": "2016-05-19",
+        "place": "Taiwan Strait",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://bellatlas-images.s3.msi.umn.edu/JFBM_Fishes/00048/JFBM-FISH-0048716_lg.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "bellfishes",
+          "observed_on": "2016-05-19",
+          "place": "Taiwan Strait",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hopjap01sr.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "1900-01",
+          "place": "Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "12.6",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 10668,
+      "scientific_name": "Hoplostethus melanopus",
+      "genus": "Hoplostethus",
+      "genus_ja": "ヒウチダイの仲間",
+      "ja_name": "クロヒウチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Smallscale slimehead",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hopmel01sl.tif",
+        "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+        "license": "CC-BY-NC",
+        "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+        "observed_on": "2009-01-14",
+        "place": "Taiwan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/hopmel01sl.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2009-01-14",
+          "place": "Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=sp6-4694884006280141390.att.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Oddgeir Alvheim",
+          "observed_on": "2014-11-30",
+          "place": "123.46 km, East of Luabo",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29946934/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Gonzalo Mucientes Sandoval",
+          "observed_on": "2013-06-16",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/17132582321516AU2uCxYSEWmaPMz",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-11",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1644483306058GuKMXJ7aUISGFGEC",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "J. PFLIGER",
+          "observed_on": "2009-07-11",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258280253RmGVovJhBNYLwAob",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-07-08",
+          "place": "Madagascar",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "4-5",
+          "min": 4,
+          "max": 5
+        },
+        "dorsal_soft_rays": {
+          "raw": "13-16",
+          "min": 13,
+          "max": 16
+        },
+        "anal_spines": {
+          "raw": "2-3",
+          "min": 2,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "18-20",
+          "min": 18,
+          "max": 20
+        },
+        "lateral_line_scales": {
+          "raw": "28",
+          "min": 28,
+          "max": 28
+        },
+        "max_length": "25",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 65512,
+      "scientific_name": "Hoplostethus robustispinus",
+      "genus": "Hoplostethus",
+      "genus_ja": "ヒウチダイの仲間",
+      "ja_name": "トゲブトヒウチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Thickspine roughy",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "6",
+          "min": 6,
+          "max": 6
+        },
+        "dorsal_soft_rays": {
+          "raw": "14",
+          "min": 14,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9",
+          "min": 9,
+          "max": 9
+        },
+        "pectoral_rays": {
+          "raw": "16-17",
+          "min": 16,
+          "max": 17
+        },
+        "lateral_line_scales": {
+          "raw": "28",
+          "min": 28,
+          "max": 28
+        },
+        "max_length": "35.4",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}

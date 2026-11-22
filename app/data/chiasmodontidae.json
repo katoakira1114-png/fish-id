@@ -1,0 +1,624 @@
+{
+  "family": "Chiasmodontidae",
+  "family_ja": "クロボウズギス科",
+  "family_slug": "chiasmodontidae",
+  "generated_at": "2026-11-22T12:57:12Z",
+  "species_count": 6,
+  "genera_count": 4,
+  "genera": [
+    {
+      "genus": "Chiasmodon",
+      "ja_name": "オニボウズギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "オニボウズギス",
+        "ザラボウズギス"
+      ],
+      "species_count": 2,
+      "representative_species": "Chiasmodon niger",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593122341/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "MARC MARTIN SOLA",
+        "observed_on": "2021-11-23",
+        "place": "Spain",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Dysalotus",
+      "ja_name": "トゲボウズギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トゲボウズギス"
+      ],
+      "species_count": 1,
+      "representative_species": "Dysalotus alcocki",
+      "photo": {
+        "url": "https://cdn.floridamuseum.ufl.edu/Fish/07c07184-71b2-4df2-a3ad-5af79f2f906d",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Florida Museum of Natural History Ichthyology",
+        "observed_on": "1997-05-07",
+        "place": "Gulf of Mexico, southeast of Mississippi River Delta",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Kali",
+      "ja_name": "ワニグチボウズギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ワニグチボウズギス"
+      ],
+      "species_count": 1,
+      "representative_species": "Kali indica",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_103.f556d3a0-c2a2-4abd-a620-4a85bfb63e25.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Jim Boutillier, Pacific Biological Station, B.C.",
+        "observed_on": "2006-10-07",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Pseudoscopelus",
+      "ja_name": "クロボウズギスの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クロボウズギス",
+        "シタバクロボウズギス"
+      ],
+      "species_count": 2,
+      "representative_species": "Pseudoscopelus sagamianus",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/24/1f/241f77fe-9ddd-4648-92bf-d2a98599cf7b.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Johnson, Robert K.",
+        "observed_on": "1972-12-14",
+        "place": "Oahu Is. S. W. End. 5 miles off shore.",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 10192,
+      "scientific_name": "Chiasmodon niger",
+      "genus": "Chiasmodon",
+      "genus_ja": "オニボウズギスの仲間",
+      "ja_name": "オニボウズギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Black swallower",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593122341/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "MARC MARTIN SOLA",
+        "observed_on": "2021-11-23",
+        "place": "Spain",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593122341/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "MARC MARTIN SOLA",
+          "observed_on": "2021-11-23",
+          "place": "Spain",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=15830970&h=2000",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "NOAA",
+          "observed_on": "2014-10-21",
+          "place": "Bear Seamount, north area",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.37905_02/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "2012-04-02",
+          "place": "NE Atlantic Ocean, west of Porcupine bank",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.37900_03/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "2012-04-02",
+          "place": "NE Atlantic Ocean, west of Porcupine bank",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.37899_03/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "2012-04-02",
+          "place": "NE Atlantic Ocean, west of Porcupine bank",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://medialib.naturalis.nl/file/id/RMNH.PISC.35810_07/format/large",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Naturalis Biodiversity Center",
+          "observed_on": "2008-03-26",
+          "place": "NE Atlantic Ocean, west of Porcupine bank, deep water",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "25",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 64184,
+      "scientific_name": "Chiasmodon pluriradiatus",
+      "genus": "Chiasmodon",
+      "genus_ja": "オニボウズギスの仲間",
+      "ja_name": "ザラボウズギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "15-16",
+          "min": 15,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22.08",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 16915,
+      "scientific_name": "Dysalotus alcocki",
+      "genus": "Dysalotus",
+      "genus_ja": "トゲボウズギスの仲間",
+      "ja_name": "トゲボウズギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://cdn.floridamuseum.ufl.edu/Fish/07c07184-71b2-4df2-a3ad-5af79f2f906d",
+        "source": "GBIF",
+        "license": "CC-BY-NC",
+        "author": "Florida Museum of Natural History Ichthyology",
+        "observed_on": "1997-05-07",
+        "place": "Gulf of Mexico, southeast of Mississippi River Delta",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/07c07184-71b2-4df2-a3ad-5af79f2f906d",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1997-05-07",
+          "place": "Gulf of Mexico, southeast of Mississippi River Delta",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=351.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Percy Fitzpatrick Institute of African Ornithology",
+          "observed_on": "1987-04-18",
+          "place": "Marion Island, stomach of Albatross",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/961b60b6-63c3-4a44-a6ce-ce0882a70716",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1927-06-10",
+          "place": "Mid-Atlantic Ridge",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "10-11",
+          "min": 10,
+          "max": 11
+        },
+        "dorsal_soft_rays": {
+          "raw": "26-28",
+          "min": 26,
+          "max": 28
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "26-28",
+          "min": 26,
+          "max": 28
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "22.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 16919,
+      "scientific_name": "Kali indica",
+      "genus": "Kali",
+      "genus_ja": "ワニグチボウズギスの仲間",
+      "ja_name": "ワニグチボウズギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_103.f556d3a0-c2a2-4abd-a620-4a85bfb63e25.jpg?subunit=1024.jpg",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "Jim Boutillier, Pacific Biological Station, B.C.",
+        "observed_on": "2006-10-07",
+        "place": "Canada",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-east.15_103.f556d3a0-c2a2-4abd-a620-4a85bfb63e25.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Jim Boutillier, Pacific Biological Station, B.C.",
+          "observed_on": "2006-10-07",
+          "place": "Canada",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp62002556881739969265.att.jpg",
+          "source": "GBIF University of Kansas Biodiversity Institute Fish Tissue Collection",
+          "license": "CC-BY",
+          "author": "University of Kansas Biodiversity Institute",
+          "observed_on": "2000-12-06",
+          "place": "Slope water, mid Atlantic bight",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "dorsal_soft_rays": {
+          "raw": "21-25",
+          "min": 21,
+          "max": 25
+        },
+        "anal_spines": {
+          "raw": "1",
+          "min": 1,
+          "max": 1
+        },
+        "anal_soft_rays": {
+          "raw": "22-26",
+          "min": 22,
+          "max": 26
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "26.15",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 65839,
+      "scientific_name": "Pseudoscopelus odontoglossus",
+      "genus": "Pseudoscopelus",
+      "genus_ja": "クロボウズギスの仲間",
+      "ja_name": "シタバクロボウズギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "21-24",
+          "min": 21,
+          "max": 24
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "21-24",
+          "min": 21,
+          "max": 24
+        },
+        "pectoral_rays": {
+          "raw": "12-13",
+          "min": 12,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "7.02",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 23514,
+      "scientific_name": "Pseudoscopelus sagamianus",
+      "genus": "Pseudoscopelus",
+      "genus_ja": "クロボウズギスの仲間",
+      "ja_name": "クロボウズギス",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/24/1f/241f77fe-9ddd-4648-92bf-d2a98599cf7b.jpg",
+        "source": "GBIF",
+        "license": "CC0",
+        "author": "Johnson, Robert K.",
+        "observed_on": "1972-12-14",
+        "place": "Oahu Is. S. W. End. 5 miles off shore.",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://ibss-images.calacademy.org/static/ichthyology/originals/24/1f/241f77fe-9ddd-4648-92bf-d2a98599cf7b.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "Johnson, Robert K.",
+          "observed_on": "1972-12-14",
+          "place": "Oahu Is. S. W. End. 5 miles off shore.",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/06e71a89-4519-411d-8920-a9e3492635b7",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "South of Bali, Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "21.5",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}

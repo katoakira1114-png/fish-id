@@ -1,0 +1,1337 @@
+{
+  "family": "Trichiuridae",
+  "family_ja": "タチウオ科",
+  "family_slug": "trichiuridae",
+  "generated_at": "2026-11-22T12:57:14Z",
+  "species_count": 13,
+  "genera_count": 7,
+  "genera": [
+    {
+      "genus": "Aphanopus",
+      "ja_name": "クロタチモドキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "クロタチモドキ"
+      ],
+      "species_count": 1,
+      "representative_species": "Aphanopus arigato",
+      "photo": null
+    },
+    {
+      "genus": "Assurger",
+      "ja_name": "ナガユメタチモドキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ナガユメタチモドキ"
+      ],
+      "species_count": 1,
+      "representative_species": "Assurger anzac",
+      "photo": null
+    },
+    {
+      "genus": "Benthodesmus",
+      "ja_name": "タチモドキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タチモドキ",
+        "ヤマモトタチモドキ"
+      ],
+      "species_count": 3,
+      "representative_species": "Benthodesmus pacificus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359110523/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "linddealy",
+        "observed_on": "2023-08-23",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Evoxymetopon",
+      "ja_name": "ユメタチモドキの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ユメタチモドキ",
+        "ヒレナガユメタチ",
+        "ヒレナガオオメユメタチ"
+      ],
+      "species_count": 3,
+      "representative_species": "Evoxymetopon poeyi",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620047034/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "roberttheintrepid",
+        "observed_on": "2026-03-01",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Lepturacanthus",
+      "ja_name": "トゲタチウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "トゲタチウオ"
+      ],
+      "species_count": 1,
+      "representative_species": "Lepturacanthus savala",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577988666/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Владимир Пенькевич (Vladimir Penkevich)",
+        "observed_on": "2025-01-17",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Tentoriceps",
+      "ja_name": "カンムリダチの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カンムリダチ"
+      ],
+      "species_count": 1,
+      "representative_species": "Tentoriceps cristatus",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/91e5c52a-0df2-4fe1-a8a5-15be8ef8d996",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1974-02-08",
+        "place": "Trawl End Point: 06° 50' N 98° 49' E",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Trichiurus",
+      "ja_name": "タチウオの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "タチウオ"
+      ],
+      "species_count": 3,
+      "representative_species": "Trichiurus japonicus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755375162/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "idi222",
+        "observed_on": "2025-10-07",
+        "place": "Korea, Republic of",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 59043,
+      "scientific_name": "Aphanopus arigato",
+      "genus": "Aphanopus",
+      "genus_ja": "クロタチモドキの仲間",
+      "ja_name": "クロタチモドキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Pacific black scabbardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "39-43",
+          "min": 39,
+          "max": 43
+        },
+        "dorsal_soft_rays": {
+          "raw": "54-58",
+          "min": 54,
+          "max": 58
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "47-50",
+          "min": 47,
+          "max": 50
+        },
+        "pectoral_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "72",
+        "body_shape": "eel-like",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 3908,
+      "scientific_name": "Assurger anzac",
+      "genus": "Assurger",
+      "genus_ja": "ナガユメタチモドキの仲間",
+      "ja_name": "ナガユメタチモドキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Razorback scabbardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "116-123",
+          "min": 116,
+          "max": 123
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "74-87",
+          "min": 74,
+          "max": 87
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "250",
+        "body_shape": "eel-like",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 8550,
+      "scientific_name": "Benthodesmus pacificus",
+      "genus": "Benthodesmus",
+      "genus_ja": "タチモドキの仲間",
+      "ja_name": "ヤマモトタチモドキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "North-Pacific frostfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359110523/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "linddealy",
+        "observed_on": "2023-08-23",
+        "place": "United States of America",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/359110523/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "linddealy",
+          "observed_on": "2023-08-23",
+          "place": "United States of America",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "44-46",
+          "min": 44,
+          "max": 46
+        },
+        "dorsal_soft_rays": {
+          "raw": "99-104",
+          "min": 99,
+          "max": 104
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "90-94",
+          "min": 90,
+          "max": 94
+        },
+        "pectoral_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "112",
+        "body_shape": "eel-like",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 8563,
+      "scientific_name": "Benthodesmus tenuis",
+      "genus": "Benthodesmus",
+      "genus_ja": "タチモドキの仲間",
+      "ja_name": "タチモドキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Slender frostfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/601cc219-bbff-4f50-8dde-20aa480cae9c",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1875-05-12",
+        "place": "Gulf of Yedo, off Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/601cc219-bbff-4f50-8dde-20aa480cae9c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1875-05-12",
+          "place": "Gulf of Yedo, off Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "http://isis.cmima.csic.es/aforo-result/WP-TIF/benten01sl.tif",
+          "source": "GBIF Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",
+          "license": "CC-BY-NC",
+          "author": "(Chien-Hsiang Lin, Chih-Wei Chang, 2012, NMMBA Atlas Series 12: Otolith Atlas of Taiwan Fishes)",
+          "observed_on": "2001-02-28",
+          "place": "Donggang, Taiwan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713258087961K3R1FZxMqR1qXe9c",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2009-10-17",
+          "place": "French Polynesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=ACEP08-551.JPG",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "Jessica Escobar-Porras",
+          "observed_on": "2008-09-27",
+          "place": "Station 29",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713257716354sZsEHGh0zIicxuFd",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2005-10-19",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://mediaphoto.mnhn.fr/media/1713257754058e1xVQ2ISfWsoyo3R",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "A. Dettai",
+          "observed_on": "2005-10-21",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "38-42",
+          "min": 38,
+          "max": 42
+        },
+        "dorsal_soft_rays": {
+          "raw": "78-89",
+          "min": 78,
+          "max": 89
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "69-76",
+          "min": 69,
+          "max": 76
+        },
+        "pectoral_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "230",
+        "body_shape": "eel-like",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 8566,
+      "scientific_name": "Benthodesmus vityazi",
+      "genus": "Benthodesmus",
+      "genus_ja": "タチモドキの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Vityaz' frostfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "61-64",
+          "min": 61,
+          "max": 64
+        },
+        "dorsal_soft_rays": {
+          "raw": "88-93",
+          "min": 88,
+          "max": 93
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "80-85",
+          "min": 80,
+          "max": 85
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "77",
+        "body_shape": "eel-like",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 63385,
+      "scientific_name": "Evoxymetopon macrophthalmus",
+      "genus": "Evoxymetopon",
+      "genus_ja": "ユメタチモドキの仲間",
+      "ja_name": "ヒレナガオオメユメタチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Bigeye scabbard fish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "90",
+          "min": 90,
+          "max": 90
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "161.5",
+        "body_shape": "elongated",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 8659,
+      "scientific_name": "Evoxymetopon poeyi",
+      "genus": "Evoxymetopon",
+      "genus_ja": "ユメタチモドキの仲間",
+      "ja_name": "ヒレナガユメタチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Poey's scabbardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620047034/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "roberttheintrepid",
+        "observed_on": "2026-03-01",
+        "place": "Indonesia",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620047034/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "roberttheintrepid",
+          "observed_on": "2026-03-01",
+          "place": "Indonesia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357142918/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "sylheb",
+          "observed_on": "2024-03-13",
+          "place": "New Caledonia",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/d92a9641-1ff1-4efb-8190-74bf4b962bdb",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Mauritius, Western Indian Ocean",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "91-93",
+          "min": 91,
+          "max": 93
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "200",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 7498,
+      "scientific_name": "Evoxymetopon taeniatus",
+      "genus": "Evoxymetopon",
+      "genus_ja": "ユメタチモドキの仲間",
+      "ja_name": "ユメタチモドキ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Channel scabbardfish",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623100276/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "pierrel345",
+        "observed_on": "2026-01-14",
+        "place": "Cayman Islands",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623100276/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "pierrel345",
+          "observed_on": "2026-01-14",
+          "place": "Cayman Islands",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://cdn.floridamuseum.ufl.edu/Fish/b3b9ced0-9a48-4ba7-88f8-e5e6f948d5dc",
+          "source": "GBIF",
+          "license": "CC-BY-NC",
+          "author": "Florida Museum of Natural History Ichthyology",
+          "observed_on": "1962-06-02",
+          "place": "NE of Islas del Ma¡z",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://collections.nmnh.si.edu/media/?i=5009920&h=210",
+          "source": "GBIF NMNH Extant Biology",
+          "license": "CC0",
+          "author": "Raredon, Sandra J.",
+          "observed_on": "",
+          "place": "Cuba",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "81-90",
+          "min": 81,
+          "max": 90
+        },
+        "anal_spines": {
+          "raw": "0",
+          "min": 0,
+          "max": 0
+        },
+        "anal_soft_rays": {
+          "raw": "60",
+          "min": 60,
+          "max": 60
+        },
+        "pectoral_rays": {
+          "raw": "12",
+          "min": 12,
+          "max": 12
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "200",
+        "body_shape": "elongated",
+        "caudal_fin": "forked",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 8314,
+      "scientific_name": "Lepturacanthus savala",
+      "genus": "Lepturacanthus",
+      "genus_ja": "トゲタチウオの仲間",
+      "ja_name": "トゲタチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Savalai hairtail",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577988666/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Владимир Пенькевич (Vladimir Penkevich)",
+        "observed_on": "2025-01-17",
+        "place": "China",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577988666/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Владимир Пенькевич (Vladimir Penkevich)",
+          "observed_on": "2025-01-17",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/599991123/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fhvc",
+          "observed_on": "2025-12-10",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598724354/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "orcinusss",
+          "observed_on": "2025-12-10",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598715680/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "orcinusss",
+          "observed_on": "2025-12-10",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598752683/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "fhvc",
+          "observed_on": "2025-12-10",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/32878903-0864-44c0-a369-8da9365c92b7",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Chefoo",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3-4",
+          "min": 3,
+          "max": 4
+        },
+        "dorsal_soft_rays": {
+          "raw": "110-120",
+          "min": 110,
+          "max": 120
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "10",
+          "min": 10,
+          "max": 10
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "100",
+        "body_shape": "elongated",
+        "caudal_fin": "other (see diagnosis)",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 7947,
+      "scientific_name": "Tentoriceps cristatus",
+      "genus": "Tentoriceps",
+      "genus_ja": "カンムリダチの仲間",
+      "ja_name": "カンムリダチ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Crested hairtail",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://data.nhm.ac.uk/media/91e5c52a-0df2-4fe1-a8a5-15be8ef8d996",
+        "source": "GBIF",
+        "license": "CC-BY",
+        "author": "The Trustees of the Natural History Museum, London",
+        "observed_on": "1974-02-08",
+        "place": "Trawl End Point: 06° 50' N 98° 49' E",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://data.nhm.ac.uk/media/91e5c52a-0df2-4fe1-a8a5-15be8ef8d996",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "1974-02-08",
+          "place": "Trawl End Point: 06° 50' N 98° 49' E",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://data.nhm.ac.uk/media/158b1ea2-55a2-426e-bdfc-8b395dc5c2f0",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "The Trustees of the Natural History Museum, London",
+          "observed_on": "",
+          "place": "Off East Java and Bali",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://specify.saiab.ac.za/fileget?coll=Biodiversity+Occurrences&type=O&filename=1623.tif",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "",
+          "observed_on": "",
+          "place": "",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "5",
+          "min": 5,
+          "max": 5
+        },
+        "dorsal_soft_rays": {
+          "raw": "126-144",
+          "min": 126,
+          "max": 144
+        },
+        "anal_spines": {
+          "raw": "2",
+          "min": 2,
+          "max": 2
+        },
+        "anal_soft_rays": {
+          "raw": "47-50",
+          "min": 47,
+          "max": 50
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "90",
+        "body_shape": "elongated",
+        "caudal_fin": "other (see diagnosis)",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 69710,
+      "scientific_name": "Trichiurus japonicus",
+      "genus": "Trichiurus",
+      "genus_ja": "タチウオの仲間",
+      "ja_name": "タチウオ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755375162/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "idi222",
+        "observed_on": "2025-10-07",
+        "place": "Korea, Republic of",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755375162/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "idi222",
+          "observed_on": "2025-10-07",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/755387164/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "idi222",
+          "observed_on": "2025-11-21",
+          "place": "Korea, Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624127519/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "orcinusss",
+          "observed_on": "2026-03-12",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725553786/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "野生草鱼",
+          "observed_on": "2026-08-30",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462049824/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "JIN Pin-Tsen",
+          "observed_on": "2025-01-06",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563973158/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "orcinusss",
+          "observed_on": "2025-09-07",
+          "place": "China",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 1288,
+      "scientific_name": "Trichiurus lepturus",
+      "genus": "Trichiurus",
+      "genus_ja": "タチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Largehead hairtail",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740833454/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Rex Jiang",
+        "observed_on": "2026-09-26",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740833454/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rex Jiang",
+          "observed_on": "2026-09-26",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/741411506/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Zacco",
+          "observed_on": "2026-09-23",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/754930739/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "meijin28",
+          "observed_on": "2026-10-22",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761059470/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dhugal Lindsay",
+          "observed_on": "2026-11-08",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595808370/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Michael Verdirame",
+          "observed_on": "2025-09-29",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/691880568/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "TANIGAKI Taketo",
+          "observed_on": "2025-12-07",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "dorsal_soft_rays": {
+          "raw": "130-135",
+          "min": 130,
+          "max": 135
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "100-105",
+          "min": 100,
+          "max": 105
+        },
+        "pectoral_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "234",
+        "body_shape": "eel-like",
+        "caudal_fin": "other (see diagnosis)",
+        "mouth_pos": "superior",
+        "spots": "no spots",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "striking shape of body"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 59047,
+      "scientific_name": "Trichiurus margarites",
+      "genus": "Trichiurus",
+      "genus_ja": "タチウオの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": null,
+      "photos": [],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "dorsal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_spines": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "anal_soft_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "max_length": "",
+        "body_shape": "",
+        "caudal_fin": "",
+        "mouth_pos": "",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": ""
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}

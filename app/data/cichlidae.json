@@ -1,0 +1,851 @@
+{
+  "family": "Cichlidae",
+  "family_ja": "カワスズメ科",
+  "family_slug": "cichlidae",
+  "generated_at": "2026-11-22T12:57:12Z",
+  "species_count": 6,
+  "genera_count": 3,
+  "genera": [
+    {
+      "genus": "Coptodon",
+      "ja_name": "ジルティラピアの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "ジルティラピア"
+      ],
+      "species_count": 1,
+      "representative_species": "Coptodon zillii",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639497635/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Suzhop",
+        "observed_on": "2026-04-17",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Oreochromis",
+      "ja_name": "カワスズメの仲間",
+      "ja_name_official": false,
+      "examples_ja": [
+        "カワスズメ",
+        "ナイルティラピア"
+      ],
+      "species_count": 4,
+      "representative_species": "Oreochromis aureus",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627529259/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "garlice99",
+        "observed_on": "2026-02-25",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    },
+    {
+      "genus": "Sarotherodon",
+      "ja_name": "Sarotherodon属",
+      "ja_name_official": false,
+      "examples_ja": [],
+      "species_count": 1,
+      "representative_species": "Sarotherodon melanotheron",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/743717011/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "bohong_yu",
+        "observed_on": "2026-09-16",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      }
+    }
+  ],
+  "species": [
+    {
+      "spec_code": 1390,
+      "scientific_name": "Coptodon zillii",
+      "genus": "Coptodon",
+      "genus_ja": "ジルティラピアの仲間",
+      "ja_name": "ジルティラピア",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Redbelly tilapia",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639497635/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Suzhop",
+        "observed_on": "2026-04-17",
+        "place": "Japan",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639497635/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Suzhop",
+          "observed_on": "2026-04-17",
+          "place": "Japan",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608885927/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "lava_chen",
+          "observed_on": "2026-01-18",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/605356301/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "呂一起(Lyu yi-chi)",
+          "observed_on": "2026-01-04",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/607394173/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "蔡志偉",
+          "observed_on": "2026-01-11",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616420858/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Bolin Chiu",
+          "observed_on": "2026-02-16",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616372815/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "va_song",
+          "observed_on": "2026-02-13",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "13-16",
+          "min": 13,
+          "max": 16
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-14",
+          "min": 10,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "28-33",
+          "min": 28,
+          "max": 33
+        },
+        "max_length": "40",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "present",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 1387,
+      "scientific_name": "Oreochromis aureus",
+      "genus": "Oreochromis",
+      "genus_ja": "カワスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blue tilapia",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627529259/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "garlice99",
+        "observed_on": "2026-02-25",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627529259/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "garlice99",
+          "observed_on": "2026-02-25",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630392947/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Dennis Hazerli",
+          "observed_on": "2026-03-29",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625621542/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "jamg0121",
+          "observed_on": "2026-03-15",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630233617/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "stan2013",
+          "observed_on": "2026-03-28",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/683083841/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "陳豊鍾",
+          "observed_on": "2026-06-21",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/737835079/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "guoku778",
+          "observed_on": "2026-08-29",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "14-17",
+          "min": 14,
+          "max": 17
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-15",
+          "min": 11,
+          "max": 15
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-11",
+          "min": 8,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "13-16",
+          "min": 13,
+          "max": 16
+        },
+        "lateral_line_scales": {
+          "raw": "29-33",
+          "min": 29,
+          "max": 33
+        },
+        "max_length": "45.7",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 3,
+      "scientific_name": "Oreochromis mossambicus",
+      "genus": "Oreochromis",
+      "genus_ja": "カワスズメの仲間",
+      "ja_name": "カワスズメ",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Mozambique tilapia",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630403828/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "謝忠良",
+        "observed_on": "2026-03-29",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630403828/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "謝忠良",
+          "observed_on": "2026-03-29",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636988196/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "謝忠良",
+          "observed_on": "2026-04-12",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636987787/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "謝忠良",
+          "observed_on": "2026-04-12",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642486500/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "蔡志偉",
+          "observed_on": "2026-04-22",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/642486870/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "蔡志偉",
+          "observed_on": "2026-04-22",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638001491/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY",
+          "author": "MIMI",
+          "observed_on": "2026-04-14",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-13",
+          "min": 10,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "7-12",
+          "min": 7,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "11-15",
+          "min": 11,
+          "max": 15
+        },
+        "lateral_line_scales": {
+          "raw": "27-34",
+          "min": 27,
+          "max": 34
+        },
+        "max_length": "39",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 2,
+      "scientific_name": "Oreochromis niloticus",
+      "genus": "Oreochromis",
+      "genus_ja": "カワスズメの仲間",
+      "ja_name": "ナイルティラピア",
+      "ja_name_source": "日本産魚類全種目録（本村, 2026）",
+      "en_name": "Nile tilapia",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611640832/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "roarlan",
+        "observed_on": "2026-01-29",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/611640832/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "roarlan",
+          "observed_on": "2026-01-29",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614578708/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "歐陽秀華",
+          "observed_on": "2026-02-10",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615666177/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "garlice99",
+          "observed_on": "2026-02-05",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615973106/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jolen Cheng",
+          "observed_on": "2026-02-15",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615973038/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Jolen Cheng",
+          "observed_on": "2026-02-15",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624186397/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "shanflyingbird",
+          "observed_on": "2026-03-12",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-13",
+          "min": 11,
+          "max": 13
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9-11",
+          "min": 9,
+          "max": 11
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "31-34",
+          "min": 31,
+          "max": 34
+        },
+        "max_length": "60",
+        "body_shape": "fusiform / normal",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "one spot only",
+        "bars": "present",
+        "stripes": "absent",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 1420,
+      "scientific_name": "Oreochromis urolepis",
+      "genus": "Oreochromis",
+      "genus_ja": "カワスズメの仲間",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Wami tilapia",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377545022/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "Rainer Peter Yusuf Vierkoetter",
+        "observed_on": "2024-05-05",
+        "place": "Tanzania, United Republic of",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/377545022/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Rainer Peter Yusuf Vierkoetter",
+          "observed_on": "2024-05-05",
+          "place": "Tanzania, United Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://caos.boldsystems.org/api/objects/caos-cloud.linode-us-ord-1.21_138.9df98682-1d05-485d-b6e1-e99d7d10b3c3.jpg?subunit=1024.jpg",
+          "source": "GBIF",
+          "license": "CC-BY",
+          "author": "National Ecological Observatory Network, United States",
+          "observed_on": "2023-11-28",
+          "place": "Rio Yahuecas NEON",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ckan.earlham.ac.uk/dataset/0a9b0c34-45ee-4fef-a491-203f61ba6e61/resource/8f504bf6-20f1-4e44-9cdc-4ccd5fa46aeb/download/501_454.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "TilapiaMap - University of Bangor",
+          "observed_on": "2019-02-15",
+          "place": "SUA MOROGORO",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ckan.earlham.ac.uk/dataset/8321e1bc-d421-4d94-8117-b39738611825/resource/a829210c-0a64-49e0-8efd-a8d80b4dc130/download/1552_1742.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "TilapiaMap - University of Bangor",
+          "observed_on": "2019-11-16",
+          "place": "Tanzania, United Republic of",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ckan.earlham.ac.uk/dataset/70f7e0b7-5e86-48f9-8d1e-7281f8338ef8/resource/4646f03f-ae4e-4add-b523-a4a29a145b5a/download/1551_1741.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "TilapiaMap - University of Bangor",
+          "observed_on": "2019-11-16",
+          "place": "Shamwengo -Mbeya",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://ckan.earlham.ac.uk/dataset/c9895883-f3d3-4904-a9b5-9a2f2e3bbbb3/resource/8f3feb34-7d7f-4080-9634-c2bd222ad059/download/1610_1807.jpg",
+          "source": "GBIF",
+          "license": "CC0",
+          "author": "TilapiaMap - University of Bangor",
+          "observed_on": "2019-12-12",
+          "place": "Chongoleani-Tanga",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "15-18",
+          "min": 15,
+          "max": 18
+        },
+        "dorsal_soft_rays": {
+          "raw": "11-14",
+          "min": 11,
+          "max": 14
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "9-12",
+          "min": 9,
+          "max": 12
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "30-32",
+          "min": 30,
+          "max": 32
+        },
+        "max_length": "44",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    },
+    {
+      "spec_code": 1412,
+      "scientific_name": "Sarotherodon melanotheron",
+      "genus": "Sarotherodon",
+      "genus_ja": "Sarotherodon属",
+      "ja_name": "",
+      "ja_name_source": "",
+      "en_name": "Blackchin tilapia",
+      "color_pattern": "",
+      "color_pattern_source": "",
+      "field_marks": [],
+      "field_marks_source": "",
+      "similar_species": [],
+      "similar_species_source": "",
+      "photo": {
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/743717011/large.jpg",
+        "source": "GBIF iNaturalist research-grade observations",
+        "license": "CC-BY-NC",
+        "author": "bohong_yu",
+        "observed_on": "2026-09-16",
+        "place": "Chinese Taipei",
+        "life_stage": "不明",
+        "context": "不明"
+      },
+      "photos": [
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/743717011/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "bohong_yu",
+          "observed_on": "2026-09-16",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/753288905/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Shin Chun Huang",
+          "observed_on": "2026-10-20",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/747463253/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "Elson Chen",
+          "observed_on": "2026-10-03",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467077329/large.jpeg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "潘立傑 LICHIEH_PAN",
+          "observed_on": "2025-01-30",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/467544916/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "郭伯川",
+          "observed_on": "2025-01-29",
+          "place": "Chinese Taipei",
+          "life_stage": "不明",
+          "context": "不明"
+        },
+        {
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461859737/large.jpg",
+          "source": "GBIF iNaturalist research-grade observations",
+          "license": "CC-BY-NC",
+          "author": "monkeycop",
+          "observed_on": "2025-01-05",
+          "place": "Philippines",
+          "life_stage": "不明",
+          "context": "不明"
+        }
+      ],
+      "traits": {
+        "dorsal_spines": {
+          "raw": "15-17",
+          "min": 15,
+          "max": 17
+        },
+        "dorsal_soft_rays": {
+          "raw": "10-12",
+          "min": 10,
+          "max": 12
+        },
+        "anal_spines": {
+          "raw": "3",
+          "min": 3,
+          "max": 3
+        },
+        "anal_soft_rays": {
+          "raw": "8-10",
+          "min": 8,
+          "max": 10
+        },
+        "pectoral_rays": {
+          "raw": "",
+          "min": null,
+          "max": null
+        },
+        "lateral_line_scales": {
+          "raw": "27-30",
+          "min": 27,
+          "max": 30
+        },
+        "max_length": "28",
+        "body_shape": "short and / or deep",
+        "caudal_fin": "more or less truncate",
+        "mouth_pos": "terminal",
+        "spots": "more than one spot",
+        "bars": "absent",
+        "stripes": "",
+        "striking_features": "none"
+      },
+      "missing_traits_filled": [],
+      "missing_traits_source": "",
+      "evidence": []
+    }
+  ]
+}
