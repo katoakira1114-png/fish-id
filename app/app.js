@@ -729,8 +729,8 @@ function openDetailModal(sci) {
     { label: "胸鰭条数", val: t.pectoral_rays.raw || "不明", status: "none" },
     { label: "側線鱗数", val: t.lateral_line_scales.raw || "不明", status: "none" },
     { label: "最大体長", val: t.max_length ? `${t.max_length} cm` : "不明", status: "none" },
-    { label: "尾鰭の形", val: t.caudal_fin || "不明", status: "none" },
-    { label: "体形", val: t.body_shape || "不明", status: "none" },
+    { label: "尾鰭の形", val: traitJa(t.caudal_fin) || "不明", status: "none" },
+    { label: "体形", val: traitJa(t.body_shape) || "不明", status: "none" },
   ];
 
   els["detail-traits-grid"].innerHTML = cells
@@ -791,6 +791,27 @@ function closeDetailModal() {
   state.activeModalSci = null;
   els["detail-modal"].classList.add("hidden");
   document.body.style.overflow = "";
+}
+
+// FishBase の英語の値を日本語にする（表にない値はそのまま出す）
+const TRAIT_JA = {
+  "elongated": "細長い",
+  "eel-like": "ウナギ形",
+  "fusiform / normal": "紡錘形（ふつう）",
+  "short and / or deep": "体高が高い・寸詰まり",
+  "more or less truncate": "ほぼ截形（まっすぐ）",
+  "forked": "二叉",
+  "pointed": "尖る",
+  "rounded": "円い",
+  "heterocercal": "異尾（上葉が長い）",
+  "trilobed": "三叉",
+};
+
+function traitJa(val) {
+  if (!val) return "";
+  const key = String(val).toLowerCase();
+  if (TRAIT_JA[key]) return TRAIT_JA[key];
+  return key.startsWith("other") ? "その他" : val;
 }
 
 function escapeHtml(str) {
