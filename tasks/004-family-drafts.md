@@ -1,17 +1,17 @@
-# タスク 004: 科ごとの説明文（下書き）を作る（汎用）
+# タスク 004: 科ごとの説明文（下書き）を作る（汎用・節約版）
 
-traits.csv と photos/ は作成済み（scripts/build_traits.py・scripts/fetch_gbif_photos.py）。この作業は説明文だけ。
+traits.csv と photos/ は作成済み。この作業は説明文だけ。対象は**日本産で和名のある種だけ**（近海のみの種は作らない）。
 
-## 出力
-`data/<科スラグ>/drafts/<学名>.json`（task 001 と同じ形式: ja_name, color_pattern, field_marks（最大3つ）, similar_species, photo_url, missing_traits。すべての項目に source）
+## 手順
+1. `python3 scripts/worklist.py <科スラグ>` で、まだ説明文の無い種（学名・和名・FishBase の URL）を出す。最大40種。
+2. 各種の FishBase の種ページを1回だけ読み、`data/<科スラグ>/drafts.jsonl` に**1種1行**で追記する:
+   `{"sci":"学名","color":"体色・模様を1文","marks":["見分け点","最大3つ"],"similar":["間違えやすい同じ科の学名"],"src":"FishBase (URL)"}`
+3. `python3 scripts/expand_drafts.py <科スラグ> | tail -1`（和名・SpecCode を入れて1種1ファイルに展開する。自分で JSON ファイルを1つずつ書かない）。
+4. `python3 scripts/build_app_data.py <科スラグ> | tail -1`、`app/sw.js` の APP_CACHE 番号を +1。
+5. PR を出す。本文は「科ごとの 作った種数 / 残り種数」と飛ばした種だけ。
 
 ## ルール
-- 和名は data/species_master.csv の和名を使う（空欄の種は空のまま。「近海のみ」の種は和名なしでよい）。
-- 色彩・見分け点は図鑑や論文の記述を**自分の言葉で短く**。本文の転載はしない。出典（書名・URL・DOI）を必ず付ける。根拠のない推測は書かない（その種は飛ばして PR に一覧）。
-- field_marks は釣り上げた魚・水中写真の両方で見て分かることを優先。
-- similar_species は同じ科で間違えやすい種の学名（日本産・近海のみ両方から）。
-- 終わったら `python3 scripts/build_app_data.py <科スラグ>...` を実行して app/data を更新、`app/sw.js` の APP_CACHE 番号を +1。
-- PR 本文に、科ごとの「下書きを作った種数 / 全種数」と、飛ばした種の一覧。`Closes #番号`。
-
-## 進め方
-1 Issue に複数の科がある場合、科ごとにコミットを分けてよい。種数が多くて終わらないときは、できた科だけで PR を出し、Issue に残りを書いて開いたままにする。
+- 日本語で、自分の言葉で短く（color は60字以内、marks は各30字以内）。本文の転載はしない。
+- marks は釣り上げた魚で見て分かることを優先（体色、斑紋、鰭の形、口や歯）。
+- ページに記述が無い種は推測で書かず、飛ばす。
+- 1 Issue に複数の科があるときは、順に進めて合計40種で PR を出して止まる。残りは次の回に同じ Issue で続ける。
