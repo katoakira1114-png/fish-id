@@ -4,7 +4,7 @@
 使い方:
     python3 scripts/build_traits.py Carangidae Lutjanidae ...   # 科名（FishBase の科）
     python3 scripts/build_traits.py --all                        # 日本産のいる全科
-既存の traits.csv は上書きしない（--force で上書き）。対象は species_master.csv の「日本産」。
+既存の traits.csv の行は残し、足りない種だけ追記する（--force で作り直し）。対象は species_master.csv の「日本産」。
 """
 import argparse, csv, os, sys, urllib.request
 import duckdb
@@ -61,13 +61,11 @@ def main():
             print(f"{fam}: 日本産なし", file=sys.stderr); continue
         out = os.path.join(DATA, fam.lower(), "traits.csv")
         existing = set()
-        if a.nearby and os.path.exists(out):
+        if os.path.exists(out) and not a.force:  # 既存の行は残し、足りない種だけ追記する
             existing = {r["学名"] for r in csv.DictReader(open(out, encoding="utf-8"))}
             rows = [r for r in rows if r["学名"] not in existing]
             if not rows:
                 continue
-        elif os.path.exists(out) and not a.force:
-            print(f"{fam}: 既存のためスキップ"); continue
         codes = ",".join(str(int(r["SpecCode"])) for r in rows)
         sp = {int(x[0]): x for x in con.execute(
             f"select SpecCode, FBname, Length from '{sp_path}' where SpecCode in ({codes})").fetchall()}
