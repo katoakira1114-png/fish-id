@@ -546,7 +546,7 @@ function renderSpeciesTiles(items, activeTraits) {
       <div class="tile-body">
         <div class="tile-title-row">
           <h3 class="tile-ja">${escapeHtml(sp.ja_name || "和名未設定")}</h3>
-          ${badgeHtml}${sp.region === "近海のみ" ? `<span class="region-badge">日本未記録</span>` : ""}
+          ${badgeHtml}${regionBadge(sp)}
         </div>
         <p class="tile-sci">${escapeHtml(sp.scientific_name)}</p>
         <div class="tile-meta-row">
@@ -651,7 +651,7 @@ function openDetailModal(sci) {
   els["detail-ja-name"].textContent = sp.ja_name || "和名未設定";
   els["detail-sci-name"].textContent = (sp.en_name
     ? `${sp.scientific_name} — ${sp.en_name}`
-    : sp.scientific_name) + (sp.region === "近海のみ" ? "（日本未記録・近海で記録あり）" : "");
+    : sp.scientific_name) + (sp.region === "近海のみ" ? "（日本未記録・近海で記録あり）" : isDoubtful(sp) ? "（要確認: 日本産魚類全種目録に和名なし。FishBase の国別記録のみ）" : "");
 
   // Main photo & gallery
   const photos = sp.photos && sp.photos.length > 0 ? sp.photos : sp.photo ? [sp.photo] : [];
@@ -812,6 +812,16 @@ function traitJa(val) {
   const key = String(val).toLowerCase();
   if (TRAIT_JA[key]) return TRAIT_JA[key];
   return key.startsWith("other") ? "その他" : val;
+}
+
+// 「日本産」でも目録に和名が無い種は、FishBase の国別記録だけが根拠なので要確認とする
+function isDoubtful(sp) {
+  return sp.region !== "近海のみ" && (!sp.ja_name || sp.ja_name === "和名なし");
+}
+
+function regionBadge(sp) {
+  if (sp.region === "近海のみ") return `<span class="region-badge">日本未記録</span>`;
+  return isDoubtful(sp) ? `<span class="region-badge">要確認</span>` : "";
 }
 
 function escapeHtml(str) {

@@ -1,4 +1,4 @@
-const APP_CACHE = "fish-id-shell-v8";
+const APP_CACHE = "fish-id-shell-v9";
 const PHOTO_CACHE = "fish-id-photos-v1";
 
 const CORE_ASSETS = [
